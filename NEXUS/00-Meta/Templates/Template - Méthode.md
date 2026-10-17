@@ -10,7 +10,9 @@ tags:
 > [!abstract] L'essentiel
 > **À quoi ça sert :** 
 > **Quand l'utiliser :** 
-> **Origine :** 
+> **Origine :**
+
+^essentiel 
 
 ## Étapes
 | # | Élément | Question à se poser |

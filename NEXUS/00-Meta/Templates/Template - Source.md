@@ -13,6 +13,8 @@ zotero: ""
 > **Thèse :** 
 > **À retenir pour l'examen :** 
 
+^essentiel
+
 ## Arguments clés
 1. 
 2. 

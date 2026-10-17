@@ -9,6 +9,7 @@ tags:
 
 > [!abstract] L'essentiel
 > Le chapitre en 3 phrases : de quoi il parle, l'idée centrale, ce qu'il faut en retenir.
+^essentiel
 
 ## Fil logique
 Comment les concepts s'articulent : qui découle de quoi, ce qui s'oppose, dans quel ordre. C'est le texte que tu dois savoir restituer à l'examen.
@@ -17,8 +18,8 @@ Comment les concepts s'articulent : qui découle de quoi, ce qui s'oppose, dans 
 (image ou Mermaid)
 
 ## Concepts du chapitre
-![[Concept 1#L'essentiel]]
-![[Concept 2#L'essentiel]]
+![[Concept 1#^essentiel]]
+![[Concept 2#^essentiel]]
 
 ## Comparaison
 | | [[Concept A]] | [[Concept B]] |

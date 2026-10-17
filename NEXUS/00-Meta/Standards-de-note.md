@@ -46,8 +46,10 @@ Utilisés dans les noms de fichiers (`NB PW …`) et les tags (`cours/pw`).
 Chaque concept, thème, penseur, cas, source et méthode commence par un bloc **L'essentiel**. C'est ce bloc, et lui seul, qui est intégré dans les thèmes puis dans le booklet :
 
 ```
-![[Dilemme de sécurité#L'essentiel]]
+![[Dilemme de sécurité#^essentiel]]
 ```
+
+Sous chaque encadré L’essentiel : une ligne vide, puis `^essentiel` seul sur sa ligne.
 
 ⚠️ Le nom **« L'essentiel » est définitif** : le renommer casserait toutes les intégrations.
 

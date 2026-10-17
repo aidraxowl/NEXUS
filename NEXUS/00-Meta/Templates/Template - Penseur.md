@@ -13,6 +13,8 @@ dates: ""
 > **Idée principale :** 
 > **À citer :** 
 
+^essentiel
+
 ## Repères
 - **Discipline :** 
 - **Courant :** 

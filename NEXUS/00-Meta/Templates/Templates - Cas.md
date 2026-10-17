@@ -10,9 +10,11 @@ lieu: ""
 ---
 
 > [!abstract] L'essentiel
-> **Quoi :** 
-> **Leçon principale :** 
-> **Illustre :** [[ ]]
+> **Définition :** 
+> **Pourquoi c'est important :** 
+> **Exemple :** 
+
+^essentiel
 
 ## Contexte
 - 
