@@ -1,3 +1,79 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+a.internal {
+  background-color: transparent !important;
+  padding: 0;
+  text-decoration: underline;
+  text-decoration-color: rgba(179, 161, 131, 0.35);
+  text-underline-offset: 3px;
+}
+
+a.internal:hover {
+  color: var(--tertiary) !important;
+  text-decoration-color: var(--tertiary);
+}
+
+.explorer .folder-title,
+.explorer .folder-button,
+.explorer a {
+  color: var(--darkgray) !important;
+}
+
+.page-title a {
+  color: #7a8b50 !important;
+}
+
+.callout[data-callout="abstract"] {
+  --color: #9f794d;
+  --border: #9f794d99;
+  --bg: #9f794d29;
+}
+
+.callout[data-callout="info"] {
+  --color: #7a8b50;
+  --border: #7a8b5099;
+  --bg: #7a8b5024;
+}
+
+.callout[data-callout="question"] {
+  --color: #b3a183;
+  --border: #b3a18380;
+  --bg: #b3a1831f;
+}
+
+.callout[data-callout="tip"] {
+  --color: #8f887e;
+  --border: #8f887e80;
+  --bg: #8f887e1f;
+}
+
+.callout[data-callout="warning"] {
+  --color: #ff7a1a;
+  --border: #ff7a1a99;
+  --bg: #ff7a1a1a;
+}
+
+.callout[data-callout="success"] {
+  --color: #746c4c;
+  --border: #746c4c99;
+  --bg: #746c4c24;
+}
+
+body::before {
+  content: "";
+  display: block;
+  height: 6px;
+  background: linear-gradient(
+    90deg,
+    #746c4c 0 22%,
+    #433935 22% 31%,
+    #5b7139 31% 40%,
+    #746c4c 40% 58%,
+    #a89a78 58% 66%,
+    #433935 66% 72%,
+    #746c4c 72% 88%,
+    #5b7139 88% 100%
+  );
+}
+h1, h2, h3 { font-weight: 700; 
+}

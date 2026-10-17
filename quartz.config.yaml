@@ -17,30 +17,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Barlow Semi Condensed
+      body: Barlow
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f4f3ef"
+        lightgray: "#dedcd5"
+        gray: "#8a8a84"
+        darkgray: "#2f322f"
+        dark: "#1a1c1b"
+        secondary: "#5c6a2e"
+        tertiary: "#d9600f"
+        highlight: rgba(0, 0, 0, 0.04)
+        textHighlight: "#ff7a1a33"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1d221f"
+        lightgray: "#2c332f"
+        gray: "#8f887e"
+        darkgray: "#dcdfda"
+        dark: "#ecebe6"
+        secondary: "#c4b495"
+        tertiary: "#ff7a1a"
+        highlight: rgba(255, 255, 255, 0.04)
+        textHighlight: "#ff7a1a40"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -101,6 +101,16 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      header:
+        name: Barlow Semi Condensed
+        weights: [600, 700]
+      body:
+        name: Barlow
+        weights: [400, 600]
+        includeItalic: true
+      code:
+        name: IBM Plex Mono
   - source: "@quartz-themes/core"
     enabled: false
     options:
