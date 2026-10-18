@@ -1,5 +1,5 @@
 ---
-title: Affaire Clonan dans l’armée irlandaise
+title: Affaire Clonan dans l'armée irlandaise
 aliases:
   - Affaire Clonan
   - Tom Clonan

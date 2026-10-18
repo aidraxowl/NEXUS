@@ -1,5 +1,5 @@
 ---
-title: Transformation de l’US Army (1939–1945)
+title: Transformation de l'US Army (1939–1945)
 aliases:
   - General George C. Marshall
 tags:

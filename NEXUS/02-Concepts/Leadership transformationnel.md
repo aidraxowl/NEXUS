@@ -47,7 +47,7 @@ tags:
 - **Thème :** [[Styles de leadership positif]]
 - **Proche de :** [[Leadership positif]] · [[Modèle CLM]]
 - **Penseur :** James MacGregor Burns
-- **Cas :** [[Transformation de l’US Army (1939–1945)]]
+- **Cas :** [[Transformation de l'US Army (1939–1945)]]
 - **U-Fragen :** [[UF Lead V05]]
 
 ## Questions de compréhension

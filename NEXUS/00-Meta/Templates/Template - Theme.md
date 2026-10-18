@@ -6,38 +6,22 @@ tags:
   - type/theme
   - cours/
 ---
-
 > [!abstract] L'essentiel
-> Le chapitre en 3 phrases : de quoi il parle, l'idée centrale, ce qu'il faut en retenir.
+> (synthèse de tout le thème en 4–6 phrases)
+
 ^essentiel
 
-## Fil logique
-Comment les concepts s'articulent : qui découle de quoi, ce qui s'oppose, dans quel ordre. C'est le texte que tu dois savoir restituer à l'examen.
+## (Sous-thème 1)
+(1 à 3 paragraphes rédigés, avec [[liens]] vers concepts, cas, penseurs)
 
-## Schéma
-(image ou Mermaid)
+## (Sous-thème 2)
+…
 
-## Concepts du chapitre
-![[Concept 1#^essentiel]]
-![[Concept 2#^essentiel]]
+---
 
-## Comparaison
-| | [[Concept A]] | [[Concept B]] |
-|---|---|---|
-| Critère 1 |  |  |
-| ⚠️ Piège |  |  |
-
-## Penseurs et cas
-![[Penseur#L'essentiel]]
-![[Cas#L'essentiel]]
-
-## ⚠️ Prüfungsrelevant
-- 
-
-## Questions de synthèse
-> [!question]- Question
-> Réponse
+## Pour réviser
+### Comparaison
+### ⚠️ Pièges d'examen
+### Questions de synthèse
 
 ## Sources
-- Notes brutes : [[ ]]
-- Lectures : [[ ]]

@@ -33,7 +33,7 @@ lieu: Birmanie
 ## Liens
 - **Thème :** [[Styles de leadership positif]]
 - **Penseurs :** Robert K. Greenleaf
-- **Cas similaires :** [[Transformation de l’US Army (1939–1945)]]
+- **Cas similaires :** [[Transformation de l'US Army (1939–1945)]]
 
 ## Questions de compréhension
 > [!question]- En quoi Slim montre-t-il que leadership serviteur et exigence sont compatibles ?
