@@ -26,13 +26,11 @@ tags:
 ## Concepts du chapitre
 ![[Commandement#^essentiel]]
 ![[Doctrine#^essentiel]]
-![[Guerre d'usure#^essentiel]]
-![[Guerre de manœuvre#^essentiel]]
 ![[Spectre guérilla-usure-manœuvre#^essentiel]]
 ![[Auto-similarité#^essentiel]]
 
 ## Comparaison
-| | [[Guerre d'usure]] | [[Guerre de manœuvre]] |
+| | [[Spectre guérilla-usure-manœuvre\|Guerre d'usure]] | [[Spectre guérilla-usure-manœuvre\|Guerre de manœuvre]] |
 |---|---|---|
 | Principe | Force contre force | Force contre faiblesse |
 | Ennemi perçu | égal | plus faible |

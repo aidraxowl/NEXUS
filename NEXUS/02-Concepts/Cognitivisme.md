@@ -24,7 +24,7 @@ tags:
   3. L'humain est **actif** dans la connaissance et l'action, pas un simple récepteur qui réagit.
 - **Réalité subjective :** on réagit à la réalité telle qu'elle nous apparaît.
 - **Ouvre la Black Box** du behaviorisme : entre stimulus et réponse se trouve un traitement actif (percevoir, reconnaître, se souvenir, penser, décider).
-- **Domaines :** [[Perception]], [[Attention sélective]], [[Mémoire à long terme]], pensée et décision.
+- **Domaines :** [[Perception]], [[Attention|Attention sélective]], [[Mémoire|Mémoire à long terme]], pensée et décision.
 
 ## Exemples
 - **Militaire :** Une sentinelle entend un bourdonnement (perception), l'identifie comme un drone (reconnaissance) et se met à couvert (action) : ce sont ses connaissances qui transforment le bruit en menace.
@@ -46,7 +46,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Écoles de pensée en psychologie]]
-- **Proche de :** [[Perception]], [[Rationalité limitée]]
+- **Proche de :** [[Perception]], [[Heuristiques et biais]]
 - **U-Fragen :** [[UF MilPsy V02]]
 
 ## Questions de compréhension

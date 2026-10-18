@@ -34,7 +34,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Processus de recherche empirico-analytique]]
-- **Proche de :** [[Validité et fiabilité]], [[Mesure de la démocratie]]
+- **Proche de :** [[Validité et fiabilité]], [[Démocratie]]
 - **Penseur :** [[Giovanni Sartori]]
 - **U-Fragen :** [[UF PW V02]]
 

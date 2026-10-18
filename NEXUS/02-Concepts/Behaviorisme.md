@@ -16,7 +16,7 @@ tags:
 ^essentiel
 
 ## Explication
-- Terme introduit par [[John B. Watson]] (1913) ; se veut science naturelle, en rupture avec la psychanalyse ; dominant aux États-Unis d'env. 1930 à 1970.
+- Terme introduit par John B. Watson (1913) ; se veut science naturelle, en rupture avec la psychanalyse ; dominant aux États-Unis d'env. 1930 à 1970.
 - **Cinq hypothèses :**
   1. Seul le comportement **observable** est objet de la psychologie.
   2. Le comportement est déclenché et contrôlé par l'**environnement** (stimuli).
@@ -50,7 +50,7 @@ tags:
 ## Liens
 - **Thème :** [[Écoles de pensée en psychologie]]
 - **Proche de :** [[Conditionnement classique]], [[Conditionnement opérant]]
-- **Penseur :** [[John B. Watson]], [[Ivan Pavlov]], [[B. F. Skinner]]
+- **Penseur :** John B. Watson, [[Ivan Pavlov]], [[B. F. Skinner]]
 - **U-Fragen :** [[UF MilPsy V02]]
 
 ## Questions de compréhension

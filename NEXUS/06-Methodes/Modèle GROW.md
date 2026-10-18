@@ -24,7 +24,7 @@ tags:
 | 4 | **Way Forward** | Quelle décision, quel plan d'action concret ? |
 
 ## Exemple d'application
-- [[Leadership coaching]] : chef de section dont la section a échoué au contrôle de tir -> G : réussir le contrôle dans 2 semaines ; R : il identifie lui-même les causes ; O : il propose des variantes ; W : il s'engage sur un plan daté.
+- [[Leadership relationnel|Leadership coaching]] : chef de section dont la section a échoué au contrôle de tir -> G : réussir le contrôle dans 2 semaines ; R : il identifie lui-même les causes ; O : il propose des variantes ; W : il s'engage sur un plan daté.
 
 ## Forces / Limites
 **Forces**
@@ -41,8 +41,8 @@ tags:
 
 ## Liens
 - **Thème :** [[Approches relationnelles du leadership]]
-- **Concepts mobilisés :** [[Leadership coaching]]
-- **Penseur :** [[John Whitmore]]
+- **Concepts mobilisés :** [[Leadership relationnel]]
+- **Penseur :** John Whitmore
 
 ## Questions de compréhension
 > [!question]- Que signifient les lettres de GROW ?

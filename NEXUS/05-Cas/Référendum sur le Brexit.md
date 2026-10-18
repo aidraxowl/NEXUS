@@ -13,7 +13,7 @@ lieu: "Royaume-Uni"
 > [!abstract] L'essentiel
 > **Quoi :** Référendum du 23 juin 2016 sur le maintien du Royaume-Uni dans l'UE, gagné par le « Leave » (51,9 %).
 > **Leçon principale :** Référendum gouvernemental lancé pour trancher une division interne du parti au pouvoir ; l'instrument peut échapper à celui qui le déclenche.
-> **Illustre :** [[Référendum]]
+> **Illustre :** [[Démocratie directe|Référendum]]
 
 ^essentiel
 
@@ -34,8 +34,8 @@ lieu: "Royaume-Uni"
 ## Analyse
 | Concept | Comment il éclaire le cas |
 |---|---|
-| [[Référendum]] | Type gouvernemental (Hug/Tsebelis) : déclenché par le pouvoir, non prévu par la constitution |
-| [[Système de Westminster]] | Pays sans tradition référendaire : décision « externalisée » hors du parlement |
+| [[Démocratie directe\|Référendum]] | Type gouvernemental (Hug/Tsebelis) : déclenché par le pouvoir, non prévu par la constitution |
+| [[Parlementarisme et présidentialisme\|Système de Westminster]] | Pays sans tradition référendaire : décision « externalisée » hors du parlement |
 
 ## Leçons / RETEX
 **Ce qui a échoué**

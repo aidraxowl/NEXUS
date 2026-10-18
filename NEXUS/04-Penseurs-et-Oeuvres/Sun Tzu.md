@@ -21,10 +21,10 @@ dates: "Ve siècle av. J.-C. (traditionnellement)"
 
 ## Idées clés
 - [[Spectre guérilla-usure-manœuvre]] : 10× encercler ; 5× attaquer ; 2× diviser ; égal -> pouvoir combattre ; inférieur -> pouvoir se défendre ; sans commune mesure -> pouvoir éviter.
-- [[Guerre de manœuvre]] : frapper la faiblesse plutôt que la force.
+- [[Spectre guérilla-usure-manœuvre|Guerre de manœuvre]] : frapper la faiblesse plutôt que la force.
 
 ## Œuvres principales
-- *L'Art de la guerre* → [[Guerre de manœuvre]]
+- *L'Art de la guerre* → [[Spectre guérilla-usure-manœuvre|Guerre de manœuvre]]
 
 ## Liens
 - **Thème :** [[Doctrine et formes de guerre]]

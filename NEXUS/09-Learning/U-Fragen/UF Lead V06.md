@@ -29,7 +29,7 @@ tags:
 > **Réponse :**
 > - Coach (collaboratif, la personne connaît la réponse) -> mentor (conseil) -> formateur (instructif) -> consultant (directif, l'aidant connaît la réponse).
 > - Coaching approprié quand la personne a les ressources pour trouver la solution et qu'il y a du temps ; sinon formateur ou consultant.
-> **Concepts :** [[Leadership coaching]]
+> **Concepts :** [[Leadership relationnel|Leadership coaching]]
 
 > [!question]- 3. Situation : Un de vos chefs de section, motivé mais peu sûr de lui, voit sa section échouer au contrôle de tir. Menez l'entretien avec le modèle GROW.
 > **Réponse :**
@@ -38,7 +38,7 @@ tags:
 > - **Options** : « et quoi d'autre ? » ; il propose des solutions (instruction de base, organisation du stand, chefs de groupe).
 > - **Way Forward** : plan d'action daté, engagement, point de contrôle ; « qu'est-ce qui t'a été le plus utile ? ».
 > - Justification : coaching car il a les ressources ; renforce confiance et ownership. Si les connaissances manquent -> passer en mode formateur.
-> **Concepts :** [[Modèle GROW]] · [[Leadership coaching]]
+> **Concepts :** [[Modèle GROW]] · [[Leadership relationnel|Leadership coaching]]
 
 > [!question]- 4. Présentez le modèle de Kelley et appliquez-le à quatre profils de subordonnés d'une compagnie.
 > **Réponse :**
@@ -75,4 +75,4 @@ tags:
 > - Analyse : in-group (relations riches, confiance, missions intéressantes) et out-group (relations formelles) -> risque de favoritisme perçu, démotivation, perte d'initiative ; vérifier si des facteurs (affinité, ancienneté, origine) ont joué.
 > - Mesures (implémentation LMX) : 1 reconnaître l'out-group ; 2 rétablir le lien (entretiens individuels, coaching GROW) ; 3 offrir formation et responsabilités valorisantes.
 > - Viser le team making : relations de haute qualité avec tous, équité dans la répartition des missions.
-> **Concepts :** [[Théorie de l'échange leader-membre]] · [[Leadership coaching]]
+> **Concepts :** [[Théorie de l'échange leader-membre]] · [[Leadership relationnel|Leadership coaching]]

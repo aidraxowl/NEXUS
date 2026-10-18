@@ -36,7 +36,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Processus de recherche empirico-analytique]]
-- **Proche de :** [[Randomisation]], [[Mesure de la démocratie]], [[Échelle d'abstraction]]
+- **Proche de :** [[Randomisation]], [[Démocratie]], [[Échelle d'abstraction]]
 - **U-Fragen :** [[UF PW V02]], [[UF PW V03]]
 
 ## Questions de compréhension

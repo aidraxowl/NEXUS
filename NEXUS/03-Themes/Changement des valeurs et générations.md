@@ -13,9 +13,9 @@ tags:
 ^essentiel
 
 ## Fil logique
-1. [[Valeur]] : désirable, partagée, hiérarchisée ; pluralisme -> conflits
+1. [[Changement de valeurs|Valeur]] : désirable, partagée, hiérarchisée ; pluralisme -> conflits
 2. Conflits -> pression pour réordonner la hiérarchie = [[Changement de valeurs]] (l'**ordre** change, pas les valeurs)
-3. Explication : [[Ronald Inglehart]], [[Postmatérialisme]] : pénurie + socialisation
+3. Explication : [[Ronald Inglehart]], [[Changement de valeurs|Postmatérialisme]] : pénurie + socialisation
 4. Socialisation -> les valeurs se transmettent par cohortes = [[Génération]]
 5. Résultat aujourd'hui : Gen Z numérique, postmatérialiste, attentive au sens -> conflit avec les valeurs militaires -> [[Génération Z et organisation militaire]]
 
@@ -26,9 +26,7 @@ tags:
 - Causes : éducation, technologie/économie, urbanisation, famille, médias, risques, mouvements sociaux, migration
 
 ## Concepts du chapitre
-![[Valeur#^essentiel]]
 ![[Changement de valeurs#^essentiel]]
-![[Postmatérialisme#^essentiel]]
 ![[Génération#^essentiel]]
 
 ## Comparaison

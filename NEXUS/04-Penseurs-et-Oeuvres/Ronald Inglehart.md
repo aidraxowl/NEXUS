@@ -10,7 +10,7 @@ dates: "1934–2021"
 
 > [!abstract] L'essentiel
 > **Qui :** Politologue américain (Université du Michigan), fondateur du World Values Survey.
-> **Idée principale :** Dans les sociétés prospères, les valeurs passent du matérialisme (sécurité, prospérité) au [[Postmatérialisme]] (épanouissement, participation), selon deux hypothèses : pénurie et socialisation.
+> **Idée principale :** Dans les sociétés prospères, les valeurs passent du matérialisme (sécurité, prospérité) au [[Changement de valeurs|Postmatérialisme]] (épanouissement, participation), selon deux hypothèses : pénurie et socialisation.
 > **À citer :** « Silent Revolution » (1977) : le changement de valeurs est une révolution silencieuse portée par le remplacement des générations.
 
 ^essentiel
@@ -21,13 +21,13 @@ dates: "1934–2021"
 - **Contexte :** générations d'après-guerre socialisées dans la paix et la croissance ; mouvements de 1968 et suivants
 
 ## Idées clés
-- [[Postmatérialisme]] : passage des valeurs matérialistes aux postmatérialistes
+- [[Changement de valeurs|Postmatérialisme]] : passage des valeurs matérialistes aux postmatérialistes
 - Hypothèse de **pénurie** : on valorise ce qui manque
 - Hypothèse de **socialisation** : les valeurs se fixent dans la jeunesse -> [[Génération]]
 - [[Changement de valeurs]] lent, par le remplacement des générations
 
 ## Œuvres principales
-- *The Silent Revolution* (1977) → [[Postmatérialisme]]
+- *The Silent Revolution* (1977) → [[Changement de valeurs|Postmatérialisme]]
 - *Modernization and Postmodernization* (1997) → [[Changement de valeurs]]
 
 ## Apports / Critiques

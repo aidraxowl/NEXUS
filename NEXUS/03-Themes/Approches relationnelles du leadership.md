@@ -26,26 +26,21 @@ tags:
 
 ## Concepts du chapitre
 ![[Leadership relationnel#^essentiel]]
-![[Leadership coaching#^essentiel]]
 ![[Modèle GROW#^essentiel]]
 ![[Followership#^essentiel]]
 ![[Triangle toxique#^essentiel]]
 ![[Théorie de l'échange leader-membre#^essentiel]]
 
 ## Comparaison
-| | [[Leadership coaching]] | [[Followership]] | [[Théorie de l'échange leader-membre]] |
+| | [[Leadership relationnel\|Leadership coaching]] | [[Followership]] | [[Théorie de l'échange leader-membre]] |
 |---|---|---|---|
 | Point de vue | le chef qui développe | le subordonné | la dyade |
 | Outil clé | GROW, écoute active | typologie de Kelley | in-group / out-group |
 | ⚠️ Piège | coacher ≠ donner la réponse | engagement ≠ efficacité (béni-oui-oui) | ne pas cultiver d'out-group |
 
 ## Penseurs et cas
-![[Robert Kelley#^essentiel]]
-![[Ira Chaleff#^essentiel]]
-![[George Graen#^essentiel]]
-![[John Whitmore#^essentiel]]
 ![[Rapport Brereton#^essentiel]]
-![[Tom Clonan#^essentiel]]
+![[Affaire Clonan dans l’armée irlandaise#^essentiel]]
 ![[Champ de bataille transparent en Ukraine#^essentiel]]
 
 ## ⚠️ Prüfungsrelevant

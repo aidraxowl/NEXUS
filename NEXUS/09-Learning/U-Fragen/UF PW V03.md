@@ -44,11 +44,11 @@ tags:
 
 > [!question]- 7. Weshalb ist es mit einer breiten Demokratiedefinition analytisch schwieriger, die Konsequenzen der Demokratie zu untersuchen? (S. 122)
 > **Réponse :** Les critères larges (libertés, droits, justice sociale) peuvent être eux-mêmes des conséquences de la démocratie : on risque de les retrouver des deux côtés de l'équation.
-> **Concepts :** [[Démocratie]], [[Mesure de la démocratie]]
+> **Concepts :** [[Démocratie]], [[Démocratie|Mesure de la démocratie]]
 
 > [!question]- 8. Wichtigste Unterschiede zwischen DE, AT und CH? (S. 123)
 > **Réponse :** DE parlementaire, AT semi-présidentielle, CH mixte avec démocratie directe forte ; DE système électoral mixte, AT proportionnel, CH proportionnel (CN) et majoritaire (CE) ; CH privilégie la participation, DE et AT la protection des droits fondamentaux face à la majorité ; DE « démocratie militante ».
-> **Concepts :** [[Régime parlementaire]], [[Régime semi-présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]], [[Parlementarisme et présidentialisme|Régime semi-présidentiel]]
 
 > [!question]- 9. Weist die EU ein Demokratiedefizit auf? Pro und Contra. (S. 124)
 > **Réponse :** Pour (Follesdal/Hix ; BVerfG 2009) : pas de compétition pour le pouvoir exécutif, on ne peut pas élire ni révoquer la direction, pas d'égalité de vote, pas de demos européen. Contre (Moravcsik) : séparation des pouvoirs, contrôle par les gouvernements élus, PE renforcé, tâches peu participatives, critiques fondées sur un idéal irréaliste.
@@ -76,23 +76,23 @@ tags:
 
 > [!question]- 15. Inwiefern liegt Freedom House eine breite, Polity und ACLP eine engere Definition zugrunde? (S. 136)
 > **Réponse :** FH agrège 10 droits politiques et 15 libertés civiles ; Polity et ACLP se concentrent sur compétition, recrutement et contraintes de l'exécutif (ACLP : binaire, avec alternance) et ignorent la participation.
-> **Concepts :** [[Mesure de la démocratie]]
+> **Concepts :** [[Démocratie|Mesure de la démocratie]]
 
 > [!question]- 16. Weshalb gibt es mehrere gute Messgrößen, aber nicht DIE perfekte? (S. 137)
 > **Réponse :** Démocratie = concept multidimensionnel dont la définition dépend de la question ; chaque indice fait des choix d'agrégation et a ses forces et faiblesses.
-> **Concepts :** [[Mesure de la démocratie]]
+> **Concepts :** [[Démocratie|Mesure de la démocratie]]
 
 > [!question]- 17. Bei welchen Ländern treten größere Messunterschiede auf, und weshalb? (S. 137)
 > **Réponse :** Dans les régimes hybrides ou en transition (zone grise : Turquie, Inde) : les indices pondèrent différemment élections, libertés et institutions.
-> **Concepts :** [[Mesure de la démocratie]]
+> **Concepts :** [[Démocratie|Mesure de la démocratie]]
 
 > [!question]- 18. Zwei Forschungsfragen: eine mit breiter, eine mit enger Definition. (S. 137)
 > **Réponse :** Large : « Les démocraties protègent-elles mieux les minorités ? » (il faut mesurer libertés et droits). Étroite : « L'alternance au pouvoir réduit-elle la corruption ? » (il faut séparer clairement démocratie et ses effets).
-> **Concepts :** [[Mesure de la démocratie]]
+> **Concepts :** [[Démocratie|Mesure de la démocratie]]
 
 > [!question]- 19. Was bedeutet es, die Robustheit durch verschiedene Demokratiemaße zu prüfen? (S. 138)
 > **Réponse :** Refaire l'analyse avec un autre indice : si les résultats tiennent, ils ne dépendent pas d'un choix de mesure particulier.
-> **Concepts :** [[Mesure de la démocratie]]
+> **Concepts :** [[Démocratie|Mesure de la démocratie]]
 
 > [!question]- 20. Wie lässt sich die unterschiedliche Problemlösungsfähigkeit von Demokratien erklären? (S. 140)
 > **Réponse :** Pour se maintenir, les dirigeants démocratiques doivent satisfaire une large base : électeur médian plus pauvre et grande coalition gagnante -> plus de biens publics (output-légitimité).
@@ -166,59 +166,59 @@ tags:
 
 > [!question]- 37. Ist die horizontale Gewaltenteilung im präsidentiellen oder parlamentarischen System stärker? (S. 164)
 > **Réponse :** En présidentiel (séparation des pouvoirs) ; le parlementaire fusionne gouvernement et majorité.
-> **Concepts :** [[Régime présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 > [!question]- 38. Wo wird die Regierung direkt, wo indirekt gewählt? (S. 166)
 > **Réponse :** Présidentiel : par le peuple (directement ou via un collège). Parlementaire : indirectement, par le parlement.
-> **Concepts :** [[Régime parlementaire]], [[Régime présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]], [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 > [!question]- 39. In welchem System kann das Parlament die Regierung absetzen? (S. 166)
 > **Réponse :** En parlementaire (et semi-présidentiel) par une motion de censure.
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 40. Weshalb hat der Premier in GB eine stärkere Stellung im Kabinett als in Italien? (S. 167)
 > **Réponse :** Modèle du Premier ministre (Westminster) : scrutin majoritaire -> gouvernement à parti unique dont le PM est le chef et qui nomme/révoque les ministres. Italie : modèle des ministres, coalitions où les ministres relèvent de partis différents.
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 41. In welchem System spielen Parteien eine wichtigere Rolle? (S. 168)
 > **Réponse :** En parlementaire : le gouvernement dépend d'une majorité disciplinée, et la responsabilité est attribuée aux partis.
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 42. Was ist eine Minderheitsregierung? (S. 169)
 > **Réponse :** Gouvernement sans majorité propre au parlement, qui se maintient tant qu'aucune majorité ne se forme contre lui et négocie au cas par cas avec l'opposition.
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 43. Wo ist die Fraktionsdisziplin stärker, und weshalb? (S. 169)
 > **Réponse :** En parlementaire : un vote dissident peut faire tomber son propre gouvernement.
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 44. Wer bringt in parlamentarischen Systemen meist die Gesetzesentwürfe ein? (S. 169)
 > **Réponse :** Le gouvernement (agenda-setting).
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 45. Was bezweckt die Regierung mit einer Vertrauensfrage? (S. 169)
 > **Réponse :** Discipliner sa majorité en liant un projet à sa survie ; en cas d'échec voulu, ouvrir la voie à des élections anticipées (DE).
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 46. Kann parteiabweichendes Stimmverhalten im präsidentiellen System zum Sturz der Regierung führen? (S. 173)
 > **Réponse :** Non : le président ne dépend pas de la confiance du parlement (sauf impeachment pour faute grave).
-> **Concepts :** [[Régime présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 > [!question]- 47. Wieso gilt Frankreich als semi-präsidentiell? (S. 176)
 > **Réponse :** Président élu par le peuple, doté de pouvoirs réels (nomination du PM, dissolution) ; gouvernement responsable devant l'Assemblée -> cohabitation possible.
-> **Concepts :** [[Régime semi-présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime semi-présidentiel]]
 
 > [!question]- 48. Konstruktives Misstrauensvotum in DE: stärkt es Regierung oder Parlament? (S. 179)
 > **Réponse :** Le Bundestag ne peut renverser le chancelier qu'en élisant simultanément un successeur. Cela renforce le gouvernement (pas de vide, pas de majorités purement négatives).
-> **Concepts :** [[Régime parlementaire]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]]
 
 > [!question]- 49. Weshalb ist das österreichische Parlament gegenüber der Regierung stärker als üblich? (S. 180)
 > **Réponse :** Le chancelier ne peut pas dissoudre le Nationalrat (seul le président peut le faire, sur proposition du gouvernement, utilisé une seule fois en 1930) : le gouvernement n'a pas la menace de dissolution.
-> **Concepts :** [[Régime semi-présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime semi-présidentiel]]
 
 > [!question]- 50. Inwiefern ist die Schweiz eine Mischform? (S. 181)
 > **Réponse :** Trait parlementaire : l'Assemblée fédérale élit le Conseil fédéral. Traits présidentiels : mandat fixe, ni censure ni dissolution ; plus la démocratie directe.
-> **Concepts :** [[Régime parlementaire]], [[Régime présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime parlementaire]], [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 > [!question]- 51. Weshalb hat die Kommission starken Einfluss auf die EU-Gesetzgebung? (S. 183)
 > **Réponse :** Monopole de l'initiative législative (agenda-setter) et rôle de gardienne des traités.
@@ -230,15 +230,15 @@ tags:
 
 > [!question]- 53. Wie stark ist die Parteiendisziplin im EU-Parlament? (S. 186)
 > **Réponse :** Faible : les députés sont tiraillés entre leur parti national et leur groupe européen, et aucun gouvernement ne dépend de leur vote.
-> **Concepts :** [[Régime présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 > [!question]- 54. Argumente, dass präsidentielle Systeme weniger stabil sind? (S. 187)
 > **Réponse :** Double légitimité concurrente, blocages, logique du « tout ou rien », intolérance envers l'opposition, outsiders populistes (Linz) ; démocraties parlementaires s'effondrent moins (Przeworski et al.). Nuance : Cheibub, héritage militaire.
-> **Concepts :** [[Régime présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 > [!question]- 55. Begründung der Hypothese: präsidentielle Systeme -> tiefere Steuern und Staatsausgaben? (S. 189)
 > **Réponse :** Responsabilité claire -> les électeurs disciplinent ; conflits entre exécutif et législatif + faible discipline rendent l'expansion budgétaire plus difficile (Persson/Tabellini).
-> **Concepts :** [[Régime présidentiel]]
+> **Concepts :** [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 > [!question]- 56. Dreiteilige Institutionenstruktur auch auf tieferen Ebenen im Föderalismus? (S. 190)
 > **Réponse :** Oui en général : les entités ont parlement, gouvernement et souvent tribunaux propres (cantons suisses avec constitution). Exception : en Autriche la justice est entièrement fédérale.
@@ -278,4 +278,4 @@ tags:
 
 > [!question]- 65. Welche Systeme haben tendenziell weniger Vetospieler? (S. 202)
 > **Réponse :** Démocraties majoritaires, parlementaires, unitaires et monocamérales de type Westminster (UK) : une seule majorité de parti suffit.
-> **Concepts :** [[Joueur de veto]], [[Système de Westminster]]
+> **Concepts :** [[Joueur de veto]], [[Parlementarisme et présidentialisme|Système de Westminster]]

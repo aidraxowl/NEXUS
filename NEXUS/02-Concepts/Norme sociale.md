@@ -16,7 +16,7 @@ tags:
 ^essentiel
 
 ## Explication
-- Consigne d'action, **obligatoire**, issue des [[Valeur|valeurs]]
+- Consigne d'action, **obligatoire**, issue des [[Changement de valeurs|valeurs]]
 - Formes : interdits, mœurs (==Sitten==), usages (==Gebräuche==), lois (degré de contrainte croissant)
 - ==Entlastungsfunktion== : on n'a pas à tout peser soi-même ; on peut évaluer son action et anticiper celle des autres -> **ordre social**
 - « Normal » est **relatif** : ce qu'une société juge normal **à une époque donnée**
@@ -36,12 +36,12 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| [[Valeur]] | Générale, désirable, non sanctionnée en soi | La norme est **concrète et sanctionnée** |
+| [[Changement de valeurs\|Valeur]] | Générale, désirable, non sanctionnée en soi | La norme est **concrète et sanctionnée** |
 | Loi | Une norme parmi d'autres, formalisée par l'État | Toutes les normes ne sont pas des lois |
 
 ## Liens
 - **Thème :** [[Notions de base de la sociologie]]
-- **Proche de :** [[Valeur]] · [[Changement de valeurs]]
+- **Proche de :** [[Changement de valeurs]]
 - **U-Fragen :** [[UF MilSoz V01]]
 
 ## Questions de compréhension

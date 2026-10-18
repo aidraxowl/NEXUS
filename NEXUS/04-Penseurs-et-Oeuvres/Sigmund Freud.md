@@ -22,11 +22,11 @@ dates: "1856–1939"
 
 ## Idées clés
 - [[Psychologie des profondeurs]] : l'inconscient domine, tout acte psychique a un sens
-- [[Modèle structural de la psyché]] : Es, Ich, Über-Ich ; mécanismes de défense
+- [[Psychologie des profondeurs|Modèle structural de la psyché]] : Es, Ich, Über-Ich ; mécanismes de défense
 
 ## Œuvres principales
 - *L'interprétation du rêve* (1900) -> [[Psychologie des profondeurs]]
-- *Le Moi et le Ça* (*Das Ich und das Es*, 1923) -> [[Modèle structural de la psyché]]
+- *Le Moi et le Ça* (*Das Ich und das Es*, 1923) -> [[Psychologie des profondeurs|Modèle structural de la psyché]]
 
 ## Apports / Critiques
 **Apports**
@@ -38,7 +38,7 @@ dates: "1856–1939"
 ## Liens
 - **Thème :** [[Écoles de pensée en psychologie]]
 - **Proche de :** C. G. Jung, Alfred Adler (élèves dissidents)
-- **S'oppose à :** [[John B. Watson]]
+- **S'oppose à :** John B. Watson
 
 ## Sources
 - [[NB MilPsy V02 - 20260922]]

@@ -25,10 +25,7 @@ tags:
 ## Concepts du chapitre
 ![[Politique#^essentiel]]
 ![[Institution#^essentiel]]
-![[Souveraineté#^essentiel]]
 ![[État territorial souverain#^essentiel]]
-![[Quasi-État#^essentiel]]
-![[Polity, politics et policy#^essentiel]]
 ![[Recherche empirico-analytique#^essentiel]]
 ![[Herméneutique#^essentiel]]
 ![[Analyse normative#^essentiel]]
@@ -47,7 +44,6 @@ tags:
 ![[Niccolò Machiavelli#^essentiel]]
 ![[Max Weber#^essentiel]]
 ![[Douglass North#^essentiel]]
-![[Paix de Westphalie#^essentiel]]
 
 ## ⚠️ Prüfungsrelevant
 - Définition de la politique ; pourquoi tout politique est social (et pas l'inverse) ; terroristes = acteurs politiques

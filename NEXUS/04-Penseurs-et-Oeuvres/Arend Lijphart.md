@@ -20,13 +20,13 @@ dates: "né en 1936"
 
 ## Idées clés
 - [[Démocratie consensuelle]] : 10 indicateurs.
-- [[Régime parlementaire]] : 2 critères de classification des régimes.
+- [[Parlementarisme et présidentialisme|Régime parlementaire]] : 2 critères de classification des régimes.
 - [[Fédéralisme]] : 3 traits (bicaméralisme, constitution écrite, justice constitutionnelle).
-- [[Représentation proportionnelle]] : sociétés divisées -> PR (1977) ; manufactured majorities (Abb. 5.3).
+- [[Système électoral|Représentation proportionnelle]] : sociétés divisées -> PR (1977) ; manufactured majorities (Abb. 5.3).
 - Méthode comparative (1975).
 
 ## Œuvres principales
-- *Democracy in Plural Societies* (1977) → [[Représentation proportionnelle]]
+- *Democracy in Plural Societies* (1977) → [[Système électoral|Représentation proportionnelle]]
 - *Patterns of Democracy* (1999/2012) → [[Démocratie consensuelle]]
 
 ## Apports / Critiques
@@ -39,7 +39,7 @@ dates: "né en 1936"
 ## Liens
 - **Thème :** [[Systèmes de gouvernement démocratiques]], [[Élections et démocratie directe]]
 - **Proche de :** [[George Tsebelis]]
-- **Cas :** [[Formule magique]], [[Système de Westminster]]
+- **Cas :** [[Formule magique]], [[Parlementarisme et présidentialisme]]
 
 ## Questions de compréhension
 > [!question]- Quels sont les deux critères de Lijphart pour classer les régimes ?

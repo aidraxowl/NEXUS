@@ -18,12 +18,12 @@ tags:
 ## Explication
 - Porte sur la **structure**, pas sur des événements isolés
 - Traits : le plus souvent **imprévisible**, **non intentionnel**, sur une **longue durée**
-- Domaines touchés : rapports de pouvoir, [[Valeur|valeurs]] et [[Norme sociale|normes]], structures familiales, communication, organisations et institutions
+- Domaines touchés : rapports de pouvoir, [[Changement de valeurs|valeurs]] et [[Norme sociale|normes]], structures familiales, communication, organisations et institutions
 - Exemples du cours : Révolution française, industrialisation, mouvements des droits civiques, chute de l'URSS, numérisation, IA (?)
 - Théories (Suchanek) : modernisation/transformation, marxistes, différenciation
 - Processus typiques : **différenciation** des sphères de vie (l'armée devient un sous-système), **anonymisation**, passage de la Gemeinschaft à la Gesellschaft ([[Communauté et société]])
 - Société moderne : rapidité du changement, individualisation, dépendance économique, mondialisation et migration
-- Deux grands moteurs étudiés au cours : [[Changement de valeurs]] et changement démographique ([[Vieillissement démographique]], [[Migration]])
+- Deux grands moteurs étudiés au cours : [[Changement de valeurs]] et changement démographique ([[Transition démographique|Vieillissement démographique]], [[Transition démographique|Migration]])
 
 ## Exemples
 - **Militaire :** la fin de la guerre froide a transformé la mission et la taille des armées européennes ; la numérisation change le recrutement, la communication et l'instruction.

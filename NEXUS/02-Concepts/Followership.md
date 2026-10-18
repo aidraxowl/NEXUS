@@ -53,9 +53,9 @@ tags:
 
 ## Liens
 - **Thème :** [[Approches relationnelles du leadership]]
-- **Proche de :** [[Triangle toxique]] · [[Leadership relationnel]] · [[Conduite par objectifs]] · [[Leadership serviteur]]
-- **Penseur :** [[Robert Kelley]] · [[Ira Chaleff]] · [[Abraham Zaleznik]]
-- **Cas :** [[Rapport Brereton]] · [[Tom Clonan]]
+- **Proche de :** [[Triangle toxique]] · [[Leadership relationnel]] · [[Conduite par objectifs]] · [[Leadership positif]]
+- **Penseur :** Robert Kelley · Ira Chaleff · Abraham Zaleznik
+- **Cas :** [[Rapport Brereton]] · [[Affaire Clonan dans l’armée irlandaise]]
 - **U-Fragen :** [[UF Lead V06]]
 
 ## Questions de compréhension

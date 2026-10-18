@@ -37,7 +37,7 @@ tags:
 ## Liens
 - **Thème :** [[Démocratie et autocratie]]
 - **Proche de :** [[Démocratie]], [[Théorie du sélectorat]]
-- **Penseur :** [[Hannah Arendt]]
+- **Penseur :** Hannah Arendt
 - **Cas :** [[Régime militaire argentin]]
 - **U-Fragen :** [[UF PW V03]]
 

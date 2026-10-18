@@ -27,13 +27,10 @@ tags:
 
 ## Concepts du chapitre
 ![[Modèle CLM#^essentiel]]
-![[Distinction manager-leader#^essentiel]]
-![[Éducation militaire#^essentiel]]
-![[Instruction militaire#^essentiel]]
 ![[Théorie générale des modèles#^essentiel]]
 
 ## Comparaison
-| | [[Éducation militaire]] | [[Instruction militaire]] |
+| | [[Modèle CLM\|Éducation militaire]] | [[Modèle CLM\|Instruction militaire]] |
 |---|---|---|
 | Mission | sens | sûreté d'action |
 | Humain | valeurs | sûreté de comportement |
@@ -42,7 +39,6 @@ tags:
 
 ## Penseurs et cas
 ![[Herbert Stachowiak#^essentiel]]
-![[Abraham Zaleznik#^essentiel]]
 
 ## ⚠️ Prüfungsrelevant
 - Tableau des 3 facteurs : orientation, lieu d'établissement, approche suisse.

@@ -31,7 +31,7 @@ lieu: "Western Electric, Hawthorne Works (Cicero, Illinois)"
 | Concept | Comment il éclaire le cas |
 |---|---|
 | [[Management scientifique]] | Taylor croyait que l'argent l'emporte sur la pression du groupe -> contredit par la salle de câblage |
-| [[Approche comportementale]] | Annonce la dimension « considération » |
+| [[Théories classiques du leadership\|Approche comportementale]] | Annonce la dimension « considération » |
 
 ## Leçons / RETEX
 **À retenir**

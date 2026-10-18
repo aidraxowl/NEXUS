@@ -26,7 +26,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Jugement et décision]]
-- **Proche de :** [[Heuristique]], [[Prophétie autoréalisatrice]]
+- **Proche de :** [[Heuristiques et biais]], [[Prophétie autoréalisatrice]]
 - **U-Fragen :** [[UF MilPsy V04]]
 
 ## Sources

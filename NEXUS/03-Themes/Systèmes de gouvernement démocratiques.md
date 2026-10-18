@@ -27,15 +27,13 @@ tags:
 ## Concepts du chapitre
 ![[Séparation des pouvoirs#^essentiel]]
 ![[État de droit#^essentiel]]
-![[Régime parlementaire#^essentiel]]
-![[Régime présidentiel#^essentiel]]
-![[Régime semi-présidentiel#^essentiel]]
+![[Parlementarisme et présidentialisme#^essentiel]]
 ![[Fédéralisme#^essentiel]]
 ![[Joueur de veto#^essentiel]]
 ![[Démocratie consensuelle#^essentiel]]
 
 ## Comparaison
-| | [[Régime parlementaire]] | [[Régime présidentiel]] | [[Régime semi-présidentiel]] |
+| | [[Parlementarisme et présidentialisme\|Régime parlementaire]] | [[Parlementarisme et présidentialisme\|Régime présidentiel]] | [[Parlementarisme et présidentialisme\|Régime semi-présidentiel]] |
 |---|---|---|---|
 | Élection de l'exécutif | Indirecte (parlement) | Par le peuple (direct ou collège) | Président par le peuple + PM selon la majorité |
 | Révocation | Motion de censure | Non (sauf impeachment) | Gouvernement renversable |
@@ -50,7 +48,6 @@ tags:
 ![[Juan Linz#^essentiel]]
 ![[José Antonio Cheibub#^essentiel]]
 ![[George Tsebelis#^essentiel]]
-![[Système de Westminster#^essentiel]]
 ![[Cohabitation en France#^essentiel]]
 ![[Formule magique#^essentiel]]
 

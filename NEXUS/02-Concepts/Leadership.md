@@ -46,11 +46,11 @@ tags:
 |---|---|---|
 | [[Management]] | Coordination formelle liée au rôle | Une même personne fait les deux |
 | [[Commandement]] | Autorité formelle, pouvoir légitime | Le leadership peut exister sans commandement (émergent) |
-| [[Distinction manager-leader]] | Deux types de personnes | Ici : distinctions idéal-typiques, pas des personnes |
+| [[Modèle CLM\|Distinction manager-leader]] | Deux types de personnes | Ici : distinctions idéal-typiques, pas des personnes |
 
 ## Liens
 - **Thème :** [[Histoire des théories du leadership]] · [[Modèle de référence de la conduite]]
-- **Proche de :** [[Modèle CLM]] · [[Approche comportementale]] · [[Leadership relationnel]]
+- **Proche de :** [[Modèle CLM]] · [[Théories classiques du leadership]] · [[Leadership relationnel]]
 - **U-Fragen :** [[UF Lead V01]] · [[UF Lead V04]]
 
 ## Questions de compréhension

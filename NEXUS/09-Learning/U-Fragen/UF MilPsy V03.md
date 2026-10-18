@@ -40,7 +40,7 @@ tags:
 
 > [!question]- 6. [N3] Pourquoi la perception est-elle une cible de la guerre cognitive ?
 > **Réponse :** Parce qu'elle dépend des attentes, des valeurs et des émotions. Celui qui façonne ces attentes (récits, cadrage) oriente ce que la cible « voit » et donc comment elle agit.
-> **Concepts :** [[Perception]], [[Cadrage]], [[Guerre cognitive]]
+> **Concepts :** [[Perception]], [[Heuristiques et biais|Cadrage]], [[Guerre cognitive]]
 
 > [!question]- 7. [N1] Quels sont les trois niveaux d'exigence de l'examen ?
 > 🎓 **Réponse :** 1) Savoir : nommer, définir. 2) Comprendre : expliquer, comparer, justifier. 3) Appliquer : transposer à une situation militaire, analyser, déduire.

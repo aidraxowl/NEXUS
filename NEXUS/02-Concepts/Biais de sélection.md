@@ -3,6 +3,8 @@ title: "Biais de sélection"
 aliases:
   - Selection bias
   - Verzerrte Fallauswahl
+  - Sondage du Literary Digest
+  - Literary-Digest-Umfrage 1936
 tags:
   - type/concept
   - cours/pw
@@ -18,6 +20,7 @@ tags:
 ## Explication
 - Sources : choix des cas (souvent sur la variable dépendante) ou de la période (Hirschman sur l'inflation au Chili, 1930–61 : les deux dernières années étaient des exceptions).
 - Quali plus exposé : avec peu de cas, un seul cas biaisé ne peut pas être compensé.
+- **Literary Digest (1936) :** plus de 10 millions de questionnaires tirés de listes d'automobilistes et d'abonnés au téléphone (ménages aisés) -> Landon donné gagnant de 14 points ; Roosevelt réélu avec 61 %. Leçon : la représentativité compte plus que la taille ; il faut un tirage aléatoire dans toute la population.
 - Remèdes : rendre explicite le mécanisme de sélection, interpréter en conséquence, corrections statistiques, choisir des cas très différents sur X.
 
 ## Exemples
@@ -34,12 +37,14 @@ tags:
 - **Thème :** [[Processus de recherche empirico-analytique]]
 - **Proche de :** [[Inférence]], [[Validité et fiabilité]]
 - **Penseur :** [[Barbara Geddes]]
-- **Cas :** [[Sondage du Literary Digest]]
 - **U-Fragen :** [[UF PW V02]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi les études de cas qualitatives sont-elles plus vulnérables ?
 > Avec peu de cas, chaque cas pèse lourd ; une distorsion ne peut pas être compensée par d'autres observations.
+
+> [!question]- Pourquoi 10 millions de questionnaires n'ont-ils pas suffi au Literary Digest ?
+> Parce que la sélection excluait systématiquement les électeurs pauvres, qui votaient majoritairement Roosevelt : un grand N ne corrige pas un biais.
 
 ## Sources
 - [[Bernauer et al. 2025]] (Kap. 2.2.7)

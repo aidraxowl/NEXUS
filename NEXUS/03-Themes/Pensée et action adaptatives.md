@@ -19,14 +19,13 @@ tags:
 ## Fil logique
 1. TF 17 exige du commandant qu'il adapte son plan dans le cadre de l'intention du supérieur.
 2. Le mécanisme psychologique sous-jacent est la [[Flexibilité cognitive]] (shifting).
-3. Elle s'oppose à la force de la [[Routine]] : économie de ressources, récompense, peur de l'erreur, stress.
-4. Elle permet de basculer entre [[Exploration et exploitation]].
-5. Elle est nécessaire en défense comme en instruction ; liens avec [[Processus automatisé]] et [[Heuristique]].
+3. Elle s'oppose à la force de la [[Automatisation|Routine]] : économie de ressources, récompense, peur de l'erreur, stress.
+4. Elle permet de basculer entre [[Flexibilité cognitive|Exploration et exploitation]].
+5. Elle est nécessaire en défense comme en instruction ; liens avec [[Automatisation|Processus automatisé]] et [[Heuristiques et biais|Heuristique]].
 
 ## Concepts du chapitre
 ![[Flexibilité cognitive#^essentiel]]
-![[Routine#^essentiel]]
-![[Exploration et exploitation#^essentiel]]
+![[Automatisation#^essentiel]]
 
 ## Comparaison
 | | Routine / exploitation | Flexibilité / exploration |

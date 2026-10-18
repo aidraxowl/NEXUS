@@ -26,9 +26,9 @@ lieu: "Ukraine"
 ## Analyse
 | Concept | Comment il éclaire le cas |
 |---|---|
-| [[Cadrage]] | « Libération » au lieu d'« invasion » |
+| [[Heuristiques et biais\|Cadrage]] | « Libération » au lieu d'« invasion » |
 | [[Désinformation]] | Deepfakes, faux rapports |
-| [[Guerre hybride]] | Le cyber (piratage) sert à la fois le renseignement et l'influence |
+| [[Guerre cognitive\|Guerre hybride]] | Le cyber (piratage) sert à la fois le renseignement et l'influence |
 
 ## Leçons / RETEX
 **À retenir**

@@ -17,31 +17,29 @@ tags:
 ^essentiel
 
 ## Fil logique
-1. **Menace :** désinformation, sabotage, campagnes contre la Suisse ; doctrines russe (préalable et continue) et chinoise ([[Trois guerres]]).
+1. **Menace :** désinformation, sabotage, campagnes contre la Suisse ; doctrines russe (préalable et continue) et chinoise ([[Guerre cognitive|Trois guerres]]).
 2. **Définition :** [[Guerre cognitive]] et ses 3 caractéristiques ; terme suisse « Beeinflussungsaktivitäten und Desinformation ».
-3. **Place :** [[Guerre hybride]] ⊃ cognitive ⊃ information ; le cyber recoupe l'information.
-4. **Moyens :** [[Cadrage]], [[Désinformation]].
+3. **Place :** [[Guerre cognitive|Guerre hybride]] ⊃ cognitive ⊃ information ; le cyber recoupe l'information.
+4. **Moyens :** [[Heuristiques et biais|Cadrage]], [[Désinformation]].
 5. **Leitfrage 4, comment elle agit sur la cognition :**
    - perception guidée par les attentes -> récits stratégiques ;
    - attention limitée -> surcharge, clickbait ;
    - mémoire reconstructive -> fausse information, répétition, effet de primauté ;
-   - jugement -> [[Heuristique]], biais de confirmation, [[Stéréotype]] et diabolisation ;
+   - jugement -> [[Heuristiques et biais|Heuristique]], biais de confirmation, [[Stéréotype]] et diabolisation ;
    - [[Dissonance cognitive]] -> les corrections sont rejetées ;
    - émotions -> peur pour les familles.
 
 ## Concepts du chapitre
 ![[Guerre cognitive#^essentiel]]
-![[Guerre hybride#^essentiel]]
-![[Trois guerres#^essentiel]]
-![[Cadrage#^essentiel]]
+![[Heuristiques et biais#^essentiel]]
 ![[Désinformation#^essentiel]]
 
 ## Comparaison
 | Mécanisme cognitif (chapitres précédents) | Exploitation par la guerre cognitive |
 |---|---|
 | [[Perception]] guidée par les attentes | Récits stratégiques |
-| [[Erreur de mémoire]] (Loftus) | [[Cadrage]], fausse information après coup |
-| [[Effet de primauté et de récence]] | Être le premier à raconter |
+| [[Mémoire\|Erreur de mémoire]] (Loftus) | [[Heuristiques et biais\|Cadrage]], fausse information après coup |
+| [[Mémoire\|Effet de primauté et de récence]] | Être le premier à raconter |
 | [[Stéréotype]] | Diabolisation, polarisation |
 | [[Dissonance cognitive]] | Les démentis ne passent pas |
 

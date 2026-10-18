@@ -22,7 +22,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Influence et désinformation]]
-- **Proche de :** [[Cadrage]], [[Effet de primauté et de récence]], [[Dissonance cognitive]], [[Stéréotype]]
+- **Proche de :** [[Heuristiques et biais]], [[Mémoire]], [[Dissonance cognitive]], [[Stéréotype]]
 - **U-Fragen :** [[UF MilPsy V05]]
 
 ## Sources

@@ -19,12 +19,12 @@ tags:
 > [!question]- 1. Définissez « valeur » et « changement de valeurs ».
 > *DE : Definieren Sie Werte und Wertewandel.*
 > **Réponse :** Valeur : représentation générale du désirable, partagée, qui guide l'action, organisée en hiérarchie (valeurs directrices), qui intègre et légitime l'ordre social ; pluralisme -> conflits. Changement de valeurs : les conflits de valeurs poussent à modifier la **hiérarchie** ; ce n'est pas un changement des valeurs elles-mêmes mais de l'**ordre des valeurs**.
-> **Concepts :** [[Valeur]] · [[Changement de valeurs]]
+> **Concepts :** [[Changement de valeurs|Valeur]] · [[Changement de valeurs]]
 
 > [!question]- 2. Expliquez la théorie d'Inglehart.
 > *DE : Erklären Sie die Theorie des Wertewandels nach Inglehart.*
 > **Réponse :** Passage des valeurs matérialistes (sécurité, prospérité, ordre) aux postmatérialistes (épanouissement, participation). Hypothèse de pénurie : on valorise ce qui manque. Hypothèse de socialisation : les valeurs se fixent dans la jeunesse et restent stables. -> changement lent, par remplacement des générations. Limite : effets de période (une crise sécuritaire fait remonter les valeurs de sécurité).
-> **Concepts :** [[Postmatérialisme]] · [[Ronald Inglehart]] · [[Génération]]
+> **Concepts :** [[Changement de valeurs|Postmatérialisme]] · [[Ronald Inglehart]] · [[Génération]]
 
 > [!question]- 3. Décrivez les phases du changement de valeurs depuis 1945.
 > **Réponse :** 1945–60 traditionnelles (droit et ordre, performance, devoir, discipline) -> années 60 matérielles (prospérité, sécurité sociale, croissance) -> années 70–80 alternatives (épanouissement, indépendance, mouvements sociaux) -> dès 90 individuelles (individualisme, hédonisme, plaisir).

@@ -17,7 +17,7 @@ tags:
 ^essentiel
 
 ## Explication
-- Fondement : **hypothèse de socialisation** ([[Postmatérialisme]]) — la jeunesse marque durablement les valeurs
+- Fondement : **hypothèse de socialisation** ([[Changement de valeurs|Postmatérialisme]]) — la jeunesse marque durablement les valeurs
 - Cohortes du cours (bornes **variables** selon les sources) :
 
 | Cohorte | Nés | Contexte et valeurs |
@@ -54,7 +54,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Changement des valeurs et générations]]
-- **Proche de :** [[Changement de valeurs]] · [[Postmatérialisme]]
+- **Proche de :** [[Changement de valeurs]]
 - **Penseur :** [[Ronald Inglehart]]
 - **Cas :** [[Génération Z et organisation militaire]]
 - **U-Fragen :** [[UF MilSoz V02]]

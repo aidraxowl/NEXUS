@@ -28,13 +28,9 @@ tags:
 ## Concepts du chapitre
 ![[Leadership positif#^essentiel]]
 ![[Leadership transformationnel#^essentiel]]
-![[Leadership charismatique#^essentiel]]
-![[Leadership serviteur#^essentiel]]
-![[Leadership authentique#^essentiel]]
-![[Leadership visionnaire#^essentiel]]
 
 ## Comparaison
-| | [[Leadership transformationnel]] | [[Leadership charismatique]] | [[Leadership serviteur]] | [[Leadership authentique]] | [[Leadership visionnaire]] |
+| | [[Leadership transformationnel]] | [[Leadership positif\|Leadership charismatique]] | [[Leadership positif\|Leadership serviteur]] | [[Leadership positif\|Leadership authentique]] | [[Leadership positif\|Leadership visionnaire]] |
 |---|---|---|---|---|---|
 | Question | Comment élever la motivation ? | Pourquoi croirait-on en moi ? | Comment permettre d'agir ? | Qui suis-je ? | Où allons-nous ? |
 | Apport du chef | inspire, stimule, développe | confiance, identification | sert, développe, soutient | intégrité, cohérence | direction, sens |
@@ -42,12 +38,9 @@ tags:
 | ⚠️ Risque | idéalisme sans exécution | identités étroites, dépendance | lenteur, faiblesse perçue | vulnérabilité, frontières | tour d'ivoire |
 
 ## Penseurs et cas
-![[James MacGregor Burns#^essentiel]]
-![[Robert K. Greenleaf#^essentiel]]
-![[Warren Bennis#^essentiel]]
-![[George C. Marshall#^essentiel]]
-![[Henri Guisan#^essentiel]]
-![[William Slim#^essentiel]]
+![[Transformation de l’US Army (1939–1945)#^essentiel]]
+![[Le général Guisan et la cohésion nationale#^essentiel]]
+![[Campagne de Birmanie#^essentiel]]
 
 ## ⚠️ Prüfungsrelevant
 - Haute estime + hautes exigences ; le leadership positif ne remplace pas autorité, discipline, standards, commandement.

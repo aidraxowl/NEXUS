@@ -29,7 +29,7 @@ tags:
 > - Usure : force contre force ; épuiser l'adversaire ; statique ; conduite détaillée.
 > - Manœuvre : force (feu) contre faiblesse ; mouvement et vitesse ; dynamique ; mission command.
 > - Sun Tzu : l'action dépend du rapport de forces (encercler, attaquer, diviser, combattre, défendre, éviter).
-> **Concepts :** [[Guerre d'usure]] · [[Guerre de manœuvre]]
+> **Concepts :** [[Spectre guérilla-usure-manœuvre|Guerre d'usure]] · [[Spectre guérilla-usure-manœuvre|Guerre de manœuvre]]
 
 > [!question]- 3. Énoncez la thèse I et ses corollaires Ia et Ib.
 > **Réponse :**
@@ -64,4 +64,4 @@ tags:
 > - « Mobiles » (élèves de Wille) : armée autonome ; défense mobile offensive ; modèle prusso-allemand ; victoire / anéantissement ; terrain peu important.
 > - « Statiques » (réformateurs) : nation armée ; défense statique, échelonnée, points d'appui et barrages ; ancrée dans le territoire ; usure et gain de temps.
 > - Montre que la doctrine reflète un rapport armée–société.
-> **Concepts :** [[Doctrine]] · [[Guerre d'usure]] · [[Guerre de manœuvre]]
+> **Concepts :** [[Doctrine]] · [[Spectre guérilla-usure-manœuvre|Guerre d'usure]] · [[Spectre guérilla-usure-manœuvre|Guerre de manœuvre]]

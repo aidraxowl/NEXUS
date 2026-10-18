@@ -37,13 +37,13 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| [[Approche comportementale]] | Un style moyen du leader envers le groupe | LMX : une relation par subordonné |
+| [[Théories classiques du leadership\|Approche comportementale]] | Un style moyen du leader envers le groupe | LMX : une relation par subordonné |
 | In-group / out-group | Qualité de la relation | LMX ne recommande pas d'avoir un out-group : il faut le réduire |
 
 ## Liens
 - **Thème :** [[Approches relationnelles du leadership]]
 - **Proche de :** [[Leadership relationnel]] · [[Followership]]
-- **Penseur :** [[George Graen]]
+- **Penseur :** George Graen
 - **Cas :** [[Champ de bataille transparent en Ukraine]]
 - **U-Fragen :** [[UF Lead V06]]
 

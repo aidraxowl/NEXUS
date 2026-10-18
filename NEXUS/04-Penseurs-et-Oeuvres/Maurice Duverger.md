@@ -19,11 +19,11 @@ dates: "1917–2014"
 - **Contexte :** IVe République française, étude comparée des partis
 
 ## Idées clés
-- [[Effets mécaniques et psychologiques]] : « loi de Duverger ».
-- [[Scrutin majoritaire]] : sous-représentation des petits partis.
+- [[Système électoral|Effets mécaniques et psychologiques]] : « loi de Duverger ».
+- [[Système électoral|Scrutin majoritaire]] : sous-représentation des petits partis.
 
 ## Œuvres principales
-- *Les partis politiques* (1951) → [[Effets mécaniques et psychologiques]]
+- *Les partis politiques* (1951) → [[Système électoral|Effets mécaniques et psychologiques]]
 
 ## Apports / Critiques
 **Apports**

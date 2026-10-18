@@ -25,15 +25,10 @@ tags:
 ## Concepts du chapitre
 ![[Droit de vote#^essentiel]]
 ![[Système électoral#^essentiel]]
-![[Scrutin majoritaire#^essentiel]]
-![[Représentation proportionnelle#^essentiel]]
-![[Seuil électoral#^essentiel]]
-![[Effets mécaniques et psychologiques#^essentiel]]
-![[Référendum#^essentiel]]
-![[Initiative populaire#^essentiel]]
+![[Démocratie directe#^essentiel]]
 
 ## Comparaison
-| | [[Scrutin majoritaire]] | [[Représentation proportionnelle]] |
+| | [[Système électoral\|Scrutin majoritaire]] | [[Système électoral\|Représentation proportionnelle]] |
 |---|---|---|
 | But | Stabilité, responsabilité | Représentativité, réactivité |
 | Vote | Pour/contre un gouvernement, rétrospectif | Pour un représentant, prospectif |

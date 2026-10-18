@@ -42,8 +42,8 @@ tags:
 
 ## Liens
 - **Thème :** [[Histoire des théories du leadership]]
-- **Proche de :** [[Approche par les traits]] · [[Approche comportementale]]
-- **Cas :** [[Charles Gordon]]
+- **Proche de :** [[Théories classiques du leadership]]
+- **Cas :** [[Gordon à Khartoum]]
 - **U-Fragen :** [[UF Lead V04]]
 
 ## Questions de compréhension

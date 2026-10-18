@@ -24,7 +24,7 @@ tags:
 > [!question]- 2. Distinguez valeur et norme, et expliquez leur fonction pour l'ordre social.
 > *DE : Unterscheiden Sie Werte und Normen. Welche Funktion haben sie?*
 > **Réponse :** Valeur = représentation générale, partagée, de ce qui est désirable ; guide l'action, hiérarchisée. Norme = attente concrète et contraignante de la société envers l'individu, sanctionnée (interdits, mœurs, usages, lois). Fonction : allègement (orientation au quotidien, prévoir l'action des autres) -> ordre social. Dans une société ouverte, les normes subissent une pression de légitimation constante.
-> **Concepts :** [[Valeur]] · [[Norme sociale]]
+> **Concepts :** [[Changement de valeurs|Valeur]] · [[Norme sociale]]
 
 > [!question]- 3. Définissez le changement social et donnez des exemples.
 > *DE : Was versteht man unter sozialem Wandel?*

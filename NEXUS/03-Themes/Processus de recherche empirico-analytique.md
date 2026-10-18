@@ -47,7 +47,6 @@ tags:
 ![[Giovanni Sartori#^essentiel]]
 ![[Barbara Geddes#^essentiel]]
 ![[George Tsebelis#^essentiel]]
-![[Sondage du Literary Digest#^essentiel]]
 ![[Lockdowns Covid-19 et joueurs de veto#^essentiel]]
 
 ## ⚠️ Prüfungsrelevant

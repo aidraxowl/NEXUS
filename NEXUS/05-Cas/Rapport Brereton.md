@@ -42,7 +42,7 @@ lieu: "Afghanistan / Australie"
 
 ## Liens
 - **Thème :** [[Approches relationnelles du leadership]]
-- **Cas similaires :** [[Tom Clonan]]
+- **Cas similaires :** [[Affaire Clonan dans l’armée irlandaise]]
 
 ## Questions de compréhension
 > [!question]- Analysez le rapport Brereton avec le triangle toxique.

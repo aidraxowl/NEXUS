@@ -41,7 +41,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Doctrine et formes de guerre]]
-- **Proche de :** [[Commandement]] · [[Conduite par objectifs]] · [[Guerre de manœuvre]]
+- **Proche de :** [[Commandement]] · [[Conduite par objectifs]] · [[Spectre guérilla-usure-manœuvre]]
 - **Cas :** [[Débat sur la conception de la défense suisse]]
 - **U-Fragen :** [[UF Lead V03]]
 

@@ -20,7 +20,7 @@ dates: ""
 
 ## Idées clés
 - [[Joueur de veto]] : winset, statu quo, agenda-setter, absorption.
-- [[Référendum]] : typologie des instruments directs avec Hug (2002).
+- [[Démocratie directe|Référendum]] : typologie des instruments directs avec Hug (2002).
 
 ## Œuvres principales
 - *Veto Players* (2002) → [[Joueur de veto]]

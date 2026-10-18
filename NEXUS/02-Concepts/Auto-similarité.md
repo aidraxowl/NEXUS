@@ -40,7 +40,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Doctrine et formes de guerre]]
-- **Proche de :** [[Guerre de manœuvre]] · [[Guerre d'usure]]
+- **Proche de :** [[Spectre guérilla-usure-manœuvre]]
 - **U-Fragen :** [[UF Lead V03]]
 
 ## Questions de compréhension

@@ -46,7 +46,7 @@ tags:
 ## Liens
 - **Thème :** [[Boucle OODA et processus de conduite]]
 - **Proche de :** [[Conduite par objectifs]] · [[Compréhension commune de la situation]] · [[Sensemaking]]
-- **Penseur :** [[John Boyd]] · [[Gary Klein]]
+- **Penseur :** [[John Boyd]] · Gary Klein
 - **Cas :** [[Guerre du Kippour]]
 - **U-Fragen :** [[UF Lead V02]]
 

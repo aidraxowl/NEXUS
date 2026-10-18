@@ -30,13 +30,13 @@ tags:
 > - 1D : manager ↔ leader (Zaleznik 1977) : utile mais réduit la conduite à un axe.
 > - 2D : débat suisse des années 1990 (Däniker : retour à l'auftragsorientierte Führung ; Steiger : menschenorientierte Führung) -> humain et mission.
 > - 3D : ajout de l'organisation ; modèle britannique Command–Leadership–Management comme parrain -> Commander, Leader, Manager.
-> **Concepts :** [[Distinction manager-leader]] · [[Modèle CLM]]
+> **Concepts :** [[Modèle CLM|Distinction manager-leader]] · [[Modèle CLM]]
 
 > [!question]- 3. Appliquez le CLM à l'éducation et à l'instruction.
 > **Réponse :**
 > - Éducation : mission -> sens (renforce Command) ; humain -> valeurs (renforce Leadership) ; organisation -> ordre (renforce Management).
 > - Instruction : mission -> sûreté d'action ; humain -> sûreté de comportement ; organisation -> sûreté de procédure ; chacune indispensable au facteur correspondant.
-> **Concepts :** [[Éducation militaire]] · [[Instruction militaire]]
+> **Concepts :** [[Modèle CLM|Éducation militaire]] · [[Modèle CLM|Instruction militaire]]
 
 > [!question]- 4. Citez et expliquez les trois caractéristiques d'un modèle selon Stachowiak, puis appliquez-les au CLM.
 > **Réponse :**
@@ -52,7 +52,7 @@ tags:
 > - **Management / organisation** : processus internes défaillants (ordres tardifs, désordre) -> fixer une routine de conduite (rapport, délais) ; éducation à l'ordre ; instruction des procédures (sûreté de procédure).
 > - **Leadership / humain** : risque de démotivation -> être présent, écouter, valoriser ; renforcer les valeurs.
 > - Conclusion : le problème n'est pas l'instruction technique (sûreté d'action acquise) mais le sens et l'organisation -> agir sur les trois axes en même temps.
-> **Concepts :** [[Modèle CLM]] · [[Éducation militaire]] · [[Instruction militaire]]
+> **Concepts :** [[Modèle CLM]] · [[Modèle CLM|Éducation militaire]] · [[Modèle CLM|Instruction militaire]]
 
 > [!question]- 6. Quels sont les quatre usages scientifiques des modèles selon Stachowiak ? Quel(s) usage(s) le CLM remplit-il ?
 > **Réponse :**

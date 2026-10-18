@@ -36,7 +36,7 @@ tags:
 > - Qualité d'une personnalité perçue comme exceptionnelle ; autorité fondée sur la personne.
 > - Côté sombre : l'admiration produit des identités sociales étroites -> dépendance, obéissance non critique, dérives.
 > - Réduire : oversight, support, selection, succession.
-> **Concepts :** [[Leadership charismatique]]
+> **Concepts :** [[Leadership positif|Leadership charismatique]]
 
 > [!question]- 4. Décrivez le leadership serviteur (origine, caractéristiques, limites) et dites s'il convient à l'armée.
 > **Réponse :**
@@ -44,13 +44,13 @@ tags:
 > - 10 caractéristiques : écoute, empathie, attention, guérison, persuasion, conceptualisation, prévoyance, responsabilité, croissance des autres, communauté.
 > - Limites : lenteur, burnout, image de faiblesse, hiérarchies traditionnelles, effets tardifs.
 > - Armée : oui si le service est orienté vers la mission (Slim : « soldiers first » pour réussir la mission).
-> **Concepts :** [[Leadership serviteur]]
+> **Concepts :** [[Leadership positif|Leadership serviteur]]
 
 > [!question]- 5. Nommez les quatre composantes du leadership authentique et dites quand ce style est particulièrement utile.
 > **Réponse :**
 > - Conscience de soi, transparence relationnelle, perspective morale intériorisée, traitement équilibré de l'information.
 > - Utile en crise et changement, pour renforcer confiance et moral, pour la pensée indépendante, pour des équipes cohésives.
-> **Concepts :** [[Leadership authentique]]
+> **Concepts :** [[Leadership positif|Leadership authentique]]
 
 > [!question]- 6. Situation : Vous reprenez une compagnie dont le prédécesseur était très apprécié mais peu exigeant ; les standards ont baissé et un CR exigeant approche. Quel(s) style(s) mobilisez-vous et comment, sans tomber dans les pièges de chacun ?
 > **Réponse :**
@@ -59,7 +59,7 @@ tags:
 > - Authentique : expliquer franchement vos attentes et ce qui change ; cohérence actes/paroles.
 > - Éviter : le charisme personnel comme substitut (comparaison avec le prédécesseur, dépendance), l'idéalisme sans exécution (plan de service, contrôles = Management).
 > - Rappel CLM : ces styles relèvent du Leadership ; la mission (Command) et l'organisation (Management) restent à assurer.
-> **Concepts :** [[Leadership positif]] · [[Leadership transformationnel]] · [[Leadership authentique]] · [[Leadership visionnaire]] · [[Modèle CLM]]
+> **Concepts :** [[Leadership positif]] · [[Leadership transformationnel]] · [[Leadership positif|Leadership authentique]] · [[Leadership positif|Leadership visionnaire]] · [[Modèle CLM]]
 
 > [!question]- 7. Associez à chaque style sa question centrale et sa pertinence militaire.
 > **Réponse :**
@@ -68,10 +68,10 @@ tags:
 > - Serviteur : comment permettre à mes gens d'agir ? -> bien-être, développement, confiance.
 > - Authentique : qui suis-je comme leader ? -> crédibilité, leadership éthique.
 > - Visionnaire : où allons-nous ? -> intention, but, alignement.
-> **Concepts :** [[Leadership transformationnel]] · [[Leadership charismatique]] · [[Leadership serviteur]] · [[Leadership authentique]] · [[Leadership visionnaire]]
+> **Concepts :** [[Leadership transformationnel]] · [[Leadership positif|Leadership charismatique]] · [[Leadership positif|Leadership serviteur]] · [[Leadership positif|Leadership authentique]] · [[Leadership positif|Leadership visionnaire]]
 
 > [!question]- 8. Quelle différence entre leadership charismatique et transformationnel ?
 > **Réponse :**
 > - Charisme : qualité attribuée à la personne, identification au leader ; risque de dépendance.
 > - Transformationnel : 4 composantes, dont le charisme (influence idéalisée) n'est qu'une ; vise aussi le développement et l'autonomie des followers (stimulation, considération).
-> **Concepts :** [[Leadership charismatique]] · [[Leadership transformationnel]]
+> **Concepts :** [[Leadership positif|Leadership charismatique]] · [[Leadership transformationnel]]

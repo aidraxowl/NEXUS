@@ -35,7 +35,7 @@ lieu: "Suisse"
 |---|---|
 | [[Institution]] | Règle informelle durable qui structure les attentes |
 | [[Démocratie consensuelle]] | Partage du pouvoir entre les grands partis |
-| [[Référendum]] | La menace référendaire pousse à intégrer les partis capables de lancer des référendums |
+| [[Démocratie directe\|Référendum]] | La menace référendaire pousse à intégrer les partis capables de lancer des référendums |
 
 ## Leçons / RETEX
 **Ce qui a fonctionné**

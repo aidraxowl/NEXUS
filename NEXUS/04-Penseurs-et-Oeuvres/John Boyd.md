@@ -37,7 +37,7 @@ dates: "1927–1997"
 
 ## Liens
 - **Thème :** [[Boucle OODA et processus de conduite]]
-- **Proche de :** [[Gary Klein]]
+- **Proche de :** Gary Klein
 - **Cas :** [[Guerre du Kippour]]
 
 ## Sources

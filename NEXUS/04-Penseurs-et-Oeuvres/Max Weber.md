@@ -36,7 +36,7 @@
 
 ### Œuvres principales
 - *L'Éthique protestante et l'esprit du capitalisme* (1904/05) $\rightarrow$ [[Microfondement]]
-- *Économie et société* / *Wirtschaft und Gesellschaft* (1922) $\rightarrow$ [[Politique]] / [[Leadership charismatique]]
+- *Économie et société* / *Wirtschaft und Gesellschaft* (1922) $\rightarrow$ [[Politique]] / [[Leadership positif|Leadership charismatique]]
 
 ---
 

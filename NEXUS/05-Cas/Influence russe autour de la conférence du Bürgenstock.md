@@ -27,7 +27,7 @@ lieu: "Suisse"
 | Concept | Comment il éclaire le cas |
 |---|---|
 | [[Désinformation]] | Mise à l'agenda d'une image de la Suisse choisie par Moscou |
-| [[Cadrage]] | Objectif probable (interprétation, pas tiré de la slide) : délégitimer la conférence et la neutralité suisse |
+| [[Heuristiques et biais\|Cadrage]] | Objectif probable (interprétation, pas tiré de la slide) : délégitimer la conférence et la neutralité suisse |
 
 ## Leçons / RETEX
 **À retenir**

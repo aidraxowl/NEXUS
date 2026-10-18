@@ -61,7 +61,7 @@ tags:
 
 > [!question]- 7. [N1] Quelles sont les cinq pulsions fondamentales selon la biologie du comportement ? (A5c)
 > **Réponse :** Nourriture, sexualité, agression (victoire), curiosité (sécurité), attachement.
-> **Concepts :** [[Biologie du comportement]], [[Comportement d'appétence]]
+> **Concepts :** [[Biologie du comportement]], [[Biologie du comportement|Comportement d'appétence]]
 
 > [!question]- 8. [N2] Quelles sont les hypothèses de base de la psychologie humaniste et en quoi se distingue-t-elle des deux autres grandes écoles ? (A5d, question de remplacement : la Leitfrage officielle recopie la 5c)
 > **Réponse :** L'humain est plus que la somme de ses parties, tend à développer ses possibilités, est autonome et existe dans les relations ; il est vu comme bon et actif. C'est une « troisième force » contre la psychanalyse (humain mû par l'inconscient) et le behaviorisme (humain façonné par l'environnement) : on étudie les potentiels plutôt que les déficits (Maslow, Rogers).
@@ -90,8 +90,8 @@ tags:
 > - **Über-Ich :** vers 3 ans ; conscience morale, normes intériorisées des figures d'attachement.
 >
 > Leurs conflits créent de l'angoisse, régulée par des mécanismes de défense.
-> **Concepts :** [[Modèle structural de la psyché]]
+> **Concepts :** [[Psychologie des profondeurs|Modèle structural de la psyché]]
 
 > [!question]- 13. [N2] Qu'est-ce que le gâtement et quelle conséquence pour l'instruction ?
 > **Réponse :** C'est une satisfaction trop rapide, sans appétence (Cube). Il faut alors des stimuli toujours plus forts, on ne sait plus différer, et cela peut mener à la dépendance et à la violence. Le gâtement d'effort mène à l'agression. Conséquence : une instruction exigeante, avec un vrai succès à conquérir, satisfait davantage qu'un service facile.
-> **Concepts :** [[Gâtement]], [[Comportement d'appétence]]
+> **Concepts :** [[Biologie du comportement|Gâtement]], [[Biologie du comportement|Comportement d'appétence]]

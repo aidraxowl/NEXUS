@@ -27,12 +27,12 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| [[Attention sélective]] | Choisit **quoi** traiter | Percevoir = interpréter, pas seulement capter |
-| [[Erreur de mémoire]] | Reconstruction après coup | Même logique : on reconstruit, on n'enregistre pas |
+| [[Attention\|Attention sélective]] | Choisit **quoi** traiter | Percevoir = interpréter, pas seulement capter |
+| [[Mémoire\|Erreur de mémoire]] | Reconstruction après coup | Même logique : on reconstruit, on n'enregistre pas |
 
 ## Liens
 - **Thème :** [[Perception, attention et mémoire]]
-- **Proche de :** [[Cognitivisme]], [[Cadrage]]
+- **Proche de :** [[Cognitivisme]], [[Heuristiques et biais]]
 - **U-Fragen :** [[UF MilPsy V03]]
 
 ## Sources

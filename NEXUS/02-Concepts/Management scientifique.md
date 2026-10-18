@@ -45,7 +45,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Histoire des théories du leadership]]
-- **Proche de :** [[Management]] · [[Instruction militaire]]
+- **Proche de :** [[Management]] · [[Modèle CLM]]
 - **Penseur :** [[Frederick W. Taylor]] · [[Henri Fayol]] · [[Max Weber]]
 - **Cas :** [[Études Hawthorne]]
 - **U-Fragen :** [[UF Lead V04]]

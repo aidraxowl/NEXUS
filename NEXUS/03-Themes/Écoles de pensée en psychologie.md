@@ -36,11 +36,8 @@ tags:
 
 ## Concepts du chapitre
 ![[Psychologie des profondeurs#^essentiel]]
-![[Modèle structural de la psyché#^essentiel]]
 ![[Behaviorisme#^essentiel]]
 ![[Biologie du comportement#^essentiel]]
-![[Comportement d'appétence#^essentiel]]
-![[Gâtement#^essentiel]]
 ![[Psychologie humaniste#^essentiel]]
 ![[Cognitivisme#^essentiel]]
 
@@ -56,7 +53,7 @@ tags:
 ![[Pasted image 20261018153102.png]]
 ## Penseurs et cas
 - **[[Sigmund Freud]]** (1856–1939), psychologie des profondeurs : le comportement vient surtout de l'inconscient et des conflits entre Es, Ich et Über-Ich.
-- **[[John B. Watson]]** (1878–1958), behaviorisme : seul le comportement observable compte, et l'environnement le façonne entièrement.
+- **John B. Watson** (1878–1958), behaviorisme : seul le comportement observable compte, et l'environnement le façonne entièrement.
 - **Ivan Pavlov** (1849–1936), behaviorisme (précurseur) : conditionnement classique ; un stimulus neutre associé à un stimulus naturel finit par déclencher seul la réponse.
 - **B. F. Skinner** (1904–1990), behaviorisme radical : conditionnement opérant ; un comportement renforcé devient plus fréquent, un comportement puni plus rare.
 - **Konrad Lorenz** (1903–1989), biologie du comportement : le comportement repose sur des pulsions innées et spontanées (nourriture, sexualité, agression, curiosité, attachement).

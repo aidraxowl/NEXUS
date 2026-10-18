@@ -15,9 +15,9 @@ tags:
 
 ## Fil logique
 1. [[Transition démographique]] : la mortalité baisse, puis la natalité -> phase 4 aujourd'hui
-2. Facteur 1 : espérance de vie ↑ (+ ~3 mois/an depuis 1750) -> [[Vieillissement démographique]]
-3. Facteur 2 : [[Fécondité]] ↓ (≈ 1,5–1,7 enfant/femme, mères plus âgées) -> moins de jeunes
-4. Facteur 3 : [[Migration]] ↑ -> moteur de la croissance, rajeunit la population active
+2. Facteur 1 : espérance de vie ↑ (+ ~3 mois/an depuis 1750) -> [[Transition démographique|Vieillissement démographique]]
+3. Facteur 2 : [[Transition démographique|Fécondité]] ↓ (≈ 1,5–1,7 enfant/femme, mères plus âgées) -> moins de jeunes
+4. Facteur 3 : [[Transition démographique|Migration]] ↑ -> moteur de la croissance, rajeunit la population active
 5. Résultat : population en croissance **et** vieillissante ; chances/défis à équilibrer -> application : [[Démographie et alimentation de l'armée de milice]]
 
 ## Schéma
@@ -26,9 +26,6 @@ tags:
 
 ## Concepts du chapitre
 ![[Transition démographique#^essentiel]]
-![[Vieillissement démographique#^essentiel]]
-![[Fécondité#^essentiel]]
-![[Migration#^essentiel]]
 
 ## Comparaison
 | | Espérance de vie | Naissances | Migration |

@@ -39,15 +39,15 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| [[Leadership charismatique]] | Repose sur l'attribution de qualités exceptionnelles | L'influence idéalisée n'est qu'une des 4 composantes |
-| [[Leadership visionnaire]] | Centré sur la direction future | Le transformationnel développe aussi les individus |
-| [[Approche comportementale]] | Considération (Ohio State) | La « considération individualisée » vise le développement, pas seulement le climat |
+| [[Leadership positif\|Leadership charismatique]] | Repose sur l'attribution de qualités exceptionnelles | L'influence idéalisée n'est qu'une des 4 composantes |
+| [[Leadership positif\|Leadership visionnaire]] | Centré sur la direction future | Le transformationnel développe aussi les individus |
+| [[Théories classiques du leadership\|Approche comportementale]] | Considération (Ohio State) | La « considération individualisée » vise le développement, pas seulement le climat |
 
 ## Liens
 - **Thème :** [[Styles de leadership positif]]
-- **Proche de :** [[Leadership charismatique]] · [[Leadership visionnaire]] · [[Distinction manager-leader]]
-- **Penseur :** [[James MacGregor Burns]]
-- **Cas :** [[George C. Marshall]]
+- **Proche de :** [[Leadership positif]] · [[Modèle CLM]]
+- **Penseur :** James MacGregor Burns
+- **Cas :** [[Transformation de l’US Army (1939–1945)]]
 - **U-Fragen :** [[UF Lead V05]]
 
 ## Questions de compréhension

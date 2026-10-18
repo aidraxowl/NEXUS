@@ -27,8 +27,8 @@ lieu: "Suisse"
 ## Analyse
 | Concept | Comment il éclaire le cas |
 |---|---|
-| [[Guerre de manœuvre]] | Les « mobiles » visent la victoire et l'anéantissement de l'adversaire, faible importance du terrain |
-| [[Guerre d'usure]] | Les « statiques » visent usure et gain de temps par points d'appui et barrages |
+| [[Spectre guérilla-usure-manœuvre\|Guerre de manœuvre]] | Les « mobiles » visent la victoire et l'anéantissement de l'adversaire, faible importance du terrain |
+| [[Spectre guérilla-usure-manœuvre\|Guerre d'usure]] | Les « statiques » visent usure et gain de temps par points d'appui et barrages |
 | [[Doctrine]] | La doctrine traduit un débat stratégique et culturel, pas seulement technique |
 
 ## Leçons / RETEX

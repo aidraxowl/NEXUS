@@ -39,7 +39,7 @@ tags:
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
 | Decision-making | Orienté futur, choix entre options | Sensemaking ≠ « mieux décider » ; c'est comprendre avant |
-| [[Théorie du grand homme]] | Explique par la personne (biais d'attribution) | Même erreur d'attribution que Snook critique |
+| [[Théories classiques du leadership\|Théorie du grand homme]] | Explique par la personne (biais d'attribution) | Même erreur d'attribution que Snook critique |
 
 ## Liens
 - **Thème :** [[Boucle OODA et processus de conduite]]

@@ -13,7 +13,7 @@ lieu: "Au large du cap Trafalgar (Espagne)"
 > [!abstract] L'essentiel
 > **Quoi :** Victoire de la flotte britannique de Nelson (27 vaisseaux) sur la flotte franco-espagnole (33) ; Nelson est tué pendant la bataille.
 > **Leçon principale :** Nelson combine une structure forte (plan écrit, rôles) et une considération forte (confiance, « band of brothers »), et laisse la discrétion à ses capitaines.
-> **Illustre :** [[Approche comportementale]]
+> **Illustre :** [[Théories classiques du leadership|Approche comportementale]]
 
 ^essentiel
 
@@ -33,9 +33,9 @@ lieu: "Au large du cap Trafalgar (Espagne)"
 ## Analyse
 | Concept | Comment il éclaire le cas |
 |---|---|
-| [[Approche comportementale]] | Structure : plan écrit partagé des semaines à l'avance, rôles ; considération : dîners, confiance |
+| [[Théories classiques du leadership\|Approche comportementale]] | Structure : plan écrit partagé des semaines à l'avance, rôles ; considération : dîners, confiance |
 | [[Conduite par objectifs]] | Si les signaux échouent, le capitaine sait quoi faire (intention) ≠ séparation taylorienne planification/exécution |
-| [[Théorie du grand homme]] (Spencer) | Le savoir-faire, l'artillerie et le moral de la Royal Navy rendent l'attaque risquée possible |
+| [[Théories classiques du leadership\|Théorie du grand homme]] (Spencer) | Le savoir-faire, l'artillerie et le moral de la Royal Navy rendent l'attaque risquée possible |
 
 ## Leçons / RETEX
 **Ce qui a fonctionné**
@@ -47,7 +47,7 @@ lieu: "Au large du cap Trafalgar (Espagne)"
 
 ## Liens
 - **Thème :** [[Histoire des théories du leadership]]
-- **Penseurs :** [[Herbert Spencer]]
+- **Penseurs :** Herbert Spencer
 - **Cas similaires :** [[Guerre du Kippour]]
 
 ## Questions de compréhension

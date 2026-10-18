@@ -32,13 +32,13 @@ tags:
 > - Problèmes : rétrospectif (survivant), contrefactuel (pas testable), attributionnel.
 > - Gustave II Adolphe : Carlyle -> intégration de l'armée, risque de 1630, mène au front ; Spencer -> Maurice de Nassau, Oxenstierna, conscription, subsides français.
 > - Position nuancée : James (l'environnement sélectionne et amplifie l'individu).
-> **Concepts :** [[Théorie du grand homme]]
+> **Concepts :** [[Théories classiques du leadership|Théorie du grand homme]]
 
 > [!question]- 3. Pourquoi la recherche sur les traits a-t-elle décliné puis est-elle revenue ?
 > **Réponse :**
 > - Déclin : revues de Stogdill (1948) et Mann (1959) ; résultats hétérogènes lus de façon pessimiste -> ~30 ans d'abandon (le problème était l'interprétation).
 > - Retour : méta-analyse de Lord, De Vader & Alliger (1986) -> intelligence ≈ .50 avec la perception de leadership ; puis Big Five (Judge et al. 2002).
-> **Concepts :** [[Approche par les traits]]
+> **Concepts :** [[Théories classiques du leadership|Approche par les traits]]
 
 > [!question]- 4. Distinguez émergence et efficacité du leader et illustrez avec Gordon.
 > **Réponse :**
@@ -52,13 +52,13 @@ tags:
 > - L'exercice mesure l'**émergence** (comme les War Office Selection Boards).
 > - Pour l'efficacité : critères de performance du groupe, observations dans plusieurs situations (fortes et faibles), avis de plusieurs évaluateurs (supérieurs **et** subordonnés, cf. Halpin), suivi dans la durée.
 > - Attention : prendre la parole ≠ bien mener ; la situation de l'exercice est faible -> les traits s'y expriment fortement, pas forcément en service.
-> **Concepts :** [[Émergence et efficacité du leader]] · [[Approche par les traits]]
+> **Concepts :** [[Émergence et efficacité du leader]] · [[Théories classiques du leadership|Approche par les traits]]
 
 > [!question]- 6. Expliquez les situations fortes et faibles et ce que les études de jumeaux peuvent et ne peuvent pas montrer.
 > **Réponse :**
 > - B = f(P, S) ; situation forte (normes, règles, incitations claires : drill, SOP) -> comportements uniformes ; faible (ambiguë : patrouille ayant perdu le contact) -> traits plus influents.
 > - Jumeaux : ~30 % de la variance de l'**occupation** de rôles de leader liée aux gènes ; ne montre pas que 70 % s'entraîne, ni rien sur l'efficacité.
-> **Concepts :** [[Approche par les traits]]
+> **Concepts :** [[Théories classiques du leadership|Approche par les traits]]
 
 > [!question]- 7. Présentez le management scientifique, comparez-le à Fayol et Weber, et expliquez le lien avec la Mission Command.
 > **Réponse :**
@@ -75,7 +75,7 @@ tags:
 > - Grid : 9,9 « universel » non confirmé.
 > - Résultats variables selon les unités ; considération -> satisfaction ; urgence -> peu de temps pour la considération ; structure mieux acceptée si le chef est considérant ; Halpin : supérieurs et équipages jugent à l'opposé -> le critère et l'évaluateur comptent.
 > - Méta-analyse 2004 : considération .48, structure .29 -> conclusion : dépend de la situation (LS5).
-> **Concepts :** [[Approche comportementale]]
+> **Concepts :** [[Théories classiques du leadership|Approche comportementale]]
 
 > [!question]- 9. Situation : Vous prenez le commandement d'une compagnie avant un tir de combat exigeant, puis trois semaines de garde monotone. Où vous placez-vous sur les deux dimensions d'Ohio State dans chaque phase, et pourquoi ?
 > **Réponse :**
@@ -83,4 +83,4 @@ tags:
 > - Garde : considération plus marquée (moral, ennui, fatigue, perspectives individuelles), structure maintenue sur l'essentiel (relèves, standards).
 > - Les deux axes sont indépendants : on peut être haut sur les deux ; pas de style universel -> adapter à la situation.
 > - Nuance : vos supérieurs et vos soldats ne jugeront pas votre efficacité de la même façon (Halpin).
-> **Concepts :** [[Approche comportementale]] · [[Émergence et efficacité du leader]]
+> **Concepts :** [[Théories classiques du leadership|Approche comportementale]] · [[Émergence et efficacité du leader]]

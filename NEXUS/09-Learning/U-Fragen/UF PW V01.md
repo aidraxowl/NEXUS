@@ -58,11 +58,11 @@ tags:
 
 > [!question]- 11. Was bedeutet Souveränität? (S. 34)
 > **Réponse :** L'autorité est limitée à un territoire, ne reconnaît aucune autorité au-dessus d'elle et revendique l'autorité suprême à l'intérieur.
-> **Concepts :** [[Souveraineté]]
+> **Concepts :** [[État territorial souverain|Souveraineté]]
 
 > [!question]- 12. Weshalb ist der Westfälische Friede ein Meilenstein? (S. 34)
 > **Réponse :** En 1648, les États s'engagent à ne pas soutenir de factions religieuses contre le pouvoir central d'un autre État (non-ingérence) et rejettent tout pouvoir supranational : point de départ de l'autorité territoriale de l'État moderne.
-> **Concepts :** [[Souveraineté]], [[Paix de Westphalie]]
+> **Concepts :** [[État territorial souverain|Souveraineté]], [[État territorial souverain|Paix de Westphalie]]
 
 > [!question]- 13. Erklären Sie die Drei-Elemente-Lehre des Völkerrechts. (S. 35)
 > **Réponse :** Un État = peuple (même nationalité) + territoire délimité + puissance publique qui contrôle territoire et personnes.
@@ -78,15 +78,15 @@ tags:
 
 > [!question]- 16. Sind seit 1945 wirksame Alternativen zum Territorialstaat entstanden? (S. 37)
 > **Réponse :** Non. La décolonisation n'a laissé le choix qu'entre modèles économiques ou de gouvernement ; même les États faillis sont maintenus plutôt qu'absorbés ou remplacés. Les transferts vers l'UE ou les OI relativisent l'État sans le remplacer.
-> **Concepts :** [[Quasi-État]], [[Souveraineté]]
+> **Concepts :** [[État territorial souverain|Quasi-État]], [[État territorial souverain|Souveraineté]]
 
 > [!question]- 17. Weshalb sind trotz UNO-Beschluss 1960 nicht hunderte neue Staaten entstanden? (S. 38)
 > **Réponse :** Les États existants exercent de façon pragmatique une fonction de « portier » : la reconnaissance et l'admission à l'ONU restent difficiles (Palestine, Kosovo, Abkhazie…).
-> **Concepts :** [[Souveraineté]]
+> **Concepts :** [[État territorial souverain|Souveraineté]]
 
 > [!question]- 18. Welche Hürde müssen neue Staaten hauptsächlich nehmen? (S. 38)
 > **Réponse :** L'admission à l'ONU, qui exige l'accord du Conseil de sécurité (veto des cinq puissances nucléaires) et de l'Assemblée générale.
-> **Concepts :** [[Souveraineté]]
+> **Concepts :** [[État territorial souverain|Souveraineté]]
 
 > [!question]- 19. Wichtigste Gründe für neue Staaten seit den 1990er Jahren? (S. 39)
 > **Réponse :** Fin de la Guerre froide : des États incapables d'assurer sécurité, bien-être, identité et légitimité se sont fragmentés ; ils étaient très hétérogènes, inégalitaires, en crise économique ou privés de menace extérieure (URSS, Yougoslavie).
@@ -110,7 +110,7 @@ tags:
 
 > [!question]- 24. Definieren Sie polity, politics und policy. (S. 41)
 > **Réponse :** Polity = structures et institutions ; politics = processus et acteurs ; policy = contenus (politiques publiques).
-> **Concepts :** [[Polity, politics et policy]]
+> **Concepts :** [[Politique|Polity, politics et policy]]
 
 > [!question]- 25. Merkmale der empirisch-analytischen Forschung? Zwei Beispiele. (S. 43)
 > **Réponse :** Objectivité et absence de jugement de valeur, hypothèses causales testées sur des données, généralisation. Ex. : fragmentation ethnique et guerre civile ; beauté des candidats et voix (Lutz 2010).
@@ -138,4 +138,4 @@ tags:
 
 > [!question]- 31. Weshalb beruhen prognostische Studien v.a. auf empirisch-analytischen Modellen? Beispiel gescheiterte Staaten. (S. 51)
 > **Réponse :** Un pronostic fiable exige un modèle explicatif testé et retesté sur des données passées. Ex. : modèles qui estiment la probabilité d'effondrement d'un État à partir de facteurs identifiés empiriquement.
-> **Concepts :** [[Analyse normative]], [[Quasi-État]]
+> **Concepts :** [[Analyse normative]], [[État territorial souverain|Quasi-État]]

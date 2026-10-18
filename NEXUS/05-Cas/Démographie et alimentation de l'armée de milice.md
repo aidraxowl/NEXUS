@@ -12,7 +12,7 @@ lieu: "Suisse"
 > [!abstract] L'essentiel
 > **Quoi :** Effets des trois facteurs démographiques suisses (vie plus longue, peu d'enfants, forte migration) sur le recrutement et la place de l'armée de milice.
 > **Leçon principale :** La population croît, mais pas la base de recrutement : la croissance vient surtout d'étrangers non astreints, les cohortes de jeunes Suisses restent petites et l'armée est en concurrence avec un marché du travail en pénurie.
-> **Illustre :** [[Vieillissement démographique]] · [[Fécondité]] · [[Migration]]
+> **Illustre :** [[Transition démographique|Vieillissement démographique]] · [[Transition démographique|Fécondité]] · [[Transition démographique|Migration]]
 
 ^essentiel
 
@@ -41,9 +41,9 @@ lieu: "Suisse"
 ## Analyse
 | Concept | Comment il éclaire le cas |
 |---|---|
-| [[Fécondité]] | Peu d'enfants -> petites cohortes de recrutement ; parents plus investis et plus inquiets |
-| [[Migration]] | Croissance surtout étrangère -> la base astreinte ne suit pas la population ; question de l'intégration des recrues naturalisées |
-| [[Vieillissement démographique]] | Pénurie de main-d'œuvre -> concurrence avec les employeurs ; priorités budgétaires (retraites, santé) |
+| [[Transition démographique\|Fécondité]] | Peu d'enfants -> petites cohortes de recrutement ; parents plus investis et plus inquiets |
+| [[Transition démographique\|Migration]] | Croissance surtout étrangère -> la base astreinte ne suit pas la population ; question de l'intégration des recrues naturalisées |
+| [[Transition démographique\|Vieillissement démographique]] | Pénurie de main-d'œuvre -> concurrence avec les employeurs ; priorités budgétaires (retraites, santé) |
 | [[Transition démographique]] | Phase 4 : l'excédent naturel est minime, la ressource « jeunes » devient rare |
 | [[Changement de valeurs]] | Moins de jeunes **et** moins attachés aux valeurs d'obéissance -> double défi pour l'alimentation |
 

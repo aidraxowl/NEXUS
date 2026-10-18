@@ -14,7 +14,7 @@ tags:
 
 ## Fil logique
 1. Objet : la société ; but : comprendre ses processus et son changement ; condition : distance critique
-2. Au centre de la vie sociale : [[Valeur|valeurs]] (le désirable) -> [[Norme sociale|normes]] (attentes contraignantes) -> **ordre social** (fonction d'allègement)
+2. Au centre de la vie sociale : [[Changement de valeurs|valeurs]] (le désirable) -> [[Norme sociale|normes]] (attentes contraignantes) -> **ordre social** (fonction d'allègement)
 3. Société ouverte -> pression de légitimation sur les normes -> [[Changement social]]
 4. Formes du changement : différenciation des sphères (l'armée devient un sous-système), anonymisation, passage de la Gemeinschaft à la Gesellschaft ([[Communauté et société]])
 5. Société moderne : changement rapide, individualisation, dépendance économique, mondialisation/migration -> mène aux deux moteurs étudiés : [[Changement des valeurs et générations]] et [[Changement démographique]]
@@ -26,13 +26,13 @@ tags:
 - Notions : besoins/motifs (implicite, émotionnel) — **valeurs/normes (centre)** — attitudes/opinions (explicite, cognitif)
 
 ## Concepts du chapitre
-![[Valeur#^essentiel]]
+![[Changement de valeurs#^essentiel]]
 ![[Norme sociale#^essentiel]]
 ![[Changement social#^essentiel]]
 ![[Communauté et société#^essentiel]]
 
 ## Comparaison
-| | [[Valeur]] | [[Norme sociale]] |
+| | [[Changement de valeurs\|Valeur]] | [[Norme sociale]] |
 |---|---|---|
 | Nature | représentation générale du désirable | consigne d'action concrète |
 | Contrainte | non sanctionnée en soi | obligatoire, sanctionnée |

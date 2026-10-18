@@ -25,14 +25,12 @@ tags:
 
 ## Concepts du chapitre
 ![[Leadership#^essentiel]]
-![[Théorie du grand homme#^essentiel]]
-![[Approche par les traits#^essentiel]]
+![[Théories classiques du leadership#^essentiel]]
 ![[Émergence et efficacité du leader#^essentiel]]
 ![[Management scientifique#^essentiel]]
-![[Approche comportementale#^essentiel]]
 
 ## Comparaison
-| | [[Théorie du grand homme]] | [[Approche par les traits]] | [[Management scientifique]] | [[Approche comportementale]] |
+| | [[Théories classiques du leadership\|Théorie du grand homme]] | [[Théories classiques du leadership\|Approche par les traits]] | [[Management scientifique]] | [[Théories classiques du leadership\|Approche comportementale]] |
 |---|---|---|---|---|
 | Question | Qui a fait l'histoire ? | À quoi ressemblent les leaders ? | Comment organiser le travail ? | Que font les leaders ? |
 | Explication | personne exceptionnelle | dispositions stables | système | comportement observable |
@@ -42,12 +40,11 @@ tags:
 
 ## Penseurs et cas
 ![[Thomas Carlyle#^essentiel]]
-![[Herbert Spencer#^essentiel]]
 ![[Frederick W. Taylor#^essentiel]]
 ![[Henri Fayol#^essentiel]]
 ![[Max Weber#^essentiel]]
-![[Gustave II Adolphe#^essentiel]]
-![[Charles Gordon#^essentiel]]
+![[Essor de la Suède sous Gustave II Adolphe#^essentiel]]
+![[Gordon à Khartoum#^essentiel]]
 ![[Études Hawthorne#^essentiel]]
 ![[Bataille de Trafalgar#^essentiel]]
 

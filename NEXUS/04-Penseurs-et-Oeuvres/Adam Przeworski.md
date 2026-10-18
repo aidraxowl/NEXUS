@@ -21,12 +21,12 @@ dates: "né en 1940"
 ## Idées clés
 - [[Démocratie]] : changement pacifique du pouvoir par les élections (1991).
 - [[Théorie de la modernisation]] : endogène ≠ exogène.
-- [[Régime présidentiel]] : les démocraties parlementaires s'effondrent moins souvent (Przeworski et al. 2000).
+- [[Parlementarisme et présidentialisme|Régime présidentiel]] : les démocraties parlementaires s'effondrent moins souvent (Przeworski et al. 2000).
 
 ## Œuvres principales
 - *Democracy and the Market* (1991) → [[Démocratie]]
 - « Modernization: Theories and Facts » (1997, avec Limongi) → [[Théorie de la modernisation]]
-- *Democracy and Development* (2000) → [[Régime présidentiel]]
+- *Democracy and Development* (2000) → [[Parlementarisme et présidentialisme|Régime présidentiel]]
 
 ## Apports / Critiques
 **Apports**

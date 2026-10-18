@@ -13,7 +13,7 @@ lieu: "Armées occidentales, dont l'armée de milice suisse"
 > [!abstract] L'essentiel
 > **Quoi :** La rencontre entre une génération numérique, individualiste et postmatérialiste et une organisation fondée sur la conformité, la hiérarchie, le commandement et la discrétion.
 > **Leçon principale :** Le conflit de valeurs est réel, mais la Gen Z apporte aussi des atouts ; l'armée garde sa logique (hiérarchie en engagement) tout en adaptant la conduite : expliquer le sens, donner du feedback, montrer l'exemple.
-> **Illustre :** [[Changement de valeurs]] · [[Génération]] · [[Postmatérialisme]]
+> **Illustre :** [[Changement de valeurs]] · [[Génération]] · [[Changement de valeurs|Postmatérialisme]]
 
 ^essentiel
 
@@ -41,7 +41,7 @@ lieu: "Armées occidentales, dont l'armée de milice suisse"
 | Concept | Comment il éclaire le cas |
 |---|---|
 | [[Changement de valeurs]] | Les valeurs d'hétéronomie, centrales pour l'armée, reculent dans la société |
-| [[Postmatérialisme]] | Socialisée dans la prospérité, la Gen Z privilégie sens et épanouissement à la sécurité et l'ordre |
+| [[Changement de valeurs\|Postmatérialisme]] | Socialisée dans la prospérité, la Gen Z privilégie sens et épanouissement à la sécurité et l'ordre |
 | [[Génération]] | Les valeurs viennent de la socialisation numérique ; cadres et recrues n'ont pas la même |
 | [[Communauté et société]] | L'armée doit recréer une Gemeinschaft (camaraderie, « nous ») chez des individus habitués aux réseaux et à l'individualité |
 

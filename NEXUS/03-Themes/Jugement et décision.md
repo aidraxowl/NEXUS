@@ -17,25 +17,22 @@ tags:
 ^essentiel
 
 ## Fil logique
-1. [[Rationalité limitée]] -> nous avons besoin de raccourcis.
-2. **Expliquer les causes :** [[Attribution causale]] pour soi (autoprotectrice) ; [[Erreur fondamentale d'attribution]] pour autrui (la personne plutôt que la situation).
+1. [[Heuristiques et biais|Rationalité limitée]] -> nous avons besoin de raccourcis.
+2. **Expliquer les causes :** [[Attribution causale]] pour soi (autoprotectrice) ; [[Attribution causale|Erreur fondamentale d'attribution]] pour autrui (la personne plutôt que la situation).
 3. **Garder sa cohérence :** [[Dissonance cognitive]] -> on adapte ses idées plutôt que son comportement.
-4. **Juger vite :** [[Heuristique]], avec deux formes vues au cours, [[Stéréotype]] (groupes) et [[Effet d'ancrage]] (chiffres).
+4. **Juger vite :** [[Heuristiques et biais|Heuristique]], avec deux formes vues au cours, [[Stéréotype]] (groupes) et [[Heuristiques et biais|Effet d'ancrage]] (chiffres).
 5. **Effet en retour :** nos attentes transforment l'autre -> [[Prophétie autoréalisatrice]].
 6. Ces mêmes biais sont la cible de la guerre cognitive -> [[Influence et désinformation]].
 
 ## Concepts du chapitre
-![[Rationalité limitée#^essentiel]]
+![[Heuristiques et biais#^essentiel]]
 ![[Attribution causale#^essentiel]]
-![[Erreur fondamentale d'attribution#^essentiel]]
 ![[Dissonance cognitive#^essentiel]]
-![[Heuristique#^essentiel]]
 ![[Stéréotype#^essentiel]]
-![[Effet d'ancrage#^essentiel]]
 ![[Prophétie autoréalisatrice#^essentiel]]
 
 ## Comparaison
-| | [[Attribution causale]] (autoprotectrice) | [[Erreur fondamentale d'attribution]] | [[Stéréotype]] | [[Prophétie autoréalisatrice]] |
+| | [[Attribution causale]] (autoprotectrice) | [[Attribution causale\|Erreur fondamentale d'attribution]] | [[Stéréotype]] | [[Prophétie autoréalisatrice]] |
 |---|---|---|---|---|
 | Porte sur | Soi | Un individu | Un groupe | Un individu |
 | Mécanisme | Succès interne, échec externe | Personne > situation | Attente liée au groupe | L'attente change le traitement, donc le comportement |

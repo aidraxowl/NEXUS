@@ -32,9 +32,9 @@ tags:
 
 ## Liens
 - **Thème :** [[Systèmes de gouvernement démocratiques]]
-- **Proche de :** [[Fédéralisme]], [[Représentation proportionnelle]]
+- **Proche de :** [[Fédéralisme]], [[Système électoral]]
 - **Penseur :** [[Arend Lijphart]]
-- **Cas :** [[Formule magique]], [[Système de Westminster]]
+- **Cas :** [[Formule magique]], [[Parlementarisme et présidentialisme]]
 - **U-Fragen :** [[UF PW V03]]
 
 ## Questions de compréhension

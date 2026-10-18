@@ -35,12 +35,12 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| [[Leadership charismatique]] (côté sombre) | Identités étroites des followers | Le charisme peut alimenter le triangle |
-| [[Théorie du grand homme]] | Tout expliquer par la personne | Le triangle refuse cette explication unique |
+| [[Leadership positif\|Leadership charismatique]] (côté sombre) | Identités étroites des followers | Le charisme peut alimenter le triangle |
+| [[Théories classiques du leadership\|Théorie du grand homme]] | Tout expliquer par la personne | Le triangle refuse cette explication unique |
 
 ## Liens
 - **Thème :** [[Approches relationnelles du leadership]]
-- **Proche de :** [[Followership]] · [[Leadership charismatique]]
+- **Proche de :** [[Followership]] · [[Leadership positif]]
 - **Cas :** [[Rapport Brereton]]
 - **U-Fragen :** [[UF Lead V06]]
 
