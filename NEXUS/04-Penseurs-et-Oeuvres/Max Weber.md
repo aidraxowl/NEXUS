@@ -1,45 +1,69 @@
----
-title: "Max Weber"
-tags:
-  - type/penseur
-  - cours/pw
-dates: "1864–1920"
----
-
 > [!abstract] L'essentiel
-> **Qui :** Sociologue allemand, classique de la sociologie dont l'œuvre relève tout autant de la science politique.
-> **Idée principale :** L'action sociale est orientée vers autrui ; les valeurs (éthique protestante) peuvent expliquer des changements structurels (capitalisme) via le comportement individuel.
-> **À citer :** Weber (1922) pour l'action sociale ; Weber (1904/05) comme exemple de modèle macro-micro-macro.
+> **Qui :** Max Weber – Sociologue et économiste allemand, classique de la sociologie dont l'œuvre relève tout autant de la science politique et des théories des organisations.
+> **Idées principales :** 
+> - *Action sociale et valeurs :* L'action sociale est orientée vers autrui ; les valeurs (ex. éthique protestante) expliquent des dynamiques structurelles (capitalisme) via les comportements individuels (modèle macro-micro-macro).
+> - *Autorité et bureaucratie :* On obéit selon trois modes de légitimité (traditionnelle, charismatique, légale-rationnelle). La bureaucratie constitue la forme pure de l'autorité légale-rationnelle.
+> **À citer :** 
+> - Weber (1904/05) : exemple de modèle macro-micro-macro (*L'Éthique protestante*).
+> - Weber (1922) : définition de l'action sociale (*Wirtschaft und Gesellschaft*).
+> - Charisme : qualité d'une personnalité qui la fait apparaître comme dotée de pouvoirs exceptionnels (*Wirtschaft und Gesellschaft*, 1922).
 
 ^essentiel
 
-## Repères
-- **Discipline :** sociologie, économie, science politique
-- **Courant :** sociologie compréhensive (culturaliste)
-- **Contexte :** Allemagne impériale et Weimar ; science politique encore « en diaspora » dans les disciplines voisines
+### Repères
+- **Discipline :** Sociologie, économie, science politique
+- **Courant :** Sociologie compréhensive (culturaliste)
+- **Contexte :** Allemagne impériale et Weimar ; rationalisation de l'État et de l'économie ; science politique encore « en diaspora » dans les disciplines voisines.
 
-## Idées clés
-- [[Politique]] : l'action sociale (agir en lien avec d'autres) est la base de la définition du politique.
-- [[Microfondement]] : éthique protestante -> ascèse intramondaine -> éthique du travail -> capitalisme.
+---
 
-## Œuvres principales
-- *L'Éthique protestante et l'esprit du capitalisme* (1904/05) → [[Microfondement]]
-- *Économie et société* (1922) → [[Politique]]
+### Idées clés
 
-## Apports / Critiques
-**Apports**
-- Lien entre valeurs et structures ; méthode du « Verstehen ».
+#### 1. Action sociale & Méthodologie
+- **Politique :** L'action sociale (agir en lien avec d'autres) constitue le fondement de la définition du politique.
+- **Microfondement :** Éthique protestante $\rightarrow$ ascèse intramondaine $\rightarrow$ éthique du travail $\rightarrow$ capitalisme.
 
-**Critiques**
-- Causalité entre protestantisme et capitalisme contestée.
+#### 2. Domination & Typologie de l'autorité légitime
+- **Traditionnelle :** Fondée sur la croyance au caractère sacré des traditions anciennes (« il en a toujours été ainsi »).
+- **Charismatique :** Repose sur la dévotion à une personne perçue comme exceptionnelle. Ce type de leadership est instable et tend inévitablement à se routiniser.
+- **Légale-rationnelle :** Fondée sur la légalité des règles et le droit de donner des ordres conféré par la fonction (statuts).
 
-## Liens
-- **Thème :** [[Politique, État et science politique]], [[Processus de recherche empirico-analytique]]
-- **Proche de :** [[Herméneutique]]
+#### 3. Modèle bureaucratique
+- **Bureaucratie idéale :** Rôles spécialisés, hiérarchie explicite, recrutement et avancement au mérite, structure de carrière, règles strictes et autorité impersonnelle attachée à la fonction.
+- **Comparaison avec le Management scientifique :** Weber analyse le fondement de la légitimité (*pourquoi* l'autorité est acceptée), ce qui en fait une problématique centrale de leadership.
 
-## Questions de compréhension
-> [!question]- Pourquoi l'étude de Weber sur le capitalisme passe-t-elle par le niveau micro ?
-> Parce que le lien macro (religion -> capitalisme) ne peut pas être observé directement : il faut montrer comment les valeurs ont changé le comportement des individus.
+---
 
-## Sources
-- [[Bernauer et al. 2025]] (Kap. 1.1, 2.1, Abb. 2.1)
+### Œuvres principales
+- *L'Éthique protestante et l'esprit du capitalisme* (1904/05) $\rightarrow$ [[Microfondement]]
+- *Économie et société* / *Wirtschaft und Gesellschaft* (1922) $\rightarrow$ [[Politique]] / [[Leadership charismatique]]
+
+---
+
+### Apports / Critiques
+
+#### Apports
+- Articulation entre valeurs culturelles et structures macro-sociales ; méthode du « Verstehen » (sociologie compréhensive).
+- Modélisation de l'administration rationnelle : une armée moderne est un exemple concret proche de la bureaucratie idéale.
+
+#### Critiques
+- **Lien causal contesté :** Relation déterministe contestée entre éthique protestante et essor du capitalisme.
+- **Dysfonctionnements bureaucratiques (Robert K. Merton) :** Risque de ritualisme où les règles deviennent des fins en soi, bloquant ainsi l'adaptation et la flexibilité.
+
+---
+
+### Liens & Réseau conceptuel
+- **Thèmes :** [[Politique, État et science politique]] • [[Processus de recherche empirico-analytique]] • [[Histoire des théories du leadership]] • [[Styles de leadership positif]]
+- **Proche de :** [[Herméneutique]] • [[Frederick W. Taylor]] • [[Henri Fayol]]
+
+---
+
+### Questions de compréhension
+> [!question] Pourquoi l'étude de Weber sur le capitalisme passe-t-elle par le niveau micro ?
+> *Parce que le lien macro (religion -> capitalisme) ne peut pas être observé directement : il faut montrer comment les valeurs ont changé le comportement des individus..*
+
+---
+
+### Sources
+- Bernauer et al. 2025 (Kap. 1.1, 2.1, Abb. 2.1)
+- Bright & Cortes 2019
