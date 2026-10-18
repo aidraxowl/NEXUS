@@ -20,7 +20,7 @@ Un marché réunit les acheteurs et les vendeurs potentiels d'un bien : les prem
 ## La demande
 La [[Demande]] relie le prix d'un bien à la quantité que les acheteurs veulent et peuvent acheter. Selon la loi de la demande, ceteris paribus, une hausse du prix réduit la quantité demandée : la courbe est décroissante. La demande de marché s'obtient en additionnant horizontalement les demandes individuelles.
 
-La courbe se **déplace** lorsque change un autre déterminant : le revenu (vers la droite pour un bien normal, vers la gauche pour un [[Bien normal et bien inférieur|bien inférieur]]), le prix des biens liés ([[Substitut et complément]]), les goûts, les anticipations et la population. Seule une variation du prix du bien lui-même provoque un **mouvement le long** de la courbe.
+La courbe se **déplace** lorsque change un autre déterminant : le revenu (vers la droite pour un bien normal, vers la gauche pour un [[Demande|bien inférieur]]), le prix des biens liés ([[Demande|Substitut et complément]]), les goûts, les anticipations et la population. Seule une variation du prix du bien lui-même provoque un **mouvement le long** de la courbe.
 
 ## L'offre
 L'[[Offre]] relie le prix à la quantité que les vendeurs veulent et peuvent vendre. Selon la loi de l'offre, un prix plus élevé augmente la quantité offerte : la courbe est croissante. Elle se déplace sous l'effet du prix des inputs, de la technologie, des anticipations, du nombre de vendeurs et de facteurs naturels ou sociaux.

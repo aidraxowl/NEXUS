@@ -31,7 +31,7 @@ tags:
 | Öffentlichkeit, médias, société civile | V02 (print capitalism, coffeehouses), V09 |
 | Politique de masse, démocratie | V03 ([[Chartisme]]), V09 |
 | Nation, mobilité, mondialisation | V01, V07, V11 |
-| Hiérarchies de genre et de classe | V03 ([[Système de fabrique]]), V08, V09 |
+| Hiérarchies de genre et de classe | V03 ([[Révolution industrielle\|Système de fabrique]]), V08, V09 |
 | Science, sécularisation | V02 ([[Lumières écossaises]]), V10 |
 
 ## Exemples
@@ -44,7 +44,7 @@ tags:
 - Relie économie, société, culture et politique.
 
 **Limites**
-- Risque de **téléologie** : la modernité comme étape obligée, sur le modèle de la [[Théorie des stades]].
+- Risque de **téléologie** : la modernité comme étape obligée, sur le modèle de la [[Lumières écossaises|Théorie des stades]].
 - Eurocentrisme : le « modèle » occidental est universalisé.
 - Plusieurs aspects sont contradictoires (hiérarchies fixées **et** érodées).
 
@@ -52,7 +52,7 @@ tags:
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
 | [[Révolution industrielle]] | Un seul aspect (économique et énergétique) | Réduire la modernité à l'industrie |
-| [[Théorie des stades]] | Modèle normatif du XVIIIe | Reproduire sans le voir le schéma du « progrès linéaire » |
+| [[Lumières écossaises\|Théorie des stades]] | Modèle normatif du XVIIIe | Reproduire sans le voir le schéma du « progrès linéaire » |
 | Progrès | Jugement de valeur | Modernité ≠ amélioration automatique |
 
 ## Liens

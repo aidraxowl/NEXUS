@@ -25,7 +25,7 @@ tags:
   - Le CO de Y est l'**inverse** du CO de X (ici 1/4 kg de viande par kg de pdt).
 - **Lecture graphique** :
   - sur la [[Frontière des possibilités de production]] : la pente (en valeur absolue) = CO du bien en abscisse ;
-  - sur la [[Contrainte budgétaire]] : la pente = prix relatif = CO **sur le marché**.
+  - sur la [[Optimum du consommateur|Contrainte budgétaire]] : la pente = prix relatif = CO **sur le marché**.
 - Une FPP droite signifie un CO constant ; une FPP bombée vers l'extérieur signifie des CO croissants (ressources plus ou moins adaptées à chaque production).
 
 ## Exemples
@@ -49,7 +49,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Principes de l'économie]], [[Commerce et spécialisation]]
-- **Proche de :** [[Frontière des possibilités de production]], [[Contrainte budgétaire]], [[Avantage comparatif]]
+- **Proche de :** [[Frontière des possibilités de production]], [[Optimum du consommateur]], [[Avantage comparatif]]
 - **Penseur :** [[David Ricardo]]
 - **U-Fragen :** [[UF VWL V01]], [[UF VWL V02]]
 

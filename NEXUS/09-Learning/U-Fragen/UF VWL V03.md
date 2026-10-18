@@ -31,7 +31,7 @@ tags:
 
 > [!question]- 4. Mouvement le long de la courbe ou déplacement ? Dans quel sens ? Marché des glaces : a) le prix des glaces baisse ; b) le revenu des consommateurs augmente (bien normal) ; c) le prix des sorbets (substitut) baisse ; d) une nouvelle machine réduit le coût de production ; e) le prix du lait augmente.
 > **Réponse :** a) mouvement le long de la demande (quantité demandée ↑) et de l'offre ; b) demande -> droite ; c) demande -> gauche ; d) offre -> droite ; e) offre -> gauche (input plus cher).
-> **Concepts :** [[Demande]], [[Offre]], [[Substitut et complément]]
+> **Concepts :** [[Demande]], [[Offre]], [[Demande|Substitut et complément]]
 
 > [!question]- 5. Deux consommateurs : Q1 = 12 − 4P et Q2 = 8 − 2P. Déterminez la demande de marché.
 > **Réponse :** Addition horizontale : Q = 20 − 6P pour P ≤ 3 ; pour 3 < P ≤ 4, seul le second demande : Q = 8 − 2P.
@@ -67,4 +67,4 @@ tags:
 
 > [!question]- 13. Le revenu augmente et la demande de pâtes premier prix baisse. Quel type de bien ? Dessinez.
 > **Réponse :** Bien inférieur : la courbe de demande se déplace vers la gauche ; à l'équilibre, prix ↓ et quantité ↓.
-> **Concepts :** [[Bien normal et bien inférieur]]
+> **Concepts :** [[Demande|Bien normal et bien inférieur]]

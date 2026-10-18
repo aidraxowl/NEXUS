@@ -1,7 +1,8 @@
 ---
-title: Politikwissenschaft Grundlagen (HS26)
+title: "HS26 - Politikwissenschaft"
 aliases:
   - PW HS26
+  - Politikwissenschaft Grundlagen (HS26)
 tags:
   - type/course-map
   - cours/pw
@@ -10,33 +11,59 @@ tags:
 ---
 
 > [!info] Le cours
-> **Intitulé :** Politikwissenschaft Grundlagen · **Prof :** · **Langue :** allemand · **Examen :** [[Basispruefung 2027 - Block 1|Basisprüfung 2027 – Block 1]]
+> **Intitulé :** Politikwissenschaft Grundlagen
+> **Prof :** (à compléter)
+> **Langue :** allemand
+> **Examen :** [[Basispruefung 2027 - Block 1|Basisprüfung 2027 – Block 1]] · **Format :** (à compléter)
+> **Manuel :** Bernauer et al. 2025, *Einführung in die Politikwissenschaft*
 
-## Objectifs d'apprentissage
+## Vue d'ensemble
+```mermaid
+mindmap
+  root((Politikwissenschaft))
+    Politique et État
+      Politique
+      Institution
+      État territorial souverain
+      Empirico-analytique, herméneutique, normatif
+    Processus de recherche
+      Hypothèse et causalité
+      Échelle d'abstraction
+      Validité et fiabilité
+      Randomisation
+      Biais de sélection
+    Démocratie et autocratie
+      Démocratie
+      Autocratie
+      Électeur médian et sélectorat
+      Théorie de la modernisation
+    Systèmes de gouvernement
+      Parlementarisme et présidentialisme
+      Fédéralisme
+      Démocratie consensuelle
+      Joueur de veto
+    Élections et démocratie directe
+      Système électoral
+      Démocratie directe
+```
 
--
+## Objectifs (Lernziele)
+- (à compléter avec les objectifs officiels du cours)
 
 ## Séances
+| # | Date | Vorlesung | Note brute | U-Fragen | Thème |
+|---|---|---|---|---|---|
+| V01 | 21.09 | Einführung – Was ist Politikwissenschaft? (Kap. 1) | [[NB PW V01 - 20260921]] | [[UF PW V01]] | [[Politique, État et science politique]] |
+| V02 | 28.09 | Der Forschungsprozess (Kap. 2) | [[NB PW V02 - 20260928]] | [[UF PW V02]] | [[Processus de recherche empirico-analytique]] |
+| V03 | 05.10 | Grundformen politischer Systeme · Demokratische Regierungssysteme (Kap. 3–4) | [[NB PW V03 - 20261005]] | [[UF PW V03]] | [[Démocratie et autocratie]] · [[Systèmes de gouvernement démocratiques]] |
+| V04 | 12.10 | Wahlen und direkte Demokratie (Kap. 5) | [[NB PW V04 - 20261012]] | [[UF PW V04]] | [[Élections et démocratie directe]] |
 
-| # | Date | Chapitre du cours | Note brute | Thème |
-|---|---|---|---|---|
-| V01 |  |  | [[ ]] | [[ ]] |
-| V02 |  |  | [[ ]] | [[ ]] |
-| V03 |  |  | [[ ]] | [[ ]] |
-| V04 |  |  | [[ ]] | [[ ]] |
-| V05 |  |  | [[ ]] | [[ ]] |
-| V06 |  |  | [[ ]] | [[ ]] |
-| V07 |  |  | [[ ]] | [[ ]] |
-| V08 |  |  | [[ ]] | [[ ]] |
-| V09 |  |  | [[ ]] | [[ ]] |
-| V10 |  |  | [[ ]] | [[ ]] |
-| V11 |  |  | [[ ]] | [[ ]] |
-| V12 |  |  | [[ ]] | [[ ]] |
-| V13 |  |  | [[ ]] | [[ ]] |
-| V14 |  |  | [[ ]] | [[ ]] |
+## Chapitres (ordre du cours)
+1. [[Politique, État et science politique]] · V01
+2. [[Processus de recherche empirico-analytique]] · V02
+3. [[Démocratie et autocratie]] · V03
+4. [[Systèmes de gouvernement démocratiques]] · V03
+5. [[Élections et démocratie directe]] · V04
 
-## Examen
-
-- **Format :**
-- **Ce qui compte :**
-- **Practice Questions :** tag `cours/pw` + `type/question`
+## ⚠️ Infos examen
+- (à compléter)

@@ -39,7 +39,7 @@ tags:
 | **Demande ↓** | P ↓, Q ↓ | P ↓, Q ? | P ?, Q ↓ |
 
   « ? » = dépend de l'ampleur relative des deux déplacements.
-- L'[[Élasticité-prix de la demande]] et l'[[Élasticité-prix de l'offre]] déterminent **l'ampleur** des variations de P et Q.
+- L'[[Élasticité|Élasticité-prix de la demande]] et l'[[Élasticité|Élasticité-prix de l'offre]] déterminent **l'ampleur** des variations de P et Q.
 
 ## Exemples
 - **Militaire :** si de nombreux pays augmentent en même temps leurs achats de munitions (demande ↑) alors que les capacités de production sont limitées (offre peu élastique), le prix monte fortement et la quantité peu.
@@ -62,7 +62,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Offre et demande]]
-- **Proche de :** [[Demande]], [[Offre]], [[Structure de marché]], [[Élasticité-prix de la demande]]
+- **Proche de :** [[Demande]], [[Offre]], [[Structure de marché]], [[Élasticité]]
 - **U-Fragen :** [[UF VWL V03]], [[UF VWL V04]]
 
 ## Questions de compréhension

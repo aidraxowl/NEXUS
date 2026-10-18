@@ -32,7 +32,7 @@ tags:
 
 - **Règles de signe** :
   - effet de substitution : **toujours** vers le bien devenu relativement moins cher ;
-  - effet de revenu : dépend du type de bien ([[Bien normal et bien inférieur]]) : même sens que l'ES pour un bien normal, sens opposé pour un bien inférieur.
+  - effet de revenu : dépend du type de bien ([[Demande|Bien normal et bien inférieur]]) : même sens que l'ES pour un bien normal, sens opposé pour un bien inférieur.
 - **Bien Giffen** : bien inférieur dont l'effet de revenu (opposé) est **plus fort** que l'effet de substitution -> prix ↑ -> quantité ↑.
 - **Applications (manuel)** : hausse du salaire -> ES : le loisir coûte plus cher (travailler plus) ; ER : plus riche (plus de loisir) -> effet sur l'offre de travail ambigu. Même logique pour le taux d'intérêt et l'épargne.
 
@@ -50,7 +50,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Choix du consommateur]]
-- **Proche de :** [[Optimum du consommateur]], [[Contrainte budgétaire]], [[Courbe d'indifférence]], [[Bien normal et bien inférieur]], [[Demande]]
+- **Proche de :** [[Optimum du consommateur]], [[Demande]]
 - **U-Fragen :** [[UF VWL V05]]
 
 ## Questions de compréhension

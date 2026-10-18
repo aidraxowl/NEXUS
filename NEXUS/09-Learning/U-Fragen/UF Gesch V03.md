@@ -30,15 +30,15 @@ tags:
 
 > [!question]- 4. Distinguez transport, agricultural et industrious revolution.
 > **Réponse :** Transport : canaux et turnpike roads. Agricultural : enclosures, sélection, rendements (+59 % céréales), main-d'œuvre libérée mais petits paysans dépossédés. Industrious : hausse des salaires réels (+40 % 1700–1750) et de la demande de biens de consommation, jusque dans les couches inférieures.
-> **Concepts :** [[Préconditions de la révolution industrielle]]
+> **Concepts :** [[Révolution industrielle|Préconditions de la révolution industrielle]]
 
 > [!question]- 5. Opposez domestic work (1750) et industrial work (1850).
 > **Réponse :** Maison ≠ usine ; organisé par la famille ≠ par le propriétaire ; saisonnier ≠ toute l'année ; task oriented ≠ time oriented ; compétences larges ≠ spécialisées ; discipline souple (Saint Monday) ≠ carrot and stick.
-> **Concepts :** [[Système de fabrique]]
+> **Concepts :** [[Révolution industrielle|Système de fabrique]]
 
 > [!question]- 6. Qu'est-ce que la « carbon democracy » ?
 > **Réponse :** Thèse de Mitchell : les ouvriers du charbon (mineurs, cheminots) contrôlent des flux d'énergie concentrés ; pouvoir les interrompre leur donne une capacité politique collective, utilisée pour des revendications démocratiques. Lien avec le maintien d'une forte main-d'œuvre et de syndicats puissants en GB.
-> **Concepts :** [[Démocratie carbone]], [[Timothy Mitchell]]
+> **Concepts :** [[Démocratie carbone]], [[Démocratie carbone|Timothy Mitchell]]
 
 > [!question]- 7. Pourquoi parle-t-on d'« impérialisme de libre-échange » ?
 > **Réponse :** L'IR décolle sous protection (Corn Laws, Navigation Acts, abolis en 1846/49). Ensuite, le libre-échange profite au plus compétitif : les textiles britanniques ruinent la production indienne, et la part de l'Empire dans les exportations rejoint celle de l'Europe.
@@ -55,4 +55,4 @@ tags:
 > 3. Mais transformation réelle et sans précédent : énergie fossile (70 Mio t de charbon en 1852), système de fabrique, urbanisation, politique de masse.
 > 4. Conclusion : révolutionnaire par ses effets, évolutive par son rythme ; et liée à l'Empire (coton, débouchés, Inde).
 > Lien Erinnerungskultur possible : patrimoine industriel (Ironbridge), mémorial de Peterloo (2019), mémoire de l'esclavage derrière le coton.
-> **Concepts :** [[Révolution industrielle]], [[Préconditions de la révolution industrielle]], [[Démocratie carbone]]
+> **Concepts :** [[Révolution industrielle]], [[Révolution industrielle|Préconditions de la révolution industrielle]], [[Démocratie carbone]]

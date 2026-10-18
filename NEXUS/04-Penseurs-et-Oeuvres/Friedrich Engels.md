@@ -39,7 +39,7 @@ dates: "1820–1895"
 ## Liens
 - **Thème :** [[Industrialisation de la Grande-Bretagne]]
 - **Proche de :** [[Thomas Carlyle]] (même critique des coûts sociaux, conclusions opposées)
-- **S'oppose à :** [[Timothy Mitchell]] (classe par la culture ≠ par les flux d'énergie)
+- **S'oppose à :** [[Démocratie carbone]] (classe par la culture ≠ par les flux d'énergie)
 
 ## Questions de compréhension
 > [!question]- Pourquoi le cours appelle-t-il le récit d'Engels une « Meistererzählung » ?

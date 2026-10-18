@@ -31,7 +31,7 @@ tags:
 | Commonwealth et décolonisation | 1926 – après 1947 | Balfour Formula ; indépendance de l'Inde 1947 |
 
 - Exportations britanniques 1866–98 : la part vers l'Empire passe de 27 à 35 Mio £ et rejoint l'Europe.
-- Justification intellectuelle : la [[Théorie des stades]] transforme la prétention à dominer en **devoir de civiliser**.
+- Justification intellectuelle : la [[Lumières écossaises|Théorie des stades]] transforme la prétention à dominer en **devoir de civiliser**.
 
 ## Exemples
 - **Militaire :** Two-power standard (1889) : la Royal Navy doit égaler les deux flottes suivantes réunies. La [[Guerre des Boers]] est la 1re « imperial war », avec des troupes des dominions.
@@ -49,11 +49,11 @@ tags:
 |---|---|---|
 | Libre-échange ≠ absence d'empire | Domination informelle par le marché | Croire que le libre-échange est « anti-impérial » |
 | Libre-échange ≠ cause de l'IR | L'IR décolle sous **mercantilisme modifié** (Corn Laws, Navigation Acts) | Placer le libre-échange avant 1846 |
-| [[Théorie des stades]] | Justification intellectuelle | Confondre justification et cause |
+| [[Lumières écossaises\|Théorie des stades]] | Justification intellectuelle | Confondre justification et cause |
 
 ## Liens
 - **Thème :** [[Grande-Bretagne dans le monde]], [[Industrialisation de la Grande-Bretagne]]
-- **Proche de :** [[Théorie des stades]], [[Libéralisme]]
+- **Proche de :** [[Lumières écossaises]], [[Libéralisme]]
 - **Penseur :** [[Thomas Carlyle]] (politique coloniale agressive)
 - **Cas :** [[Guerre des Boers]], [[Désindustrialisation du textile indien]]
 - **U-Fragen :** [[UF Gesch V01]], [[UF Gesch V03]]

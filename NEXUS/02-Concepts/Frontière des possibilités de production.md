@@ -51,7 +51,7 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| [[Contrainte budgétaire]] | possibilités de **consommation** d'un ménage selon prix et revenu | confondre production (FPP) et consommation (budget) |
+| [[Optimum du consommateur\|Contrainte budgétaire]] | possibilités de **consommation** d'un ménage selon prix et revenu | confondre production (FPP) et consommation (budget) |
 | Mouvement le long vs déplacement | arbitrage vs croissance | une hausse de production d'un seul bien peut aussi faire pivoter la courbe (progrès dans un seul secteur) |
 | Point sous la courbe | inefficace, pas impossible | le décrire comme « inatteignable » |
 

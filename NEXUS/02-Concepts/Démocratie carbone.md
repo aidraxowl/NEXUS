@@ -3,6 +3,7 @@ title: "Démocratie carbone"
 aliases:
   - Kohlenstoffdemokratie
   - Carbon democracy
+  - Timothy Mitchell
 tags:
   - type/concept
   - cours/gesch
@@ -21,6 +22,8 @@ tags:
 - Cette capacité sert des revendications démocratiques qui réduisent la précarité de la vie industrielle.
 - Lien avec le cours : en GB (≠ USA dès 1865), main-d'œuvre bon marché et syndicats forts → limites de la mécanisation (acier, construction mécanique).
 - Mineurs en GB : 218 000 (1841) → 931 000 (1901).
+
+- **Auteur :** Timothy Mitchell, politologue et historien (Columbia), spécialiste de l'économie politique de l'énergie. *Carbon Democracy* (2011), p. 27 : les ouvriers sont reliés moins par la culture de classe que par les quantités de carbone qu'ils manipulent.
 
 ## Exemples
 - **Militaire :** Points de passage obligés d'un flux logistique (dépôt, nœud ferroviaire) = vulnérabilité : celui qui les tient a un levier.
@@ -43,8 +46,8 @@ tags:
 
 ## Liens
 - **Thème :** [[Industrialisation de la Grande-Bretagne]]
-- **Proche de :** [[Révolution industrielle]], [[Chartisme]], [[Système de fabrique]]
-- **Penseur :** [[Timothy Mitchell]]
+- **Proche de :** [[Révolution industrielle]], [[Chartisme]]
+- **Penseur :** —
 - **U-Fragen :** [[UF Gesch V03]]
 
 ## Questions de compréhension

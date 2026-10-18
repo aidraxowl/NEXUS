@@ -27,7 +27,7 @@ tags:
 
 > [!question]- 3. Dessinez le circuit économique : acteurs, marchés, flux réels et monétaires.
 > **Réponse :** Ménages et entreprises ; marché des biens (entreprises vendent, ménages achètent : biens -> ménages, dépenses -> entreprises) ; marché des facteurs (ménages vendent travail, capital, sol ; entreprises paient salaires, loyers/fermages, profits). Flux réels et monétaires en sens opposés.
-> **Concepts :** [[Circuit économique]]
+> **Concepts :** [[Modèle économique|Circuit économique]]
 
 > [!question]- 4. Quelles quatre notions la FPP permet-elle d'illustrer ? Comment ?
 > **Réponse :** Efficacité (être sur la courbe) ; arbitrage (se déplacer le long de la courbe) ; coût d'opportunité (pente) ; croissance (déplacement de la courbe vers l'extérieur).

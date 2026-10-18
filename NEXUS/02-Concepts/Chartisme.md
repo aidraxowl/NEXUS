@@ -54,7 +54,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Industrialisation de la Grande-Bretagne]]
-- **Proche de :** [[Conservatisme]], [[Démocratie carbone]], [[Système de fabrique]]
+- **Proche de :** [[Conservatisme]], [[Démocratie carbone]], [[Révolution industrielle]]
 - **Penseur :** [[Thomas Carlyle]]
 - **Cas :** [[Massacre de Peterloo]], [[Grande Exposition de 1851]]
 - **U-Fragen :** [[UF Gesch V03]]

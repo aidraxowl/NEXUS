@@ -33,7 +33,7 @@ Les trois derniers principes relèvent de la macroéconomie et seront approfondi
 ## Penser en économiste : les modèles
 L'économiste procède comme un scientifique : observation, théorie, nouvelle observation. Il construit des [[Modèle économique|modèles économiques]], représentations simplifiées fondées sur des postulats — en particulier *ceteris paribus* — qui distinguent les variables exogènes (données) et endogènes (expliquées). Comme une carte, un modèle n'est utile que s'il simplifie.
 
-Deux modèles servent d'introduction. Le [[Circuit économique]] montre les flux de biens, de facteurs et de monnaie entre ménages et entreprises à travers le marché des biens et celui des facteurs. La [[Frontière des possibilités de production]] montre les combinaisons maximales de deux biens qu'une économie peut produire et illustre en un seul graphique l'efficacité, l'arbitrage, le coût d'opportunité et la croissance.
+Deux modèles servent d'introduction. Le [[Modèle économique|Circuit économique]] montre les flux de biens, de facteurs et de monnaie entre ménages et entreprises à travers le marché des biens et celui des facteurs. La [[Frontière des possibilités de production]] montre les combinaisons maximales de deux biens qu'une économie peut produire et illustre en un seul graphique l'efficacité, l'arbitrage, le coût d'opportunité et la croissance.
 
 ## Le scientifique et le conseiller
 Les économistes formulent des énoncés positifs (ce qui est, vérifiable) et normatifs (ce qui devrait être, fondé sur des valeurs) : voir [[Énoncé positif et énoncé normatif]]. Quand ils recommandent une politique, ils agissent davantage en conseillers politiques qu'en scientifiques. Leurs désaccords portent soit sur des théories positives, soit sur des valeurs.

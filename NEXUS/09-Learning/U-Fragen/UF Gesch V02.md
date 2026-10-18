@@ -22,11 +22,11 @@ tags:
 
 > [!question]- 2. Expliquez les quatre concepts clés : common sense, civility, liberty, progress.
 > **Réponse :** Common sense : pragmatisme, rationalité, empirisme, en vue de l'improvement. Civility : l'homme occidental, bourgeois, cultivé et masculin comme norme. Liberty : libre expression et débat, réservés à la couche cultivée. Progress : histoire par stades, vers la société commerciale.
-> **Concepts :** [[Lumières écossaises]], [[Théorie des stades]]
+> **Concepts :** [[Lumières écossaises]], [[Lumières écossaises|Théorie des stades]]
 
 > [!question]- 3. Comment la théorie des stades mène-t-elle à un « devoir de civiliser » ?
 > **Réponse :** En classant les sociétés de la chasse au commerce, elle place l'Europe au sommet. Le Kulturvergleich impérial semble le confirmer. D'une prétention à dominer, on passe à une obligation morale de « civiliser » le monde.
-> **Concepts :** [[Théorie des stades]], [[Impérialisme britannique]]
+> **Concepts :** [[Lumières écossaises|Théorie des stades]], [[Impérialisme britannique]]
 
 > [!question]- 4. Quelles sont les trois tâches de l'État selon Smith ?
 > **Réponse :** Défense du pays ; law and order ; infrastructures que le privé ne peut fournir (transports).
