@@ -104,3 +104,18 @@ Le traçage vérifie, **à l’intérieur d’un cas**, si la chaîne causale qu
 
 - **FR :** J’étudie une quinzaine d’épisodes où un fournisseur a fait pression sur un système militaire, des cas historiques comme la France face à Israël en 1967 ou les États-Unis face à l’Iran après 1979, et des cas numériques récents comme l’exclusion de la Turquie du F-35 en 2019 ou Starlink en Ukraine en 2022, pour en tirer les conséquences pour l’IA militaire.
 - **DE:** _Ich untersuche rund 15 Episoden, in denen ein Lieferant Druck auf ein militärisches System ausübte: historische Fälle wie Frankreich gegenüber Israel 1967 oder die USA gegenüber dem Iran nach 1979 sowie neuere digitale Fälle wie den Ausschluss der Türkei aus dem F-35-Programm 2019 oder Starlink in der Ukraine 2022, um daraus Folgen für militärische KI abzuleiten._
+
+
+
+Thema 1 – Quantenbedrohung und Nachrichtendienst
+- Frage: Wie wirkt sich die nachrichtendienstliche Zusammenarbeit auf den Zeitplan der post-quantenkryptografischen Migration aus?
+- X: Nachrichtendienstliche Zusammenarbeit → Grad der Zusammenarbeit zwischen Diensten (gemessen an der Mitgliedschaft in Rahmen wie Five Eyes, NATO oder EU)
+- Y: Zeitplan der post-quantenkryptografischen Migration → offiziell festgelegte Fristen (Frühzeitigkeit und Verbindlichkeit)
+- Zusammenhang: Geteilte Informationen sind nur geschützt, wenn alle Partner migriert sind (schwächstes Glied)
+
+Thema 2 – Abhängigkeit von Lieferanten (militärische KI als Anwendungsfall)
+- Frage: Wie wirkt sich der Besitz eigener technologischer Fähigkeiten auf die Verwundbarkeit eines Staates gegenüber dem Druck seiner Lieferanten aus?
+- X: Eigene technologische Fähigkeiten → Fähigkeit, ein von einem anderen geliefertes militärisches System selbst zu übernehmen
+- Y: Verwundbarkeit gegenüber Druck → der Staat gibt dem Lieferanten nach oder verliert dauerhaft seine Fähigkeit
+- Zusammenhang: Je weniger ein Staat von seinem Lieferanten abhängt, desto weniger Druckmittel hat dieser (asymmetrische Abhängigkeit)
+
