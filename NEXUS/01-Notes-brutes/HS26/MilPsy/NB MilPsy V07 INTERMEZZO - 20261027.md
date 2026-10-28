@@ -10,7 +10,7 @@ script: ""
 lecture: ""
 ---
 
-# [[HS26 - ]] · V00 : Titel
+# [[HS26 - Militärpsychologie und -pädagogik]] · V07 : Intermezzo
 > [!tip]- Marqueurs
 > | Marqueur | Sens |
 > |---|---|

@@ -49,4 +49,4 @@ dates: "1924–2017"
 > Pas seulement le nombre de partis (six ou plus), mais la présence de partis antisystème aux positions extrêmes, qui rendent la compétition centrifuge.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.4, 7.2.1–7.2.2)
+- Bernauer et al. 2025 (Kap. 2.2.4, 7.2.1–7.2.2)

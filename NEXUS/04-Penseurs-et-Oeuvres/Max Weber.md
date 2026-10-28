@@ -68,7 +68,7 @@ dates: "1864–1920"
 
 ### Liens & Réseau conceptuel
 - **Thèmes :** [[Politique, État et science politique]] • [[Processus de recherche empirico-analytique]] • [[Histoire des théories du leadership]] • [[Styles de leadership positif]] • [[Sociologie des organisations]]
-- **Proche de :** [[Herméneutique]] • [[Frederick W. Taylor]] • [[Henri Fayol]]
+- **Proche de :** [[Herméneutique]] • Frederick W. Taylor • Henri Fayol
 
 ---
 

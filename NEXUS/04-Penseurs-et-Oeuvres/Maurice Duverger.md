@@ -34,11 +34,11 @@ dates: "1917–2014"
 
 ## Liens
 - **Thème :** [[Élections et démocratie directe]]
-- **Cas :** [[Élections britanniques de 2024]]
+- **Cas :** Élections britanniques de 2024
 
 ## Questions de compréhension
 > [!question]- Pourquoi la « loi de Duverger » est-elle contestée ?
 > Le lien existe en tendance, mais pas sous la forme déterministe d'origine.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 5.1.3)
+- Bernauer et al. 2025 (Kap. 5.1.3)

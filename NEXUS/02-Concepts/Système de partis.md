@@ -73,5 +73,5 @@ tags:
 > En institutionnalisant les clivages : les groupes en conflit s'organisent en partis reconnus et intégrés, et le conflit se règle selon des règles (élections, parlement) au lieu de menacer le système.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 7.2, 7.4)
+- Bernauer et al. 2025 (Kap. 7.2, 7.4)
 - [[NB PW V06 - 20261026]]

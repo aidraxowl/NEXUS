@@ -71,7 +71,7 @@ Trois questions : (1) obligatoire ou non ? (2) déclenché par le gouvernement ?
 - **Thème :** [[Élections et démocratie directe]]
 - **Proche de :** [[Joueur de veto]], [[Démocratie]], [[Système électoral]]
 - **Penseur :** [[George Tsebelis]]
-- **Cas :** [[Référendum sur le Brexit]], [[Démocratie athénienne]]
+- **Cas :** [[Référendum sur le Brexit]], Démocratie athénienne
 - **U-Fragen :** [[UF PW V04]]
 
 ## Questions de compréhension
@@ -85,4 +85,4 @@ Trois questions : (1) obligatoire ou non ? (2) déclenché par le gouvernement ?
 > Pour vérifier un soutien, déplacer la responsabilité d'une décision, forcer l'opposition à se positionner ou trancher une division interne (Brexit).
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 5.2, Abb. 5.5–5.7, Exkurs 5.3)
+- Bernauer et al. 2025 (Kap. 5.2, Abb. 5.5–5.7, Exkurs 5.3)

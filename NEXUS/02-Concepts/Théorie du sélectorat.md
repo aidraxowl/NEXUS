@@ -41,4 +41,4 @@ tags:
 > Grande coalition gagnante : le pouvoir se maintient par des biens publics profitant à tous plutôt que par des transferts privés à une petite élite.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.5, Exkurs 3.3)
+- Bernauer et al. 2025 (Kap. 3.5, Exkurs 3.3)

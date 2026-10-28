@@ -43,4 +43,4 @@ tags:
 > Parce qu'un pronostic fiable exige un modèle explicatif testé et retesté sur des données.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 1.4.3)
+- Bernauer et al. 2025 (Kap. 1.4.3)

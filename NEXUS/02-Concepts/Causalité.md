@@ -42,4 +42,4 @@ tags:
 > Plus le niveau de formation est élevé (UV), plus la participation électorale est forte (AV).
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.1.1)
+- Bernauer et al. 2025 (Kap. 2.1.1)

@@ -65,4 +65,4 @@ Ces styles relèvent tous du facteur **Leadership** du modèle CLM : ils portent
 
 ## Sources
 - Notes brutes : [[NB Lead V05 - 20261013]]
-- Lectures : [[Burns 1978]]
+- Lectures : Burns 1978

@@ -49,4 +49,4 @@ tags:
 > Les complices (colluders) et les conformistes (conformers).
 
 ## Sources
-- [[Padilla, Hogan & Kaiser 2007]]
+- Padilla, Hogan & Kaiser 2007

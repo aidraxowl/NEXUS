@@ -53,6 +53,6 @@ tags:
 > Le chef ne décide explicitement que ce qui est nécessaire (intention, but, cadre) ; le reste est laissé à l'initiative des subordonnés, guidée par une orientation et une compréhension de la situation communes.
 
 ## Sources
-- [[Boyd 1986]]
-- [[Vandergriff 2019]]
-- [[Avidor 2021]]
+- Boyd 1986
+- Vandergriff 2019
+- Avidor 2021

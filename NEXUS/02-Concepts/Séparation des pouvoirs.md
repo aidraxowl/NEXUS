@@ -43,4 +43,4 @@ tags:
 > Une répartition telle qu'aucun détenteur du pouvoir ne peut changer le système à lui seul.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 4.1–4.2)
+- Bernauer et al. 2025 (Kap. 4.1–4.2)

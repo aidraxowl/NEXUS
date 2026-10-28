@@ -46,7 +46,7 @@ tags:
 ## Liens
 - **Thème :** [[Histoire des théories du leadership]]
 - **Proche de :** [[Management]] · [[Modèle CLM]]
-- **Penseur :** [[Frederick W. Taylor]] · [[Henri Fayol]] · [[Max Weber]]
+- **Penseur :** Frederick W. Taylor · Henri Fayol · [[Max Weber]]
 - **Cas :** [[Études Hawthorne]]
 - **U-Fragen :** [[UF Lead V04]]
 
@@ -55,4 +55,4 @@ tags:
 > Science de chaque tâche ; sélection et formation scientifiques ; coopération ; division du travail avec la planification au management.
 
 ## Sources
-- [[Bright & Cortes 2019]]
+- Bright & Cortes 2019

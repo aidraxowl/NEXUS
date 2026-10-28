@@ -21,7 +21,7 @@ Les tags servent à **filtrer** : sur le site, cliquer sur un tag affiche toutes
 
 ## Cours
 
-`cours/pw` · `cours/prosem` · `cours/milsoz` · `cours/milpsy` · `cours/lead` · `cours/vwl` · `cours/gesch` · `cours/dc` · `cours/engl`
+`cours/pw` · `cours/prosem` · `cours/milsoz` · `cours/milpsy` · `cours/lead` · `cours/vwl` · `cours/gesch` · `cours/dc` · `cours/engl` · `cours/sport`
 
 Les codes sont les mêmes que dans les noms de fichiers (voir [[Standards-de-note]]). Une note qui sert à plusieurs cours porte plusieurs tags `cours/`.
 

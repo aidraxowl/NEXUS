@@ -50,4 +50,4 @@ tags:
 > Dans le suivi de la situation (Lageverfolgung), qui renvoie vers une nouvelle orientation.
 
 ## Sources
-- [[FSO 17]]
+- FSO 17

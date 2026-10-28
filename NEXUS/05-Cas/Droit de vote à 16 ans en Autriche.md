@@ -61,5 +61,5 @@ lieu: "Autriche"
 > Les 16–17 ans votent plus que les 18–20 ans et presque comme les plus âgés, avec des choix aussi cohérents ; l'effet à long terme n'est pas encore prouvé.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.5.1, Exkurs 6.3)
+- Bernauer et al. 2025 (Kap. 6.5.1, Exkurs 6.3)
 - [[NB PW V05 - 20261019]]

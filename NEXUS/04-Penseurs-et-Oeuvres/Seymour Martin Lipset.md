@@ -49,4 +49,4 @@ dates: "1922–2006"
 > Parce que le clivage capital-travail, le plus récent, a partout donné naissance à des partis ouvriers, qui se sont ajoutés à des systèmes déjà structurés par les clivages plus anciens.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.5, 3.6, 6.2, 7.2.3)
+- Bernauer et al. 2025 (Kap. 3.5, 3.6, 6.2, 7.2.3)

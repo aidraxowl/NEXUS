@@ -36,7 +36,7 @@ tags:
 ## Liens
 - **Thème :** [[Processus de recherche empirico-analytique]]
 - **Proche de :** [[Inférence]], [[Validité et fiabilité]]
-- **Penseur :** [[Barbara Geddes]]
+- **Penseur :** Barbara Geddes
 - **U-Fragen :** [[UF PW V02]]
 
 ## Questions de compréhension
@@ -47,4 +47,4 @@ tags:
 > Parce que la sélection excluait systématiquement les électeurs pauvres, qui votaient majoritairement Roosevelt : un grand N ne corrige pas un biais.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.7)
+- Bernauer et al. 2025 (Kap. 2.2.7)

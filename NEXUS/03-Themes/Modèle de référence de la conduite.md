@@ -64,4 +64,4 @@ Selon la [[Théorie générale des modèles]] de Stachowiak, tout modèle a troi
 
 ## Sources
 - Notes brutes : [[NB Lead V01 - 20260915]]
-- Lectures : [[Hofstetter 2023]] · [[Stachowiak 1973]]
+- Lectures : Hofstetter 2023 · Stachowiak 1973

@@ -85,4 +85,4 @@ tags:
 > Faire estimer chacun indépendamment avant toute discussion, ou générer volontairement des contre-ancres.
 
 ## Sources
-- [[NB MilPsy V04 - 20261006]] · [[NB MilPsy V05 - 20261013]] · [[NB MilPsy V06 - 20261020]] · [[NB PW V05 - 20261019]] · [[Bernauer et al. 2025]] (Kap. 6.4.2)
+- [[NB MilPsy V04 - 20261006]] · [[NB MilPsy V05 - 20261013]] · [[NB MilPsy V06 - 20261020]] · [[NB PW V05 - 20261019]] · Bernauer et al. 2025 (Kap. 6.4.2)

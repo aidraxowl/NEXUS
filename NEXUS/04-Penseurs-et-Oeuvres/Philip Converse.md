@@ -44,4 +44,4 @@ dates: "1928–2014"
 > Qu'elle est faible : on ne peut pas prédire l'attitude d'un électeur sur un thème à partir d'un autre, sauf chez les plus informés et intéressés.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.2–6.4)
+- Bernauer et al. 2025 (Kap. 6.2–6.4)

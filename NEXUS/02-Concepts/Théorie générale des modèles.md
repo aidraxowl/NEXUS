@@ -41,7 +41,7 @@ tags:
 ## Liens
 - **Thème :** [[Modèle de référence de la conduite]]
 - **Proche de :** [[Modèle CLM]]
-- **Penseur :** [[Herbert Stachowiak]] · [[George E. P. Box]]
+- **Penseur :** Herbert Stachowiak · George E. P. Box
 - **U-Fragen :** [[UF Lead V01]]
 
 ## Questions de compréhension
@@ -49,4 +49,4 @@ tags:
 > Les sujets pour lesquels le modèle vaut, l'intervalle de temps, et les opérations (mentales ou réelles) pour lesquelles il remplace l'original.
 
 ## Sources
-- [[Stachowiak 1973]]
+- Stachowiak 1973

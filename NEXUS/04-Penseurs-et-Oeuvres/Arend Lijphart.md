@@ -46,4 +46,4 @@ dates: "né en 1936"
 > Le mode d'élection du gouvernement et sa dépendance à la confiance du parlement.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.6, 4.2, 4.4, 5.1.3)
+- Bernauer et al. 2025 (Kap. 2.2.6, 4.2, 4.4, 5.1.3)

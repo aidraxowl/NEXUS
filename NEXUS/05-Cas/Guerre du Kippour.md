@@ -53,4 +53,4 @@ lieu: "Sinaï et plateau du Golan"
 > Une instruction poussée au bas échelon, des officiers formés à décider seuls selon la mission, et un réseau radio commun qui crée une compréhension partagée de la situation.
 
 ## Sources
-- [[Avidor 2021]]
+- Avidor 2021

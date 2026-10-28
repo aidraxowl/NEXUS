@@ -36,7 +36,7 @@ tags:
 ## Liens
 - **Thème :** [[Processus de recherche empirico-analytique]]
 - **Proche de :** [[Causalité]], [[Inférence]]
-- **Penseur :** [[Karl Popper]], [[George Tsebelis]]
+- **Penseur :** Karl Popper, [[George Tsebelis]]
 - **U-Fragen :** [[UF PW V01]], [[UF PW V02]]
 
 ## Questions de compréhension
@@ -44,4 +44,4 @@ tags:
 > Déterministe : une seule guerre entre deux démocraties la réfuterait.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.3)
+- Bernauer et al. 2025 (Kap. 2.2.3)

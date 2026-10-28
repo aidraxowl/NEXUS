@@ -33,7 +33,7 @@ dates: "1856–1939"
 - Introduit l'inconscient, les conflits psychiques et les mécanismes de défense
 
 **Critiques**
-- Théorie non falsifiable ([[Karl Popper]]), fondée sur des patients pathologiques
+- Théorie non falsifiable (Karl Popper), fondée sur des patients pathologiques
 
 ## Liens
 - **Thème :** [[Écoles de pensée en psychologie]]

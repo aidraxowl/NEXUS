@@ -70,7 +70,7 @@ tags:
 
 > [!question]- 14. Wie untersuchen, ob eine Wahlpflicht die Beteiligung erhöht? (S. 220)
 > **Réponse :** Comparer la participation avant et après l'introduction ou l'abolition (NL, années 1970) comme quasi-expérience, ou des pays semblables avec et sans obligation (MSSD, BE vs NL), en contrôlant les sanctions (IT sans sanction) et la tendance générale à la baisse.
-> **Concepts :** [[Most Similar Systems Design]]
+> **Concepts :** Most Similar Systems Design
 
 > [!question]- 15. Vor- und Nachteile von Proporz vs. Mehrheitswahl? (S. 221)
 > **Réponse :** PR : équité, réactivité, minorités, participation ; mais fragmentation, coalitions, responsabilité diffuse. Majoritaire : stabilité, responsabilité, alternance ; mais disproportionnalité, voix perdues, minorités exclues.

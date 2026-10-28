@@ -45,7 +45,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Systèmes de gouvernement démocratiques]]
-- **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], [[Bicaméralisme]]
+- **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], Bicaméralisme
 - **Penseur :** [[Arend Lijphart]]
 - **U-Fragen :** [[UF PW V03]]
 
@@ -54,4 +54,4 @@ tags:
 > Concurrence fiscale entre entités et joueurs de veto supplémentaires freinent l'expansion des dépenses. Mais selon Rodden, si les entités vivent de transferts ou de dette, elles externalisent leurs coûts : l'hypothèse dépend de l'autonomie fiscale.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 4.3)
+- Bernauer et al. 2025 (Kap. 4.3)

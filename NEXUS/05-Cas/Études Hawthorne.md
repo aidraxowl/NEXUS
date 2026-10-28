@@ -43,11 +43,11 @@ lieu: "Western Electric, Hawthorne Works (Cicero, Illinois)"
 
 ## Liens
 - **Thème :** [[Histoire des théories du leadership]] · [[Sociologie des organisations]]
-- **Penseurs :** [[Frederick W. Taylor]]
+- **Penseurs :** Frederick W. Taylor
 
 ## Questions de compréhension
 > [!question]- Que montre la salle de câblage ?
 > Qu'un groupe peut fixer sa propre norme de production indépendamment des incitations formelles.
 
 ## Sources
-- [[Bright & Cortes 2019]]
+- Bright & Cortes 2019

@@ -48,7 +48,7 @@ tags:
 - Rôle de l'attachement précoce et de la maturation par les relations
 
 **Limites** (Leitfrage A5a)
-- Non falsifiable : elle peut tout expliquer, donc rien ne peut la contredire ([[Karl Popper]])
+- Non falsifiable : elle peut tout expliquer, donc rien ne peut la contredire (Karl Popper)
 - Construction théorique hétéroclite (littérature, Antiquité, évolution)
 - Fondée surtout sur des patients pathologiques
 - Hypothèses de base sans cesse révisées

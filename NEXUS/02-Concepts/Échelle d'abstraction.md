@@ -43,4 +43,4 @@ tags:
 > Il est défini abstraitement (tout acteur dont l'accord est nécessaire pour changer le statu quo) et s'applique donc à des institutions très différentes.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.4, Abb. 2.5)
+- Bernauer et al. 2025 (Kap. 2.2.4, Abb. 2.5)

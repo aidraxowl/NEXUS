@@ -57,4 +57,4 @@ lieu: "35 démocraties"
 > Il fallait décider vite : les gouvernements ont agi par ordonnances exécutives en contournant les autres joueurs de veto.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2)
+- Bernauer et al. 2025 (Kap. 2.2)

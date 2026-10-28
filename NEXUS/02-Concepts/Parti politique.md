@@ -76,5 +76,5 @@ tags:
 > La représentation va du bas vers le haut ; la légitimation va du haut vers le bas : le parti explique et justifie les décisions, ce qui renforce le soutien au système.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 7, 7.1.1–7.1.2)
+- Bernauer et al. 2025 (Kap. 7, 7.1.1–7.1.2)
 - [[NB PW V06 - 20261026]]

@@ -41,4 +41,4 @@ dates: "né en 1946"
 > Parce qu'un membre exclu de la coalition a peu de chances d'être repris par un autre dirigeant : il risque de tout perdre.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.5, Exkurs 3.3)
+- Bernauer et al. 2025 (Kap. 3.5, Exkurs 3.3)

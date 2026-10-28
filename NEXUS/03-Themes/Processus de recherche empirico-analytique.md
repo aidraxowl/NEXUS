@@ -75,4 +75,4 @@ La **collecte** passe par l'enquête (attention à la désirabilité sociale), l
 
 ## Sources
 - Notes brutes : [[NB PW V02 - 20260928]]
-- Lectures : [[Bernauer et al. 2025]] (Kap. 2)
+- Lectures : Bernauer et al. 2025 (Kap. 2)

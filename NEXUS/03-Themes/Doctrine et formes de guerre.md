@@ -67,4 +67,4 @@ L'[[Auto-similarité]] désigne le fait que les mêmes structures se répètent 
 
 ## Sources
 - Notes brutes : [[NB Lead V03 - 20260929]]
-- Lectures : [[Hofstetter, Borioli & Flemming 2024]] · [[Braun & Bühlmann 2006]]
+- Lectures : Hofstetter, Borioli & Flemming 2024 · Braun & Bühlmann 2006

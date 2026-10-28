@@ -61,5 +61,5 @@ tags:
 > Le management coordonne par des structures et processus formels liés à un rôle nommé ; le leadership est une influence sociale qui repose sur l'acceptation et peut être émergent.
 
 ## Sources
-- [[Day & Antonakis 2012]]
-- [[Bright & Cortes 2019]]
+- Day & Antonakis 2012
+- Bright & Cortes 2019

@@ -54,4 +54,4 @@ tags:
 > Conclure de données agrégées à des individus : une circonscription ouvrière à faible participation ne prouve pas que les ouvriers votent moins.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.1.1, Exkurs 6.1)a
+- Bernauer et al. 2025 (Kap. 2.1.1, Exkurs 6.1)a

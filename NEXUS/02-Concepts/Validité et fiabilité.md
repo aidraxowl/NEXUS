@@ -44,4 +44,4 @@ tags:
 > Les conditions artificielles, bien contrôlées, ne se retrouvent pas forcément dans la réalité.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.5–2.2.6)
+- Bernauer et al. 2025 (Kap. 2.2.5–2.2.6)

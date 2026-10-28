@@ -90,6 +90,6 @@ tags:
 > Éducation = sens, valeurs, ordre (attitude). Instruction = sûretés d'action, de comportement, de procédure (capacité).
 
 ## Sources
-- [[Hofstetter 2023]]
+- Hofstetter 2023
 - Zaleznik (1977)
 - [[NB Lead V01 - 20260915]]

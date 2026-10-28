@@ -50,4 +50,4 @@ dates: "1930–2021"
 > Pour un électeur rationnel, la probabilité d'être décisif (p) est si faible que le bénéfice attendu (p·U) est inférieur au coût (C) : il ne devrait pas voter, alors que beaucoup votent.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.3, 6.5, 7.1.5)
+- Bernauer et al. 2025 (Kap. 6.3, 6.5, 7.1.5)

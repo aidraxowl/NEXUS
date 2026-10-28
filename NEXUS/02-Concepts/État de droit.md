@@ -40,4 +40,4 @@ tags:
 > Parce qu'une majorité peut modifier les lois pour concentrer le pouvoir de façon légale.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 4.1)
+- Bernauer et al. 2025 (Kap. 4.1)

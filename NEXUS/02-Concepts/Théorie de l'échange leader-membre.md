@@ -52,4 +52,4 @@ tags:
 > Classique : le chef a un style moyen envers tout le groupe. Réalité : il entretient des relations dyadiques différentes, d'où un in-group et un out-group.
 
 ## Sources
-- [[Graen & Uhl-Bien 1995]]
+- Graen & Uhl-Bien 1995

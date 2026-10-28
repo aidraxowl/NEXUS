@@ -63,4 +63,4 @@ tags:
 > Polity (règle informelle de composition du gouvernement), politics (processus), policy (contenu).
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 1.1, 1.3.1)
+- Bernauer et al. 2025 (Kap. 1.1, 1.3.1)

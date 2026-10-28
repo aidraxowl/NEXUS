@@ -258,7 +258,7 @@ tags:
 
 > [!question]- 60. Frage und Hypothese zur vertikalen Gewaltenteilung; Testdesign? (S. 195)
 > **Réponse :** Q : « Le fédéralisme protège-t-il mieux les minorités régionales ? » H : plus les compétences des entités sont étendues, plus la représentation politique des minorités régionales est élevée. Test : MSSD (Canada vs Royaume-Uni) ou régression sur de nombreux pays avec un indice de décentralisation et des contrôles.
-> **Concepts :** [[Fédéralisme]], [[Most Similar Systems Design]]
+> **Concepts :** [[Fédéralisme]], Most Similar Systems Design
 
 > [!question]- 61. Vor- und Nachteile föderalistischer vs. zentralistischer Systeme? (S. 195)
 > **Réponse :** + diversité et intégration, politiques différenciées, minorités régionales, efficacité (concurrence, subsidiarité), moins de concentration, plus de participation. − lenteur des compromis, opacité, responsabilité floue (Patzelt).

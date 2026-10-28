@@ -34,6 +34,7 @@ Utilisés dans les noms de fichiers (`NB PW …`) et les tags (`cours/pw`).
 | Gesch  | Geschichte                        |
 | DC     | Droit civil                       |
 | Engl   | Englisch                          |
+| Sport  | Sportgeschichte (option)          |
 
 ## Règles de nommage
 

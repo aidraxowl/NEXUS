@@ -42,4 +42,4 @@ tags:
 > Elles affichent de meilleurs résultats sociaux, environnementaux et d'égalité, moins de répression pénale, sans perte économique.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 4.4)
+- Bernauer et al. 2025 (Kap. 4.4)

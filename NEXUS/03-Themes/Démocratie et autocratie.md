@@ -77,4 +77,4 @@ La [[Théorie de la modernisation]] ([[Seymour Martin Lipset]]) explique la dém
 
 ## Sources
 - Notes brutes : [[NB PW V03 - 20261005]]
-- Lectures : [[Bernauer et al. 2025]] (Kap. 3)
+- Lectures : Bernauer et al. 2025 (Kap. 3)

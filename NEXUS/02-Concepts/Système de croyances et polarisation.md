@@ -78,5 +78,5 @@ tags:
 > Les électeurs alignent toutes leurs attitudes dans une même direction sans devenir plus extrêmes ; les camps n'ont plus de thèmes communs, ce qui accroît l'intolérance et rend les compromis difficiles.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.2–6.3)
+- Bernauer et al. 2025 (Kap. 6.2–6.3)
 - [[NB PW V05 - 20261019]]

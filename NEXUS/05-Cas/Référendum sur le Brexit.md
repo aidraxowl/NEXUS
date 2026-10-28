@@ -53,4 +53,4 @@ lieu: "Royaume-Uni"
 > Il a été déclenché par le gouvernement, pas par l'opposition ou une fraction des citoyens.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 5.2.1)
+- Bernauer et al. 2025 (Kap. 5.2.1)

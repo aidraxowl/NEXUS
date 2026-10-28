@@ -72,4 +72,4 @@ Ces instruments ne sont pas transposables tels quels. En Suisse, aucun parti ne 
 
 ## Sources
 - Notes brutes : [[NB PW V04 - 20261012]]
-- Lectures : [[Bernauer et al. 2025]] (Kap. 5)
+- Lectures : Bernauer et al. 2025 (Kap. 5)

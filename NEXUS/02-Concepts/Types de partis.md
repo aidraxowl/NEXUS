@@ -74,5 +74,5 @@ tags:
 > Meguid : une niche perd des voix si les partis mainstream reprennent son thème et ses positions. L'étude (Krause, Cohen et Abou-Chadi 2023) ne trouve aucun effet réducteur sur la droite radicale ; au niveau individuel, l'accommodation augmente même les défections vers elle.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 7.1.3)
+- Bernauer et al. 2025 (Kap. 7.1.3)
 - [[NB PW V06 - 20261026]]

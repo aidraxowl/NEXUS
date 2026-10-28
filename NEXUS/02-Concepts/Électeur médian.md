@@ -71,5 +71,5 @@ tags:
 > Acteurs rationnels à préférences unimodales sur une dimension, vote pour le plus proche, partis maximisant les voix ; pas de fidélité partisane ; deux partis en scrutin majoritaire.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.5, 7.1.5)
+- Bernauer et al. 2025 (Kap. 3.5, 7.1.5)
 - [[NB PW V06 - 20261026]]

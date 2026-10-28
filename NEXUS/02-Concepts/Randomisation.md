@@ -41,4 +41,4 @@ tags:
 > Parce que la randomisation rend les groupes comparables sur toutes les autres variables : l'effet mesuré ne peut venir que du traitement.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.6)
+- Bernauer et al. 2025 (Kap. 2.2.6)

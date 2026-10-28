@@ -71,4 +71,4 @@ Les pronostics, eux, exigent un modèle validé empiriquement : ils relèvent su
 
 ## Sources
 - Notes brutes : [[NB PW V01 - 20260921]]
-- Lectures : [[Bernauer et al. 2025]] (Kap. 1)
+- Lectures : Bernauer et al. 2025 (Kap. 1)

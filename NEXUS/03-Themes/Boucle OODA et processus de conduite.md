@@ -60,4 +60,4 @@ La [[Planification de l'action]] réglementaire (rapport d'orientation, présent
 
 ## Sources
 - Notes brutes : [[NB Lead V02 - 20260922]]
-- Lectures : [[Boyd 1986]] · [[Vandergriff 2019]] · [[Snook 2000]] · [[Avidor 2021]]
+- Lectures : Boyd 1986 · Vandergriff 2019 · Snook 2000 · Avidor 2021

@@ -41,4 +41,4 @@ tags:
 > Parce qu'il est moins coûteux de satisfaire une large base par un bien dont le coût ne dépend pas du nombre de bénéficiaires.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.5)
+- Bernauer et al. 2025 (Kap. 3.5)

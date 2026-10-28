@@ -65,4 +65,4 @@ Le [[Fédéralisme]] garantit dans la constitution que chaque niveau décide en 
 
 ## Sources
 - Notes brutes : [[NB PW V03 - 20261005]]
-- Lectures : [[Bernauer et al. 2025]] (Kap. 4)
+- Lectures : Bernauer et al. 2025 (Kap. 4)

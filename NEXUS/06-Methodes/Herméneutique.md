@@ -42,4 +42,4 @@ tags:
 > Non : elle vise aussi l'intersubjectivité, en rendant transparents le contexte et les intentions.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 1.4.2)
+- Bernauer et al. 2025 (Kap. 1.4.2)

@@ -28,7 +28,7 @@ tags:
   3. **Loi de la double quantification :** l'action pulsionnelle dépend de l'intensité du stimulus extérieur **et** de l'intensité interne de la pulsion (pulsion forte -> un stimulus faible suffit).
   4. Le stimulus déclencheur est **recherché activement** -> Comportement d'appétence.
   5. Le potentiel pulsionnel est adapté à l'environnement naturel : équilibre entre exigences du milieu et pulsions (sa rupture -> Gâtement).
-- **Cinq pulsions** ([[Konrad Lorenz]], Leitfrage A5c) : **nourriture, sexualité, agression (victoire), curiosité (sécurité), attachement**.
+- **Cinq pulsions** (Konrad Lorenz, Leitfrage A5c) : **nourriture, sexualité, agression (victoire), curiosité (sécurité), attachement**.
 ### Comportement d'appétence
 - Recherche active, et coûteuse en effort, du stimulus déclencheur : c'est l'effort de recherche qui rend la satisfaction possible -> l'instruction doit exiger un effort.
 - Chaîne : **pulsion -> appétence -> stimulus déclencheur -> action pulsionnelle -> action finale**.
@@ -72,7 +72,7 @@ tags:
 ## Liens
 - **Thème :** [[Écoles de pensée en psychologie]]
 - **Proche de :** —
-- **Penseur :** [[Konrad Lorenz]]
+- **Penseur :** Konrad Lorenz
 - **U-Fragen :** [[UF MilPsy V02]]
 
 ## Questions de compréhension

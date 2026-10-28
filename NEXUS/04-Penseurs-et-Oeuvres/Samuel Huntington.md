@@ -36,11 +36,11 @@ dates: "1927–2008"
 
 ## Liens
 - **Thème :** [[Démocratie et autocratie]]
-- **Cas :** [[Transition démocratique espagnole]]
+- **Cas :** Transition démocratique espagnole
 
 ## Questions de compréhension
 > [!question]- Quand commence la 3e vague et avec quels pays ?
 > En 1974, avec le Portugal, puis l'Espagne et la Grèce.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.6)
+- Bernauer et al. 2025 (Kap. 3.6)

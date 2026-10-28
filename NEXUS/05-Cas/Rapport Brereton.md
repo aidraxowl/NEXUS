@@ -49,4 +49,4 @@ lieu: "Afghanistan / Australie"
 > Leaders toxiques (normes de violence, domination), followers complices ou conformistes, environnement favorable (isolement, rotations répétées, manque de contrôle et de redevabilité).
 
 ## Sources
-- [[Rapport Brereton 2020]]
+- Rapport Brereton 2020

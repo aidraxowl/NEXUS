@@ -63,5 +63,5 @@ tags:
 > Pensée critique et indépendante vs dépendante et non critique ; comportement actif vs passif.
 
 ## Sources
-- [[Kelley 1988]]
-- [[Chaleff 1995]]
+- Kelley 1988
+- Chaleff 1995

@@ -41,4 +41,4 @@ tags:
 > Le nombre d'infections : la pression du problème influence aussi la sévérité du lockdown.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2.3)
+- Bernauer et al. 2025 (Kap. 2.2.3)

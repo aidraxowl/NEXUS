@@ -25,7 +25,7 @@ tags:
   5. Les **expériences animales** renseignent sur les mécanismes humains.
 - **Black Box :** ce qui se passe entre stimulus et réponse n'est pas observable, donc pas étudié.
 - **ABC du behavioriste** (Leitfrage A5b) : **A**ntecedent (conditions qui précèdent) -> **B**ehavior (réponse) -> **C**onsequence (ce qui suit). Un comportement renforcé devient plus probable dans des conditions semblables.
-- **Représentants :** [[Ivan Pavlov]] (conditionnement classique), Thorndike (essais et erreurs), [[B. F. Skinner]] (conditionnement opérant).
+- **Représentants :** Ivan Pavlov (conditionnement classique), Thorndike (essais et erreurs), B. F. Skinner (conditionnement opérant).
 
 ## Exemples
 - **Militaire (ABC) :** A : le chef de section annonce un contrôle du cantonnement. B : le soldat range son matériel. C : la sortie est maintenue -> le rangement devient plus probable avant les prochains contrôles.
@@ -49,8 +49,8 @@ tags:
 
 ## Liens
 - **Thème :** [[Écoles de pensée en psychologie]]
-- **Proche de :** [[Conditionnement classique]], [[Conditionnement opérant]]
-- **Penseur :** John B. Watson, [[Ivan Pavlov]], [[B. F. Skinner]]
+- **Proche de :** Conditionnement classique, Conditionnement opérant
+- **Penseur :** John B. Watson, Ivan Pavlov, B. F. Skinner
 - **U-Fragen :** [[UF MilPsy V02]]
 
 ## Questions de compréhension

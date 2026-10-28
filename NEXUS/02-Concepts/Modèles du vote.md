@@ -74,5 +74,5 @@ tags:
 > Dealignment : les variables de long terme (classe, religion, ID) perdent leur influence. Realignment : elles sont remplacées par d'autres variables de long terme, de nouveaux alignements se forment.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.5.2)
+- Bernauer et al. 2025 (Kap. 6.5.2)
 - [[NB PW V05 - 20261019]]

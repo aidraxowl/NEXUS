@@ -50,4 +50,4 @@ tags:
 > Dans les structures et processus ; l'éducation qui transmet l'ordre.
 
 ## Sources
-- [[Hofstetter 2023]]
+- Hofstetter 2023

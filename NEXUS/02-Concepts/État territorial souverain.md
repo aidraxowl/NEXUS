@@ -62,7 +62,7 @@ tags:
 ## Liens
 - **Thème :** [[Politique, État et science politique]]
 - **Proche de :** [[Système politique]], [[Institution]]
-- **Penseur :** [[Niccolò Machiavelli]]
+- **Penseur :** Niccolò Machiavelli
 - **U-Fragen :** [[UF PW V01]]
 
 ## Questions de compréhension
@@ -76,4 +76,4 @@ tags:
 > Le découplage, après 1945 et surtout en 1960, entre le droit à l'indépendance et la capacité d'organiser un État.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 1.2)
+- Bernauer et al. 2025 (Kap. 1.2)

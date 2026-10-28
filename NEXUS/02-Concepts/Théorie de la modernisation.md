@@ -51,4 +51,4 @@ tags:
 > De n'avoir observé que les passages à la démocratie, sans les effondrements ; or la richesse joue surtout sur la survie des démocraties.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.6.2)
+- Bernauer et al. 2025 (Kap. 3.6.2)

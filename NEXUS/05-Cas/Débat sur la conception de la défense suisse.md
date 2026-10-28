@@ -44,4 +44,4 @@ lieu: "Suisse"
 > Mobiles : victoire, anéantissement de l'adversaire. Statiques : usure et gain de temps.
 
 ## Sources
-- [[Braun & Bühlmann 2006]]
+- Braun & Bühlmann 2006

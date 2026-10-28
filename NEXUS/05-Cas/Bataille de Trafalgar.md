@@ -55,4 +55,4 @@ lieu: "Au large du cap Trafalgar (Espagne)"
 > Les deux : plan écrit et rôles (structure) ; confiance et proximité avec ses capitaines (considération).
 
 ## Sources
-- [[Nicolas 1846]]
+- Nicolas 1846

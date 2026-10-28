@@ -43,4 +43,4 @@ dates: "1917–2014"
 > Objets : communauté politique, régime, autorités. Types : diffus (long terme, identité et confiance) et spécifique (court terme, output des autorités).
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.1.3)
+- Bernauer et al. 2025 (Kap. 6.1.3)

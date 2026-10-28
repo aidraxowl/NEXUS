@@ -60,8 +60,8 @@ tags:
 ## Liens
 - **Thème :** [[Démocratie et autocratie]]
 - **Proche de :** [[Validité et fiabilité]], [[Échelle d'abstraction]], [[Séparation des pouvoirs]], [[Démocratie consensuelle]]
-- **Penseur :** [[Robert Dahl]], [[Joseph Schumpeter]], [[Adam Przeworski]]
-- **Cas :** [[Démocratie athénienne]], [[Recul démocratique en Hongrie]]
+- **Penseur :** Robert Dahl, Joseph Schumpeter, [[Adam Przeworski]]
+- **Cas :** Démocratie athénienne, Recul démocratique en Hongrie
 - **U-Fragen :** [[UF PW V03]]
 
 ## Questions de compréhension
@@ -72,4 +72,4 @@ tags:
 > Les régimes hybrides de la zone grise : chaque indice pondère différemment élections, libertés et institutions.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.2, 3.4, Abb. 3.3)
+- Bernauer et al. 2025 (Kap. 3.2, 3.4, Abb. 3.3)

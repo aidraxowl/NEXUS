@@ -41,4 +41,4 @@ dates: "1927–1997"
 - **Cas :** [[Guerre du Kippour]]
 
 ## Sources
-- [[Boyd 1986]]
+- Boyd 1986

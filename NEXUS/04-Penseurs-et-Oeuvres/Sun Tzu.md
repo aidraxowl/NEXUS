@@ -31,4 +31,4 @@ dates: "Ve siècle av. J.-C. (traditionnellement)"
 - **Proche de :** [[John Boyd]]
 
 ## Sources
-- [[Sun Tzu – L'Art de la guerre]]
+- Sun Tzu – L'Art de la guerre

@@ -51,4 +51,4 @@ tags:
 > Liberté d'action (moins de restrictions qu'une décision explicite) et rapidité (intégration des changements en temps réel) -> agilité.
 
 ## Sources
-- [[Hofstetter 2023]]
+- Hofstetter 2023

@@ -46,4 +46,4 @@ lieu: Crimée, Chine, Soudan (Khartoum)
 > Des résultats mesurables de ses missions (objectifs atteints, pertes, respect de la mission), pas sa réputation ou les récits héroïques.
 
 ## Sources
-- [[Strachey 1918]]
+- Strachey 1918

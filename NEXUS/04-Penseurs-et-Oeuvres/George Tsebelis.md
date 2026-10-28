@@ -42,4 +42,4 @@ dates: ""
 > S'il est situé entre les autres (absorbé), son accord est déjà acquis pour tout changement acceptable par eux.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2, 4.4, 5.2)
+- Bernauer et al. 2025 (Kap. 2.2, 4.4, 5.2)

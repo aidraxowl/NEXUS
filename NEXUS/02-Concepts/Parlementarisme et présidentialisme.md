@@ -81,8 +81,8 @@ tags:
 ## Liens
 - **Thème :** [[Systèmes de gouvernement démocratiques]]
 - **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], [[Démocratie consensuelle]], [[Système électoral]]
-- **Penseur :** [[Arend Lijphart]], [[Juan Linz]], [[José Antonio Cheibub]]
-- **Cas :** [[Cohabitation en France]], [[Formule magique]]
+- **Penseur :** [[Arend Lijphart]], Juan Linz, José Antonio Cheibub
+- **Cas :** Cohabitation en France, [[Formule magique]]
 - **U-Fragen :** [[UF PW V03]]
 
 ## Questions de compréhension
@@ -99,4 +99,4 @@ tags:
 > Il dirige seul un gouvernement à parti unique issu d'un scrutin majoritaire ; en Italie, les coalitions donnent du poids aux ministres des partis partenaires.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 4.2.1–4.2.5, Abb. 4.2)
+- Bernauer et al. 2025 (Kap. 4.2.1–4.2.5, Abb. 4.2)

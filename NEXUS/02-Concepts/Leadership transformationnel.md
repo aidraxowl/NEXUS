@@ -55,4 +55,4 @@ tags:
 > Influence idéalisée, motivation inspirante, stimulation intellectuelle, considération individualisée.
 
 ## Sources
-- [[Burns 1978]]
+- Burns 1978

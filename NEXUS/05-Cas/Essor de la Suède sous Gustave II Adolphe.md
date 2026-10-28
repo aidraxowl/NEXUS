@@ -53,4 +53,4 @@ lieu: Suède, Saint-Empire
 > Carlyle : il a intégré et risqué ; Spencer : il a hérité des réformes, d'un État géré par Oxenstierna et de subsides. Les deux lectures sont possibles, d'où la faiblesse explicative de la théorie.
 
 ## Sources
-- [[Roberts 1956]] · [[Parker 1988]]
+- Roberts 1956 · Parker 1988

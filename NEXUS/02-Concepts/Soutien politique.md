@@ -83,5 +83,5 @@ tags:
 > Spécifique : « Êtes-vous satisfait du travail du gouvernement ? ». Diffus : « Êtes-vous satisfait du fonctionnement de la démocratie dans votre pays ? » ou l'identification au pays. Confiance dans le parlement : intermédiaire.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.1)
+- Bernauer et al. 2025 (Kap. 6.1)
 - [[NB PW V05 - 20261019]]

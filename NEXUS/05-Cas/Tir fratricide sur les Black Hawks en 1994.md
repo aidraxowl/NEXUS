@@ -48,4 +48,4 @@ lieu: "Nord de l'Irak (zone d'exclusion aérienne)"
 > Parce qu'elle mène directement à « pourquoi la mauvaise décision ? » et attribue la faute à l'individu en ignorant les facteurs de situation.
 
 ## Sources
-- [[Snook 2000]]
+- Snook 2000

@@ -53,5 +53,5 @@ tags:
 > On cesse de chercher la mauvaise décision d'un individu pour comprendre comment le contexte a façonné le sens que les acteurs donnaient à la situation (moins d'erreur d'attribution).
 
 ## Sources
-- [[Weick 1993]]
-- [[Snook 2000]]
+- Weick 1993
+- Snook 2000

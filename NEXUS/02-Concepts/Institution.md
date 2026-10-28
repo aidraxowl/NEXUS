@@ -53,7 +53,7 @@ tags:
 ## Liens
 - **Thème :** [[Politique, État et science politique]] · [[Institutions de la société]]
 - **Proche de :** [[Politique]], [[Système politique]], [[Séparation des pouvoirs]], [[Norme sociale]], [[Organisation]]
-- **Penseur :** [[Douglass North]] · [[Max Weber]] (action rationnelle en valeur ≠ en finalité)
+- **Penseur :** Douglass North · [[Max Weber]] (action rationnelle en valeur ≠ en finalité)
 - **U-Fragen :** [[UF PW V01]] · [[UF MilSoz V05]]
 
 ## Questions de compréhension
@@ -64,5 +64,5 @@ tags:
 > Époque (traditionnelle ≠ moderne) ; type d'action (wertrational ≠ zweckrational) ; naissance (spontanée possible ≠ stratégique) ; mécanisme (habitualisation ≠ fonctionnalisation) ; attente (similitude ≠ différenciation des rôles). Point commun : intégration.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 1.1)
+- Bernauer et al. 2025 (Kap. 1.1)
 - [[NB MilSoz V05 - 20261019]] ; Gukenbiehl 2006 ; Feldmann 2005

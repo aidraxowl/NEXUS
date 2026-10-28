@@ -43,7 +43,7 @@ tags:
 ## Liens
 - **Thème :** [[Politique, État et science politique]]
 - **Proche de :** [[Hypothèse]], [[Causalité]], [[Analyse normative]]
-- **Penseur :** [[Niccolò Machiavelli]]
+- **Penseur :** Niccolò Machiavelli
 - **U-Fragen :** [[UF PW V01]], [[UF PW V02]]
 
 ## Questions de compréhension
@@ -51,4 +51,4 @@ tags:
 > Systématique, généralisation, objectivité, fiabilité (aussi : validité, mécanismes causaux, transparence).
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 1.4.1, Kap. 2)
+- Bernauer et al. 2025 (Kap. 1.4.1, Kap. 2)

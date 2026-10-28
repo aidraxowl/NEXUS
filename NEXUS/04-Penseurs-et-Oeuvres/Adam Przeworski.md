@@ -37,7 +37,7 @@ dates: "né en 1940"
 
 ## Liens
 - **Thème :** [[Démocratie et autocratie]]
-- **Proche de :** [[Joseph Schumpeter]]
+- **Proche de :** Joseph Schumpeter
 - **S'oppose à :** [[Seymour Martin Lipset]] (thèse endogène)
 
 ## Questions de compréhension
@@ -45,4 +45,4 @@ dates: "né en 1940"
 > Dans un pays riche, un coup d'État coûte aux élites plus qu'il ne leur rapporte.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.2, 3.6, 4.2.5)
+- Bernauer et al. 2025 (Kap. 3.2, 3.6, 4.2.5)

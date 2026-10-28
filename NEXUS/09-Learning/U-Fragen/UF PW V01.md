@@ -22,7 +22,7 @@ tags:
 
 > [!question]- 2. Was ist ein Choice Experiment? Beispiel und Zweck? (S. 28)
 > **Réponse :** Enquête expérimentale : un échantillon représentatif compare des paires de paquets de mesures dont les éléments sont combinés au hasard et indique sa préférence. Ex. : désengorger un centre-ville (parking, zones 30, zones piétonnes, prix des TP). Utile pour trouver des mesures à la fois efficaces et acceptables et estimer l'effet causal de chaque mesure sur l'acceptation.
-> **Concepts :** [[Randomisation]], [[Expérience]]
+> **Concepts :** [[Randomisation]], Expérience
 
 > [!question]- 3. Definieren Sie den Begriff „Politik“. (S. 29)
 > **Réponse :** Action sociale orientée vers des décisions et des mécanismes de pilotage généralement contraignants qui règlent la vie en commun.

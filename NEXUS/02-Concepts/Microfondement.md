@@ -41,4 +41,4 @@ tags:
 > Elles expliquent par des structures, qui ne peuvent pas agir ; il faut donc montrer comment ces structures modifient le comportement d'individus dont l'agrégation produit l'effet.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.1.1, Abb. 2.1)
+- Bernauer et al. 2025 (Kap. 2.1.1, Abb. 2.1)

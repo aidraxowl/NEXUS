@@ -76,5 +76,5 @@ tags:
 > Parce qu'il traverse les anciens clivages : les perdants se trouvent aussi bien chez les ouvriers peu qualifiés que chez les entreprises protégées, ce qui ouvre la place à de nouveaux partis.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.2, 7.2.3)
+- Bernauer et al. 2025 (Kap. 6.2, 7.2.3)
 - [[NB PW V05 - 20261019]] · [[NB PW V06 - 20261026]]

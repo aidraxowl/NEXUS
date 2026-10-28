@@ -38,4 +38,4 @@ dates: "né en 1936"
 - **Cas :** [[Tir fratricide sur les Black Hawks en 1994]]
 
 ## Sources
-- [[Weick 1993]]
+- Weick 1993

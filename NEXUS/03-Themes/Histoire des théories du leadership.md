@@ -60,4 +60,4 @@ Comme le comportement s'observe et s'entraîne, la recherche s'est ensuite inté
 
 ## Sources
 - Notes brutes : [[NB Lead V04 - 20261006]]
-- Lectures : [[Bright & Cortes 2019]] · [[Day & Antonakis 2012]]
+- Lectures : Bright & Cortes 2019 · Day & Antonakis 2012

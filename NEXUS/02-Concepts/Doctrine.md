@@ -50,4 +50,4 @@ tags:
 > La bonne montre comment agir avec succès (elle soutient) ; la mauvaise prescrit ce qu'il faut faire (elle restreint).
 
 ## Sources
-- [[Hofstetter 2023]]
+- Hofstetter 2023

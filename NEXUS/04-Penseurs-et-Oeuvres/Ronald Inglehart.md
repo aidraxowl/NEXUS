@@ -52,4 +52,4 @@ dates: "1934–2021"
 
 ## Sources
 - [[NB MilSoz V02 - 20260928]]
-- [[Bernauer et al. 2025]] (Kap. 6.2.5, 7.2.3)
+- Bernauer et al. 2025 (Kap. 6.2.5, 7.2.3)

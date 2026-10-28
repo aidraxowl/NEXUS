@@ -66,5 +66,5 @@ lieu: "Suisse"
 > La perte de profil : l'aile conservatrice part vers la SVP, l'aile chrétienne-sociale vers le PS.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 7.1.3, 7.1.6)
+- Bernauer et al. 2025 (Kap. 7.1.3, 7.1.6)
 - [[NB PW V06 - 20261026]]

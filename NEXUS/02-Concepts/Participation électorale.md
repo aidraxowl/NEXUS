@@ -85,5 +85,5 @@ tags:
 > Enquête représentative (idéalement panel) mesurant les formes de participation par âge ; comparer jeunes et âgés en contrôlant éducation et intérêt ; panel pour séparer effet d'âge (cycle de vie) et effet de génération.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.5.1, Exkurs 6.2–6.3)
+- Bernauer et al. 2025 (Kap. 6.5.1, Exkurs 6.2–6.3)
 - [[NB PW V05 - 20261019]]

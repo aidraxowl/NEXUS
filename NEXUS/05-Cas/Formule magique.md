@@ -53,4 +53,4 @@ lieu: "Suisse"
 > La composition du Conseil fédéral suit une clé partisane stable plutôt qu'une majorité gagnante.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 4.2.4, Kap. 7.4)
+- Bernauer et al. 2025 (Kap. 4.2.4, Kap. 7.4)

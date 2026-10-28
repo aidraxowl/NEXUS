@@ -46,4 +46,4 @@ tags:
 > Universelles, égales, libres, directes, secrètes et régulières.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 5.1.1)
+- Bernauer et al. 2025 (Kap. 5.1.1)

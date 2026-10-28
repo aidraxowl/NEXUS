@@ -16,9 +16,9 @@ tags:
 ^essentiel
 
 ## Explication
-- **Point de départ :** [[Abraham Maslow]] (1954) reproche à la psychologie d'avoir étudié surtout la moitié sombre de l'humain (maladies, fautes) et pas ses potentiels ni ses vertus.
+- **Point de départ :** Abraham Maslow (1954) reproche à la psychologie d'avoir étudié surtout la moitié sombre de l'humain (maladies, fautes) et pas ses potentiels ni ses vertus.
 - **Thèmes :** créativité, amour, soi, croissance, réalisation de soi, valeurs, autonomie.
-- **[[Carl Rogers]] :** l'individu a un potentiel énorme pour se comprendre et changer ; il se libère dans un climat psychologique favorable.
+- **Carl Rogers :** l'individu a un potentiel énorme pour se comprendre et changer ; il se libère dans un climat psychologique favorable.
 - **Quatre hypothèses :** l'humain est plus que la somme de ses parties ; il tend à développer ses possibilités ; il peut choisir (autonome) ; il existe dans les relations.
 - **Image de l'homme :** bon par nature, actif, capable de choisir sa voie, conscient et orienté vers des buts, en quête de changement et de réalisation de soi.
 - **Histoire :** États-Unis années 1950–60, Europe années 1970 ; base de la psychologie positive (Seligman, années 1990).
@@ -44,7 +44,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Écoles de pensée en psychologie]]
-- **Penseur :** [[Abraham Maslow]], [[Carl Rogers]]
+- **Penseur :** Abraham Maslow, Carl Rogers
 - **U-Fragen :** [[UF MilPsy V02]]
 
 ## Questions de compréhension

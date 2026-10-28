@@ -42,4 +42,4 @@ tags:
 > La force de l'input des citoyens et le degré de séparation et de contrôle réciproque des trois pouvoirs.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.1, Abb. 3.1)
+- Bernauer et al. 2025 (Kap. 3.1, Abb. 3.1)

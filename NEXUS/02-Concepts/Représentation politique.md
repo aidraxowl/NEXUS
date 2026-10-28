@@ -67,5 +67,5 @@ tags:
 > Dans les systèmes à gouvernement d'un seul parti (souvent majoritaires), car l'électeur sait clairement qui est responsable ; en coalition, la responsabilité se dilue et le vote prospectif prend plus de place.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.6)
+- Bernauer et al. 2025 (Kap. 6.6)
 - [[NB PW V05 - 20261019]]

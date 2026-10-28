@@ -88,7 +88,7 @@ tags:
 - **Thème :** [[Élections et démocratie directe]]
 - **Proche de :** [[Droit de vote]], [[Démocratie consensuelle]], [[Parlementarisme et présidentialisme]]
 - **Penseur :** [[Maurice Duverger]], [[Arend Lijphart]]
-- **Cas :** [[Élections britanniques de 2024]]
+- **Cas :** Élections britanniques de 2024
 - **U-Fragen :** [[UF PW V04]]
 
 ## Questions de compréhension
@@ -105,4 +105,4 @@ tags:
 > Pour éviter qu'un trop grand nombre de partis n'entre au parlement et ne rende les majorités instables.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 5.1.2, 5.1.3)
+- Bernauer et al. 2025 (Kap. 5.1.2, 5.1.3)

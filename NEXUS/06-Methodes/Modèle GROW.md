@@ -49,4 +49,4 @@ tags:
 > Goal (SMART), Reality, Options, Way Forward.
 
 ## Sources
-- [[Whitmore 1992]]
+- Whitmore 1992

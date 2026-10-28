@@ -48,4 +48,4 @@ tags:
 > Dans la doctrine ; la conduite par objectifs (Auftragstaktik).
 
 ## Sources
-- [[Hofstetter 2023]]
+- Hofstetter 2023

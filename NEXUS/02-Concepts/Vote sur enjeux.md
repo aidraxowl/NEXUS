@@ -72,5 +72,5 @@ tags:
 > Dans la proximité, la seule distance compte et les partis gagnent en se rapprochant du centre ; dans le directionnel, un parti centriste offre peu d'utilité car il n'indique pas clairement une direction.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 6.5.3–6.5.4, Exkurs 6.5, 6.6.2)
+- Bernauer et al. 2025 (Kap. 6.5.3–6.5.4, Exkurs 6.5, 6.6.2)
 - [[NB PW V05 - 20261019]]

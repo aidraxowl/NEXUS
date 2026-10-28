@@ -42,4 +42,4 @@ dates: "1689–1755"
 > Le régime présidentiel américain.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 4.2)
+- Bernauer et al. 2025 (Kap. 4.2)

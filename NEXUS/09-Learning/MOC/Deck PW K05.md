@@ -192,7 +192,7 @@ flowchart LR
 
 ## Directe, semi-directe, représentative
 
-→ [[Démocratie semi-directe]]
+→ Démocratie semi-directe
 
 | Forme | Exemple |
 |---|---|

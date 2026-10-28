@@ -83,5 +83,5 @@ tags:
 > Plus l'ENP du gouvernement est élevé, plus la dette augmente (chaque partenaire exige des dépenses pour sa clientèle, personne n'assume le coût total). Test : panel de cantons ou Länder (contrôle de l'hétérogénéité nationale), dette comme variable dépendante, ENP comme indépendante, contrôles (conjoncture, démographie), effets fixes.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 7.2.1, 7.3)
+- Bernauer et al. 2025 (Kap. 7.2.1, 7.3)
 - [[NB PW V06 - 20261026]]

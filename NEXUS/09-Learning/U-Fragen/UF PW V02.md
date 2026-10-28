@@ -134,7 +134,7 @@ tags:
 
 > [!question]- 30. Was ist ein Most Similar Systems Design? (S. 98)
 > **Réponse :** Comparer des cas très semblables sur les variables tierces mais différents sur X et Y ; ex. Canada vs Royaume-Uni pour l'effet du fédéralisme sur le déficit.
-> **Concepts :** [[Most Similar Systems Design]]
+> **Concepts :** Most Similar Systems Design
 
 > [!question]- 31. Was bedeutet selection bias? (S. 99–100)
 > **Réponse :** Distorsion systématique des résultats par le choix des cas ou de la période (Literary Digest 1936 ; Hirschman sur le Chili).

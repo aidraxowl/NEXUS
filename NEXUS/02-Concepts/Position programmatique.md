@@ -84,5 +84,5 @@ tags:
 > Elle écrase la multidimensionnalité : le sociétal (GAL-TAN), l'environnement ou l'Europe ne s'alignent pas forcément sur l'économique.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 7.1.4)
+- Bernauer et al. 2025 (Kap. 7.1.4)
 - [[NB PW V06 - 20261026]]

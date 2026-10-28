@@ -51,4 +51,4 @@ tags:
 > L'émergence : il montre qui prend la direction et comment le groupe réagit, pas la performance au commandement.
 
 ## Sources
-- [[Day & Antonakis 2012]]
+- Day & Antonakis 2012

@@ -45,4 +45,4 @@ tags:
 > Hétérogènes : leurs points idéaux sont plus éloignés, le winset est plus petit.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 2.2, Kap. 4.4)
+- Bernauer et al. 2025 (Kap. 2.2, Kap. 4.4)

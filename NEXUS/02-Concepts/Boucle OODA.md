@@ -55,5 +55,5 @@ tags:
 > Parce qu'elle filtre ce qu'on observe, prépare les décisions et guide directement l'action de manière implicite ; elle est façonnée par culture, expérience et instruction.
 
 ## Sources
-- [[Boyd 1986]]
-- [[Vandergriff 2019]]
+- Boyd 1986
+- Vandergriff 2019

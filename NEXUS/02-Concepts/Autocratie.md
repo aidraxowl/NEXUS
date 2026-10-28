@@ -38,7 +38,7 @@ tags:
 - **Thème :** [[Démocratie et autocratie]]
 - **Proche de :** [[Démocratie]], [[Théorie du sélectorat]]
 - **Penseur :** Hannah Arendt
-- **Cas :** [[Régime militaire argentin]]
+- **Cas :** Régime militaire argentin
 - **U-Fragen :** [[UF PW V03]]
 
 ## Questions de compréhension
@@ -46,4 +46,4 @@ tags:
 > Les élections ne permettent pas d'alternance réelle : candidatures filtrées et pouvoir suprême non électif ; c'est un régime à parti/élite dominant.
 
 ## Sources
-- [[Bernauer et al. 2025]] (Kap. 3.3)
+- Bernauer et al. 2025 (Kap. 3.3)
