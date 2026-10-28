@@ -19,11 +19,13 @@ tags:
 - Chaîne : attente -> comportement du chef -> comportement du subordonné -> confirmation apparente.
 - Rosenthal & Jacobson 1968 (Pygmalion à l'école) ; Eden 1990 (Pygmalion en management).
 - Le même mécanisme joue en positif : la confiance accordée élève la performance.
+- Le cours insiste : particulièrement pertinente en **conduite, instruction et évaluation des prestations** (V04, V06).
+- Souvent alimentée par un [[Stéréotype]] ou un [[Attribution causale|biais de correspondance]] : l'étiquette posée sur une première impression guide ensuite le traitement.
 
 ## Liens
 - **Thème :** [[Jugement et décision]]
-- **Proche de :** [[Stéréotype]]
-- **U-Fragen :** [[UF MilPsy V04]]
+- **Proche de :** [[Stéréotype]], [[Attribution causale]]
+- **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V06]]
 
 ## Sources
-- [[NB MilPsy V04 - 20261006]]
+- [[NB MilPsy V04 - 20261006]] · [[NB MilPsy V06 - 20261020]]

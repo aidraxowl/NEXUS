@@ -35,7 +35,7 @@ tags:
 - **Où elle est nécessaire :**
   - En défense : situation modifiée, obstacles imprévus, occasions, déplacement de l'effort principal.
   - En instruction : prérequis différents, progrès plus rapide ou plus lent, méthode inefficace, déplacement du centre de gravité vers les lacunes.
-- **Ce qui la freine :** stress, manque de sommeil, charge émotionnelle (Diamond 2013).
+- **Ce qui la freine :** stress, manque de sommeil, charge émotionnelle (Diamond 2013). Confirmé par Shields et al. 2016 (méta-analyse, V06) : le stress aigu dégrade en moyenne la flexibilité cognitive et la mémoire de travail ([[Stress aigu]]).
 
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
@@ -45,7 +45,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Pensée et action adaptatives]]
-- **Proche de :** [[Automatisation]]
+- **Proche de :** [[Automatisation]], [[Stress aigu]]
 - **U-Fragen :** [[UF MilPsy V05]]
 
 ## Questions de compréhension

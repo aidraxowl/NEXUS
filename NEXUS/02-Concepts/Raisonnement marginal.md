@@ -20,7 +20,7 @@ tags:
 - ==marginal== = à la marge, petit ajustement d'un plan existant (pas un choix tout ou rien).
 - **Règle** : faire une unité de plus tant que **bénéfice marginal > coût marginal** ; s'arrêter quand ils sont égaux.
 - **Incitations** (principe 4) : si un prix, une taxe ou une subvention modifie le coût ou le bénéfice marginal, le point d'arrêt change -> le comportement change. C'est pourquoi les politiques publiques ont des effets (voulus ou non).
-- Ce raisonnement revient partout : TMS et optimum du consommateur ([[Optimum du consommateur]]), coût marginal du producteur (V07–V08), effets d'une taxe (V09).
+- Ce raisonnement revient partout : TMS et optimum du consommateur ([[Optimum du consommateur]]), coût marginal du producteur ([[Courbes de coûts]], V07–V08), effets d'une taxe (V09).
 
 ## Exemples
 - **Militaire :** ajouter un exercice de plus à une journée d'instruction : utile tant que le gain de savoir-faire dépasse la fatigue et le temps pris à d'autres matières.
@@ -42,7 +42,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Principes de l'économie]]
-- **Proche de :** [[Coût d'opportunité]], [[Optimum du consommateur]]
+- **Proche de :** [[Coût d'opportunité]], [[Optimum du consommateur]], [[Courbes de coûts]], [[Efficacité allocative]]
 - **U-Fragen :** [[UF VWL V01]]
 
 ## Questions de compréhension

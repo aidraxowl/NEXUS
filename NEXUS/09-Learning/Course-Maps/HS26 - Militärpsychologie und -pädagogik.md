@@ -11,7 +11,7 @@ tags:
 
 > [!info] Le cours
 > **Intitulé :** Militärpsychologie und -pädagogik
-> **Prof :** (à compléter)
+> **Prof :** Dr. Nadine Eggimann Zanetti ; Dr. Jan Richner (V05)
 > **Langue :** allemand
 > **Examen :** examen de session, août 2027 · **Format :** écrit, 120 min, en langue maternelle ; contenu HS26 + semaine bloc + FS27, Intermezzi compris
 
@@ -36,6 +36,7 @@ mindmap
       Dissonance cognitive
       Stéréotype
       Prophétie autoréalisatrice
+      Stress aigu
     Pensée adaptative
       Flexibilité cognitive
     Influence et désinformation
@@ -58,17 +59,19 @@ mindmap
 | V03 | 29.09 | Perception (et fin du psychologisches Denken) | [[NB MilPsy V03 - 20260929]] | [[UF MilPsy V03]] | [[Perception, attention et mémoire]] |
 | V04 | 06.10 | Attention, mémoire, pensée et décision | [[NB MilPsy V04 - 20261006]] | [[UF MilPsy V04]] | [[Perception, attention et mémoire]] · [[Jugement et décision]] |
 | V05 | 13.10 | Flexibilité cognitive et guerre cognitive | [[NB MilPsy V05 - 20261013]] | [[UF MilPsy V05]] | [[Pensée et action adaptatives]] · [[Influence et désinformation]] |
+| V06 | 20.10 | Mémoire, pensée et jugement (Urteilen und Entscheiden) | [[NB MilPsy V06 - 20261020]] | [[UF MilPsy V06]] | [[Jugement et décision]] · [[Perception, attention et mémoire]] |
+| V07 | 27.10 | Intermezzo, phase Crosscheck | [[NB MilPsy V07 INTERMEZZO - 20261027]] |  |  |
 
 ## Chapitres (ordre du cours)
 1. [[Écoles de pensée en psychologie]] · V02–V03
-2. [[Perception, attention et mémoire]] · V03–V04
-3. [[Jugement et décision]] · V04
-4. [[Pensée et action adaptatives]] · V05
+2. [[Perception, attention et mémoire]] · V03–V04, V06
+3. [[Jugement et décision]] · V04, V06
+4. [[Pensée et action adaptatives]] · V05–V06
 5. [[Influence et désinformation]] · V03, V05
 
 ## ⚠️ Infos examen
 - Écrit, 120 min, en **langue maternelle** ; août 2027 (Basisprüfung Block 2).
 - Trois niveaux : **Wissen** (nommer, définir) · **Verstehen** (expliquer, comparer, justifier) · **Anwenden** (appliquer à une situation militaire).
-- Les **Leitfragen** du cours servent de préparation.
+- Les **Leitfragen** du cours servent de préparation ; celles de l'Allgemeine Psychologie (V06, F10) sont reprises dans [[UF MilPsy V06]].
 - **Intermezzo** : non noté, mais condition d'admission à l'examen (praxisbeispiel 11.10, Crosscheck 27.10, Kurzreflexion 16.11).
 - ?? À demander à la prof : l'effet d'ancrage est-il matière d'examen ? Leitfrage 5d (humaniste).

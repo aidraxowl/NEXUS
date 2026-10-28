@@ -12,6 +12,7 @@ aliases:
 tags:
   - type/concept
   - cours/milsoz
+  - cours/pw
 ---
 
 > [!abstract] L'essentiel
@@ -69,7 +70,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Changement des valeurs et générations]] · [[Notions de base de la sociologie]]
-- **Proche de :** [[Génération]] · [[Norme sociale]] · [[Changement social]]
+- **Proche de :** [[Génération]] · [[Norme sociale]] · [[Changement social]] · [[Clivage]]
 - **Penseur :** [[Ronald Inglehart]]
 - **Cas :** [[Génération Z et organisation militaire]]
 - **U-Fragen :** [[UF MilSoz V01]] · [[UF MilSoz V02]]

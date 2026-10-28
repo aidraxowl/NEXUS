@@ -68,3 +68,29 @@ tags:
 > [!question]- 13. Le revenu augmente et la demande de pâtes premier prix baisse. Quel type de bien ? Dessinez.
 > **Réponse :** Bien inférieur : la courbe de demande se déplace vers la gauche ; à l'équilibre, prix ↓ et quantité ↓.
 > **Concepts :** [[Demande|Bien normal et bien inférieur]]
+
+## Test 1 (15.10.2026) : questions du prof
+
+> [!question]- 14. (MC, Test 1) Acheteurs **et** vendeurs de blé s'attendent à une hausse du prix dans un futur proche. Effet aujourd'hui sur le prix et la quantité d'équilibre ? a) P ↓, Q ? ; b) P ↑, Q ↓ ; c) P ↑, Q ? ; d) P ↑, Q ↑.
+> **Réponse :** 🎓 c). Les acheteurs achètent maintenant (demande actuelle -> droite) ; les vendeurs stockent pour vendre plus tard (offre actuelle -> gauche). Les deux font monter le prix ; la quantité dépend de l'ampleur des déplacements.
+> **Concepts :** [[Équilibre de marché]], [[Demande]], [[Offre]]
+
+> [!question]- 15. (MC, Test 1) Une hausse du prix du bœuf transmet au marché l'information : a) que les consommateurs doivent acheter moins de porc ; b) que les producteurs doivent produire plus de bœuf ; c) que les consommateurs doivent acheter plus de bœuf ; d) sans importance, car les prix sont fixés centralement.
+> **Réponse :** 🎓 b). Le prix est un signal : plus élevé, il incite à produire davantage (mouvement le long de l'offre). a) est faux (le porc, substitut, serait plutôt plus demandé) ; c) contredit la loi de la demande.
+> **Concepts :** [[Équilibre de marché]], [[Offre]]
+
+> [!question]- 16. (Test 1, Aufgabe 2) Un ami au Brésil annonce un froid qui menace la récolte de café ; il propose d'acheter du café aujourd'hui pour le revendre bien plus cher dans six mois. A-t-il raison ? Sinon, à quelles conditions ?
+> **Réponse :** 🎓 Deux conditions. 1) Délimitation du marché : le Brésil influence-t-il le marché mondial ? Si oui, effet sur le prix ; sinon, aucun. 2) Information publique ou privée ? Publique : les vendeurs réduisent déjà leur offre pour vendre plus tard -> le prix monte **dès aujourd'hui**, le gain disparaît. Privée : avance d'information sur le marché, le prix ne monte que plus tard.
+> **Concepts :** [[Équilibre de marché]], [[Offre]]
+
+> [!question]- 17. (Test 1, Aufgabe 2) Suite : que deviennent le prix du thé noir et celui des pommes ?
+> **Réponse :** 🎓 Thé noir : substitut, devenu relativement moins cher -> demande ↑ -> prix ↑ aussi. Pommes : demande inchangée ou en légère baisse (effet de revenu), effet si faible que « inchangé » est aussi correct.
+> **Concepts :** [[Demande|Substitut et complément]], [[Effet de substitution et effet de revenu]]
+
+> [!question]- 18. (Test 1) Marché des courses en taxi : déplacement de la courbe de demande ou mouvement le long ? a) le prix du billet de bus augmente ; b) les consommateurs veulent plus de confort ; c) suppression des bus de nuit par mesure d'économie ; d) ouverture de 3 nouvelles boîtes de nuit ; e) tolérance zéro pour l'alcool au volant.
+> **Réponse :** 🎓 Tous : **déplacement** de la demande. Sens et raison (complément, pas dans le corrigé) : vers la droite dans les cinq cas : a) substitut plus cher ; b) goûts ; c) substitut supprimé ; d) plus de sorties nocturnes ; e) on ne peut plus conduire après avoir bu.
+> **Concepts :** [[Demande]], [[Demande|Substitut et complément]]
+
+> [!question]- 19. (Test 1) Même marché : a) les revenus réels augmentent de 10 % ; b) des stations de vélos gratuites sont installées ; c) la part des 0–18 ans augmente ; d) le prix au kilomètre du taxi augmente ; e) la ville décide de geler les salaires (« Nullrunde »).
+> **Réponse :** 🎓 a), b), c) : déplacement ; d) mouvement **le long** de la demande ; e) **aucun** déplacement. Sens et raison (complément, pas dans le corrigé) : a) droite (bien normal) ; b) gauche (substitut gratuit) ; c) gauche (moins de clients solvables) ; e) le revenu nominal ne change pas.
+> **Concepts :** [[Demande]]

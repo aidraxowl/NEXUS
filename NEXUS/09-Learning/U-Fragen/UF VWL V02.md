@@ -64,3 +64,17 @@ tags:
 > [!question]- 12. Dans l'exemple de la question 8, un prix de 5 pdt par kg de viande permettrait-il un échange mutuellement avantageux ?
 > **Réponse :** Non. L'agriculteur peut produire lui-même 1 kg de viande pour 4 pdt ; il ne paiera pas 5. Le prix doit être strictement entre 2 et 4.
 > **Concepts :** [[Avantage comparatif]]
+
+## Test 1 (15.10.2026) : questions du prof
+
+> [!question]- 13. (MC, Test 1) Deux pays (Allemagne, Espagne), deux biens (nourriture, vêtements). Quelle affirmation est vraie ? a) Si l'Allemagne a un avantage absolu en nourriture, l'Espagne doit avoir un avantage absolu en vêtements. b) Si l'Allemagne a un avantage absolu en nourriture, l'Espagne doit avoir un avantage comparatif en vêtements. c) Si l'Allemagne a un avantage comparatif en nourriture, l'Espagne **pourrait** avoir un avantage comparatif en vêtements. d) Si l'Allemagne a un avantage comparatif en nourriture, l'Espagne **doit** avoir un avantage comparatif en vêtements.
+> **Réponse :** 🎓 d). Avec 2 pays et 2 biens, le coût d'opportunité d'un bien est l'inverse de celui de l'autre : si l'Allemagne a le CO le plus bas en nourriture, l'Espagne a forcément le CO le plus bas en vêtements. a) et b) sont faux : un pays peut avoir l'avantage absolu partout. c) est trop faible (« pourrait » au lieu de « doit »).
+> **Concepts :** [[Avantage comparatif]], [[Coût d'opportunité]]
+
+> [!question]- 14. (Test 1, Aufgabe 3) Citez les avantages du travail avec des modèles et expliquez sur quoi et pourquoi les économistes peuvent être en désaccord.
+> **Réponse :** 🎓 Avantages : réduire la complexité ; prévoir des évolutions ou analyser des évolutions possibles. Désaccords : les hypothèses peuvent différer ; les analyses économiques sont souvent normatives et fondées sur des valeurs, alors que l'analyse du modèle elle-même est neutre.
+> **Concepts :** [[Modèle économique]], [[Énoncé positif et énoncé normatif]]
+
+> [!question]- 15. (Test 1, Aufgabe 4) Trois pays produisent du beurre et des canons. A : 5 t de beurre ou 15 canons ; B : 10 t ou 30 canons ; C : 8 t ou 20 canons. Qui produit quoi, et pourquoi ? Qu'est-ce qui cause les avantages absolus et relatifs ?
+> **Réponse :** 🎓 CO d'un canon (en t de beurre) : A = 5/15 = 1/3 ; B = 10/30 = 1/3 ; C = 8/20 = 1/2,5. CO d'une t de beurre (en canons) : A = 3 ; B = 3 ; C = 2,5. C a le CO le plus bas pour le beurre -> C produit du beurre ; A et B produisent des canons. Avantages absolus <- prix des facteurs plus bas, meilleure technologie, formation. Avantages relatifs <- coûts d'opportunité plus bas.
+> **Concepts :** [[Avantage comparatif]], [[Coût d'opportunité]]

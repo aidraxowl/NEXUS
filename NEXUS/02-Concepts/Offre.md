@@ -43,7 +43,7 @@ tags:
 - Permet de traduire tout choc de coût ou de technologie en effet sur le marché.
 
 **Limites**
-- La pente dépend de l'horizon : l'offre est plus élastique à long terme ([[Élasticité|Élasticité-prix de l'offre]]) ; les fondements (coûts) sont vus en V07–V08.
+- La pente dépend de l'horizon : l'offre est plus élastique à long terme ([[Élasticité|Élasticité-prix de l'offre]]) ; ses fondements sont les coûts ([[Courbes de coûts]], V07) : le coût marginal croissant explique la pente positive (V08).
 
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
@@ -54,7 +54,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Offre et demande]]
-- **Proche de :** [[Demande]], [[Équilibre de marché]], [[Élasticité]]
+- **Proche de :** [[Demande]], [[Équilibre de marché]], [[Élasticité]], [[Courbes de coûts]], [[Surplus du consommateur et du producteur|Surplus du producteur]]
 - **U-Fragen :** [[UF VWL V03]]
 
 ## Questions de compréhension

@@ -1,4 +1,4 @@
-**1) Biden, Xi and "strategic ambiguity" (l. 1–9)**  
+ **1) Biden, Xi and "strategic ambiguity" (l. 1–9)**  
 Biden said he would be ready to use force to defend Taiwan. Xi Jinping wants "reunification" with Taiwan and does not exclude using force. China sees Taiwan as a province that broke away, but Taiwan sees itself as an independent country with its own constitution and elected leaders.  
 "Strategic ambiguity" means the US does not say clearly if it would defend Taiwan militarily. The goal is to keep China uncertain.
 

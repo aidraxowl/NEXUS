@@ -21,6 +21,8 @@ tags:
 - Conséquences :
   - On peut combiner usure et manœuvre à différents échelons (défense globalement statique, contre-attaques locales dynamiques).
   - La pensée d'un échelon se transpose à l'échelon supérieur -> comprendre l'intention « deux échelons plus haut ».
+- **Reprise en V07 (catch-up)** : sert de transition vers le leadership de groupe. Les identités s'emboîtent elles aussi en niveaux (section, cp, armée, nation) et les mêmes mécanismes d'identité et de prototype s'y répètent ([[Théorie de l'auto-catégorisation]]).
+- **Auto-similarité ≠ émergence** : les formes se répètent d'une échelle à l'autre, mais chaque niveau peut aussi produire des propriétés nouvelles ; le cours présente ainsi le leadership de groupe comme un phénomène émergent (Fromm, 2004).
 
 ## Exemples
 - **Militaire :** Une cp en défense (statique) garde une section en réserve pour une contre-attaque (dynamique) : même logique que la réserve opérative d'une brigade.
@@ -37,11 +39,12 @@ tags:
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
 | [[Spectre guérilla-usure-manœuvre]] | Choix stratégique global | Une guerre « d'usure » peut contenir de la manœuvre aux échelons inférieurs |
+| Émergence | Propriété nouvelle à un niveau supérieur ≠ même structure répétée | Croire que tout se résume à « la même chose en plus grand » |
 
 ## Liens
-- **Thème :** [[Doctrine et formes de guerre]]
-- **Proche de :** [[Spectre guérilla-usure-manœuvre]]
-- **U-Fragen :** [[UF Lead V03]]
+- **Thème :** [[Doctrine et formes de guerre]] · [[Leadership et identité sociale]]
+- **Proche de :** [[Spectre guérilla-usure-manœuvre]] · [[Théorie de l'auto-catégorisation]]
+- **U-Fragen :** [[UF Lead V03]] · [[UF Lead V07]]
 
 ## Questions de compréhension
 > [!question]- Donnez trois paires auto-similaires en tactique.
@@ -49,3 +52,5 @@ tags:
 
 ## Sources
 - [[NB Lead V03 - 20260929]]
+- [[NB Lead V07 - 20261027]] (catch-up)
+- Fromm, J. (2004). *The emergence of complexity*. Kassel University Press.

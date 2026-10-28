@@ -5,6 +5,7 @@ aliases:
 tags:
   - type/penseur
   - cours/milsoz
+  - cours/pw
 dates: "1934–2021"
 ---
 
@@ -25,6 +26,7 @@ dates: "1934–2021"
 - Hypothèse de **pénurie** : on valorise ce qui manque
 - Hypothèse de **socialisation** : les valeurs se fixent dans la jeunesse -> [[Génération]]
 - [[Changement de valeurs]] lent, par le remplacement des générations
+- [[Clivage]] matérialisme-postmatérialisme (PW) : à l'origine des partis Verts
 
 ## Œuvres principales
 - *The Silent Revolution* (1977) → [[Changement de valeurs|Postmatérialisme]]
@@ -40,7 +42,7 @@ dates: "1934–2021"
 - Sous-estime les effets de période (crises, guerre) et les retours aux valeurs de sécurité
 
 ## Liens
-- **Thème :** [[Changement des valeurs et générations]]
+- **Thème :** [[Changement des valeurs et générations]] · [[Attitudes et comportement politiques]]
 - **Proche de :** [[Changement de valeurs]] · [[Génération]]
 - **Cas :** [[Génération Z et organisation militaire]]
 
@@ -50,3 +52,4 @@ dates: "1934–2021"
 
 ## Sources
 - [[NB MilSoz V02 - 20260928]]
+- [[Bernauer et al. 2025]] (Kap. 6.2.5, 7.2.3)

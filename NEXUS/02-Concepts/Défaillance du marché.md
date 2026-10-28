@@ -17,14 +17,14 @@ tags:
 ^essentiel
 
 ## Explication
-- Principe 6 : les marchés sont **en général** efficaces ([[Adam Smith]], « main invisible »).
+- Principe 6 : les marchés sont **en général** efficaces ([[Adam Smith]], « main invisible ») : en V06, l'équilibre concurrentiel maximise le surplus total ([[Efficacité allocative]]) — mais seulement sans défaillance du marché.
 - Principe 7 : l'État peut **parfois** améliorer le résultat — quand il y a défaillance du marché.
 - Causes vues en V01 (d'autres suivront) :
 
 | Cause | Définition | Traité en |
 |---|---|---|
 | ==Externalität== (externalité) | effet de l'action d'un acteur sur le bien-être d'un **tiers non impliqué**, sans compensation | V13 |
-| ==Marktmacht== (pouvoir de marché) | capacité d'un acteur (ou d'un petit groupe) à **influencer significativement le prix** | V10–V11 ([[Structure de marché]]) |
+| ==Marktmacht== (pouvoir de marché) | capacité d'un acteur (ou d'un petit groupe) à **influencer significativement le prix** ; naît de la concurrence imparfaite et éloigne prix et quantité de l'équilibre (V06) | V10–V11 ([[Structure de marché]]) |
 | Biens publics, information asymétrique | manuel, fin de semestre | V13–V14 |
 
 - ⚠️ « **Parfois** » : une intervention n'a de sens que si son coût et le risque de ==Staatsversagen== (défaillance de l'État : mauvaise information, intérêts particuliers, effets pervers) restent inférieurs au gain.
@@ -50,9 +50,10 @@ tags:
 
 ## Liens
 - **Thème :** [[Principes de l'économie]]
-- **Proche de :** [[Efficacité et équité]], [[Structure de marché]]
+- **Proche de :** [[Efficacité et équité]], [[Structure de marché]], [[Efficacité allocative]]
+- **Thème lié :** [[Efficacité des marchés]]
 - **Penseur :** [[Adam Smith]]
-- **U-Fragen :** [[UF VWL V01]]
+- **U-Fragen :** [[UF VWL V01]], [[UF VWL V06]]
 
 ## Questions de compréhension
 > [!question]- Citez deux causes de défaillance du marché vues en cours et donnez un exemple pour chacune.
@@ -62,5 +63,5 @@ tags:
 > Parce que l'intervention a un coût et peut elle-même échouer (défaillance de l'État) ; elle n'est utile que si le gain dépasse ces coûts.
 
 ## Sources
-- Notes brutes : [[NB VWL V01 - 20260917]]
+- Notes brutes : [[NB VWL V01 - 20260917]], [[NB VWL V06 - 20261022]]
 - Mankiw/Taylor, *Grundzüge der VWL*, 9e éd., chap. 1 (repris chap. 9–10)

@@ -6,6 +6,7 @@ aliases:
 tags:
   - type/cas
   - cours/lead
+  - cours/milsoz
 periode: "1924–1932"
 lieu: "Western Electric, Hawthorne Works (Cicero, Illinois)"
 ---
@@ -32,6 +33,7 @@ lieu: "Western Electric, Hawthorne Works (Cicero, Illinois)"
 |---|---|
 | [[Management scientifique]] | Taylor croyait que l'argent l'emporte sur la pression du groupe -> contredit par la salle de câblage |
 | [[Théories classiques du leadership\|Approche comportementale]] | Annonce la dimension « considération » |
+| [[Organisation formelle et informelle]] | La norme de production du groupe (IST) s'écarte de la norme formelle (SOLL) |
 
 ## Leçons / RETEX
 **À retenir**
@@ -40,7 +42,7 @@ lieu: "Western Electric, Hawthorne Works (Cicero, Illinois)"
 - Toute section a des normes informelles (freinage de groupe).
 
 ## Liens
-- **Thème :** [[Histoire des théories du leadership]]
+- **Thème :** [[Histoire des théories du leadership]] · [[Sociologie des organisations]]
 - **Penseurs :** [[Frederick W. Taylor]]
 
 ## Questions de compréhension

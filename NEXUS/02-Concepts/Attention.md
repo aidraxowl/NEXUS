@@ -31,6 +31,7 @@ tags:
 - Deux tâches exigeantes utilisant les mêmes ressources -> performance en baisse ; on ne suit en général qu'**un seul fil de pensée** à la fois.
 - **Byrne & Anderson 2001** (3 4 7) : vérifier une somme (touche) et calculer un produit (oral) en parallèle -> nettement plus lent.
 - Exception : une tâche **automatisée** consomme peu d'attention ([[Automatisation]]).
+- **Multitâche et genre** (ajout V06) : Hirsch et al. 2019 (double tâche, N = 96, temps de réaction et exactitude) ne trouvent **pas** de différence significative des coûts du multitâche. Szameitat & Szameitat 2026 : hommes (41) et femmes (37) réussissent pareil cinq tâches proches de la réalité, sauf une tâche de conversation que les hommes ignorent plus de deux fois plus souvent ; 160 observateurs jugent alors les femmes plus en contrôle et moins stressées -> explication possible du [[Stéréotype]] « les femmes sont meilleures en multitâche ».
 
 ### Cécité attentionnelle
 - Conséquence directe de la sélection : ce qui est hors du focus n'atteint pas la conscience (Mack & Rock 1998 ; Simons & Chabris 1999 : le gorille ignoré par ceux qui comptent les passes).
@@ -45,11 +46,12 @@ tags:
 | Atténuer ≠ supprimer | Le non-sélectionné est affaibli | On entend quand même son nom |
 | Cécité au changement | Ne pas remarquer qu'un élément a changé | La « Door Study » du cours relève de la cécité au **changement**, phénomène voisin |
 | [[Perception]] | Interpréter | L'attention choisit **quoi** traiter |
+| Multitâche et genre | Pas de différence constante en double tâche standardisée | La croyance populaire ≠ les données |
 
 ## Liens
 - **Thème :** [[Perception, attention et mémoire]]
 - **Proche de :** [[Perception]], [[Mémoire]], [[Automatisation]]
-- **U-Fragen :** [[UF MilPsy V04]]
+- **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V06]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi un chef ne peut-il pas tout faire en même temps ?
@@ -59,4 +61,4 @@ tags:
 > La cécité est la conséquence de la sélection : ce qui est hors du focus n'atteint pas la conscience, même s'il est bien visible.
 
 ## Sources
-- [[NB MilPsy V04 - 20261006]]
+- [[NB MilPsy V04 - 20261006]] · [[NB MilPsy V06 - 20261020]]

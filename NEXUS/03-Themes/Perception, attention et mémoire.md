@@ -20,7 +20,9 @@ La [[Perception]] suit un processus en sept étapes (Goldstein & Cicciamani) : s
 ## L'attention : un filtre à capacité limitée
 Nous ne pouvons pas tout traiter. L'[[Attention]] sélectionne l'information à des « goulets d'étranglement » (Broadbent). Ce qui n'est pas sélectionné est **atténué** mais pas supprimé : on entend son propre nom dans le brouhaha (effet cocktail party). La conséquence est la **cécité attentionnelle** : concentré sur une tâche, on ne voit pas un élément pourtant évident, comme le gorille dans l'expérience de Simons et Chabris.
 
-Deux tâches exigeantes qui utilisent les mêmes ressources se gênent (**attention partagée**). Un chef qui conduit le trafic radio en lisant la carte fait des erreurs de coordonnées.
+Deux tâches exigeantes qui utilisent les mêmes ressources se gênent (**attention partagée**). Un chef qui conduit le trafic radio en lisant la carte fait des erreurs de coordonnées. Cette limite vaut pour tous : contrairement à une croyance répandue, les études en double tâche ne trouvent pas de différence constante entre hommes et femmes (Hirsch et al. 2019 ; Szameitat & Szameitat 2026), ce qui montre au passage comment naît un [[Stéréotype]].
+
+C'est la réponse à la première Leitfrage de la V06 : nous passons à côté d'informations importantes parce que l'attention sélectionne, que la perception suit nos attentes et que la charge (plusieurs tâches, stress) réduit encore la part traitée.
 
 ## L'automatisation : contourner la limite
 Seules les tâches **automatisées** échappent largement à cette limite. Par l'exercice répété, un processus contrôlé devient rapide et peu coûteux en attention : c'est le fondement du drill, qui libère l'attention pour la situation ([[Automatisation]]). Mais un automatisme est difficile à supprimer : nommer la couleur d'un mot comme « rouge » écrit en bleu est lent, parce que la lecture s'impose (effet Stroop).
@@ -30,7 +32,7 @@ La [[Mémoire]] fonctionne en trois registres (Shiffrin & Atkinson) : sensoriel 
 
 Ebbinghaus a montré que l'**oubli** est très rapide au début, puis ralentit, et que l'effort d'apprentissage explose avec la quantité de matière. On retient mieux le début et la fin d'une liste que le milieu (effet de **primauté et de récence**). Les mnémotechniques compensent en partie ces limites.
 
-Surtout, la mémoire **reconstruit**. Loftus a montré qu'un simple verbe dans une question (« fracassées » plutôt que « touchées ») augmente la vitesse estimée d'un accident et fait apparaître du verre brisé qui n'existait pas. Un témoin sincère n'est donc pas forcément exact.
+Surtout, la mémoire **reconstruit**. Loftus a montré qu'un simple verbe dans une question (« fracassées » plutôt que « touchées ») augmente la vitesse estimée d'un accident et fait apparaître du verre brisé qui n'existait pas. Un témoin sincère n'est donc pas forcément exact. C'est pourquoi deux personnes se souviennent différemment du même incident : elles n'ont pas regardé la même chose, l'ont interprété avec des attentes différentes, puis ont reconstruit leur souvenir, influencé par ce qu'elles ont entendu ensuite.
 
 ## Ce qu'en retire le chef
 - **Instruction** : découper la matière en petites unités, répéter de façon espacée, drill pour automatiser les gestes de base.
@@ -58,6 +60,8 @@ Ces limites de la perception, de l'attention et de la mémoire conduisent à la 
 - Études à connaître : Loftus (chiffres), Byrne & Anderson, Stroop, Ebbinghaus.
 - Courbe de l'oubli : on mesure l'**économie** au réapprentissage, pas le rappel libre.
 - Transposer chaque mécanisme à l'instruction et à la conduite.
+- Leitfragen 1 et 2 de la V06 : pourquoi on rate des informations importantes ; pourquoi deux témoins se souviennent différemment.
+- Multitâche et genre : pas de différence constante (Hirsch 2019 ; Szameitat 2026).
 
 ### Questions de synthèse
 > [!question]- Pourquoi le drill est-il justifié psychologiquement, et quelle est sa limite ?
@@ -70,4 +74,4 @@ Ces limites de la perception, de l'attention et de la mémoire conduisent à la 
 > Annoncer l'essentiel au début et le répéter à la fin (primauté et récence), limiter la quantité d'information (mémoire de travail), faire collationner (répétition), et éviter de briefer pendant que les subordonnés font autre chose (attention partagée).
 
 ## Sources
-- Notes brutes : [[NB MilPsy V03 - 20260929]], [[NB MilPsy V04 - 20261006]]
+- Notes brutes : [[NB MilPsy V03 - 20260929]], [[NB MilPsy V04 - 20261006]], [[NB MilPsy V06 - 20261020]]

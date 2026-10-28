@@ -46,8 +46,9 @@ tags:
 
 ## Liens
 - **Thème :** [[Notions de base de la sociologie]]
-- **Proche de :** [[Changement social]]
+- **Proche de :** [[Changement social]] · [[Organisation formelle et informelle]]
 - **Penseur :** [[Ferdinand Tönnies]]
+- **Cas :** [[Meyers Beiz]]
 - **U-Fragen :** [[UF MilSoz V01]]
 
 ## Questions de compréhension

@@ -12,9 +12,9 @@ tags:
 
 > [!info] Le cours
 > **Intitulé :** Volkswirtschaftslehre I – Mikroökonomie
-> **Prof :** (à compléter)
+> **Prof :** Dr. Matthias Gysler (V06), Dr. Aurelio Fetz (V07) ; autres séances à compléter
 > **Langue :** allemand
-> **Examen :** Basisprüfung, août 2027, combiné avec la Makroökonomie (FS27) · **Format :** écrit ; 3 tests pendant le semestre
+> **Examen :** Basisprüfung, août 2027, combiné avec la Makroökonomie (FS27) · **Format :** écrit ; 3 tests pendant le semestre (QCM + exercices rédigés)
 > **Manuel :** Mankiw/Taylor, *Grundzüge der VWL*, 9e éd.
 
 ## Vue d'ensemble
@@ -41,6 +41,14 @@ mindmap
     Choix du consommateur
       Optimum du consommateur
       Effet de substitution et de revenu
+    Efficacité des marchés
+      Surplus du consommateur et du producteur
+      Efficacité allocative
+    Production et coûts
+      Profit économique et comptable
+      Fonction de production
+      Courbes de coûts
+      Rendements d'échelle
 ```
 
 ## Objectifs (Lernziele)
@@ -55,8 +63,8 @@ mindmap
 | V03 | 01.10 | Angebot und Nachfrage (chap. 3) | [[NB VWL V03 - 20261001]] | [[UF VWL V03]] | [[Offre et demande]] |
 | V04 | 08.10 | Elastizitäten (chap. 3) | [[NB VWL V04 - 20261008]] | [[UF VWL V04]] | [[Élasticités]] |
 | V05 | 15.10 | Theorie der Konsumentenentscheidungen (chap. 4) · Test 1 | [[NB VWL V05 - 20261015]] | [[UF VWL V05]] | [[Choix du consommateur]] |
-| V06 | 22.10 | Efficacité des marchés (chap. 7) |  |  |  |
-| V07 | 29.10 | Production et coûts (chap. 5) |  |  |  |
+| V06 | 22.10 | Konsumenten, Produzenten und die Effizienz von Märkten (chap. 7) | [[NB VWL V06 - 20261022]] | [[UF VWL V06]] | [[Efficacité des marchés]] |
+| V07 | 29.10 | Produktion und Kosten (chap. 5) | [[NB VWL V07 - 20261029]] | [[UF VWL V07]] | [[Production et coûts]] |
 | V08 | 05.11 | Concurrence parfaite (chap. 6) |  |  |  |
 | V09 | 12.11 | Interventions sur les marchés (chap. 8) · Test 2 |  |  |  |
 | V10 | 19.11 | Monopole (chap. 11, 14) |  |  |  |
@@ -71,9 +79,14 @@ mindmap
 3. [[Offre et demande]] · V03
 4. [[Élasticités]] · V04
 5. [[Choix du consommateur]] · V05
+6. [[Efficacité des marchés]] · V06
+7. [[Production et coûts]] · V07
 
 ## ⚠️ Infos examen
 - **3 tests écrits** pendant le semestre : V05 (15.10), V09 (12.11), V13 (10.12).
+- **Style du Test 1** (corrigé intégré avec 🎓 dans [[UF VWL V01]] à [[UF VWL V04]]) : 4 QCM (une seule bonne réponse, souvent un piège sur « doit / pourrait » ou sur la courbe déplacée) + exercices rédigés : calcul d'avantage comparatif, analyse de marché avec conditions (« dans quel cas ? »), coûts d'opportunité appliqués à une situation concrète, mouvement le long vs déplacement de la demande.
+- Les réponses attendues sont courtes mais **conditionnelles** : nommer les hypothèses (information publique/privée, taille du marché, concurrence proche).
+- **Test 2** (12.11) : Kap. 05–08, soit les Lektionen V05 à V08 (choix du consommateur, efficacité des marchés, production et coûts, concurrence parfaite).
 - Examen écrit en août 2027 (Basisprüfung Block 2), combiné avec la Makroökonomie du printemps.
 - Le niveau est **au-dessus** du manuel : comprendre et appliquer (calculs, graphiques), pas réciter.
 - Préparation : ~2 h/semaine, lire le chapitre **avant** la Vorlesung.

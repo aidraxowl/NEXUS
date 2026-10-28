@@ -37,7 +37,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Perception, attention et mémoire]] · [[Pensée et action adaptatives]]
-- **Proche de :** [[Mémoire]] (procédurale), [[Flexibilité cognitive]], [[Heuristiques et biais]]
+- **Proche de :** [[Mémoire]] (procédurale), [[Flexibilité cognitive]], [[Heuristiques et biais]], [[Stress aigu]] (sous charge, les processus automatiques prennent plus de poids)
 - **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V05]]
 
 ## Questions de compréhension

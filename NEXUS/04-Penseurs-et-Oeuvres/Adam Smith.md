@@ -22,7 +22,7 @@ dates: "1723–1790"
 - **Contexte :** fils d'avocat ; études à Glasgow (Hutcheson) et Oxford ; professeur à Glasgow 1751–63 ; voyages en Europe comme précepteur (Voltaire, Franklin, D'Alembert) ; début de la [[Révolution industrielle]]
 
 ## Idées clés
-- **Main invisible** (*unsichtbare Hand*) : les prix et la concurrence coordonnent des millions de décisions décentralisées ; l'interaction sociale sur les marchés ne dégénère pas en chaos. En économie, c'est le principe 6 de Mankiw : « les marchés sont en général un bon moyen d'organiser l'activité économique ».
+- **Main invisible** (*unsichtbare Hand*) : les prix et la concurrence coordonnent des millions de décisions décentralisées ; l'interaction sociale sur les marchés ne dégénère pas en chaos. En économie, c'est le principe 6 de Mankiw : « les marchés sont en général un bon moyen d'organiser l'activité économique ». L'économie du bien-être (VWL V06) en donne la version précise : l'équilibre concurrentiel maximise le surplus total ([[Efficacité allocative]]).
 - **Division du travail et échange** : spécialisation + échange augmentent la productivité et la richesse ; base de l'analyse de l'interdépendance, approfondie par [[David Ricardo]] ([[Avantage comparatif]]).
 - **État veilleur de nuit** : défense, *law and order*, infrastructures non rentables pour le privé.
 - **Harmonie des intérêts non automatique** : l'éducation doit transmettre les « virtues of citizenship ».
@@ -44,7 +44,7 @@ dates: "1723–1790"
 - Critiqué par les conservateurs romantiques : « pretended science » (Coleridge), « dismal science » ([[Thomas Carlyle]]).
 
 ## Liens
-- **Thème :** [[Principes de l'économie]] · [[Commerce et spécialisation]] · [[Idéologies dominantes en Grande-Bretagne]]
+- **Thème :** [[Principes de l'économie]] · [[Commerce et spécialisation]] · [[Efficacité des marchés]] · [[Idéologies dominantes en Grande-Bretagne]]
 - **Proche de :** [[David Ricardo]] · [[Lumières écossaises]] · [[Jeremy Bentham]]
 - **S'oppose à :** [[Thomas Carlyle]] · [[Edmund Burke]] (sur la place du commerce)
 - **Cas :** [[Désindustrialisation du textile indien]]
@@ -60,5 +60,5 @@ dates: "1723–1790"
 > Il est l'auteur d'une éthique (*Moral Sentiments*) et juge que l'harmonie des intérêts exige des vertus civiques transmises par l'éducation. Son État n'est pas absent : il défend, garantit l'ordre et construit les infrastructures.
 
 ## Sources
-- Notes brutes : [[NB VWL V01 - 20260917]], [[NB VWL V02 - 20260924]], [[NB Gesch V02 - 20261007]]
+- Notes brutes : [[NB VWL V01 - 20260917]], [[NB VWL V02 - 20260924]], [[NB VWL V06 - 20261022]], [[NB Gesch V02 - 20261007]]
 - Mankiw/Taylor, *Grundzüge der VWL*, 9e éd., chap. 1 et 17

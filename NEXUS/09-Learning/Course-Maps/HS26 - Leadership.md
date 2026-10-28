@@ -11,7 +11,7 @@ tags:
 
 > [!info] Le cours
 > **Intitulé :** Leadership (Führung)
-> **Prof :** (à compléter)
+> **Prof :** Dr. Patrick Hofstetter (Dozent Führung und Kommunikation, MILAK)
 > **Langue :** allemand
 > **Examen :** Basisprüfung 2027 – Block 1 · **Format :** (à compléter)
 
@@ -44,6 +44,11 @@ mindmap
       Followership
       Triangle toxique
       LMX
+    LS4 Team
+      Identité sociale
+      Auto-catégorisation
+      Prototypicalité du leader
+      Face sombre
 ```
 
 ## Objectifs (Lernziele)
@@ -52,6 +57,7 @@ mindmap
 - Expliquer le lien entre rapport de forces perçu, forme de guerre et style de commandement
 - Retracer l'histoire des théories du leadership et distinguer émergence et efficacité
 - Décrire les styles de leadership positif et les approches relationnelles, avec leurs limites dans l'armée
+- Expliquer le leadership de groupe par l'identité sociale (SIT, SCT, LGP) et en connaître la face sombre
 - Objectif à 4 ans : savoir coacher un Cdt U
 
 ## Séances
@@ -63,6 +69,7 @@ mindmap
 | V04 | 06.10 | LS1 – Histoire et définitions du leadership | [[NB Lead V04 - 20261006]] | [[UF Lead V04]] | [[Histoire des théories du leadership]] |
 | V05 | 13.10 | LS2 – Styles de leadership positif | [[NB Lead V05 - 20261013]] | [[UF Lead V05]] | [[Styles de leadership positif]] |
 | V06 | 20.10 | LS3 – Approches relationnelles, coaching, followership, LMX | [[NB Lead V06 - 20261020]] | [[UF Lead V06]] | [[Approches relationnelles du leadership]] |
+| V07 | 27.10 | LS4 – Team : identité sociale et prototypicalité du leader | [[NB Lead V07 - 20261027]] | [[UF Lead V07]] | [[Leadership et identité sociale]] |
 
 ## Chapitres (ordre du cours)
 1. [[Modèle de référence de la conduite]] · V01
@@ -71,7 +78,8 @@ mindmap
 4. [[Histoire des théories du leadership]] · V04
 5. [[Styles de leadership positif]] · V05
 6. [[Approches relationnelles du leadership]] · V06
+7. [[Leadership et identité sociale]] · V07
 
 ## ⚠️ Infos examen
 - Lecture A = préparation du cours ; lecture B = préparation de l'examen.
-- À venir : LS4 (équipe), LS5 (organisation et situation, contingence) ; CR « operational reliability » (01.12) ; LR « Positive Leadership – fatally flawed » (08.12) ; conduite par objectifs au printemps (CA 25.05, LA 01.06).
+- À venir : LS5 (organisation et situation, contingence) ; CR « operational reliability » (01.12) ; LR « Positive Leadership – fatally flawed » (08.12) ; conduite par objectifs au printemps (CA 25.05, LA 01.06).

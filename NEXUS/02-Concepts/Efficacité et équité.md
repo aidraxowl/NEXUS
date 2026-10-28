@@ -18,7 +18,7 @@ tags:
 
 ## Explication
 - Principe 1 : les gens font face à des **arbitrages** ; pour obtenir quelque chose, il faut renoncer à autre chose (« *no free lunch* »). Exemples du cours : canons contre beurre, nourriture contre vêtements, loisir contre revenu, efficacité contre équité.
-- **Efficacité** : aucune ressource gaspillée ; graphiquement, l'économie produit **sur** sa [[Frontière des possibilités de production]].
+- **Efficacité** : aucune ressource gaspillée ; graphiquement, l'économie produit **sur** sa [[Frontière des possibilités de production]]. Sur un marché, elle se mesure par le surplus total ([[Efficacité allocative]], V06).
 - **Équité** : critère de **jugement de valeur** -> choisir entre « grand gâteau » et « partage juste » est un énoncé **normatif** ([[Énoncé positif et énoncé normatif]]).
 - L'économiste peut décrire le prix de l'équité en efficacité (positif), mais pas trancher seul ce qui est préférable.
 
@@ -42,8 +42,8 @@ tags:
 
 ## Liens
 - **Thème :** [[Principes de l'économie]]
-- **Proche de :** [[Énoncé positif et énoncé normatif]], [[Défaillance du marché]], [[Frontière des possibilités de production]]
-- **U-Fragen :** [[UF VWL V01]]
+- **Proche de :** [[Énoncé positif et énoncé normatif]], [[Défaillance du marché]], [[Frontière des possibilités de production]], [[Efficacité allocative]]
+- **U-Fragen :** [[UF VWL V01]], [[UF VWL V06]]
 
 ## Questions de compréhension
 > [!question]- Situation A : gâteau de 10 parts, réparti 5/5. Situation B : gâteau de 14 parts, réparti 10/4. Laquelle est meilleure ?

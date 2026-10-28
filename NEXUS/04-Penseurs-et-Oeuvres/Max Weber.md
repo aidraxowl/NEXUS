@@ -1,3 +1,15 @@
+---
+title: "Max Weber"
+aliases:
+  - Weber
+tags:
+  - type/penseur
+  - cours/pw
+  - cours/lead
+  - cours/milsoz
+dates: "1864–1920"
+---
+
 > [!abstract] L'essentiel
 > **Qui :** Max Weber – Sociologue et économiste allemand, classique de la sociologie dont l'œuvre relève tout autant de la science politique et des théories des organisations.
 > **Idées principales :** 
@@ -22,6 +34,7 @@
 #### 1. Action sociale & Méthodologie
 - **Politique :** L'action sociale (agir en lien avec d'autres) constitue le fondement de la définition du politique.
 - **Microfondement :** Éthique protestante $\rightarrow$ ascèse intramondaine $\rightarrow$ éthique du travail $\rightarrow$ capitalisme.
+- **Types d'action :** rationnelle en valeur (==wertrational==) ≠ rationnelle en finalité (==zweckrational==) ; sert en sociologie à distinguer l'[[Institution]] de l'[[Organisation]] (MilSoz V05).
 
 #### 2. Domination & Typologie de l'autorité légitime
 - **Traditionnelle :** Fondée sur la croyance au caractère sacré des traditions anciennes (« il en a toujours été ainsi »).
@@ -30,6 +43,7 @@
 
 #### 3. Modèle bureaucratique
 - **Bureaucratie idéale :** Rôles spécialisés, hiérarchie explicite, recrutement et avancement au mérite, structure de carrière, règles strictes et autorité impersonnelle attachée à la fonction.
+- **Avantages et inconvénients** de l'organisation bureaucratique centralisée (MilSoz V06) → [[Bureaucratie]] : règles, responsabilités claires, décharge, efficace en environnement stable ; mais savoir du bas inutilisé, innovation au sommet, excès d'écrit, information filtrée vers le haut.
 - **Comparaison avec le Management scientifique :** Weber analyse le fondement de la légitimité (*pourquoi* l'autorité est acceptée), ce qui en fait une problématique centrale de leadership.
 
 ---
@@ -53,7 +67,7 @@
 ---
 
 ### Liens & Réseau conceptuel
-- **Thèmes :** [[Politique, État et science politique]] • [[Processus de recherche empirico-analytique]] • [[Histoire des théories du leadership]] • [[Styles de leadership positif]]
+- **Thèmes :** [[Politique, État et science politique]] • [[Processus de recherche empirico-analytique]] • [[Histoire des théories du leadership]] • [[Styles de leadership positif]] • [[Sociologie des organisations]]
 - **Proche de :** [[Herméneutique]] • [[Frederick W. Taylor]] • [[Henri Fayol]]
 
 ---

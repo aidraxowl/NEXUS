@@ -72,3 +72,9 @@ tags:
 > [!question]- 14. Vrai ou faux ? « Sur une droite de demande, l'élasticité est constante puisque la pente est constante. »
 > **Réponse :** Faux. La pente est constante, mais l'élasticité varie : élevée en haut de la droite (prix élevé, petite quantité), faible en bas.
 > **Concepts :** [[Élasticité|Élasticité-prix de la demande]]
+
+## Test 1 (15.10.2026) : question du prof
+
+> [!question]- 15. (Test 1, Aufgabe 6) Quel bien de chaque paire a l'élasticité-prix la plus élevée ? Justifiez. a) cigarettes – week-end en Engadine ; b) aspirine – médicament contre le sida ; c) pommes de terre – steak ; d) montre de luxe – Swatch.
+> **Réponse :** (le corrigé ne donne pas de solution) a) week-end : bien de luxe, nombreux substituts, alors que les cigarettes créent une dépendance. b) aspirine : substituts (autres antidouleurs), alors que le médicament vital n'en a pas. c) steak : plutôt bien de luxe, substituts (autres viandes), part du budget plus grande. d) montre de luxe : bien de luxe et part du revenu élevée ; on peut toutefois discuter d'une clientèle peu sensible au prix (effet de prestige) : le dire dans la réponse.
+> **Concepts :** [[Élasticité|Élasticité-prix de la demande]]

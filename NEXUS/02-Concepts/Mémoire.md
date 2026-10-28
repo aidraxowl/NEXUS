@@ -67,7 +67,7 @@ tags:
 ## Liens
 - **Thème :** [[Perception, attention et mémoire]]
 - **Proche de :** [[Attention]], [[Automatisation]], [[Perception]], [[Heuristiques et biais]], [[Désinformation]]
-- **U-Fragen :** [[UF MilPsy V04]]
+- **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V06]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi le collationnement radio est-il nécessaire ?
@@ -76,8 +76,11 @@ tags:
 > [!question]- Que mesure exactement la courbe de l'oubli d'Ebbinghaus ?
 > L'économie de temps lors du réapprentissage, pas le rappel libre ; elle montre que l'oubli n'est jamais total.
 
+> [!question]- Pourquoi deux personnes se souviennent-elles différemment du même incident ? (Leitfrage 2, V06)
+> Elles n'ont pas porté leur attention sur les mêmes éléments à l'encodage ; elles ont perçu la scène à travers leurs attentes et leur savoir ; la mémoire épisodique est personnelle et **reconstruit** les trous ; les questions et informations reçues après coup modifient le souvenir (Loftus) ; la position dans la séquence (primauté et récence) et le stress jouent aussi.
+
 > [!question]- Pourquoi la formulation d'une question au débriefing peut-elle fausser un témoignage ?
 > Parce que la mémoire reconstruit : un mot suggestif (« fracasser ») modifie le souvenir lui-même, jusqu'à faire apparaître des détails inexistants (Loftus).
 
 ## Sources
-- [[NB MilPsy V04 - 20261006]]
+- [[NB MilPsy V04 - 20261006]] · [[NB MilPsy V06 - 20261020]]

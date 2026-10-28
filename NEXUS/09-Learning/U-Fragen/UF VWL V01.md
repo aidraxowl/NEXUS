@@ -60,3 +60,21 @@ tags:
 > [!question]- 11. Pourquoi le principe 10 précise-t-il « à court terme » ?
 > **Réponse :** Une hausse de la masse monétaire stimule la demande, la production et l'emploi à court terme, mais à long terme seuls les prix augmentent : l'arbitrage inflation/chômage disparaît.
 > **Concepts :** [[Principes de l'économie]]
+
+## Test 1 (15.10.2026) : questions du prof
+
+> [!question]- 12. (MC, Test 1) La microéconomie s'occupe : a) de la gestion de ressources illimitées ; b) des décisions des ménages et des entreprises et de leur interaction sur les marchés ; c) d'éviter de résoudre des arbitrages ; d) de la satisfaction des individus par un maximum d'achats.
+> **Réponse :** 🎓 b). a) contredit la rareté ; c) l'économie étudie précisément les arbitrages ; d) confond satisfaction et quantité achetée.
+> **Concepts :** [[Principes de l'économie]]
+
+> [!question]- 13. (Test 1, Aufgabe 5) Un centre commercial en périphérie, desservi par les transports publics, introduit des frais de parking pour réduire l'attente des places. La mesure réussit-elle ? Effet sur les transports publics ?
+> **Réponse :** 🎓 Aller y faire ses achats coûte plus cher. Chacun compare : attente plus courte (coût d'opportunité du temps ↓) contre frais de parking, ou alternatives (TP, vélo, autre magasin). Tout dépend de la proximité de la concurrence : si passer aux TP est bon marché et la concurrence faible, la mesure fonctionne et des clients passent aux TP.
+> **Concepts :** [[Coût d'opportunité]], [[Raisonnement marginal]]
+
+> [!question]- 14. (Test 1, Aufgabe 5) En tenant compte des coûts d'opportunité, la mesure augmente-t-elle ou réduit-elle les coûts totaux des consommateurs ?
+> **Réponse :** 🎓 Si tous les clients restent, les coûts totaux baissent, car l'attente avait un coût d'opportunité. Le bien-être augmente : les clients à revenu élevé (coût d'opportunité du temps élevé) paient le parking car le bénéfice dépasse le coût ; ceux à revenu plus bas (coût d'opportunité plus faible) prennent les TP.
+> **Concepts :** [[Coût d'opportunité]]
+
+> [!question]- 15. (Test 1, Aufgabe 5) À la suite des frais de parking, les transports publics augmentent aussi leurs prix. Conséquences ?
+> **Réponse :** 🎓 Les coûts des clients qui prennent les TP augmentent ; selon l'ampleur de la hausse, ils reviennent à la voiture et les temps d'attente remontent.
+> **Concepts :** [[Coût d'opportunité]], [[Raisonnement marginal]]

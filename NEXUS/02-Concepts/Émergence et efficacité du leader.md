@@ -19,7 +19,7 @@ tags:
 - **Émergence** : ex. intelligence ≈ .50 avec la perception de leadership (Lord, De Vader & Alliger 1986).
 - **Efficacité** : ex. intelligence mesurée objectivement ≈ .33 avec l'efficacité (Judge, Colbert & Ilies 2004).
 - Ces chiffres viennent de méta-analyses différentes : **ne pas les comparer directement**.
-- Pourquoi la perception fonctionne ainsi -> LS4 (prototypicalité).
+- Pourquoi la perception fonctionne ainsi -> LS4 : [[Prototypicalité de groupe du leader]] (on perçoit comme leader celui qui incarne le « nous »).
 - **Sélection** : une procédure de groupe sans chef (War Office Selection Boards dès 1942) mesure l'émergence ; il faut d'autres preuves pour prédire l'efficacité au commandement.
 - Même logique pour le comportement : considération -> satisfaction et efficacité **perçue** ; structure -> performance ; « qui juge ? » (Halpin).
 
@@ -42,7 +42,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Histoire des théories du leadership]]
-- **Proche de :** [[Théories classiques du leadership]]
+- **Proche de :** [[Théories classiques du leadership]] · [[Prototypicalité de groupe du leader]]
 - **Cas :** [[Gordon à Khartoum]]
 - **U-Fragen :** [[UF Lead V04]]
 

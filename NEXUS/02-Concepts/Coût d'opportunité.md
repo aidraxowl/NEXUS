@@ -46,12 +46,13 @@ tags:
 | Coût comptable (dépense) | ne compte que l'argent dépensé | oublier le revenu ou le temps sacrifié |
 | [[Avantage comparatif]] | se définit **par** le CO le plus faible | confondre avec le moins d'heures de travail (= avantage absolu) |
 | [[Raisonnement marginal]] | compare coût et bénéfice d'une unité **de plus** | le coût marginal est lui aussi un coût d'opportunité |
+| [[Profit économique et profit comptable]] | les coûts de l'entreprise = coûts explicites + **implicites** (coûts d'opportunité sans paiement) | calculer un profit économique avec les seuls coûts explicites |
 
 ## Liens
 - **Thème :** [[Principes de l'économie]], [[Commerce et spécialisation]]
-- **Proche de :** [[Frontière des possibilités de production]], [[Optimum du consommateur]], [[Avantage comparatif]]
+- **Proche de :** [[Frontière des possibilités de production]], [[Optimum du consommateur]], [[Avantage comparatif]], [[Profit économique et profit comptable]]
 - **Penseur :** [[David Ricardo]]
-- **U-Fragen :** [[UF VWL V01]], [[UF VWL V02]]
+- **U-Fragen :** [[UF VWL V01]], [[UF VWL V02]], [[UF VWL V07]]
 
 ## Questions de compréhension
 > [!question]- Un concert « gratuit » a-t-il un coût ?
