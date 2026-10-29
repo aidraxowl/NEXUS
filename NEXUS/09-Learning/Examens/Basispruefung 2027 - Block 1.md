@@ -6,15 +6,16 @@ tags:
 ---
 
 > [!info] L'examen
-> **Date :** août 2027 · **Branches :** Recht I & II, Politikwissenschaft, Leadership · **Condition :** moyenne ≥ 4 sur le bloc · **Objectif :** 5.5
+> **Date :** août 2027 · **Branches :** Recht I & II, Politikwissenschaft I & II, Leadership I & II · **Condition :** moyenne ≥ 4 sur le bloc · **Objectif :** 5.5
+> **Langue de l'examen :** français
 
 ## Branches
 
-| Branche | Course Maps | Format |
-|---|---|---|
-| Recht I (Droit civil) & II (Droit public) | HS26 · FS27 | Écrit, codes annotés |
-| Politikwissenschaft | [[HS26 - Politikwissenschaft]] · FS27 |  |
-| Leadership | HS26 · FS27 |  |
+| Branche | HS26 | FS27 | Format |
+|---|---|---|---|
+| Recht I (droit privé) & II (droit public) | Droit civil | Droit public | Écrit, codes annotés |
+| Politikwissenschaft I & II | [[HS26 - Politikwissenschaft]] | PW II | Dual-Choice, QCM, réponses courtes ; 4 pages de notes autorisées (VL PW 19.10.2026) |
+| Leadership I & II | [[HS26 - Leadership]] | Leadership II |  |
 
 ## Tout ce qui est tagué pour cet examen
 
