@@ -47,6 +47,26 @@ Cette page sert d'index de révision, pour les termes à mémoriser.
 | Herrensportler | sportif gentleman | [[Amateurisme]] |
 | Ersatzkriegsschauplatz | théâtre de substitution de la guerre | [[Périodisation des Jeux olympiques]] |
 | Weltmeisterin im krummen Rücken | « championne du monde de l'échine courbée » | [[Jeux olympiques de Berlin 1936]] |
+| Öffentliches Gut | bien public | [[Bien public]] |
+| Allmendgut / Klubgut | bien commun / bien de club | [[Bien public]] |
+| Exklusivität / Rivalität | exclusion / rivalité | [[Bien public]] |
+| Kollektives Handeln | action collective | [[Action collective]] |
+| Trittbrettfahrer:in | resquilleur, passager clandestin | [[Action collective]] |
+| Selektive Anreize | incitations sélectives | [[Action collective]] |
+| Kerngruppe | noyau dur | [[Action collective]] |
+| Interessengruppe / Verband | groupe d'intérêt / association | [[Groupe d'intérêt]] |
+| Organisationsfähigkeit | capacité d'organisation | [[Groupe d'intérêt]] |
+| Konfliktfähigkeit | capacité de conflit | [[Groupe d'intérêt]] |
+| Verbandsfärbung | placement de représentants de l'association | [[Groupe d'intérêt]] |
+| Vernehmlassung | procédure de consultation | [[Groupe d'intérêt]] |
+| Filz | copinage opaque | [[Groupe d'intérêt]] |
+| Korporatismus / Pluralismus | corporatisme / pluralisme | [[Pluralisme et corporatisme]] |
+| Sozialpartnerschaft / Tripartismus | partenariat social / tripartisme | [[Pluralisme et corporatisme]] |
+| Vertretungsmonopol | monopole de représentation | [[Pluralisme et corporatisme]] |
+| Soziale Bewegung | mouvement social | [[Mouvement social]] |
+| relative Deprivation | privation relative | [[Mouvement social]] |
+| politische Opportunitätsstrukturen | structures d'opportunité politiques | [[Mouvement social]] |
+| Ressourcenmobilisierungstheorie | théorie de la mobilisation des ressources | [[Mouvement social]] |
 | kurze / lange Frist | court / long terme | [[Rendements d'échelle]] |
 
 ## EN → FR
@@ -61,3 +81,10 @@ Cette page sert d'index de révision, pour les termes à mémoriser.
 | marginal cost | coût marginal | [[Courbes de coûts]] |
 | efficient scale | optimum d'exploitation | [[Courbes de coûts]] |
 | economies of scale | économies d'échelle | [[Rendements d'échelle]] |
+| public good / club good / common-pool resource | bien public / de club / commun | [[Bien public]] |
+| collective action, free riding | action collective, free riding | [[Action collective]] |
+| selective incentives | incitations sélectives | [[Action collective]] |
+| interest group, pressure group | groupe d'intérêt | [[Groupe d'intérêt]] |
+| corporatism / pluralism | corporatisme / pluralisme | [[Pluralisme et corporatisme]] |
+| social movement | mouvement social | [[Mouvement social]] |
+| political opportunity structures | structures d'opportunité politiques | [[Mouvement social]] |

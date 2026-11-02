@@ -33,8 +33,9 @@ Droit civil mis de côté pour l'instant : pas encore de notes dans NEXUS.
 5. [[Élections et démocratie directe]]
 6. [[Attitudes et comportement politiques]]
 7. [[Partis et systèmes de partis]]
+8. [[Groupes d'intérêt et mouvements sociaux]]
 
-**U-Fragen :** [[UF PW V01|V01]] · [[UF PW V02|V02]] · [[UF PW V03|V03]] · [[UF PW V04|V04]] · [[UF PW V05|V05]] · [[UF PW V06|V06]]
+**U-Fragen :** [[UF PW V01|V01]] · [[UF PW V02|V02]] · [[UF PW V03|V03]] · [[UF PW V04|V04]] · [[UF PW V05|V05]] · [[UF PW V06|V06]] · [[UF PW V07|V07]]
 
 ## Leadership I & II
 

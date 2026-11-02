@@ -18,7 +18,7 @@ tags:
 ## Travaux
 | # | Échéance | Travail | Note |
 |---|---|---|---|
-| 1 | 11.11.2026 | Leistungsnachweis | [[Proseminar I – Forschungsfragen V2]] |
+| 1 | 11.11.2026 | Leistungsnachweis | [[Forschungsfragen V1]] |
 | 2 | 11.01.2027 |  |  |
 
 ## ⚠️ Infos

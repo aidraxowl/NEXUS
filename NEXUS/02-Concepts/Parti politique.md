@@ -55,14 +55,14 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| Groupe d'intérêt (Kap. 8) | Pas de candidats, un seul thème, influence plutôt dans la société | La définition générale du parti s'applique aussi à lui |
-| Mouvement social (Kap. 8) | Peu organisé, spontané | Peut donner naissance à un parti (Verts) |
+| [[Groupe d'intérêt]] (Kap. 8) | Pas de candidats, un seul thème, influence plutôt dans la société | La définition générale du parti s'applique aussi à lui |
+| [[Mouvement social]] (Kap. 8) | Peu organisé, spontané | Peut donner naissance à un parti (Verts) |
 | Médias (Kap. 9) | Intermédiaire **indirect** : observe et commente | Ne pas les classer comme acteurs de l'agrégation |
 | Agrégation ≠ articulation | Regrouper ≠ porter dans le système | Ordre : sélection -> agrégation -> articulation |
 
 ## Liens
 - **Thème :** [[Partis et systèmes de partis]]
-- **Proche de :** [[Types de partis]], [[Position programmatique]], [[Système de partis]]
+- **Proche de :** [[Types de partis]], [[Position programmatique]], [[Système de partis]], [[Groupe d'intérêt]], [[Mouvement social]]
 - **U-Fragen :** [[UF PW V06]]
 
 ## Questions de compréhension

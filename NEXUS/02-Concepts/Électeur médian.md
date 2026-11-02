@@ -45,6 +45,7 @@ tags:
 **Limites**
 - Hypothèses irréalistes : une seule dimension, pas de fidélité partisane, abstention ignorée.
 - En multipartisme et en PR, la convergence n'est pas garantie (niches, partis antisystème).
+- Groupes d'intérêt (Kap. 8) : un groupe bien organisé et très conflictuel peut obtenir une décision qui s'écarte de la préférence du médian (Rokkan : « votes count, but resources decide ») -> [[Action collective]].
 
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
@@ -53,12 +54,13 @@ tags:
 | Moyenne | Revenu moyen | Médian < moyen quand la distribution est inégale |
 | Modèle directionnel (Kap. 6) | Direction et intensité comptent | Le théorème vaut pour le modèle de **proximité** |
 | Multipartisme | Dynamique plus complexe | Le modèle classique suppose **deux** partis et le majoritaire |
+| [[Action collective]] | Les ressources des groupes organisés comptent | Relativise le théorème (Kap. 8) |
 
 ## Liens
 - **Thème :** [[Démocratie et autocratie]], [[Partis et systèmes de partis]]
 - **Proche de :** [[Bien public]], [[Théorie du sélectorat]], [[Système de partis]], [[Position programmatique]]
 - **Penseur :** [[Anthony Downs]]
-- **U-Fragen :** [[UF PW V03]], [[UF PW V06]]
+- **U-Fragen :** [[UF PW V03]], [[UF PW V06]], [[UF PW V07]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi les décisions peuvent-elles s'écarter de l'intérêt du médian même en démocratie avancée ?
