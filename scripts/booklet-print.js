@@ -112,13 +112,13 @@
     var g = document.createElement("section")
     g.className = "nx-glossary"
     g.innerHTML =
-      "<h2 class='nx-chapter nx-end'>Glossaire DE → FR</h2><table><thead><tr><th>Deutsch</th><th>Français</th></tr></thead><tbody>" +
+      "<h2 class='nx-chapter nx-end'>Glossaire DE → FR</h2><div class='nx-gl'>" +
       gl
         .map(function (e) {
-          return "<tr><td>" + esc(e.de) + "</td><td>" + esc(e.fr) + "</td></tr>"
+          return "<p><b>" + esc(e.de) + "</b><span>" + esc(e.fr) + "</span></p>"
         })
         .join("") +
-      "</tbody></table>"
+      "</div>"
     art.appendChild(g)
   }
 
@@ -126,8 +126,8 @@
   var notes = document.createElement("section")
   notes.className = "nx-notes"
   notes.innerHTML =
-    "<h2 class='nx-chapter nx-end'>Notes</h2>" + new Array(20).join("<div class='nx-line'></div>") +
-    "<div class='nx-notes-p2'>" + new Array(24).join("<div class='nx-line'></div>") + "</div>"
+    "<h2 class='nx-chapter nx-end'>Notes</h2>" + new Array(19).join("<div class='nx-line'></div>") +
+    "<div class='nx-notes-p2'>" + new Array(22).join("<div class='nx-line'></div>") + "</div>"
   art.appendChild(notes)
 
   // Page de garde
