@@ -194,34 +194,150 @@ h1, h2, h3 { font-weight: 700;
   h3 {
     break-after: avoid;
   }
+}
 
-  /* Booklet : page de garde, un chapitre par page */
-  body[data-slug*="booklet-" i] .article-title {
-    margin-top: 45mm;
-    font-size: 26pt;
-    border-left: 6px solid #ff7a1a;
-    padding-left: 5mm;
-  }
-  body[data-slug*="booklet-" i] .content-meta,
-  body[data-slug*="booklet-" i] .tags {
+/* Booklet PDF (page générée par scripts/booklets-pdf.mjs) */
+@media print {
+  .nx-booklet .nx-hide,
+  .nx-booklet .transclude-src,
+  .nx-booklet .transclude > h1,
+  .nx-booklet article > hr,
+  .nx-booklet .content-meta,
+  .nx-booklet .tags {
     display: none !important;
   }
-  body[data-slug*="booklet-" i] article > .callout[data-callout="info"] {
-    margin-top: 12mm;
-  }
-  body[data-slug*="booklet-" i] article > h2 {
-    break-before: page;
-    font-size: 18pt;
-    margin-top: 0;
-    padding-bottom: 3mm;
-    border-bottom: 3px solid #ff7a1a;
-  }
-  body[data-slug*="booklet-" i] article > hr {
-    display: none;
-  }
-  body[data-slug*="booklet-" i] .transclude {
+  .nx-booklet .transclude {
     border: none !important;
     padding: 0 !important;
     margin: 0 !important;
+  }
+  .nx-booklet .nx-chapter {
+    break-before: page;
+    font-size: 19pt;
+    margin: 0 0 4mm 0;
+    padding: 3mm 0 3mm 4mm;
+    border-left: 6px solid #ff7a1a;
+    background: #f4f1ea;
+  }
+  /* Page de garde */
+  .nx-cover {
+    height: 178mm;
+    display: flex;
+    flex-direction: column;
+    break-after: page;
+  }
+  .nx-brand {
+    display: flex;
+    align-items: center;
+    gap: 3mm;
+    font-weight: 800;
+    letter-spacing: 0.35em;
+    font-size: 12pt;
+  }
+  .nx-brand img {
+    width: 11mm;
+    height: 11mm;
+    border-radius: 2mm;
+  }
+  .nx-band {
+    margin-top: 32mm;
+    background: #1d221f;
+    color: #ecebe6;
+    border-left: 3mm solid #ff7a1a;
+    padding: 8mm 7mm;
+  }
+  .nx-band h1 {
+    color: #ecebe6 !important;
+    margin: 0;
+    font-size: 21pt;
+    line-height: 1.15;
+  }
+  .nx-band p {
+    margin: 3mm 0 0 0;
+    color: #c4b495;
+    font-size: 11pt;
+  }
+  .nx-foot {
+    margin-top: auto;
+    border-top: 1px solid #999;
+    padding-top: 2mm;
+    display: flex;
+    justify-content: space-between;
+    font-size: 8pt;
+    color: #555;
+  }
+  /* Sommaire */
+  .nx-toc {
+    break-after: page;
+  }
+  .nx-toc h2 {
+    font-size: 18pt;
+    margin-top: 0;
+  }
+  .nx-toc ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .nx-toc li {
+    display: flex;
+    gap: 3mm;
+    align-items: stretch;
+    margin-bottom: 1.5mm;
+    background: #f4f1ea;
+    break-inside: avoid;
+  }
+  .nx-toc .nx-n {
+    min-width: 8mm;
+    background: #1d221f;
+    color: #fff;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .nx-toc li > div {
+    padding: 2mm 2mm 2mm 0;
+  }
+  .nx-toc small {
+    display: block;
+    color: #555;
+    font-size: 7.5pt;
+    margin-top: 0.8mm;
+  }
+  .nx-toc .nx-toc-extra .nx-n {
+    background: #ff7a1a;
+  }
+  /* Questions et réponses */
+  .nx-qnum {
+    display: inline-block;
+    background: #ff7a1a;
+    color: #fff;
+    font-weight: 700;
+    font-size: 8pt;
+    padding: 0 1.5mm;
+    margin-right: 2mm;
+    border-radius: 1mm;
+  }
+  .nx-booklet .nx-question {
+    padding-bottom: 1mm;
+  }
+  .nx-answers h3 {
+    margin: 5mm 0 2mm 0;
+    font-size: 11pt;
+    border-bottom: 1px solid #ccc;
+  }
+  .nx-ans {
+    break-inside: avoid;
+    margin-bottom: 3mm;
+    font-size: 9pt;
+  }
+  .nx-ans-q {
+    margin: 0 0 1mm 0;
+  }
+  .nx-ans .callout-content {
+    display: block !important;
+    padding-left: 4mm;
+    border-left: 2px solid #ff7a1a;
   }
 }

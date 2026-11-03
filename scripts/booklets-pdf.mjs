@@ -2,10 +2,14 @@
 // Les pages « booklet-*.html » de public/ sont imprimées avec Chrome headless
 // dans public/booklets/<nom>.pdf. Ce script n'échoue jamais : si un PDF ne peut
 // pas être créé, le site est quand même déployé.
-import { readdirSync, mkdirSync, existsSync, createReadStream, statSync } from "node:fs"
+import { readdirSync, mkdirSync, existsSync, createReadStream, statSync, readFileSync, writeFileSync, rmSync } from "node:fs"
 import { join, basename, extname, relative, sep } from "node:path"
 import { spawn, spawnSync } from "node:child_process"
 import http from "node:http"
+import { fileURLToPath } from "node:url"
+
+// Mise en forme du PDF (page de garde, sommaire, réponses en fin de booklet)
+const INJECT = readFileSync(join(fileURLToPath(new URL(".", import.meta.url)), "booklet-print.js"), "utf8")
 
 const PUBLIC = "public"
 const OUT = join(PUBLIC, "booklets")
@@ -15,7 +19,7 @@ function walk(dir) {
   for (const e of readdirSync(dir, { withFileTypes: true })) {
     const p = join(dir, e.name)
     if (e.isDirectory()) out = out.concat(walk(p))
-    else if (/^booklet-.*\.html$/i.test(e.name)) out.push(p)
+    else if (/^booklet-.*\.html$/i.test(e.name) && !/\.nxprint\.html$/i.test(e.name)) out.push(p)
   }
   return out
 }
@@ -76,9 +80,13 @@ function print(url, out) {
 
 let ok = 0
 for (const page of pages) {
-  const rel = relative(PUBLIC, page).split(sep).join("/").replace(/\.html$/i, "")
+  const tmp = page.replace(/\.html$/i, ".nxprint.html")
+  const html = readFileSync(page, "utf8")
+  writeFileSync(tmp, html.replace(/<\/body>/i, () => `<script>${INJECT}</script></body>`))
+  const rel = relative(PUBLIC, tmp).split(sep).join("/")
   const out = join(OUT, basename(page).replace(/\.html$/i, ".pdf").toLowerCase())
   const good = await print(`http://127.0.0.1:${port}/${encodeURI(rel)}`, out)
+  rmSync(tmp, { force: true })
   console.log(good ? `PDF créé : ${out}` : `Échec : ${page}`)
   if (good) ok++
 }
