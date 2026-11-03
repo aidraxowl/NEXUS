@@ -341,3 +341,22 @@ h1, h2, h3 { font-weight: 700;
     border-left: 2px solid #ff7a1a;
   }
 }
+@media print {
+  .nx-owner {
+    margin-top: 10mm;
+    padding-left: 3mm;
+    border-left: 3mm solid transparent;
+  }
+  .nx-owner b {
+    display: block;
+    font-size: 16pt;
+    letter-spacing: 0.25em;
+  }
+  .nx-owner span {
+    display: block;
+    margin-top: 1mm;
+    font-size: 11pt;
+    letter-spacing: 0.2em;
+    color: #b35400;
+  }
+}

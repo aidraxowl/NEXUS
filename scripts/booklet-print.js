@@ -65,18 +65,24 @@
   cover.innerHTML =
     "<div class='nx-brand'>" + (icon ? "<img src='" + icon + "' alt=''>" : "") + "<span>NEXUS</span></div>" +
     "<div class='nx-band'><h1>" + course + "</h1><p>Booklet de révision</p></div>" +
-    "<div class='nx-foot'><span>" + chapters.length + " chapitres · BSG26</span><b>généré le " + built + "</b></div>"
+    "<div class='nx-owner'><b>JUG</b><span>BSG26</span></div>" +
+    "<div class='nx-foot'><span>" + chapters.length + " chapitres</span><b>généré le " + built + "</b></div>"
   // Sommaire
   var toc = document.createElement("section")
   toc.className = "nx-toc"
   var items = chapters.map(function (h) {
     var m = h.textContent.trim().match(/^(\d+)\.\s*(.*)$/)
     var subs = []
+    var stop = chapters[chapters.indexOf(h) + 1]
     var el = h.nextElementSibling
-    var tr = el && el.classList && el.classList.contains("transclude") ? el : (el && el.querySelector ? el.querySelector(".transclude") : null)
-    if (tr) tr.querySelectorAll("h2").forEach(function (s) {
-      if (!s.classList.contains("nx-hide") && !/^pour réviser$/i.test(s.textContent.trim())) subs.push(s.textContent.trim())
-    })
+    while (el && el !== stop) {
+      var hs = el.tagName === "H2" ? [el] : (el.querySelectorAll ? Array.prototype.slice.call(el.querySelectorAll("h2")) : [])
+      hs.forEach(function (s) {
+        var tx = s.textContent.trim()
+        if (!s.classList.contains("nx-hide") && !s.closest(".nx-hide") && !s.classList.contains("nx-chapter") && !s.closest(".nx-answers") && !/^(pour réviser|sources)$/i.test(tx)) subs.push(tx)
+      })
+      el = el.nextElementSibling
+    }
     return "<li><span class='nx-n'>" + (m ? m[1] : "") + "</span><div><b>" + (m ? m[2] : h.textContent) + "</b>" +
       (subs.length ? "<small>" + subs.join(" · ") + "</small>" : "") + "</div></li>"
   })
