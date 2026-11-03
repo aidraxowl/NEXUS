@@ -6,6 +6,7 @@ aliases:
 tags:
   - type/concept
   - cours/pw
+  - cours/dc
 ---
 
 > [!abstract] L'essentiel
@@ -20,6 +21,7 @@ tags:
 - **Horizontale :** parlementaire, présidentielle, semi-présidentielle.
 - **Verticale :** fédéralisme vs État unitaire, niveau supranational.
 - **Temporelle :** mandats limités (Kap. 5).
+- **Suisse (DC V01) :** à chaque niveau (Confédération, cantons, communes) : le législatif fait Cst. et lois (au fédéral : Assemblée fédérale **+ citoyens** par référendum et initiative), l'exécutif exécute et adopte les ordonnances (Conseil fédéral, art. 174, 182 Cst.), le judiciaire contrôle l'application (Tribunal fédéral, art. 188 Cst.). Les communes n'ont presque jamais de tribunaux.
 - Le judiciaire est le plus indépendant, mais les nominations politisent (USA : président + Sénat).
 
 ## Exemples
@@ -33,10 +35,10 @@ tags:
 | Fusion des pouvoirs | Parlementaire : gouvernement issu du parlement | Reste une démocratie à séparation horizontale plus faible |
 
 ## Liens
-- **Thème :** [[Systèmes de gouvernement démocratiques]]
-- **Proche de :** [[Fédéralisme]], [[Joueur de veto]]
+- **Thème :** [[Systèmes de gouvernement démocratiques]], [[Sources du droit et organisation de l'État]]
+- **Proche de :** [[Fédéralisme]], [[Joueur de veto]], [[Sources du droit]]
 - **Penseur :** [[Montesquieu]]
-- **U-Fragen :** [[UF PW V03]]
+- **U-Fragen :** [[UF PW V03]], [[UF DC V01]]
 
 ## Questions de compréhension
 > [!question]- Qu'est-ce qu'une séparation des pouvoirs « efficace » ?

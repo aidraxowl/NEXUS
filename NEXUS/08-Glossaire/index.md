@@ -68,6 +68,46 @@ Cette page sert d'index de révision, pour les termes à mémoriser.
 | politische Opportunitätsstrukturen | structures d'opportunité politiques | [[Mouvement social]] |
 | Ressourcenmobilisierungstheorie | théorie de la mobilisation des ressources | [[Mouvement social]] |
 | kurze / lange Frist | court / long terme | [[Rendements d'échelle]] |
+| Rechtsquellen | sources du droit | [[Sources du droit]] |
+| Bundesverfassung | Constitution fédérale | [[Sources du droit]] |
+| Bundesgesetz / Verordnung | loi fédérale / ordonnance | [[Sources du droit]] |
+| Absatz (Abs.) | alinéa (al.) | [[Sources du droit]] |
+| Amtliche Sammlung (AS) / Systematische Sammlung (SR) | Recueil officiel (RO) / Recueil systématique (RS) | [[Sources du droit]] |
+| Privatrecht / öffentliches Recht | droit privé / droit public | [[Droit privé et droit public]] |
+| Bundesversammlung | Assemblée fédérale | [[Séparation des pouvoirs]] |
+| Nationalrat / Ständerat | Conseil national / Conseil des États | [[Séparation des pouvoirs]] |
+| Regierungsrat, Staatsrat | Conseil d'État (exécutif cantonal) | [[Fédéralisme]] |
+| Kantonsrat, Grosser Rat, Landrat | Grand Conseil | [[Fédéralisme]] |
+| Bund, Eidgenossenschaft / Gemeinde | Confédération / commune | [[Fédéralisme]] |
+| Grundrecht, Freiheitsrecht | liberté fondamentale | [[Sources du droit]] |
+| Zivilgesetzbuch (ZGB) / Obligationenrecht (OR) | Code civil (CC) / Code des obligations (CO) | [[Systématique du Code civil et du Code des obligations]] |
+| Randtitel | note marginale | [[Systématique du Code civil et du Code des obligations]] |
+| Beweislast | fardeau de la preuve | [[Fardeau de la preuve]] |
+| natürliche / juristische Person | personne physique / morale | [[Personne physique et personne morale]] |
+| Rechtsfähigkeit / Handlungsfähigkeit | jouissance / exercice des droits civils | [[Personne physique et personne morale]] |
+| Volljährigkeit, Urteilsfähigkeit | majorité, discernement | [[Personne physique et personne morale]] |
+| Wohnsitz / Heimatort / Zivilstand | domicile / lieu d'origine / état civil | [[Personne physique et personne morale]] |
+| Verein / Stiftung | association / fondation | [[Personne physique et personne morale]] |
+| Verlöbnis / Ehe / Ehescheidung | fiançailles / mariage / divorce | [[Droit de la famille]] |
+| Güterstand: Errungenschaftsbeteiligung, Gütergemeinschaft, Gütertrennung | régime matrimonial : participation aux acquêts, communauté, séparation de biens | [[Droit de la famille]] |
+| Kindesverhältnis / Adoption | filiation / adoption | [[Droit de la famille]] |
+| Erwachsenenschutz, Vorsorgeauftrag, Beistandschaft | protection de l'adulte, mandat pour cause d'inaptitude, curatelle | [[Droit de la famille]] |
+| Erblasser / Erbe / Vermächtnis | défunt (de cujus) / héritier / legs | [[Droit des successions]] |
+| letztwillige Verfügung / Erbvertrag | testament / pacte successoral | [[Droit des successions]] |
+| Pflichtteil / verfügbarer Teil | réserve / quotité disponible | [[Droit des successions]] |
+| Erbengemeinschaft / Ausschlagung | communauté héréditaire (hoirie) / répudiation | [[Droit des successions]] |
+| Institution / Occupation (I/O-Modell) | institution / occupation (modèle I/O) | [[Modèle institution-occupation]] |
+| Wehrpflicht / Berufung / Berufstätigkeit | obligation de servir / vocation / activité professionnelle | [[Modèle institution-occupation]] |
+| Sonderstellung der Streitkräfte | position particulière des forces armées | [[Modèle institution-occupation]] |
+| Zweiertypologie / Analyseebene | typologie à deux types / niveau d'analyse | [[Modèle institution-occupation]] |
+| soldatische Identität | identité du soldat | [[Identité du soldat]] |
+| schützen, retten, helfen | protéger, sauver, aider | [[Identité du soldat]] |
+| Hybridisierung / Multifunktionalität | hybridation / multifonctionnalité | [[Identité du soldat]] |
+| Kämpfer / Krieger | combattant / guerrier | [[Identité du soldat]] |
+| Rücktransformation | retransformation | [[Retransformation de l'identité du soldat]] |
+| Landes- / Bündnisverteidigung | défense du territoire / de l'alliance | [[Retransformation de l'identité du soldat]] |
+| Garant staatlicher Souveränität | garant de la souveraineté de l'État | [[Retransformation de l'identité du soldat]] |
+| Scherkräfte / Führungskräfte | forces de cisaillement / cadres | [[Retransformation de l'identité du soldat]] |
 
 ## EN → FR
 
