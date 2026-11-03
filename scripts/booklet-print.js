@@ -37,8 +37,9 @@
   var chapters = Array.prototype.filter.call(art.querySelectorAll("h2"), function (h) {
     return !h.closest(".transclude") && /^\s*\d+\./.test(h.textContent)
   })
-  chapters.forEach(function (h) {
+  chapters.forEach(function (h, i) {
     h.classList.add("nx-chapter")
+    h.id = "nxc" + (i + 1)
   })
 
   // Encadré d'information du booklet → page de garde
@@ -62,7 +63,7 @@
   // Questions : « Teste-toi d'abord » en tête de chapitre, réponses à la fin
   var answers = document.createElement("section")
   answers.className = "nx-answers"
-  answers.innerHTML = "<h2 class='nx-chapter nx-end'>Réponses aux questions</h2>"
+  answers.innerHTML = "<h2 class='nx-chapter nx-end' id='nxR'>Réponses aux questions</h2>"
   var tocSubs = []
   chapters.forEach(function (h, ci) {
     var els = range(h, chapters[ci + 1])
@@ -112,7 +113,7 @@
     var g = document.createElement("section")
     g.className = "nx-glossary"
     g.innerHTML =
-      "<h2 class='nx-chapter nx-end'>Glossaire DE → FR</h2><div class='nx-gl'>" +
+      "<h2 class='nx-chapter nx-end' id='nxG'>Glossaire DE → FR</h2><div class='nx-gl'>" +
       gl
         .map(function (e) {
           return "<p><b>" + esc(e.de) + "</b><span>" + esc(e.fr) + "</span></p>"
@@ -126,7 +127,7 @@
   var notes = document.createElement("section")
   notes.className = "nx-notes"
   notes.innerHTML =
-    "<h2 class='nx-chapter nx-end'>Notes</h2>" + new Array(19).join("<div class='nx-line'></div>") +
+    "<h2 class='nx-chapter nx-end' id='nxN'>Notes</h2>" + new Array(19).join("<div class='nx-line'></div>") +
     "<div class='nx-notes-p2'>" + new Array(22).join("<div class='nx-line'></div>") + "</div>"
   art.appendChild(notes)
 
@@ -145,18 +146,29 @@
   // Sommaire
   var toc = document.createElement("section")
   toc.className = "nx-toc"
+  var pages = window.NX_PAGES || {}
+  function entry(id, num, title, subs, extra) {
+    var pg = pages[id] ? "<span class='nx-pg'>" + pages[id] + "</span>" : ""
+    return (
+      "<li" + (extra ? " class='nx-toc-extra'" : "") + "><span class='nx-n'>" + num + "</span><a href='#" + id + "'><b>" + esc(title) + "</b>" +
+      (subs && subs.length ? "<small>" + subs.map(esc).join(" · ") + "</small>" : "") + "</a>" + pg + "</li>"
+    )
+  }
   var items = chapters.map(function (h, ci) {
     var m = h.textContent.trim().match(/^(\d+)\.\s*(.*)$/)
-    var subs = tocSubs[ci] || []
-    return (
-      "<li><span class='nx-n'>" + (m ? m[1] : "") + "</span><div><b>" + esc(m ? m[2] : h.textContent) + "</b>" +
-      (subs.length ? "<small>" + subs.map(esc).join(" · ") + "</small>" : "") + "</div></li>"
-    )
+    return entry("nxc" + (ci + 1), m ? m[1] : ci + 1, m ? m[2] : h.textContent.trim(), tocSubs[ci], false)
   })
-  if (hasAnswers) items.push("<li class='nx-toc-extra'><span class='nx-n'>R</span><div><b>Réponses aux questions</b></div></li>")
-  if (gl.length) items.push("<li class='nx-toc-extra'><span class='nx-n'>G</span><div><b>Glossaire DE → FR</b></div></li>")
-  items.push("<li class='nx-toc-extra'><span class='nx-n'>N</span><div><b>Notes</b></div></li>")
+  if (hasAnswers) items.push(entry("nxR", "R", "Réponses aux questions", null, true))
+  if (gl.length) items.push(entry("nxG", "G", "Glossaire DE → FR", null, true))
+  items.push(entry("nxN", "N", "Notes", null, true))
   toc.innerHTML = "<h2>Sommaire</h2><ol>" + items.join("") + "</ol>"
   art.insertBefore(toc, art.firstChild)
   art.insertBefore(cover, art.firstChild)
+
+  // Pied de page : nom du cours à gauche (le numéro de page est à droite)
+  var st = document.createElement("style")
+  st.textContent =
+    "@page { @bottom-left { content: '" + course.replace(/['\\]/g, "") + " · NEXUS'; font-size: 7pt; color: #888; } }" +
+    "@page :first { @bottom-left { content: none; } }"
+  document.head.appendChild(st)
 })()

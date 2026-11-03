@@ -307,7 +307,7 @@ h1, h2, h3 { font-weight: 700;
   }
   .nx-owner {
     margin-top: 9mm;
-    padding-left: 10mm;
+    padding-left: 0;
   }
   .nx-owner b {
     display: block;
@@ -468,5 +468,22 @@ h1, h2, h3 { font-weight: 700;
   }
   .nx-notes-p2 {
     break-before: page;
+  }
+}
+@media print {
+  .nx-toc li > a {
+    flex: 1;
+    display: block;
+    padding: 1.4mm 2mm 1.4mm 0;
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+  .nx-toc .nx-pg {
+    align-self: center;
+    min-width: 8mm;
+    padding-right: 2mm;
+    text-align: right;
+    font-weight: 700;
+    font-size: 9pt;
   }
 }
