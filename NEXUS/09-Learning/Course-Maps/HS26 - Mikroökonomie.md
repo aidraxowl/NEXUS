@@ -17,9 +17,6 @@ tags:
 > **Examen :** Basisprüfung, août 2027, combiné avec la Makroökonomie (FS27) · **Format :** écrit ; 3 tests pendant le semestre (QCM + exercices rédigés)
 > **Manuel :** Mankiw/Taylor, *Grundzüge der VWL*, 9e éd.
 
-> [!example] Booklet de révision
-> 📘 [[Booklet VWL|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
-
 ## Vue d'ensemble
 ```mermaid
 mindmap

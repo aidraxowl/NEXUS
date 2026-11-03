@@ -11,7 +11,6 @@ aliases:
 tags:
   - type/concept
   - cours/pw
-  - cours/dc
 ---
 
 > [!abstract] L'essentiel
@@ -44,8 +43,7 @@ Trois questions : (1) obligatoire ou non ? (2) déclenché par le gouvernement ?
 - Arbitrage succès ↔ innovation : si le but est le changement -> compromis vers le SQ ; si le but est la mobilisation -> demande radicale.
 
 ### Selon les pays
-- **CH :** obligatoire (double majorité peuple + cantons, art. 140, 142 Cst.) ; facultatif (50 000 signatures ou 8 cantons en 100 jours, majorité du peuple, art. 141) ; initiative (100 000 en 18 mois, art. 138–139).
-- **Angle juridique (DC V01) :** le peuple fait partie du **pouvoir législatif** ; dans les cantons, référendum obligatoire pour toute révision constitutionnelle, obligatoire ou facultatif pour les lois selon le canton.
+- **CH :** obligatoire (double majorité peuple + cantons) ; facultatif (50 000 signatures ou 8 cantons en 100 jours, majorité du peuple) ; initiative (100 000).
 - **AT :** Volksbefragung, Volksabstimmung (Zwentendorf 1978 non, UE 1994 oui), Volksbegehren (≈ pétition). **DE :** quasi purement représentative au niveau fédéral.
 - Gouvernemental : FR Art. 11 ; traité constitutionnel UE 2005 (FR, NL rejettent) ; adhésion UE 1994 et « stratégie des dominos ».
 - **CH ≠ Californie :** en CH, aucun parti ne gagne seul -> compromis dès le lancement ; en Californie, deux partis polarisés contournent le compromis parlementaire -> instruments non transposables.
@@ -70,11 +68,11 @@ Trois questions : (1) obligatoire ou non ? (2) déclenché par le gouvernement ?
 | Référendum gouvernemental | Déclenché d'en haut | Pas un instrument de contrôle citoyen |
 
 ## Liens
-- **Thème :** [[Élections et démocratie directe]], [[Sources du droit et organisation de l'État]]
+- **Thème :** [[Élections et démocratie directe]]
 - **Proche de :** [[Joueur de veto]], [[Démocratie]], [[Système électoral]]
 - **Penseur :** [[George Tsebelis]]
 - **Cas :** [[Référendum sur le Brexit]], Démocratie athénienne
-- **U-Fragen :** [[UF PW V04]], [[UF DC V01]]
+- **U-Fragen :** [[UF PW V04]]
 
 ## Questions de compréhension
 > [!question]- En quoi le référendum facultatif fait-il du peuple un joueur de veto ?

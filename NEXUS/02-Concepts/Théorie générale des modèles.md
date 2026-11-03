@@ -40,9 +40,9 @@ tags:
 
 ## Liens
 - **Thème :** [[Modèle de référence de la conduite]]
-- **Proche de :** [[Modèle CLM]] · rappelée en V08 pour manier les typologies de l'[[Identité du soldat]] (soldat hybride, Kaspersen)
+- **Proche de :** [[Modèle CLM]]
 - **Penseur :** Herbert Stachowiak · George E. P. Box
-- **U-Fragen :** [[UF Lead V01]] · [[UF Lead V08]]
+- **U-Fragen :** [[UF Lead V01]]
 
 ## Questions de compréhension
 > [!question]- Quelles sont les trois composantes de la caractéristique pragmatique ?

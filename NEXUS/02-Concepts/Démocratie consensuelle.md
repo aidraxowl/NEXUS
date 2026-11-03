@@ -32,7 +32,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Systèmes de gouvernement démocratiques]]
-- **Proche de :** [[Fédéralisme]], [[Système électoral]], [[Pluralisme et corporatisme]]
+- **Proche de :** [[Fédéralisme]], [[Système électoral]]
 - **Penseur :** [[Arend Lijphart]]
 - **Cas :** [[Formule magique]], [[Parlementarisme et présidentialisme]]
 - **U-Fragen :** [[UF PW V03]]

@@ -7,7 +7,6 @@ tags:
   - type/concept
   - cours/pw
   - cours/milsoz
-  - cours/lead
 ---
 
 > [!abstract] L'essentiel
@@ -53,7 +52,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Politique, État et science politique]] · [[Institutions de la société]]
-- **Proche de :** [[Politique]], [[Système politique]], [[Séparation des pouvoirs]], [[Norme sociale]], [[Organisation]] · Leadership : l'armée comme « institution sui generis » dans le [[Modèle institution-occupation]]
+- **Proche de :** [[Politique]], [[Système politique]], [[Séparation des pouvoirs]], [[Norme sociale]], [[Organisation]]
 - **Penseur :** Douglass North · [[Max Weber]] (action rationnelle en valeur ≠ en finalité)
 - **U-Fragen :** [[UF PW V01]] · [[UF MilSoz V05]]
 

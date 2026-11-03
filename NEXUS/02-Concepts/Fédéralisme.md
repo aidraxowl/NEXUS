@@ -6,7 +6,6 @@ aliases:
 tags:
   - type/concept
   - cours/pw
-  - cours/dc
 ---
 
 > [!abstract] L'essentiel
@@ -22,7 +21,6 @@ tags:
 - **DE :** 16 Länder, clause d'éternité, Zustimmungsgesetze (~49 %), Länder exécutent le droit fédéral, BVerfG fort.
 - **AT :** 9 Länder, compétences faibles, justice entièrement fédérale.
 - **CH :** compétences les plus larges, Conseil des États à égalité, justice constitutionnelle **faible** (exception), démocratie directe à tous les niveaux.
-- **CH, angle juridique (DC V01) :** la Confédération n'a que les compétences attribuées par la Cst. (art. 3, 42 Cst.) ; chaque canton a sa constitution (art. 51), ses lois, ordonnances et tribunaux ; domaines cantonaux typiques : enseignement, constructions. Autonomie communale selon le droit cantonal (art. 50) : forte en GR, faible à GE. Dans le CC : droit cantonal réservé (art. 5 et 6 CC).
 - **UE :** proche d'une confédération ; pas de vrai bicaméralisme ni de constitution, mais une CJUE de type constitutionnel.
 - **Effets (Patzelt) :** 5 avantages (diversité, minorités régionales, efficacité/subsidiarité, moins de concentration, participation) ; 3 inconvénients (lenteur, opacité, responsabilité floue).
 - **Finances (Rodden 2002) :** entités financées par transferts ou dette -> externalisation des coûts -> déficits.
@@ -46,10 +44,10 @@ tags:
 | Suisse | Fédéralisme fort | Mais justice constitutionnelle faible |
 
 ## Liens
-- **Thème :** [[Systèmes de gouvernement démocratiques]], [[Sources du droit et organisation de l'État]]
+- **Thème :** [[Systèmes de gouvernement démocratiques]]
 - **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], Bicaméralisme
 - **Penseur :** [[Arend Lijphart]]
-- **U-Fragen :** [[UF PW V03]], [[UF DC V01]]
+- **U-Fragen :** [[UF PW V03]]
 
 ## Questions de compréhension
 > [!question]- Comment justifier l'hypothèse que les États fédéraux ont moins de déficits ?
