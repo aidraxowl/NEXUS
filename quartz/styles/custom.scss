@@ -77,3 +77,151 @@ body::before {
 }
 h1, h2, h3 { font-weight: 700; 
 }
+/* ============================================================
+   Booklet : boutons sur le site + impression / PDF (A5)
+   ============================================================ */
+
+/* Encadré « Booklet » des Course Maps : liens en forme de boutons */
+.callout[data-callout="booklet"] {
+  --color: #c4b495;
+  --border: #c4b49580;
+  --bg: transparent;
+  --callout-icon: var(--callout-icon-abstract);
+  border-style: dashed;
+}
+.callout[data-callout="booklet"] .callout-content a {
+  display: inline-block;
+  margin: 0.15rem 0.5rem 0.15rem 0;
+  padding: 0.1rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+.callout[data-callout="booklet"] .callout-content a:hover {
+  border-color: var(--tertiary);
+  color: var(--tertiary) !important;
+}
+
+/* Mise en page d'impression */
+@page {
+  size: A5;
+  margin: 14mm 12mm 16mm 12mm;
+  @bottom-right {
+    content: counter(page);
+    font-size: 8pt;
+    color: #777;
+  }
+}
+@page :first {
+  @bottom-right {
+    content: none;
+  }
+}
+
+@media print {
+  :root,
+  :root[saved-theme="dark"],
+  :root[saved-theme="light"] {
+    --light: #ffffff;
+    --lightgray: #e3e3e3;
+    --gray: #666666;
+    --darkgray: #222222;
+    --dark: #000000;
+    --secondary: #3d4a1f;
+    --tertiary: #b35400;
+    --highlight: rgba(0, 0, 0, 0.04);
+    --textHighlight: #ffe2b8;
+  }
+  html,
+  body {
+    background: #ffffff !important;
+    color: #111111 !important;
+    font-size: 10pt;
+  }
+  body::before,
+  .sidebar,
+  .page-header,
+  .page-footer,
+  footer,
+  .graph,
+  .backlinks,
+  .toc,
+  .explorer,
+  .search,
+  .popover,
+  .callout[data-callout="booklet"] {
+    display: none !important;
+  }
+  .page {
+    max-width: none !important;
+    margin: 0 !important;
+  }
+  .page > #quartz-body {
+    display: block !important;
+    padding: 0 !important;
+  }
+  .center {
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+  }
+  a,
+  a.internal,
+  a.external {
+    color: inherit !important;
+    text-decoration: none !important;
+    background: none !important;
+  }
+  /* Réponses repliées (questions) : visibles sur papier */
+  .callout.is-collapsed .callout-content > * {
+    height: auto !important;
+    margin: revert !important;
+    padding: revert !important;
+    overflow: visible !important;
+  }
+  .callout .fold-callout-icon {
+    display: none !important;
+  }
+  .callout,
+  table,
+  pre,
+  img,
+  figure {
+    break-inside: avoid;
+  }
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+
+  /* Booklet : page de garde, un chapitre par page */
+  body[data-slug*="booklet-" i] .article-title {
+    margin-top: 45mm;
+    font-size: 26pt;
+    border-left: 6px solid #ff7a1a;
+    padding-left: 5mm;
+  }
+  body[data-slug*="booklet-" i] .content-meta,
+  body[data-slug*="booklet-" i] .tags {
+    display: none !important;
+  }
+  body[data-slug*="booklet-" i] article > .callout[data-callout="info"] {
+    margin-top: 12mm;
+  }
+  body[data-slug*="booklet-" i] article > h2 {
+    break-before: page;
+    font-size: 18pt;
+    margin-top: 0;
+    padding-bottom: 3mm;
+    border-bottom: 3px solid #ff7a1a;
+  }
+  body[data-slug*="booklet-" i] article > hr {
+    display: none;
+  }
+  body[data-slug*="booklet-" i] .transclude {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}

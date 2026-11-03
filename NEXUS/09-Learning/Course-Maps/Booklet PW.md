@@ -9,7 +9,7 @@ tags:
 
 > [!info] Booklet · Politikwissenschaft (HS26)
 > Tous les thèmes du cours, dans l'ordre. Il se met à jour tout seul quand un thème change ; un **nouveau** thème s'ajoute ici à la main (voir [[Standards-de-note]]).
-> **Course Map :** [[HS26 - Politikwissenschaft]] · **Imprimer :** ouvrir cette page, puis Ctrl+P → « Enregistrer en PDF ».
+> **Course Map :** [[HS26 - Politikwissenschaft]] · **PDF (A5) :** [télécharger](https://aidraxowl.github.io/NEXUS/booklets/booklet-pw.pdf) (régénéré à chaque publication).
 
 ## 1. Politique, État et science politique
 

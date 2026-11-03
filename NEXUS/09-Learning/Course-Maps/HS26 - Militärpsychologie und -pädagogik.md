@@ -15,8 +15,8 @@ tags:
 > **Langue :** allemand
 > **Examen :** examen de session, août 2027 · **Format :** écrit, 120 min, en langue maternelle ; contenu HS26 + semaine bloc + FS27, Intermezzi compris
 
-> [!example] Booklet de révision
-> 📘 [[Booklet MilPsy|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+> [!booklet] Booklet de révision
+> [[Booklet MilPsy|📘 Lire]] [🖨️ PDF (A5)](https://aidraxowl.github.io/NEXUS/booklets/booklet-milpsy.pdf)
 
 ## Vue d'ensemble
 ```mermaid

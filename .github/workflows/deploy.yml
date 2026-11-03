@@ -30,6 +30,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build -d NEXUS
+      - name: Build booklet PDFs
+        run: node scripts/booklets-pdf.mjs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

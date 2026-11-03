@@ -9,7 +9,7 @@ tags:
 
 > [!info] Booklet · Droit civil (HS26)
 > Tous les thèmes du cours, dans l'ordre. Il se met à jour tout seul quand un thème change ; un **nouveau** thème s'ajoute ici à la main (voir [[Standards-de-note]]).
-> **Course Map :** [[HS26 - Droit civil]] · **Imprimer :** ouvrir cette page, puis Ctrl+P → « Enregistrer en PDF ».
+> **Course Map :** [[HS26 - Droit civil]] · **PDF (A5) :** [télécharger](https://aidraxowl.github.io/NEXUS/booklets/booklet-dc.pdf) (régénéré à chaque publication).
 
 ## 1. Sources du droit et organisation de l'État
 

@@ -74,7 +74,14 @@ Un thème **modifié** n'exige rien de plus : le booklet l'intègre et suit tout
 
 ## Le booklet
 
-Une note par cours, `Booklet <code>` (ex. `Booklet PW`), dans `09-Learning/Course-Maps`. Elle **intègre** les thèmes du cours bout à bout, dans l'ordre (`![[Thème]]`), sans rien recopier. Elle est liée en haut de la Course Map (encadré « Booklet de révision »). Pour un PDF : ouvrir le booklet, puis **Ctrl+P → Enregistrer en PDF** (ou, dans Obsidian, « Exporter en PDF »).
+Une note par cours, `Booklet <code>` (ex. `Booklet PW`), dans `09-Learning/Course-Maps`. Elle **intègre** les thèmes du cours bout à bout, dans l'ordre (`![[Thème]]`), sans rien recopier. Elle est liée en haut de la Course Map par un encadré :
+
+```
+> [!booklet] Booklet de révision
+> [[Booklet PW|📘 Lire]] [🖨️ PDF (A5)](https://aidraxowl.github.io/NEXUS/booklets/booklet-pw.pdf)
+```
+
+Le **PDF A5** est généré automatiquement à chaque publication (page de garde, un chapitre par page, réponses dépliées). Le nom du PDF est `booklet-<code en minuscules>.pdf`.
 
 ## « L'essentiel »
 

@@ -12,8 +12,8 @@ tags:
 > **Langue :** allemand ; questions et réponses possibles en allemand, français ou italien
 > **Examen :** écrit, 17.12.2026, 16.15–17.30 (75 min), sur laptop (exam.net) · **Format :** 4 Lernzielfragen (12 pts) + 12 MC (12 pts) + 6 images (12 pts) ; 32 pts = 6, 20 pts = 4
 
-> [!example] Booklet de révision
-> 📘 [[Booklet Sport|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+> [!booklet] Booklet de révision
+> [[Booklet Sport|📘 Lire]] [🖨️ PDF (A5)](https://aidraxowl.github.io/NEXUS/booklets/booklet-sport.pdf)
 
 ## Vue d'ensemble
 ```mermaid

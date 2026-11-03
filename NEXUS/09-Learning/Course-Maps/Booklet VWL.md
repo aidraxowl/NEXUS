@@ -9,7 +9,7 @@ tags:
 
 > [!info] Booklet · Mikroökonomie (HS26)
 > Tous les thèmes du cours, dans l'ordre. Il se met à jour tout seul quand un thème change ; un **nouveau** thème s'ajoute ici à la main (voir [[Standards-de-note]]).
-> **Course Map :** [[HS26 - Mikroökonomie]] · **Imprimer :** ouvrir cette page, puis Ctrl+P → « Enregistrer en PDF ».
+> **Course Map :** [[HS26 - Mikroökonomie]] · **PDF (A5) :** [télécharger](https://aidraxowl.github.io/NEXUS/booklets/booklet-vwl.pdf) (régénéré à chaque publication).
 
 ## 1. Principes de l'économie
 

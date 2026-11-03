@@ -15,8 +15,8 @@ tags:
 > **Langue :** allemand
 > **Examen :** Basisprüfung 2027 – Block 1 · **Format :** (à compléter)
 
-> [!example] Booklet de révision
-> 📘 [[Booklet Lead|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+> [!booklet] Booklet de révision
+> [[Booklet Lead|📘 Lire]] [🖨️ PDF (A5)](https://aidraxowl.github.io/NEXUS/booklets/booklet-lead.pdf)
 
 ## Vue d'ensemble
 ```mermaid
