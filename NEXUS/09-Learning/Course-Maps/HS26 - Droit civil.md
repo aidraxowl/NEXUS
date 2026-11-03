@@ -17,6 +17,7 @@ tags:
 | # | Date | Note brute |
 |---|---|---|
 | V05 | 19.10 | [[NB DC V05 - 20261019]] |
+| V07 | 02.11 | [[NB DC V07 - 20261102]] |
 
 ## ⚠️ Infos
 - Branche mise de côté pour l'instant dans NEXUS (cours difficile à suivre, enregistrements mêlant français et italien).
