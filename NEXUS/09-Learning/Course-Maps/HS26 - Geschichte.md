@@ -13,6 +13,9 @@ tags:
 > **Langue :** allemand (sources souvent en anglais)
 > **Examen :** Abschlussklausur, 16.12.2026 · **Format :** écrit ; une question par chapitre, argument construit
 
+> [!example] Booklet de révision
+> 📘 [[Booklet Gesch|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+
 ## Vue d'ensemble
 ```mermaid
 mindmap

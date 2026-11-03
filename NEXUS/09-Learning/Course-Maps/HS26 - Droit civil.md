@@ -14,6 +14,9 @@ tags:
 > **Examen :** [[Basispruefung 2027 - Block 1]] (août 2027), combiné avec le droit public (FS27, Yves Nicol) · **Format :** oral, 15 ou 20 min selon le règlement ; édition papier du CC et du CO, annotée
 > **Livre :** *Le droit en moins de 300 pages* (Schulthess 2024)
 
+> [!example] Booklet de révision
+> 📘 [[Booklet DC|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+
 ## Séances
 | # | Date | Note brute | U-Fragen | Thème |
 |---|---|---|---|---|

@@ -17,6 +17,7 @@ Les tags servent à **filtrer** : sur le site, cliquer sur un tag affiche toutes
 | `type/methode` | Méthode |
 | `type/source` | Source |
 | `type/course-map` | Course Map |
+| `type/booklet` | Booklet (thèmes d'un cours mis bout à bout) |
 | `type/examen` | Page d'examen |
 
 ## Cours

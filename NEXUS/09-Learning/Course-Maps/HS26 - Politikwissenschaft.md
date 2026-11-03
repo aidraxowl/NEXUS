@@ -17,6 +17,9 @@ tags:
 > **Examen :** [[Basispruefung 2027 - Block 1|Basisprüfung 2027 – Block 1]] · **Format :** (à compléter)
 > **Manuel :** Bernauer et al. 2025, *Einführung in die Politikwissenschaft*
 
+> [!example] Booklet de révision
+> 📘 [[Booklet PW|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+
 ## Vue d'ensemble
 ```mermaid
 mindmap
