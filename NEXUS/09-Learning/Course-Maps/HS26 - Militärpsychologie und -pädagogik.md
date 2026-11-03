@@ -15,6 +15,9 @@ tags:
 > **Langue :** allemand
 > **Examen :** examen de session, août 2027 · **Format :** écrit, 120 min, en langue maternelle ; contenu HS26 + semaine bloc + FS27, Intermezzi compris
 
+> [!example] Booklet de révision
+> 📘 [[Booklet MilPsy|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+
 ## Vue d'ensemble
 ```mermaid
 mindmap
@@ -50,6 +53,7 @@ mindmap
 - Expliquer pourquoi nous ne sommes pas rationnels et en tirer des conséquences personnelles
 - Relier la flexibilité cognitive au principe d'engagement « flexibilité » (TF 17)
 - Définir la guerre cognitive, la situer par rapport à la guerre hybride et expliquer ses mécanismes (Leitfragen 3 et 4)
+- Expliquer les émotions du point de vue psychologique, analyser leur influence sur perception, pensée et action, et en tirer des implications pour l'instruction et l'engagement (V08)
 
 ## Séances
 | # | Date | Vorlesung | Note brute | U-Fragen | Thème |
@@ -61,6 +65,7 @@ mindmap
 | V05 | 13.10 | Flexibilité cognitive et guerre cognitive | [[NB MilPsy V05 - 20261013]] | [[UF MilPsy V05]] | [[Pensée et action adaptatives]] · [[Influence et désinformation]] |
 | V06 | 20.10 | Mémoire, pensée et jugement (Urteilen und Entscheiden) | [[NB MilPsy V06 - 20261020]] | [[UF MilPsy V06]] | [[Jugement et décision]] · [[Perception, attention et mémoire]] |
 | V07 | 27.10 | Intermezzo, phase Crosscheck | [[NB MilPsy V07 INTERMEZZO - 20261027]] |  |  |
+| V08 | 03.11 | Émotions (VL 7 de la prof) + Nachtrag dissonance et biais de correspondance | [[NB MilPsy V08 - 20261103]] | [[UF MilPsy V08]] | Émotions et capacité d'action (à créer) |
 
 ## Chapitres (ordre du cours)
 1. [[Écoles de pensée en psychologie]] · V02–V03

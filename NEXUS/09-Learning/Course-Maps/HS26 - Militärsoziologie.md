@@ -14,6 +14,9 @@ tags:
 > **Langue :** allemand (examen possible en allemand, français ou italien)
 > **Examen :** 14.12.2026, 14:15–15:45 · **Format :** écrit, 90 min, **3 questions thématiques**, sans documents ; travail de groupe = 1/4 de la note
 
+> [!example] Booklet de révision
+> 📘 [[Booklet MilSoz|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+
 ## Vue d'ensemble
 ```mermaid
 mindmap

@@ -57,6 +57,25 @@ Règles :
 - Ne lier que des notes qui existent ; sinon, écrire le nom en texte simple.
 - Schémas : uniquement quand ils apportent quelque chose (Mermaid ou image redessinée, jamais une capture de slide).
 
+## Nouveau thème : trois mises à jour obligatoires
+
+Chaque fois qu'un thème est **créé**, mettre à jour dans la foulée :
+
+1. **La Course Map** du cours (`09-Learning/Course-Maps/HS26 - …`) : la ligne de la séance dans le tableau (note brute, U-Fragen, thème) et la liste **Chapitres**.
+2. **Le booklet** du cours (`09-Learning/Course-Maps/Booklet <code>`) : ajouter le thème à sa place dans l'ordre du cours, sous la forme
+   ```
+   ## 3. Nom du thème
+
+   ![[Nom du thème]]
+   ```
+3. **La page d'examen** du bloc (`09-Learning/Examens/Basispruefung 2027 - Block 1|2`) si le cours fait partie de la Basisprüfung.
+
+Un thème **modifié** n'exige rien de plus : le booklet l'intègre et suit tout seul.
+
+## Le booklet
+
+Une note par cours, `Booklet <code>` (ex. `Booklet PW`), dans `09-Learning/Course-Maps`. Elle **intègre** les thèmes du cours bout à bout, dans l'ordre (`![[Thème]]`), sans rien recopier. Elle est liée en haut de la Course Map (encadré « Booklet de révision »). Pour un PDF : ouvrir le booklet, puis **Ctrl+P → Enregistrer en PDF** (ou, dans Obsidian, « Exporter en PDF »).
+
 ## « L'essentiel »
 
 Chaque note (concept, thème, penseur, cas, source, méthode) commence par un encadré **L'essentiel**, suivi d'une ligne vide puis de `^essentiel` seul sur sa ligne. Il sert d'aperçu au survol d'un lien et peut être intégré ailleurs si besoin (`![[Note#^essentiel]]`).

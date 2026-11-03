@@ -11,7 +11,7 @@ tags:
 
 | Branche | HS26 | FS27 | Format |
 |---|---|---|---|
-| Recht I (droit privé) & II (droit public) | [[HS26 - Droit civil\|Droit civil]] | Droit public | Écrit, codes annotés |
+| Recht I (droit privé) & II (droit public) | [[HS26 - Droit civil\|Droit civil]] | Droit public | Oral 15–20 min, codes papier annotés |
 | Politikwissenschaft I & II | [[HS26 - Politikwissenschaft\|PW I]] | PW II | Dual-Choice, QCM, réponses courtes ; 4 pages de notes autorisées |
 | Leadership I & II | [[HS26 - Leadership\|Leadership I]] | Leadership II |  |
 
@@ -19,7 +19,11 @@ tags:
 
 **Course Maps :** [[HS26 - Droit civil]] · Droit public (FS27, à venir)
 
-Droit civil mis de côté pour l'instant : pas encore de notes dans NEXUS.
+**Thèmes (ordre du cours)**
+1. [[Sources du droit et organisation de l'État]]
+2. [[Droit des personnes, de la famille et des successions]]
+
+**U-Fragen :** [[UF DC V01|V01]] · [[UF DC V02|V02]]
 
 ## Politikwissenschaft I & II
 
@@ -33,8 +37,9 @@ Droit civil mis de côté pour l'instant : pas encore de notes dans NEXUS.
 5. [[Élections et démocratie directe]]
 6. [[Attitudes et comportement politiques]]
 7. [[Partis et systèmes de partis]]
+8. [[Groupes d'intérêt et mouvements sociaux]]
 
-**U-Fragen :** [[UF PW V01|V01]] · [[UF PW V02|V02]] · [[UF PW V03|V03]] · [[UF PW V04|V04]] · [[UF PW V05|V05]] · [[UF PW V06|V06]]
+**U-Fragen :** [[UF PW V01|V01]] · [[UF PW V02|V02]] · [[UF PW V03|V03]] · [[UF PW V04|V04]] · [[UF PW V05|V05]] · [[UF PW V06|V06]] · [[UF PW V07|V07]]
 
 ## Leadership I & II
 
@@ -48,8 +53,9 @@ Droit civil mis de côté pour l'instant : pas encore de notes dans NEXUS.
 5. [[Styles de leadership positif]]
 6. [[Approches relationnelles du leadership]]
 7. [[Leadership et identité sociale]]
+8. [[Transformation de l'identité du soldat]]
 
-**U-Fragen :** [[UF Lead V01|V01]] · [[UF Lead V02|V02]] · [[UF Lead V03|V03]] · [[UF Lead V04|V04]] · [[UF Lead V05|V05]] · [[UF Lead V06|V06]] · [[UF Lead V07|V07]]
+**U-Fragen :** [[UF Lead V01|V01]] · [[UF Lead V02|V02]] · [[UF Lead V03|V03]] · [[UF Lead V04|V04]] · [[UF Lead V05|V05]] · [[UF Lead V06|V06]] · [[UF Lead V07|V07]] · [[UF Lead V08|V08]]
 
 ## Tout ce qui est tagué pour ce bloc
 

@@ -17,6 +17,9 @@ tags:
 > **Examen :** [[Basispruefung 2027 - Block 1|Basisprüfung 2027 – Block 1]] · **Format :** (à compléter)
 > **Manuel :** Bernauer et al. 2025, *Einführung in die Politikwissenschaft*
 
+> [!example] Booklet de révision
+> 📘 [[Booklet PW|Lire le booklet]] · 🖨️ Imprimer : ouvrir le booklet, puis Ctrl+P → « Enregistrer en PDF »
+
 ## Vue d'ensemble
 ```mermaid
 mindmap
@@ -57,6 +60,12 @@ mindmap
       Électeur médian
       Fragmentation et typologie de Sartori
       Clivages
+    Groupes d'intérêt et mouvements sociaux
+      Action collective et biens publics
+      Groupe d'intérêt
+      Pluralisme et corporatisme
+      Mouvement social
+      Finnegan 2022
 ```
 
 ## Objectifs (Lernziele)
@@ -71,6 +80,7 @@ mindmap
 | V04 | 12.10 | Wahlen und direkte Demokratie (Kap. 5) | [[NB PW V04 - 20261012]] | [[UF PW V04]] | [[Élections et démocratie directe]] |
 | V05 | 19.10 | Politische Einstellungen und Verhalten (Kap. 6) | [[NB PW V05 - 20261019]] | [[UF PW V05]] | [[Attitudes et comportement politiques]] |
 | V06 | 26.10 | Parteien und Parteiensysteme (Kap. 7) | [[NB PW V06 - 20261026]] | [[UF PW V06]] | [[Partis et systèmes de partis]] |
+| V07 | 02.11 | Interessengruppen und soziale Bewegungen (Kap. 8) | [[NB PW V07 - 20261102]] | [[UF PW V07]] | [[Groupes d'intérêt et mouvements sociaux]] |
 
 ## Chapitres (ordre du cours)
 1. [[Politique, État et science politique]] · V01
@@ -80,6 +90,9 @@ mindmap
 5. [[Élections et démocratie directe]] · V04
 6. [[Attitudes et comportement politiques]] · V05
 7. [[Partis et systèmes de partis]] · V06
+8. [[Groupes d'intérêt et mouvements sociaux]] · V07
 
 ## ⚠️ Infos examen
-- (à compléter)
+- Test facultatif 1 : lu 09.11.2026, 10:15–11:00, Kap. 1–8 · test 2 : 14.12.2026, Kap. 9–13
+- 10 Dual Choice (10 pts, toute l'affirmation doit être juste) · 6 MC à 5 affirmations (12 pts : 2/1/0) · 2 questions courtes (8 pts)
+- 4 pages de notes (2 feuilles recto-verso) et dictionnaires autorisés ; questions en allemand (+ DeepL FR/IT sans garantie), réponses DE/FR/EN/IT
