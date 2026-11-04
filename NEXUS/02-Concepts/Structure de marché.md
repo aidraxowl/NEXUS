@@ -29,6 +29,7 @@ tags:
 | ==monopolistische Konkurrenz== | nombreux | **différencié** | chacun influence le prix de **son** produit | V11 |
 
 - ==Mengenanpasser== : en concurrence parfaite, l'acteur ne choisit que la **quantité**, le prix lui est donné par le marché.
+- **Conditions détaillées (V08)** : beaucoup d'acheteurs et de vendeurs, biens identiques, entrée libre et sortie sans coût, information élevée. Pour la firme, la demande est **horizontale** au prix du marché ; pour la branche, elle reste décroissante -> [[Maximisation du profit]].
 - Lien avec le principe 7 : le **pouvoir de marché** est une cause de [[Défaillance du marché]].
 
 ## Exemples
@@ -43,14 +44,14 @@ tags:
 | Preneur de prix | pas de pouvoir sur le prix | un preneur de prix choisit quand même sa **quantité** |
 
 ## Liens
-- **Thème :** [[Offre et demande]]
-- **Proche de :** [[Défaillance du marché]], [[Équilibre de marché]]
-- **U-Fragen :** [[UF VWL V03]]
+- **Thème :** [[Offre et demande]], [[Entreprise en concurrence parfaite]]
+- **Proche de :** [[Défaillance du marché]], [[Équilibre de marché]], [[Maximisation du profit]]
+- **U-Fragen :** [[UF VWL V03]], [[UF VWL V08]]
 
 ## Questions de compréhension
 > [!question]- Citez les deux conditions de la concurrence parfaite et leur conséquence.
 > Produits identiques ; très nombreux acheteurs et vendeurs sans influence sur le prix. Conséquence : tous sont preneurs de prix (Mengenanpasser).
 
 ## Sources
-- Notes brutes : [[NB VWL V03 - 20261001]]
+- Notes brutes : [[NB VWL V03 - 20261001]], [[NB VWL V08 - 20261105]]
 - Mankiw/Taylor, *Grundzüge der VWL*, 9e éd., chap. 3

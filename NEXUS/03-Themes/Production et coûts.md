@@ -28,7 +28,7 @@ Les coûts se divisent en coûts fixes, indépendants de la quantité, et en co�
 ## Court terme et long terme
 La distinction entre coûts fixes et variables dépend de l'horizon. À court terme, certains inputs ne peuvent pas être modifiés ; à long terme, tous peuvent l'être, et le coût moyen de long terme est l'enveloppe des courbes de court terme correspondant aux différentes tailles d'usine. Sa forme reflète les [[Rendements d'échelle]] : croissants quand le coût moyen baisse avec la taille (coûts d'organisation fixes, spécialisation, rapport surface/volume, loi des grands nombres), constants, puis décroissants. Ces économies d'échelle n'impliquent pas qu'une seule grande entreprise soit la solution la plus efficace pour la société, qui doit aussi compter les coûts de transport ou d'environnement.
 
-Ces outils serviront à dériver l'[[Offre]] de l'entreprise : en concurrence parfaite, elle découle directement de la courbe de coût marginal (V08).
+Ces outils serviront à dériver l'[[Offre]] de l'entreprise : en concurrence parfaite, elle découle directement de la courbe de coût marginal (voir [[Entreprise en concurrence parfaite]]).
 
 ---
 

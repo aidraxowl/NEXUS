@@ -23,6 +23,7 @@ tags:
 - **Intuition** : un prix plus élevé rend la production plus rentable -> on produit et vend davantage (et de nouveaux producteurs peuvent entrer).
 - **Barème individuel** (ex. glaces) : 0,50 CHF -> 0 ; 1 -> 1 ; 2 -> 3 ; 3 -> 5. Fonction (pour P ≥ 0,50) : Q = 2P − 1.
 - **Offre de marché** (==Marktangebot==) = addition **horizontale** des offres individuelles.
+- **Fondement (V08)** : en concurrence parfaite, l'offre de la firme est sa courbe de coût marginal au-dessus du min DVK (court terme) ou du min DK (long terme) -> [[Maximisation du profit]], [[Fermeture et sortie du marché]] ; à long terme, l'offre du marché est horizontale au min DK -> [[Condition de profit nul]].
 - **Mouvement vs déplacement** :
 
 | Variable qui change | Effet | Exemple |
@@ -53,9 +54,9 @@ tags:
 | Offre ↓ | déplacement **vers la gauche** (ou vers le haut) | dessiner un déplacement « vers le bas » pour une baisse d'offre |
 
 ## Liens
-- **Thème :** [[Offre et demande]]
-- **Proche de :** [[Demande]], [[Équilibre de marché]], [[Élasticité]], [[Courbes de coûts]], [[Surplus du consommateur et du producteur|Surplus du producteur]]
-- **U-Fragen :** [[UF VWL V03]]
+- **Thème :** [[Offre et demande]], [[Entreprise en concurrence parfaite]]
+- **Proche de :** [[Demande]], [[Équilibre de marché]], [[Élasticité]], [[Courbes de coûts]], [[Surplus du consommateur et du producteur|Surplus du producteur]], [[Maximisation du profit]]
+- **U-Fragen :** [[UF VWL V03]], [[UF VWL V08]]
 
 ## Questions de compréhension
 > [!question]- Les salaires augmentent chez un constructeur automobile. Quel est l'effet sur le marché de ses voitures ?

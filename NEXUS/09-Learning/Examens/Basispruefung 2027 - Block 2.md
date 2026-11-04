@@ -27,8 +27,9 @@ tags:
 5. [[Choix du consommateur]]
 6. [[Efficacité des marchés]]
 7. [[Production et coûts]]
+8. [[Entreprise en concurrence parfaite]]
 
-**U-Fragen :** [[UF VWL V01|V01]] · [[UF VWL V02|V02]] · [[UF VWL V03|V03]] · [[UF VWL V04|V04]] · [[UF VWL V05|V05]] · [[UF VWL V06|V06]] · [[UF VWL V07|V07]]
+**U-Fragen :** [[UF VWL V01|V01]] · [[UF VWL V02|V02]] · [[UF VWL V03|V03]] · [[UF VWL V04|V04]] · [[UF VWL V05|V05]] · [[UF VWL V06|V06]] · [[UF VWL V07|V07]] · [[UF VWL V08|V08]]
 
 ## Geschichte I & II
 

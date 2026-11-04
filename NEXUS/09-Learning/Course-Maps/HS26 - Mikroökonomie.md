@@ -12,7 +12,7 @@ tags:
 
 > [!info] Le cours
 > **Intitulé :** Volkswirtschaftslehre I – Mikroökonomie
-> **Prof :** Dr. Matthias Gysler (V06), Dr. Aurelio Fetz (V07) ; autres séances à compléter
+> **Prof :** Dr. Matthias Gysler (V06), Dr. Aurelio Fetz (V07, V08) ; autres séances à compléter
 > **Langue :** allemand
 > **Examen :** Basisprüfung, août 2027, combiné avec la Makroökonomie (FS27) · **Format :** écrit ; 3 tests pendant le semestre (QCM + exercices rédigés)
 > **Manuel :** Mankiw/Taylor, *Grundzüge der VWL*, 9e éd.
@@ -52,6 +52,10 @@ mindmap
       Fonction de production
       Courbes de coûts
       Rendements d'échelle
+    Concurrence parfaite
+      Maximisation du profit
+      Fermeture et sortie du marché
+      Condition de profit nul
 ```
 
 ## Objectifs (Lernziele)
@@ -68,7 +72,7 @@ mindmap
 | V05 | 15.10 | Theorie der Konsumentenentscheidungen (chap. 4) · Test 1 | [[NB VWL V05 - 20261015]] | [[UF VWL V05]] | [[Choix du consommateur]] |
 | V06 | 22.10 | Konsumenten, Produzenten und die Effizienz von Märkten (chap. 7) | [[NB VWL V06 - 20261022]] | [[UF VWL V06]] | [[Efficacité des marchés]] |
 | V07 | 29.10 | Produktion und Kosten (chap. 5) | [[NB VWL V07 - 20261029]] | [[UF VWL V07]] | [[Production et coûts]] |
-| V08 | 05.11 | Concurrence parfaite (chap. 6) |  |  |  |
+| V08 | 05.11 | Unternehmungen in Märkten mit Wettbewerb (chap. 6) | [[NB VWL V08 - 20261105]] | [[UF VWL V08]] | [[Entreprise en concurrence parfaite]] |
 | V09 | 12.11 | Interventions sur les marchés (chap. 8) · Test 2 |  |  |  |
 | V10 | 19.11 | Monopole (chap. 11, 14) |  |  |  |
 | V11 | 26.11 | Concurrence monopolistique, oligopole (chap. 12, 13) |  |  |  |
@@ -84,6 +88,7 @@ mindmap
 5. [[Choix du consommateur]] · V05
 6. [[Efficacité des marchés]] · V06
 7. [[Production et coûts]] · V07
+8. [[Entreprise en concurrence parfaite]] · V08
 
 ## ⚠️ Infos examen
 - **3 tests écrits** pendant le semestre : V05 (15.10), V09 (12.11), V13 (10.12).

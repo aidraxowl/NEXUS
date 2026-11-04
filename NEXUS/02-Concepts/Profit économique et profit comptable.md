@@ -38,6 +38,7 @@ tags:
   - -> profit comptable − profit économique = coûts implicites.
 - **Schéma** : la recette est une colonne ; l'économiste en retranche coûts explicites **et** implicites (reste : profit économique), le comptable seulement les coûts explicites (reste : profit comptable, plus grand).
 - Profit économique **nul** = l'entreprise couvre tous ses coûts, y compris une rémunération normale du capital et du travail de l'entrepreneur : ce n'est pas une faillite.
+- **V08** : ce profit nul s'appelle ==normaler Gewinn== (profit normal) ; au-dessus, ==aussergewöhnlicher Gewinn== (extra-profit), possible à court terme. En concurrence parfaite, l'entrée et la sortie ramènent le profit économique à zéro -> [[Condition de profit nul]].
 
 ## Exemples
 - **Militaire :** un terrain d'exercice appartenant à l'État ne figure dans aucun budget de location, mais il a un coût implicite : le loyer qu'on pourrait en tirer ou l'usage civil auquel on renonce.
@@ -60,9 +61,9 @@ tags:
 | Recette | P × Q, avant tout coût | « profit = chiffre d'affaires » |
 
 ## Liens
-- **Thème :** [[Production et coûts]]
-- **Proche de :** [[Coût d'opportunité]], [[Courbes de coûts]]
-- **U-Fragen :** [[UF VWL V07]]
+- **Thème :** [[Production et coûts]], [[Entreprise en concurrence parfaite]]
+- **Proche de :** [[Coût d'opportunité]], [[Courbes de coûts]], [[Condition de profit nul]]
+- **U-Fragen :** [[UF VWL V07]], [[UF VWL V08]]
 
 ## Questions de compréhension
 > [!question]- Une entrepreneuse place 200 000 CHF de fonds propres dans son atelier (taux du marché : 4 %) et quitte un emploi à 80 000 CHF. Recette : 300 000 CHF ; dépenses : 190 000 CHF. Calculez les deux profits.
@@ -72,5 +73,5 @@ tags:
 > Parce qu'il retranche, en plus des coûts explicites, les coûts implicites, qui sont positifs ou nuls.
 
 ## Sources
-- Notes brutes : [[NB VWL V07 - 20261029]]
+- Notes brutes : [[NB VWL V07 - 20261029]], [[NB VWL V08 - 20261105]]
 - Mankiw/Taylor, *Grundzüge der VWL*, 9e éd., chap. 5

@@ -55,6 +55,7 @@ tags:
 
 - **Courbes « typiques »** (exemple du boulanger de bretzels, FK = 2) : GK commence par **baisser** (1,00 -> 0,40 : les premiers inputs se complètent) puis augmente ; DK minimal ≈ 0,95 vers 7–8 unités. Trois propriétés à retenir : GK finit par croître ; DK en U ; GK coupe DK à son minimum.
 - **Horizon** : à court terme, certains coûts sont fixes ; à long terme, tous sont variables ([[Rendements d'échelle]]).
+- **Usage en concurrence parfaite (V08)** : la firme produit là où P = GK ([[Maximisation du profit]]) ; le min DVK est le seuil de fermeture, le min DK le seuil de sortie et d'entrée ([[Fermeture et sortie du marché]]).
 
 ## Exemples
 - **Militaire :** un centre d'instruction a des coûts fixes élevés (infrastructures, simulateurs) ; former plus de participants fait baisser le coût moyen par participant, jusqu'au point où il faut ajouter des formateurs et des créneaux de plus en plus coûteux.
@@ -80,9 +81,9 @@ tags:
 | Coûts fixes | ne changent pas avec Q à court terme | les intégrer dans le coût marginal |
 
 ## Liens
-- **Thème :** [[Production et coûts]]
-- **Proche de :** [[Fonction de production]], [[Rendements d'échelle]], [[Raisonnement marginal]], [[Offre]]
-- **U-Fragen :** [[UF VWL V07]]
+- **Thème :** [[Production et coûts]], [[Entreprise en concurrence parfaite]]
+- **Proche de :** [[Fonction de production]], [[Rendements d'échelle]], [[Raisonnement marginal]], [[Offre]], [[Maximisation du profit]], [[Fermeture et sortie du marché]]
+- **U-Fragen :** [[UF VWL V07]], [[UF VWL V08]]
 
 ## Questions de compréhension
 > [!question]- FK = 10 ; K(4) = 30 ; K(5) = 36. Calculez DFK, DVK, DK et GK pour Q = 5.

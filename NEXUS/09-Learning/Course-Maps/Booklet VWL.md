@@ -50,3 +50,9 @@ tags:
 ## 7. Production et coûts
 
 ![[Production et coûts]]
+
+---
+
+## 8. Entreprise en concurrence parfaite
+
+![[Entreprise en concurrence parfaite]]
