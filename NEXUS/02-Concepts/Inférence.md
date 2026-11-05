@@ -26,7 +26,7 @@ tags:
 - Dépend de la représentativité de l'échantillon et de l'absence de biais de sélection.
 
 ### Pièges d'inférence en recherche électorale (Kap. 6)
-- **Sophisme écologique** (*ökologischer Fehlschluss*) : conclure de données **agrégées** (résultats par circonscription) à des comportements **individuels**. Ex. : circonscriptions à forte part d'ouvriers et faible participation -> « les ouvriers votent moins » : faux si ce sont d'autres groupes (les jeunes) qui s'abstiennent. Remède : données individuelles (sondages, expériences d'enquête).
+- **Sophisme écologique** (*ökologischer Fehlschluss*) : conclure de données agrégées (résultats par circonscription) à des comportements individuels. Ex. : circonscriptions à forte part d'ouvriers et faible participation -> « les ouvriers votent moins » : faux si ce sont d'autres groupes (les jeunes) qui s'abstiennent. Remède : données individuelles (sondages, expériences d'enquête).
 - **Attitudes on attitudes** : les sondages recueillent des opinions et intentions déclarées, sujettes à des erreurs conscientes ou non ; expliquer une intention déclarée par des attitudes déclarées cumule les biais.
 - Le vote étant secret, l'observation directe du vote individuel est impossible ; la statistique électorale représentative (DE : âge et sexe sur le bulletin) mesure le vrai vote mais avec très peu de variables.
 
@@ -48,7 +48,7 @@ tags:
 
 ## Questions de compréhension
 > [!question]- Que signifie « généralisable » ?
-> Les résultats valent non seulement pour les cas étudiés, mais pour tous les autres cas auxquels l'argument théorique s'applique.
+> Les résultats valent pour les cas étudiés et pour tous les autres cas auxquels l'argument théorique s'applique.
 
 > [!question]- Qu'est-ce qu'un sophisme écologique ? Exemple ?
 > Conclure de données agrégées à des individus : une circonscription ouvrière à faible participation ne prouve pas que les ouvriers votent moins.

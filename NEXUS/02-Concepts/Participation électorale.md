@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> **Définition :** Part des ayants droit qui votent ; forme centrale de participation **formalisée**. Pour un électeur rationnel, voter ne paie pas (p·U < C) ; la participation s'explique par le devoir civique, l'efficacy et le vote expressif : p·U + D > C.
+> **Définition :** Part des ayants droit qui votent ; forme centrale de participation formalisée. Pour un électeur rationnel, voter ne paie pas (p·U < C) ; la participation s'explique par le devoir civique, l'efficacy et le vote expressif : p·U + D > C.
 > **Pourquoi c'est important :** Elle décline depuis les années 1980 et est socialement inégale, ce qui affecte la représentativité des élus.
 > **Exemple :** Suisse 2023 : 33 % des moins de 34 ans votent, contre 61 % des 65–74 ans.
 
@@ -30,7 +30,7 @@ tags:
 
 - **Paradoxe du vote** : p (probabilité d'être décisif) ≈ 0 ; U (utilité) ↓ si les partis se ressemblent ; C (s'informer, se déplacer, s'inscrire) > 0 -> p·U < C (Downs ; Fuchs/Kühnel).
 - **Pourquoi on vote quand même** :
-  - **Efficacy** perçue (> réelle) : **interne** (« je comprends les questions politiques ») et **externe** (« les politiciens se soucient de ce que pensent les gens simples ») ; le cynisme fait baisser la participation.
+  - **Efficacy** perçue (> réelle) : interne (« je comprends les questions politiques ») et externe (« les politiciens se soucient de ce que pensent les gens simples ») ; le cynisme fait baisser la participation.
   - **D** : devoir civique, normes sociales (famille, collègues), expression de l'identification partisane -> p·U + D > C (Riker/Ordeshook 1968).
   - **Vote expressif** (Griffin/Newman 2005) : exprimer ses préférences, sanctionner, façonner l'avenir.
   - **Ressources** (civic voluntarism, Verba 1995) : temps, compétences, intérêt ; statut socio-économique ↑ -> participation ↑.

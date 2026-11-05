@@ -8,7 +8,7 @@ dates: "1924–2017"
 
 > [!abstract] L'essentiel
 > **Qui :** Politologue italien, référence de la politique comparée.
-> **Idée principale :** Les concepts doivent pouvoir « voyager » sans être surétirés (échelle d'abstraction) ; les systèmes de partis se classent selon le nombre de partis pertinents **et** la distance idéologique.
+> **Idée principale :** Les concepts doivent pouvoir « voyager » sans être surétirés (échelle d'abstraction) ; les systèmes de partis se classent selon le nombre de partis pertinents et la distance idéologique.
 > **À citer :** Sartori (1970), « Concept Misformation in Comparative Politics » ; Sartori (1976), *Parties and Party Systems*.
 
 ^essentiel

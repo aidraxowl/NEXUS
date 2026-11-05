@@ -21,7 +21,7 @@ tags:
 > **Concepts :** [[Soutien politique]]
 
 > [!question]- 2. Wie unterscheiden sich Einstellungen von Präferenzen der Bürger:innen? (S. 259)
-> **Réponse :** Préférence = évaluation **comparative** de plusieurs objets, qui permet de les classer (a > b > c). Attitude = évaluation **générale, non comparative** d'un objet (« j'aime a »). Les deux dépendent des convictions.
+> **Réponse :** Préférence = évaluation comparative de plusieurs objets, qui permet de les classer (a > b > c). Attitude = évaluation générale, non comparative d'un objet (« j'aime a »). Les deux dépendent des convictions.
 > **Concepts :** [[Soutien politique]]
 
 > [!question]- 3. Was bedeutet „Legitimität“? Weshalb ist sie in Demokratien wichtig? Wie wird sie erzeugt? (S. 260)
@@ -29,7 +29,7 @@ tags:
 > **Concepts :** [[Soutien politique]]
 
 > [!question]- 4. Wie hängen Legitimität und Effizienz/Responsivität eines politischen Systems zusammen? Geben Sie ein Beispiel. (S. 260)
-> **Réponse :** Lipset : un système doit être légitime **et** efficace. Un système légitime mais durablement inefficace (pas d'État de droit, pas de croissance, pas de prestations sociales) suscite une opinion négative, perd sa légitimité et peut s'effondrer. Exemple : République de Weimar, démocratique mais minée par la crise économique.
+> **Réponse :** Lipset : un système doit être légitime et efficace. Un système légitime mais durablement inefficace (pas d'État de droit, pas de croissance, pas de prestations sociales) suscite une opinion négative, perd sa légitimité et peut s'effondrer. Exemple : République de Weimar, démocratique mais minée par la crise économique.
 > **Concepts :** [[Soutien politique]], [[Seymour Martin Lipset]]
 
 > [!question]- 5. Was bedeutet „diffuse Art der öffentlichen Meinung“? Beispiele. Weshalb ist die diffuse Unterstützung für die Stabilität wichtiger als die spezifische? (S. 262)
@@ -48,7 +48,7 @@ tags:
 > **Réponse :** Les sondages mesurent des opinions et intentions déclarées, sujettes à des erreurs conscientes ou non ; quand on explique une intention (déclarée) par des attitudes (déclarées), les biais des deux mesures se cumulent.
 > **Concepts :** [[Inférence]], [[Validité et fiabilité]]
 
-> [!question]- 9. Erklären Sie, was Cleavages sind und welche drei Faktoren entscheidend sind. Wie können aus Cleavages [Parteien entstehen]? (S. 268) — question tronquée dans la liste
+> [!question]- 9. Erklären Sie, was Cleavages sind und welche drei Faktoren entscheidend sind. Wie können aus Cleavages [Parteien entstehen]? (S. 268) (question tronquée dans la liste)
 > **Réponse :** Conflit durable ancré dans la structure sociale et exprimé dans le système de partis (Pappi). Trois critères (Bartolini/Mair) : division sociale claire ; conscience -> identité collective et mobilisation ; organisation. Les groupes en conflit s'organisent, sont reconnus et intégrés -> partis durables qui représentent « leur » groupe (alignement, Lipset/Rokkan).
 > **Concepts :** [[Clivage]]
 
@@ -77,7 +77,7 @@ tags:
 > **Concepts :** [[Système de croyances et polarisation]]
 
 > [!question]- 16. Zu welchen Themen wissen Bürger:innen mehr und haben kohärentere Einstellungen? (S. 278)
-> **Réponse :** Aux thèmes **saillants** (attentats, crises des réfugiés ou financière) et à ceux qui les **concernent personnellement** (issue publics, Converse).
+> **Réponse :** Aux thèmes saillants (attentats, crises des réfugiés ou financière) et à ceux qui les concernent personnellement (issue publics, Converse).
 > **Concepts :** [[Système de croyances et polarisation]]
 
 > [!question]- 17. Was bedeuten interne und externe political efficacy? (S. 279)
@@ -128,11 +128,11 @@ tags:
 > **Réponse :** Être perçu par de nombreux électeurs comme le parti le plus compétent sur un thème (économie -> conservateurs, environnement -> Verts, migration -> populistes de droite). Les partis le recherchent pour gagner des voix en rendant « leur » thème saillant. Competence ≠ associative ownership.
 > **Concepts :** [[Vote sur enjeux]]
 
-> [!question]- 29. Was besagt das Proximity Model? Wie unterscheidet es sich vom [Directional Model]? (S. 299) — question tronquée dans la liste
+> [!question]- 29. Was besagt das Proximity Model? Wie unterscheidet es sich vom [Directional Model]? (S. 299) (question tronquée dans la liste)
 > **Réponse :** Proximité (Downs) : l'électeur choisit le parti le plus proche de sa position (−(vᵢ − pⱼ)²). Directionnel (Rabinowitz/Macdonald) : il choisit le parti du même côté du point neutre et le plus intense ((vᵢ − n)(pⱼ − n)), dans une zone d'acceptabilité. Ex. : électeur en 4, partis 2 et 6 -> proximité : égalité ; directionnel : parti en 2.
 > **Concepts :** [[Vote sur enjeux]]
 
-> [!question]- 30. Weshalb ist das Proximity Model beim Medianwählertheorem eher anwendbar als das [Directional Model]? (S. 301) — question tronquée dans la liste
+> [!question]- 30. Weshalb ist das Proximity Model beim Medianwählertheorem eher anwendbar als das [Directional Model]? (S. 301) (question tronquée dans la liste)
 > **Réponse :** Le théorème suppose que seule la distance compte : les partis gagnent en se rapprochant du centre. Dans le directionnel, l'utilité dépend de la direction et de l'intensité : un parti centriste (proche du neutre) offre peu d'utilité, la convergence n'est pas garantie.
 > **Concepts :** [[Vote sur enjeux]], [[Électeur médian]]
 

@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> **Définition :** Une **valeur** est une représentation générale, partagée, de ce qui est désirable, qui guide l'action et s'organise en hiérarchie. Le **changement de valeurs** est le réordonnancement de cette hiérarchie sous la pression des conflits de valeurs : l'ordre change, les valeurs ne disparaissent pas. Théorie de référence : le **postmatérialisme** d'Inglehart (hypothèses de pénurie et de socialisation).
+> **Définition :** Une valeur est une représentation générale, partagée, de ce qui est désirable, qui guide l'action et s'organise en hiérarchie. Le changement de valeurs est le réordonnancement de cette hiérarchie sous la pression des conflits de valeurs : l'ordre change, les valeurs ne disparaissent pas. Théorie de référence : le postmatérialisme d'Inglehart (hypothèses de pénurie et de socialisation).
 > **Pourquoi c'est important :** Depuis 1945, les valeurs d'autonomie montent et celles d'obéissance (discipline, ordre, fidélité) reculent : ce sont précisément les valeurs centrales de l'armée.
 > **Exemple :** Passage des valeurs traditionnelles (devoir, discipline) aux valeurs individuelles (épanouissement, plaisir).
 
@@ -35,14 +35,14 @@ tags:
 
 ### Le changement de valeurs
 - Mécanisme : le pluralisme crée des conflits -> pression pour modifier la hiérarchie (*Werteordnung*).
-- **4 phases depuis 1945 (Europe)** : (1) 1945–60 **traditionnelles** (droit et ordre, devoir, discipline) ; (2) années 60 **matérielles** (prospérité, sécurité sociale) ; (3) années 70–80 **alternatives** (épanouissement, mouvements sociaux) ; (4) dès les années 90 **individuelles** (individualisme, hédonisme).
-- **Tendances** : hausse des valeurs d'**autonomie** (idéalistes, hédonistes, individualistes) ; baisse des valeurs d'**hétéronomie** (discipline, obéissance, ordre, fidélité, modestie).
+- **4 phases depuis 1945 (Europe)** : (1) 1945–60 traditionnelles (droit et ordre, devoir, discipline) ; (2) années 60 matérielles (prospérité, sécurité sociale) ; (3) années 70–80 alternatives (épanouissement, mouvements sociaux) ; (4) dès les années 90 individuelles (individualisme, hédonisme).
+- **Tendances** : hausse des valeurs d'autonomie (idéalistes, hédonistes, individualistes) ; baisse des valeurs d'hétéronomie (discipline, obéissance, ordre, fidélité, modestie).
 - **8 causes** : éducation, progrès technologique/économique, urbanisation, modèles familiaux, médias et réseaux sociaux, perception des risques, mouvements sociaux, influences interculturelles (migration).
 - Se transmet surtout par le **remplacement des [[Génération|générations]]**.
 
 ### Postmatérialisme (Inglehart)
-- **Hypothèse de pénurie** (*Knappheitshypothese*) : on valorise ce qui **manque** (logique proche de Maslow) ; une fois la sécurité matérielle acquise, l'épanouissement prime.
-- **Hypothèse de socialisation** (*Sozialisationshypothese*) : les priorités se forment pendant la **jeunesse** et restent stables.
+- **Hypothèse de pénurie** (*Knappheitshypothese*) : on valorise ce qui manque (logique proche de Maslow) ; une fois la sécurité matérielle acquise, l'épanouissement prime.
+- **Hypothèse de socialisation** (*Sozialisationshypothese*) : les priorités se forment pendant la jeunesse et restent stables.
 - -> Combinées : changement **lent**, par remplacement des générations.
 - Matérialistes : ordre, sécurité, stabilité des prix, croissance, défense forte. Postmatérialistes : participation, liberté d'expression, environnement, épanouissement.
 

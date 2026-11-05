@@ -33,7 +33,7 @@ tags:
 - **Fil historique** : le lien entre parti et membres s'affaiblit à chaque étape (masse -> attrape-tout -> cartel) ; la source de financement et de pouvoir passe des membres aux électeurs, puis à l'État.
 - **Pourquoi l'ouverture programmatique ?** Érosion des milieux sociaux (sécularisation, tertiarisation) -> pour rester grands, les partis élargissent leur clientèle. **Limite** : perte de profil, frustration des électeurs de base, surextension (SPD sous Schröder, Labour sous Blair) -> « parti professionnel d'électeurs » (Panebianco).
 - **Cartel** : problème démocratique car la fonction de contrôle mutuel n'est plus remplie et les nouveaux venus sont désavantagés.
-- **Niche** (Meguid) : la stratégie des partis mainstream compte. Hypothèse classique : si un parti mainstream **s'accommode** (même thème, mêmes positions), la niche perd des voix. L'étude de Krause, Cohen et Abou-Chadi (2023) ne trouve **aucun** effet réducteur pour la droite radicale (13 pays, 108 élections), et même davantage de défections vers elle au niveau individuel.
+- **Niche** (Meguid) : la stratégie des partis mainstream compte. Hypothèse classique : si un parti mainstream s'accommode (même thème, mêmes positions), la niche perd des voix. L'étude de Krause, Cohen et Abou-Chadi (2023) ne trouve aucun effet réducteur pour la droite radicale (13 pays, 108 élections), et même davantage de défections vers elle au niveau individuel.
 
 ## Exemples
 - **Militaire :** un parti attrape-tout évite les positions tranchées sur l'armée (abolition ou forte hausse du budget) pour ne pas perdre d'électeurs au centre ; un parti de niche peut au contraire faire d'un seul thème de défense sa marque.

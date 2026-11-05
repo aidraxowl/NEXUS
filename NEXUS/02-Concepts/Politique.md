@@ -11,7 +11,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> **Définition :** Action sociale orientée vers des décisions et des mécanismes de pilotage généralement contraignants qui règlent la vie en commun. Elle a trois dimensions : **polity** (structures, institutions), **politics** (processus, acteurs), **policy** (contenus).
+> **Définition :** Action sociale orientée vers des décisions et des mécanismes de pilotage généralement contraignants qui règlent la vie en commun. Elle a trois dimensions : polity (structures, institutions), politics (processus, acteurs), policy (contenus).
 > **Pourquoi c'est important :** Délimite l'objet de la discipline : est politique tout ce qui vise une contrainte générale, même raté, illégal ou immoral.
 > **Exemple :** Un parlement qui vote un salaire minimum ; un groupe terroriste qui veut forcer un changement de politique. Bicaméralisme (polity) · campagne référendaire (politics) · loi sur le CO₂ (policy).
 

@@ -19,10 +19,10 @@ tags:
 ^essentiel
 
 ## Explication
-- **Lincoln :** of, by, for the people. **Athènes :** directe ; aujourd'hui **représentative** (taille, complexité), la souveraineté populaire demeurant.
+- **Lincoln :** of, by, for the people. **Athènes :** directe ; aujourd'hui représentative (taille, complexité), la souveraineté populaire demeurant.
 - **Deux traits :** élections libres et équitables (régulières, universelles, égales, libres, directes, secrètes) ; mandat limité.
 - **Dahl :** compétition + participation ; élections -> changement pacifique, effet disciplinant.
-- **Étroite** (Schumpeter, Przeworski) : élections, compétition, alternance. **Large** (Dahl, Diamond) : + libertés, sources d'information, État de droit, contrôle civil de l'armée, minorités, droits humains…
+- **Étroite** (Schumpeter, Przeworski) : élections, compétition, alternance. Large (Dahl, Diamond) : + libertés, sources d'information, État de droit, contrôle civil de l'armée, minorités, droits humains…
 - Recul démocratique : érosion progressive par des élus (presse, justice, société civile).
 
 ### Mesurer la démocratie

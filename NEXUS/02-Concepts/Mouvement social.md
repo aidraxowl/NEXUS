@@ -19,7 +19,7 @@ tags:
 ^essentiel
 
 ## Explication
-- **Répertoire** : classique (manifestations, pétitions, grèves) et non conventionnel (résistance passive, blocages, occupations, « ad busting », jusqu'à la violence) ; aujourd'hui aussi réseaux sociaux et podcasts. Influence surtout **par l'opinion publique** (outside lobbying), souvent via les médias.
+- **Répertoire** : classique (manifestations, pétitions, grèves) et non conventionnel (résistance passive, blocages, occupations, « ad busting », jusqu'à la violence) ; aujourd'hui aussi réseaux sociaux et podcasts. Influence surtout par l'opinion publique (outside lobbying), souvent via les médias.
 - **Phases** (Rucht 2020 ; Snow et al. 2004) :
   1. Thématiser un problème, proposer des alternatives
   2. Former une direction et des structures (décentralisées)
@@ -27,7 +27,7 @@ tags:
   4. Établissement
   5. Dissolution : problème résolu, absorbé par d'autres (mouvement ouvrier -> syndicats ; écologie -> Verts) ou supplanté par un autre thème
 - Avec le temps, beaucoup s'institutionnalisent et copient partis et groupes (ATTAC, Greenpeace), mais restent plus décentralisés, plus non conventionnels et opposés à l'establishment.
-- **Réaction de l'État** : **répression** surtout si violence (émeutes de jeunes du début des années 1980, banlieues françaises 2005) ; **intégration** si le mouvement mobilise beaucoup d'électeurs et que ses demandes entrent dans partis et groupes (environnement et féminisme -> gauche ; nationalisme -> droite populiste).
+- **Réaction de l'État** : répression surtout si violence (émeutes de jeunes du début des années 1980, banlieues françaises 2005) ; intégration si le mouvement mobilise beaucoup d'électeurs et que ses demandes entrent dans partis et groupes (environnement et féminisme -> gauche ; nationalisme -> droite populiste).
 - Réseaux transnationaux plus denses depuis le milieu des années 1990, mais l'action reste surtout **nationale**, même dans l'UE.
 
 ### Trois variables explicatives (manuel p. 397–398)

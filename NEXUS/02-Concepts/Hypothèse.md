@@ -16,10 +16,10 @@ tags:
 ^essentiel
 
 ## Explication
-- **Descriptive** (« la part des non-votants a augmenté ») ≠ **causale** (relation UV -> AV).
+- **Descriptive** (« la part des non-votants a augmenté ») ≠ causale (relation UV -> AV).
 - Formulation « si… alors » ou « plus… plus/moins ».
 - **3 critères :** (1) dérivée de la théorie, avec le sens de l'effet ; (2) variance sur UV et AV ; (3) falsifiable, avec un critère de rejet (hypothèse nulle).
-- **Probabiliste** (tendance) ≠ **déterministe** (« jamais » : un contre-exemple suffit).
+- **Probabiliste** (tendance) ≠ déterministe (« jamais » : un contre-exemple suffit).
 - La falsification fait progresser la science (Popper).
 
 ## Exemples

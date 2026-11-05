@@ -20,7 +20,7 @@ PW · Chapitre 5 · *Wahlen und direkte Demokratie*
 ## Mode d'emploi
 
 - **AVOR** : parcourir une fois avant le cours (10 min)
-- **Refresh** : répondre à chaque 🧠 **avant** de déplier
+- **Refresh** : répondre à chaque 🧠 avant de déplier
 - Un lien `[[…]]` qui ne revient pas → ouvrir la note concept
 
 Thème : [[Élections et démocratie directe]]
@@ -36,7 +36,7 @@ Course Map : [[HS26 - Politikwissenschaft]]
 | Logique | **délégation** | **pas** de délégation |
 | Rythme | régulier | sans calendrier |
 
-Point commun : fonction de **contrôle** et de **légitimation**.
+Point commun : fonction de contrôle et de légitimation.
 
 > [!question]- 🧠 Les deux différences entre élection et votation ?
 > 1. Personnes pour un temps (délégation) vs question de fond (sans délégation).
@@ -71,7 +71,7 @@ En autocratie : pas de compétition, mais un **signal** (intérieur : stabiliser
 
 1. **Découpage** : sièges par circonscription → proportionnalité
 2. **Offre et vote** : liste bloquée / libre (CH : ==kumulieren, panaschieren==)
-3. **Conversion des voix** : majoritaire vs proportionnel → **le critère clé**
+3. **Conversion des voix** : majoritaire vs proportionnel → le critère clé
 4. **Obligation** de vote ↑ participation ; d'inscription ↓
 
 > [!warning]- Chiffre
@@ -96,7 +96,7 @@ En autocratie : pas de compétition, mais un **signal** (intérieur : stabiliser
 
 ## Ne pas confondre
 
-- Seuil **naturel** ≠ seuil **formel** (légal) : DE 5 %, AT 4 %, **CH aucun**
+- Seuil naturel ≠ seuil formel (légal) : DE 5 %, AT 4 %, CH aucun
 - ==Gerrymandering== : découpage **intentionnel** (Gerry, 1812)
 - ≠ ==Malapportionment== : déséquilibre dû à la **démographie**
 
@@ -119,7 +119,7 @@ En autocratie : pas de compétition, mais un **signal** (intérieur : stabiliser
 
 ## Les majorités fabriquées
 
-**GB 2024** : Labour **34 %** des voix → **63 %** des sièges
+**GB 2024** : Labour 34 % des voix → 63 % des sièges
 
 | Type | Définition |
 |---|---|
@@ -132,7 +132,7 @@ En autocratie : pas de compétition, mais un **signal** (intérieur : stabiliser
 
 ## Mesurer la disproportionnalité
 
-- Lijphart 1945–96 : majoritaire → **44 %** de majorités fabriquées ; proportionnel → **82 %** de minorités naturelles
+- Lijphart 1945–96 : majoritaire → 44 % de majorités fabriquées ; proportionnel → 82 % de minorités naturelles
 - Indice de **Gallagher** : GB 23,6 vs CH 3,6
 
 > [!question]- 🧠 Un indice de Gallagher élevé signifie…?
@@ -268,11 +268,11 @@ Hug et Tsebelis (2002) → [[Référendum]] · [[Initiative populaire]]
 
 ## Suisse : les seuils
 
-- Réf. facultatif : **50 000** signatures ou **8 cantons** en **100 jours**
+- Réf. facultatif : 50 000 signatures ou 8 cantons en 100 jours
 - Initiative : **100 000** signatures, contre-projet possible
 
 > [!warning]- Pièges
-> - Un **oui** au référendum = oui au projet du **parlement**.
+> - Un oui au référendum = oui au projet du parlement.
 > - Majorité des **cantons** : obligatoire et initiative seulement.
 
 ---
@@ -296,7 +296,7 @@ Hug et Tsebelis (2002) → [[Référendum]] · [[Initiative populaire]]
 - **Méthode** : quasi-expérience, Norvège 1919
 
 > [!warning]- À vérifier
-> VL (diapo 38) : « circonscriptions **disputées** ». La logique suggère plutôt les **non disputées**.
+> VL (diapo 38) : « circonscriptions disputées ». La logique suggère plutôt les non disputées.
 
 ---
 

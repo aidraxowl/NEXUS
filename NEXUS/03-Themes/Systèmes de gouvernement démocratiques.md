@@ -10,7 +10,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> Une démocratie limite le pouvoir par trois mécanismes : les élections, l'**État de droit** et la **séparation des pouvoirs**. Cette séparation s'organise **horizontalement** entre exécutif et législatif : régime parlementaire, présidentiel ou semi-présidentiel, selon deux critères de Lijphart. Elle s'organise aussi **verticalement** entre niveaux de gouvernement : fédéralisme ou État unitaire. Lijphart résume ces choix en opposant démocratie **majoritaire** (pouvoir concentré) et démocratie **consensuelle** (pouvoir partagé). Tsebelis les unifie dans un seul concept : les **joueurs de veto**. Plus ils sont nombreux et éloignés les uns des autres, plus réformer est difficile.
+> Une démocratie limite le pouvoir par trois mécanismes : les élections, l'État de droit et la séparation des pouvoirs. Cette séparation s'organise horizontalement entre exécutif et législatif : régime parlementaire, présidentiel ou semi-présidentiel, selon deux critères de Lijphart. Elle s'organise aussi verticalement entre niveaux de gouvernement : fédéralisme ou État unitaire. Lijphart résume ces choix en opposant démocratie majoritaire (pouvoir concentré) et démocratie consensuelle (pouvoir partagé). Tsebelis les unifie dans un seul concept : les joueurs de veto. Plus ils sont nombreux et éloignés les uns des autres, plus réformer est difficile.
 
 ^essentiel
 
@@ -18,10 +18,10 @@ tags:
 La [[Séparation des pouvoirs]], héritée de [[Montesquieu]], répartit le pouvoir entre des organes qui se contrôlent mutuellement (*checks and balances*). Elle opère sur trois plans : horizontal (législatif, exécutif, judiciaire), vertical (niveaux de gouvernement) et temporel (mandats limités). L'[[État de droit]], selon lequel personne n'est au-dessus de la loi, est indispensable mais ne suffit pas seul : la Russie de Poutine comme la mise au pas nazie se sont appuyées sur des procédures légales.
 
 ## La séparation horizontale : parlementaire, présidentiel, semi-présidentiel
-Lijphart distingue les régimes par deux questions : **qui élit l'exécutif**, et l'exécutif **dépend-il de la confiance du parlement** ? On obtient trois types ([[Parlementarisme et présidentialisme]]).
+Lijphart distingue les régimes par deux questions : qui élit l'exécutif, et l'exécutif dépend-il de la confiance du parlement ? On obtient trois types ([[Parlementarisme et présidentialisme]]).
 - En régime **parlementaire** (Royaume-Uni, Allemagne), le gouvernement est issu de la majorité et peut être renversé par une motion de censure. Gouvernement et majorité forment un bloc (*fusion of power*), ce qui impose une forte discipline de parti. L'Allemagne connaît la motion de censure *constructive* : on ne renverse le chancelier qu'en élisant un successeur.
 - En régime **présidentiel** (États-Unis), le président est élu par le peuple pour un mandat fixe et ne peut pas être renversé. Les deux organes ont chacun leur légitimité, ce qui peut produire des blocages. Linz y voit une source d'instabilité ; Cheibub montre que cette instabilité vient plutôt de l'héritage militaire de ces pays.
-- En régime **semi-présidentiel** (France), un président élu par le peuple coexiste avec un gouvernement responsable devant le parlement. Si la majorité est hostile au président, c'est la **cohabitation**.
+- En régime semi-présidentiel (France), un président élu par le peuple coexiste avec un gouvernement responsable devant le parlement. Si la majorité est hostile au président, c'est la cohabitation.
 
 La Suisse échappe à la typologie : le parlement élit le Conseil fédéral (trait parlementaire) mais ne peut pas le renverser (trait présidentiel). La [[Formule magique]] en fait une grande coalition permanente.
 
@@ -29,9 +29,9 @@ La Suisse échappe à la typologie : le parlement élit le Conseil fédéral (tr
 Le [[Fédéralisme]] garantit dans la constitution que chaque niveau décide en dernier ressort dans ses domaines. Selon Lijphart, il se reconnaît à trois traits : une seconde chambre représentant les entités, une constitution écrite et une justice constitutionnelle forte. La Suisse a les cantons les plus autonomes mais, exception notable, une justice constitutionnelle faible. Le fédéralisme permet la diversité et la proximité ; en contrepartie, il est lent, opaque et dilue les responsabilités. Rodden montre en plus que les entités financées par transferts ou par la dette ont tendance à creuser des déficits.
 
 ## Deux vues d'ensemble : Lijphart et Tsebelis
-[[Arend Lijphart]] classe 36 démocraties sur une échelle qui va du modèle **majoritaire** (Westminster : pouvoir concentré) au modèle **consensuel** (Suisse : pouvoir partagé), à l'aide de dix indicateurs ([[Démocratie consensuelle]]). Son constat : les démocraties consensuelles sont « kinder and gentler », sans être économiquement moins performantes.
+[[Arend Lijphart]] classe 36 démocraties sur une échelle qui va du modèle majoritaire (Westminster : pouvoir concentré) au modèle consensuel (Suisse : pouvoir partagé), à l'aide de dix indicateurs ([[Démocratie consensuelle]]). Son constat : les démocraties consensuelles sont « kinder and gentler », sans être économiquement moins performantes.
 
-[[George Tsebelis]] remplace toutes ces typologies par un seul concept. Un [[Joueur de veto]] est un acteur dont l'accord est nécessaire pour changer le statu quo : une chambre, un président, un parti de coalition, le peuple par référendum. Les changements acceptables par tous forment le *winset*. Celui-ci rétrécit quand les joueurs de veto sont plus **nombreux** et plus **éloignés** idéologiquement, et la stabilité des politiques augmente d'autant. Un nouvel acteur placé entre les autres ne change rien (absorption).
+[[George Tsebelis]] remplace toutes ces typologies par un seul concept. Un [[Joueur de veto]] est un acteur dont l'accord est nécessaire pour changer le statu quo : une chambre, un président, un parti de coalition, le peuple par référendum. Les changements acceptables par tous forment le *winset*. Celui-ci rétrécit quand les joueurs de veto sont plus nombreux et plus éloignés idéologiquement, et la stabilité des politiques augmente d'autant. Un nouvel acteur placé entre les autres ne change rien (absorption).
 
 ---
 

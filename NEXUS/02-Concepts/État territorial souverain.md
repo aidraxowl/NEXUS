@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> **Définition :** Union de personnes sur un territoire délimité, soumise à une puissance souveraine ; selon la Drei-Elemente-Lehre : Staatsvolk + Staatsgebiet + Staatsgewalt. **Souveraineté** externe (aucune autorité au-dessus, non-ingérence) et interne (autorité suprême sur le territoire).
+> **Définition :** Union de personnes sur un territoire délimité, soumise à une puissance souveraine ; selon la Drei-Elemente-Lehre : Staatsvolk + Staatsgebiet + Staatsgewalt. Souveraineté externe (aucune autorité au-dessus, non-ingérence) et interne (autorité suprême sur le territoire).
 > **Pourquoi c'est important :** Forme d'organisation politique qui s'impose du 14e au 19e s., consacrée à Westphalie (1648), et reste le cadre central du politique.
 > **Exemple :** France et Angleterre vers 1500 ; État fédéral suisse depuis 1848 ; à l'inverse, les quasi-États post-coloniaux.
 

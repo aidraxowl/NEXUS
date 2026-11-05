@@ -17,7 +17,7 @@ tags:
 
 ## Explication
 - Étude **Y-centrée** : il faut intégrer toutes les UV pertinentes, ce qui exige beaucoup d'observations.
-- Étude **X-centrée** : les autres facteurs deviennent des **variables de contrôle**.
+- Étude **X-centrée** : les autres facteurs deviennent des variables de contrôle.
 - Remèdes : variables de contrôle, expérience, MSSD (maintenir constantes les variables tierces).
 
 ## Exemples

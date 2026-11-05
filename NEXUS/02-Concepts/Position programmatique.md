@@ -18,7 +18,7 @@ tags:
 ^essentiel
 
 ## Explication
-- **Familles de partis** (von Beyme 1984) : histoire + programme ; chaque famille est née **contre** quelque chose.
+- **Familles de partis** (von Beyme 1984) : histoire + programme ; chaque famille est née contre quelque chose.
 
 | Famille | Née contre… |
 |---|---|
@@ -33,9 +33,9 @@ tags:
 | Populiste de droite | l'État bureaucratique-social |
 | Écologiste | la société de croissance unilatérale |
 
-- **Limites des familles** : échelle **nominale** (pas de distances), forte hétérogénéité interne, multidimensionnalité, programmes qui changent (fin de la « old school of party families », Häusermann et al. 2013).
+- **Limites des familles** : échelle nominale (pas de distances), forte hétérogénéité interne, multidimensionnalité, programmes qui changent (fin de la « old school of party families », Häusermann et al. 2013).
 - **Axe gauche-droite** = « super-dimension » : gauche = plus d'intervention et de redistribution ; droite = moins d'État, plus de responsabilité individuelle. Trichotomie gauche (PC, socialistes, Verts, sociaux-démocrates) / centre (chrétiens-démocrates, paysans) / droite (conservateurs, libéraux, nationalistes).
-- **Deuxième dimension** : autoritaire (plus de règles) ≠ libertaire (plus de libertés) ; Kitschelt (1994) -> **GAL-TAN** (Green-Alternative-Liberal vs Traditional-Authoritarian-Nationalist) ; aujourd'hui universalisme ≠ particularisme.
+- **Deuxième dimension** : autoritaire (plus de règles) ≠ libertaire (plus de libertés) ; Kitschelt (1994) -> GAL-TAN (Green-Alternative-Liberal vs Traditional-Authoritarian-Nationalist) ; aujourd'hui universalisme ≠ particularisme.
 - **Cinq méthodes de mesure** :
 
 | Méthode | Principe | Avantage | Inconvénient |
@@ -46,7 +46,7 @@ tags:
 | Analyse de contenu des programmes | Fréquence de phrases ou mots codés (Manifesto Project) | **Évolution dans le temps** | Programmes pas écrits pour se positionner ; souvent inductif |
 | Votes parlementaires | Votes nominaux des élus | Comportement **réel** | Vote stratégique ; peu de pays (USA, CH, PE) |
 
-- **Analyse de contenu assistée par ordinateur** : découper le programme en phrases, les coder dans des catégories (ex. « État social + »), compter leur fréquence, en dériver une échelle. L'index de Jahn (2011) est **déductif** (théorie de Bobbio), tient compte de l'évolution du sens de gauche et droite et mesure la **cohésion** du parti.
+- **Analyse de contenu assistée par ordinateur** : découper le programme en phrases, les coder dans des catégories (ex. « État social + »), compter leur fréquence, en dériver une échelle. L'index de Jahn (2011) est déductif (théorie de Bobbio), tient compte de l'évolution du sens de gauche et droite et mesure la cohésion du parti.
 - **Comparaisons à grande échelle** : enquêtes d'experts et analyses de programmes (standardisées, multi-pays).
 
 ## Exemples

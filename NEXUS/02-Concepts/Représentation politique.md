@@ -27,12 +27,12 @@ tags:
 | Substantielle | Défend-il les préférences et intérêts de ses électeurs ? | Comparer préférences des électeurs (sondages) et votes ou programmes des élus ; décisions vs préférences |
 | Formelle | Quelles institutions permettent la représentation ? | Règles électorales : autorisation (début), reddition de comptes (fin) |
 
-- **Autorisation** (au début, par l'élection) et **reddition de comptes** (à la fin : récompenser ou sanctionner) sont des processus jumeaux, le même jour, qui peuvent se contredire.
-- **Vote rétrospectif** (sanctionner le passé) ≠ **prospectif** (mandater pour l'avenir selon programmes, promesses, leadership). Le rétrospectif est plus fort quand les responsabilités sont **claires** : gouvernement à un parti, majoritaire ; il se dilue en coalition (Powell 2000), en fédéralisme et en gouvernement minoritaire. Le prospectif domine dans les systèmes PR à coalitions.
+- **Autorisation** (au début, par l'élection) et reddition de comptes (à la fin : récompenser ou sanctionner) sont des processus jumeaux, le même jour, qui peuvent se contredire.
+- **Vote rétrospectif** (sanctionner le passé) ≠ prospectif (mandater pour l'avenir selon programmes, promesses, leadership). Le rétrospectif est plus fort quand les responsabilités sont **claires** : gouvernement à un parti, majoritaire ; il se dilue en coalition (Powell 2000), en fédéralisme et en gouvernement minoritaire. Le prospectif domine dans les systèmes PR à coalitions.
 - **Vote économique** (Fiorina 1981 : élection = « référendum » sur la gestion de l'économie) : chômage, PIB, inflation ; « quand l'économie va mal, on vote contre le gouvernement » (Lewis-Beck).
-  - **Sociotropique** (le pays va-t-il mieux ?) explique mieux que **égotropique** (est-ce que je vais mieux ?).
+  - **Sociotropique** (le pays va-t-il mieux ?) explique mieux que égotropique (est-ce que je vais mieux ?).
   - Modérateurs : information, ID partisane, priorités ; en coalition, le parti du chef de gouvernement est plus sanctionné, surtout s'il possède l'enjeu économique, mais les partenaires juniors aussi.
-- **Vertiefung** (Carnes/Lupu 2016) : expériences conjointes (UK, USA, ARG) -> les électeurs **ne** pénalisent **pas** les candidats ouvriers ; la sous-représentation vient de la sélection **avant** l'élection (partis, recrutement).
+- **Vertiefung** (Carnes/Lupu 2016) : expériences conjointes (UK, USA, ARG) -> les électeurs ne pénalisent pas les candidats ouvriers ; la sous-représentation vient de la sélection avant l'élection (partis, recrutement).
 
 ## Exemples
 - **Militaire :** la part de députés ayant une expérience militaire illustre la représentation descriptive ; ce qui compte pour la substantielle, c'est que les préférences de sécurité des citoyens soient défendues, quelle que soit l'origine des élus.

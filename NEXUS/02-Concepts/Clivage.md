@@ -30,11 +30,11 @@ tags:
 | Industrielle | Matériel | Ville-campagne | Protectionnisme agricole vs libre-échange industriel | Partis paysans, conservateurs, libéraux |
 | Industrielle | Matériel | Capital-travail | Conditions de travail, redistribution | Partis ouvriers (scission PC ≠ PS après 1917) |
 
-- **Théorie de Lipset et Rokkan** : les clivages présents **lors de la formation de l'État** sont institutionnalisés (légitimation + incorporation) -> partis durables (« systèmes gelés »). **Hiérarchie** : les clivages plus anciens structurent les suivants (Église-État = le plus ancien en Europe de l'Ouest). Le clivage de classe, le plus récent, explique la **ressemblance** des systèmes européens.
+- **Théorie de Lipset et Rokkan** : les clivages présents lors de la formation de l'État sont institutionnalisés (légitimation + incorporation) -> partis durables (« systèmes gelés »). **Hiérarchie** : les clivages plus anciens structurent les suivants (Église-État = le plus ancien en Europe de l'Ouest). Le clivage de classe, le plus récent, explique la ressemblance des systèmes européens.
 - **Deux nouveaux clivages** :
   - **Matérialisme ≠ postmatérialisme** (fin 1960s–70s ; Inglehart) : prospérité et paix -> valeurs de tolérance, participation, environnement -> partis Verts ; Kitschelt : libertaire-gauche ≠ autoritaire-droite -> GAL-TAN -> universalisme ≠ particularisme.
   - **Diplôme** (universitaire ≠ non universitaire) : slide V05, Ford/Jennings 2020.
-  - **Intégration ≠ démarcation** (gagnants ≠ perdants de la mondialisation ; Kriesi et al. 2006) : **transversal** aux anciens clivages -> espace pour de nouveaux partis ; populistes de droite (anti-immigration, fermeture) ; gauche (protection sociale) ; gauche radicale (antimondialisme).
+  - **Intégration ≠ démarcation** (gagnants ≠ perdants de la mondialisation ; Kriesi et al. 2006) : transversal aux anciens clivages -> espace pour de nouveaux partis ; populistes de droite (anti-immigration, fermeture) ; gauche (protection sociale) ; gauche radicale (antimondialisme).
 - **Affaiblissement** : sécularisation et tertiarisation -> identités collectives ↓ -> *dealignment* ; les partis se professionnalisent et se centralisent.
 - **Lien Kap. 6** : clivages -> modèle sociologique du vote (Columbia), alignement d'un groupe sur « son » parti.
 

@@ -23,7 +23,7 @@ tags:
 
 ## Explication
 - **Saillance** (*Riding the Wave*, Ansolabehere/Iyengar 1994) : seuls quelques thèmes captent l'attention ; les partis mettent en avant ceux qui comptent pour les électeurs. Éviter un thème saillant donne l'image d'un parti indifférent ou sans position.
-- **Issue ownership** (Budge/Farlie 1983) : être perçu comme le parti **le plus compétent** sur un thème. Conservateurs -> économie ; sociaux-démocrates -> chômage ; Verts -> environnement ; populistes de droite -> migration. Les partis le recherchent pour pouvoir gagner en mettant ce thème en avant.
+- **Issue ownership** (Budge/Farlie 1983) : être perçu comme le parti le plus compétent sur un thème. Conservateurs -> économie ; sociaux-démocrates -> chômage ; Verts -> environnement ; populistes de droite -> migration. Les partis le recherchent pour pouvoir gagner en mettant ce thème en avant.
   - *Competence ownership* (capacité à résoudre) ≠ *associative ownership* (association au thème par les clivages, engagement à le traiter).
 - **Vote spatial** :
 
@@ -36,7 +36,7 @@ tags:
 | Limite | Ignore l'intensité | « Region of acceptability » : les extrêmes repoussent (pas dans la formule) |
 
 - **Vote stratégique ≠ sincère** : pour ne pas « perdre » sa voix, voter pour un parti qui franchit le seuil (DE 5 %, AT 4 %) ou, en majoritaire, pour le 2e choix qui peut gagner afin d'éviter le « troisième larron ».
-- **Élections de second ordre** (Reif/Schmitt 1981, PE) : moins d'enjeu -> participation ↓ ; partis au gouvernement perdent, surtout à mi-mandat ; petits et nouveaux partis gagnent ; vote **sincère** plutôt que stratégique ; campagnes sur des thèmes nationaux. Mesure : comparer, pour un même pays, participation et résultats aux européennes et aux législatives selon la position dans le cycle électoral.
+- **Élections de second ordre** (Reif/Schmitt 1981, PE) : moins d'enjeu -> participation ↓ ; partis au gouvernement perdent, surtout à mi-mandat ; petits et nouveaux partis gagnent ; vote sincère plutôt que stratégique ; campagnes sur des thèmes nationaux. Mesure : comparer, pour un même pays, participation et résultats aux européennes et aux législatives selon la position dans le cycle électoral.
 
 ## Exemples
 - **Militaire :** un parti « propriétaire » de la sécurité gagne quand la défense devient saillante (crise internationale) ; ses concurrents ont intérêt à déplacer le débat vers d'autres thèmes.

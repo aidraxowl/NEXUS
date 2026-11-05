@@ -16,7 +16,7 @@ tags:
 ^essentiel
 
 ## Explication
-- **Modèle spatial :** chaque acteur a un point idéal ; le statu quo (SQ) ; courbe d'indifférence = cercle centré sur le point idéal passant par le SQ ; **winset** = intersection des cercles (changements acceptables par tous).
+- **Modèle spatial :** chaque acteur a un point idéal ; le statu quo (SQ) ; courbe d'indifférence = cercle centré sur le point idéal passant par le SQ ; winset = intersection des cercles (changements acceptables par tous).
 - Ajouter un acteur réduit le winset, sauf s'il est situé entre les autres (absorption).
 - Deux acteurs diamétralement opposés autour du SQ -> aucun changement possible.
 - Ce qui compte : **nombre ET distance** (hétérogénéité).

@@ -26,13 +26,13 @@ tags:
 ### Marché politique et convergence des partis (Kap. 7)
 - Analogie (Hotelling 1929, [[Anthony Downs]] 1957) : électeurs = acheteurs, partis = entreprises, programme = produit, voix = profit.
 - **Trois hypothèses** :
-  1. Acteurs rationnels ; préférences **unimodales** (*single-peaked*) sur **une** dimension ; on vote pour le parti le plus proche ; les partis maximisent leurs voix.
+  1. Acteurs rationnels ; préférences unimodales (*single-peaked*) sur une dimension ; on vote pour le parti le plus proche ; les partis maximisent leurs voix.
   2. Pas d'identification partisane stable : calcul à chaque élection.
-  3. **Bipartisme** avec **scrutin majoritaire** (extensions : multipartisme, PR, Kitschelt 1994).
+  3. **Bipartisme** avec scrutin majoritaire (extensions : multipartisme, PR, Kitschelt 1994).
 - **Mécanisme (Abb. 7.2)** : distribution en cloche ; A obtient tous les électeurs à gauche de X (milieu du segment AB), B ceux à droite. A se rapproche de B pour gagner des voix, B réagit -> les deux convergent vers M. **Équilibre** : aucun parti ne gagne à bouger -> programmes presque identiques.
 - **Où gagner le plus de voix ?** Au centre, là où se trouvent la plupart des électeurs.
 - **Explication actuelle (slide)** : les grands partis de gauche et de droite se sont rapprochés parce que les facteurs socio-structurels et l'identification partisane ont perdu de leur poids.
-- **Lien Kap. 6** : correspond au modèle de **proximité** ; dans le modèle **directionnel**, le médian est moins décisif.
+- **Lien Kap. 6** : correspond au modèle de proximité ; dans le modèle directionnel, le médian est moins décisif.
 
 ## Exemples
 - **Militaire :** sur le budget de défense, le compromis parlementaire tend vers la position médiane du parlement ; en campagne, les grands partis évitent les positions extrêmes (abolition ou réarmement massif).

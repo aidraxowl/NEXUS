@@ -11,7 +11,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> **Définition :** Degré d'éclatement d'un système de partis, mesuré par le nombre **et la taille** des partis, le plus souvent par le nombre effectif de partis : ENP = 1 / Σ sᵢ² (Laakso/Taagepera 1979).
+> **Définition :** Degré d'éclatement d'un système de partis, mesuré par le nombre et la taille des partis, le plus souvent par le nombre effectif de partis : ENP = 1 / Σ sᵢ² (Laakso/Taagepera 1979).
 > **Pourquoi c'est important :** Une forte fragmentation va de pair avec des gouvernements moins stables, plus d'extrémisme, plus de dépenses et de dette et moins de biens publics.
 > **Exemple :** 33-33-33 (ENP ≈ 3,06) est plus fragmenté que 45-45-10 (ENP ≈ 2,41), bien qu'il y ait trois partis dans les deux cas.
 

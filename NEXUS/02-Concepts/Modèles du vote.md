@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> **Définition :** Trois modèles expliquent pour qui l'on vote : **sociologique** (appartenance de groupe, Columbia), **socio-psychologique** (identification partisane, Michigan), **choix rationnel** (utilité attendue des positions sur les enjeux, Rochester/Downs) ; l'entonnoir de causalité les combine.
+> **Définition :** Trois modèles expliquent pour qui l'on vote : sociologique (appartenance de groupe, Columbia), socio-psychologique (identification partisane, Michigan), choix rationnel (utilité attendue des positions sur les enjeux, Rochester/Downs) ; l'entonnoir de causalité les combine.
 > **Pourquoi c'est important :** Ils sont complémentaires ; le passage des facteurs de long terme aux facteurs de court terme (dealignment) explique la volatilité électorale actuelle.
 > **Exemple :** Un ouvrier syndiqué qui vote PS par tradition (sociologique) ou par attachement (Michigan) peut voter SVP sur la migration (enjeux).
 
@@ -36,7 +36,7 @@ tags:
 - **Entonnoir de causalité** (Campbell 1960) : à la base, la structure sociale stable -> l'identification partisane -> les préférences thématiques et l'évaluation des candidats (court terme) -> le vote. La combinaison donne la meilleure explication.
 - **Évolution** : avec la modernisation, les facteurs socio-structurels perdent du poids (Franklin 1992), les facteurs de court terme en gagnent.
   - **Dealignment** : les variables de long terme perdent leur pertinence.
-  - **Realignment** : elles sont remplacées par d'**autres** variables de long terme (ex. diplôme universitaire, mondialisation).
+  - **Realignment** : elles sont remplacées par d'autres variables de long terme (ex. diplôme universitaire, mondialisation).
 - **Nouveaux enjeux** : s'ils ne s'alignent pas sur la structure sociale ou l'ID, le calcul coût-utilité l'emporte ; tant que l'agenda et les clivages restent stables, le vote reste stable.
 - Extensions du choix rationnel -> [[Vote sur enjeux]] ; psychologie politique (Big Five, SDO, RWA, émotions).
 

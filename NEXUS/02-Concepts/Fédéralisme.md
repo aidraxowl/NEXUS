@@ -21,7 +21,7 @@ tags:
 - Seconde chambre : élue par le peuple (CH, USA), envoyée par les gouvernements (DE), par les parlements (AT).
 - **DE :** 16 Länder, clause d'éternité, Zustimmungsgesetze (~49 %), Länder exécutent le droit fédéral, BVerfG fort.
 - **AT :** 9 Länder, compétences faibles, justice entièrement fédérale.
-- **CH :** compétences les plus larges, Conseil des États à égalité, justice constitutionnelle **faible** (exception), démocratie directe à tous les niveaux.
+- **CH :** compétences les plus larges, Conseil des États à égalité, justice constitutionnelle faible (exception), démocratie directe à tous les niveaux.
 - **CH, angle juridique (DC V01) :** la Confédération n'a que les compétences attribuées par la Cst. (art. 3, 42 Cst.) ; chaque canton a sa constitution (art. 51), ses lois, ordonnances et tribunaux ; domaines cantonaux typiques : enseignement, constructions. Autonomie communale selon le droit cantonal (art. 50) : forte en GR, faible à GE. Dans le CC : droit cantonal réservé (art. 5 et 6 CC).
 - **UE :** proche d'une confédération ; pas de vrai bicaméralisme ni de constitution, mais une CJUE de type constitutionnel.
 - **Effets (Patzelt) :** 5 avantages (diversité, minorités régionales, efficacité/subsidiarité, moins de concentration, participation) ; 3 inconvénients (lenteur, opacité, responsabilité floue).

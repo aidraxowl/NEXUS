@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract] L'essentiel
-> **Définition :** Attitude favorable des citoyens envers un objet politique ; Easton distingue le soutien **spécifique** (court terme, fondé sur les outputs des autorités) et le soutien **diffus** (long terme, envers la communauté et le régime : identité, confiance).
+> **Définition :** Attitude favorable des citoyens envers un objet politique ; Easton distingue le soutien spécifique (court terme, fondé sur les outputs des autorités) et le soutien diffus (long terme, envers la communauté et le régime : identité, confiance).
 > **Pourquoi c'est important :** La légitimité, donc la stabilité d'une démocratie, repose surtout sur le soutien diffus, qui survit à de mauvaises performances.
 > **Exemple :** Un gouvernement impopulaire (soutien spécifique faible) ne menace pas le système tant que la satisfaction avec la démocratie reste élevée (soutien diffus).
 
@@ -30,8 +30,8 @@ tags:
 | Valeur | Grandeur morale qui structure le reste ; ≠ norme (sanctionnée) | Liberté, égalité |
 
   Préférences et attitudes dépendent des convictions : pour les changer, il faut changer les convictions.
-- **Pourquoi l'opinion publique compte** : transparence, responsivité (on ne répond qu'à ce qu'on connaît), reddition de comptes (*accountability*), **légitimité** = reconnaissance du caractère légitime des institutions, personnes et partis.
-- **Légitimité × efficacité (Lipset 1960)** : un système doit être reconnu légitime **et** performant (outputs, responsivité). Légitime mais inefficace -> opinion négative -> perte de légitimité -> instabilité, voire effondrement.
+- **Pourquoi l'opinion publique compte** : transparence, responsivité (on ne répond qu'à ce qu'on connaît), reddition de comptes (*accountability*), légitimité = reconnaissance du caractère légitime des institutions, personnes et partis.
+- **Légitimité × efficacité (Lipset 1960)** : un système doit être reconnu légitime et performant (outputs, responsivité). Légitime mais inefficace -> opinion négative -> perte de légitimité -> instabilité, voire effondrement.
 - **Almond/Verba (1963)** : objets (système, inputs, outputs, acteurs) × types (cognitions, affects, évaluations).
 - **Typologie d'Easton (1965)** :
 

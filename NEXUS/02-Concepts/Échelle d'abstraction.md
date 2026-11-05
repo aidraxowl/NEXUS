@@ -17,7 +17,7 @@ tags:
 
 ## Explication
 - Monter l'échelle = généraliser en abandonnant des attributs propres à un contexte et en gardant le noyau du concept.
-- Le **stretching** est parfois nécessaire ; l'**overstretching** survient quand le concept ne discrimine plus (tous les cas le remplissent).
+- Le stretching est parfois nécessaire ; l'overstretching survient quand le concept ne discrimine plus (tous les cas le remplissent).
 - Ex. d'overstretching : si « constitution » vaut pour tout État, « les constitutions empêchent la dictature » n'a plus de sens.
 - Idéal : assez concret pour être mesuré sans ambiguïté, assez général pour couvrir tous les cas pertinents.
 

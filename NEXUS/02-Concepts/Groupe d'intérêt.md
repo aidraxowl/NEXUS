@@ -22,7 +22,7 @@ tags:
 ## Explication
 ### Définition et délimitation
 - **Intérêts** = besoins et buts qui orientent le comportement d'individus ou de groupes.
-- Agit **vers l'extérieur** (sur ceux qui ont des intérêts divergents : gouvernement, parlement, administration, partis, opinion) et rend des **services vers l'intérieur** (TCS : dépannage).
+- Agit vers l'extérieur (sur ceux qui ont des intérêts divergents : gouvernement, parlement, administration, partis, opinion) et rend des services vers l'intérieur (TCS : dépannage).
 
 | | Parti | Groupe d'intérêt | Mouvement social |
 |---|---|---|---|
@@ -41,7 +41,7 @@ tags:
 7. Pétitions, initiatives, référendums.
 
 ### Organisation et conflit
-- **Capacité d'organisation** : mobiliser personnes, argent, infrastructure -> voir [[Action collective]]. Condition **nécessaire, pas suffisante**.
+- **Capacité d'organisation** : mobiliser personnes, argent, infrastructure -> voir [[Action collective]]. Condition nécessaire, pas suffisante.
 - **Capacité de conflit** : menacer ou causer des coûts (ou promettre des gains) de façon crédible. Formes : référendum (==referendumsfähig==), grève, manifestation, consigne de vote ; souvent la menace suffit.
 - Crédibilité : nombre de membres, mais surtout **cohérence direction–base**. Si les membres adhèrent surtout pour des incitations sélectives, les décideurs doutent de la menace.
 - -> WWF et Greenpeace : beaucoup de membres, peu d'influence ; syndicats, paysans, industrie : moins nombreux, intérêts homogènes et matériels, plus influents. Petits groupes très conflictuels : contrôleurs aériens, mécaniciens de locomotive, transporteurs.

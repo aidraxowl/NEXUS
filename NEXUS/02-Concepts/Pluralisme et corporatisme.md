@@ -44,13 +44,13 @@ tags:
 |---|---|
 | Économie | Croissance, moins de chômage, discipline budgétaire, résistance aux chocs (Schneider & Wagner 2000) ; effets disparus dans les années 1990 (Flanagan, Kenworthy) |
 | Société | Moins de grèves, moins d'inégalités, État social plus grand, moins de dette |
-| Environnement — pour | Résout mieux l'action collective, intègre de petits groupes verts (Matthews 2001) ; effet positif (Scruggs 2003) ; climat (Finnegan 2022) |
-| Environnement — contre | Pas d'effet sur la pollution de l'air (Neumayer 2003) ; frein (Dryzek et al. 2003) ; « coalition de croissance » des années 1970–1980 |
+| Environnement : pour | Résout mieux l'action collective, intègre de petits groupes verts (Matthews 2001) ; effet positif (Scruggs 2003) ; climat (Finnegan 2022) |
+| Environnement : contre | Pas d'effet sur la pollution de l'air (Neumayer 2003) ; frein (Dryzek et al. 2003) ; « coalition de croissance » des années 1970–1980 |
 | Synthèse | Le corporatisme est un **amplificateur**, positif ou négatif selon sa structure (Jahn 2018) |
 | Effet pervers | Plus de nouvelles politiques -> surcharge réglementaire (Fernández-i-Marín et al.) |
 
 - **Critique de l'input** (Linder 2005) : les intérêts généraux, de long terme et des moins favorisés n'entrent vraiment que par les élections et votations ; les acteurs corporatistes négocient à leur avantage, aux dépens des mal organisés.
-- **Problème réel du pluralisme** (Baumgartner & Leech 2001) : pas la multitude des groupes, mais le **manque de concurrence** dans beaucoup de domaines, dominés par les intérêts économiques. Remède réaliste : la transparence (Lobbying Disclosure Act aux USA).
+- **Problème réel du pluralisme** (Baumgartner & Leech 2001) : pas la multitude des groupes, mais le manque de concurrence dans beaucoup de domaines, dominés par les intérêts économiques. Remède réaliste : la transparence (Lobbying Disclosure Act aux USA).
 
 ## Exemples
 - **Militaire :** dans un système corporatiste, l'industrie d'armement et les syndicats concernés sont associés tôt aux choix d'acquisition et de compensation ; dans un système pluraliste, ils se concurrencent par le lobbying.

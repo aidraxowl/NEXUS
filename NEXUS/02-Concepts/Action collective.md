@@ -19,7 +19,7 @@ tags:
 ^essentiel
 
 ## Explication
-- **Point de départ** : la typologie des biens (exclusion × rivalité) -> voir [[Bien public]]. Le dilemme touche les biens **non exclusifs** (biens publics et biens communs).
+- **Point de départ** : la typologie des biens (exclusion × rivalité) -> voir [[Bien public]]. Le dilemme touche les biens non exclusifs (biens publics et biens communs).
 - **Dilemme** : tout membre peut consommer le bien -> contribuer coûte, ne pas contribuer ne prive de rien -> il est rationnel de resquiller -> le bien est produit en quantité insuffisante.
 - **Pour un groupe d'intérêt**, l'intérêt défendu est lui-même un bien public **pour ses membres** : la loi favorable profite aussi aux non-membres.
 
@@ -32,7 +32,7 @@ tags:
 | Effets de troupeau | Un groupe qui grandit signale l'utilité de l'adhésion | Pétitions à succès |
 | Incitations sélectives (Olson) | Services réservés aux membres -> une partie des prestations devient un bien de club | Dépannage TCS, conseil juridique des syndicats et associations de locataires |
 
-- Les incitations sélectives sont **cruciales** quand le groupe visé est très grand et que le gain est **immatériel** : le gain par tête est alors faible et l'envie de resquiller forte.
+- Les incitations sélectives sont cruciales quand le groupe visé est très grand et que le gain est **immatériel** : le gain par tête est alors faible et l'envie de resquiller forte.
 - **Motifs d'adhésion** (Wilson 1974) : instrumentels (gain matériel), finalisés (valeurs du groupe), expressifs (montrer ses valeurs).
 
 ### Quatre remèdes (VL S. 11)

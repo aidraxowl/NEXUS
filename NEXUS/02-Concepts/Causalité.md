@@ -16,9 +16,9 @@ tags:
 ^essentiel
 
 ## Explication
-- **UV / Explanans / X** explique ; **AV / Explanandum / Y** est expliquée ; le rôle dépend de l'étude.
+- **UV / Explanans / X** explique ; AV / Explanandum / Y est expliquée ; le rôle dépend de l'étude.
 - Covariance nécessaire mais pas suffisante : il faut un mécanisme théorique et l'exclusion d'explications alternatives.
-- Pièges : effets différés, seuils, **corrélation fallacieuse** (une variable tierce cause X et Y), **réciprocité** (Y agit sur X).
+- Pièges : effets différés, seuils, corrélation fallacieuse (une variable tierce cause X et Y), réciprocité (Y agit sur X).
 - Les expériences identifient mieux la causalité que les études observationnelles ; l'incertitude ne disparaît jamais.
 
 ## Exemples
