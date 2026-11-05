@@ -10,7 +10,7 @@ tags:
   - exam/basis-2027-b1
 ---
 > [!abstract] L'essentiel
-> Une obligation est un lien entre deux personnes qui donne à l'une une créance et à l'autre une dette ; le CO en connaît cinq sources : contrat, acte illicite, enrichissement illégitime, gestion d'affaires et loi. L'acte illicite (art. 41 ss CO) fait naître l'obligation de réparer sans aucune volonté commune, contrairement au contrat. Selon l'art. 41 al. 1, est tenu de réparer celui qui cause un dommage à autrui, de manière illicite, intentionnellement ou par négligence. Ces cinq conditions sont cumulatives et le lésé doit toutes les prouver (art. 8 CC, 42 CO). La causalité doit être adéquate, ce qui écarte les causes lointaines comme le vendeur d'allumettes. En cas de décès ou de lésions corporelles, le dommage se calcule selon les art. 45 à 47, avec renvoi au droit de la famille pour la perte de soutien. Les responsabilités causales (art. 55, 56, 58) dispensent le lésé de prouver la faute, et l'art. 58 ne laisse même aucune preuve libératoire : devant plusieurs débiteurs, on choisit selon la preuve et la solvabilité.
+> Une obligation est un lien entre deux personnes qui donne à l'une une créance et à l'autre une dette ; le CO en connaît cinq sources : contrat, acte illicite, enrichissement illégitime, gestion d'affaires et loi. L'acte illicite (art. 41 ss CO) fait naître l'obligation de réparer sans aucune volonté commune, contrairement au contrat. Selon l'art. 41 al. 1, est tenu de réparer celui qui cause un dommage à autrui, de manière illicite, intentionnellement ou par négligence. Ces cinq conditions sont cumulatives et le lésé doit toutes les prouver (art. 8 CC, 42 CO). La causalité doit être adéquate, ce qui écarte les causes lointaines comme le vendeur d'allumettes. En cas de décès ou de lésions corporelles, le dommage se calcule selon les art. 45 à 47, avec renvoi au droit de la famille pour la perte de soutien. Les responsabilités causales (art. 55, 56, 58) dispensent le lésé de prouver la faute, et l'art. 58 ne laisse même aucune preuve libératoire ; des lois spéciales (LCR, LAAM) étendent ce régime aux dangers modernes. Devant plusieurs débiteurs, on choisit selon la preuve et la solvabilité.
 > *(Rédigé par Claude, à remplacer par ta version.)*
 
 ^essentiel
@@ -23,7 +23,7 @@ Le contrat est un lien voulu par les deux parties. L'acte illicite, synonyme de 
 ## Les cinq conditions de l'art. 41
 L'art. 41 al. 1 CO est la disposition centrale de la [[Responsabilité pour faute]]. Il pose cinq conditions, puis une conséquence. Le [[Dommage]] est la différence entre le patrimoine avant et après l'événement, ou un gain manqué. L'[[Illicéité]] suppose la violation d'une règle qui protège autrui, en pratique une atteinte au patrimoine ou à l'intégrité physique ; un fait justificatif (contrat, fonction officielle, légitime défense) l'efface. La [[Faute]] est le reproche fait à l'auteur : il a voulu le dommage (intention) ou n'a pas été assez attentif (négligence). Le verbe « cause » exige un lien de [[Causalité adéquate]], et le dommage doit frapper autrui.
 
-Ces conditions sont cumulatives : il suffit qu'une seule manque pour qu'il n'y ait pas d'obligation. Le [[Fardeau de la preuve]] pèse sur le lésé, qui doit prouver les cinq. Sur ce point, la responsabilité contractuelle fait exception (art. 97 CO), ce que le cours verra plus tard.
+Ces conditions sont cumulatives : il suffit qu'une seule manque pour qu'il n'y ait pas d'obligation. Le [[Fardeau de la preuve]] pèse sur le lésé, qui doit prouver les cinq. Sur ce point, la [[Responsabilité contractuelle]] fait exception (art. 97 CO) : voir [[Inexécution des obligations]].
 
 ## Appliquer la règle : le feu du 1er août
 Le [[Feu du 1er août]] montre la méthode. B allume un feu près de la grange de son voisin A, et la grange brûle avec la voiture qui s'y trouve. On passe les conditions dans l'ordre : dommage (grange, voiture et frais qui suivent), atteinte à la propriété de A, négligence et non intention, causalité, autrui. B doit réparer. Le vendeur des allumettes, lui, ne répond pas : sa vente est licite et ne cause l'incendie que de manière naturelle, pas adéquate.
@@ -40,8 +40,13 @@ Avec l'art. 41, la [[Faute]] est souvent le point fragile. Dans le cas no 3, une
 
 Le cours en retient trois cas. L'employeur répond de ses employés (art. 55) et le détenteur de l'animal (art. 56) ; tous deux peuvent se libérer en prouvant leur diligence, ce qui renverse le [[Fardeau de la preuve]]. L'art. 56 vise le détenteur, celui qui a la maîtrise de l'animal, et non le propriétaire. Le propriétaire d'un ouvrage répond des vices de construction et du défaut d'entretien (art. 58) sans aucune preuve libératoire ; il peut seulement se retourner ensuite contre ceux qui ont mal travaillé.
 
+## Les lois spéciales
+Les art. 55, 56 et 58 sont hérités du droit romain. Au XIXe siècle, chemins de fer, chimie et explosifs multiplient les accidents dont la faute est introuvable. Le législateur reprend donc la [[Responsabilité causale]] dans des lois spéciales. Le détenteur d'un véhicule automobile répond des personnes tuées ou blessées et des dégâts matériels (art. 58 al. 1 LCR), y compris quand il a prêté sa voiture à un ami imprudent (al. 4). Rouler sans assurance RC est même puni pénalement (art. 96 al. 2 LCR).
+
+Pour l'armée, l'art. 135 al. 1 LAAM fait répondre la Confédération, sans égard à la faute, du dommage causé par une activité de service. Le lésé n'agit pas contre le militaire mais contre la Confédération, qui peut ensuite se retourner contre lui en cas de comportement grave. Le même schéma vaut pour les fonctionnaires, les policiers et les gardes-frontière.
+
 ## Plusieurs débiteurs possibles : qui attaquer ?
-Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le cheval a blessé un promeneur, on prend l'art. 56 plutôt que l'art. 41 : le prof compare ce choix à un engagement de moyens blindés, qui laisse le moins d'options possible à la défense. Le sauveteur tombé dans le fossé a trois adversaires possibles. Contre l'ouvrier qui n'a pas fixé la planche, seul l'art. 41 s'applique, il faut tout prouver et l'ouvrier a peu de moyens. L'entreprise répond selon l'art. 55 et a manqué à son devoir de surveillance, mais elle peut faire faillite. La commune, propriétaire du chantier, répond selon l'art. 58 sans preuve libératoire et elle est solvable. Le choix se fait donc sur deux plans : qui doit prouver quoi, et qui pourra payer. Le régime de la solidarité entre ces débiteurs est annoncé pour la séance suivante.
+Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le cheval a blessé un promeneur, on prend l'art. 56 plutôt que l'art. 41 : le prof compare ce choix à un engagement de moyens blindés, qui laisse le moins d'options possible à la défense. Le sauveteur tombé dans le fossé a trois adversaires possibles. Contre l'ouvrier qui n'a pas fixé la planche, seul l'art. 41 s'applique, il faut tout prouver et l'ouvrier a peu de moyens. L'entreprise répond selon l'art. 55 et a manqué à son devoir de surveillance, mais elle peut faire faillite. La commune, propriétaire du chantier, répond selon l'art. 58 sans preuve libératoire et elle est solvable. Le choix se fait donc sur deux plans : qui doit prouver quoi, et qui pourra payer. Le lésé peut agir contre un seul de ces débiteurs ou contre tous, mais il n'obtient la réparation qu'une fois : il ne doit pas s'enrichir, et les art. 50 et 51 règlent la répartition entre les responsables.
 
 ---
 
@@ -52,7 +57,7 @@ Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le ch
 | Articles | 1 ss CO | 41 ss CO |
 | Origine du lien | Volonté commune | Fait dommageable |
 | Structure | En principe bilatéral | Unilatéral |
-| Faute | Présumée (art. 97, à voir) | À prouver par le lésé (art. 41 + 8 CC) |
+| Faute | Présumée : le débiteur prouve son absence (art. 97) | À prouver par le lésé (art. 41 + 8 CC) |
 | Exemple | Acheter un pain | Incendier la grange du voisin |
 
 | | Art. 41 | Art. 55 | Art. 56 | Art. 58 |
@@ -72,6 +77,9 @@ Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le ch
 - Art. 56 : le **détenteur**, pas le propriétaire ; art. 58 : le **propriétaire**. La loi choisit ces mots exprès.
 - Art. 58 : pas de preuve libératoire. Ne pas en inventer une par analogie avec 55 et 56.
 - Art. 48 : abrogé (note de bas de page).
+- Art. 58 CO (propriétaire d'ouvrage) ≠ art. 58 LCR (détenteur du véhicule) : toujours citer la loi.
+- Armée : le lésé agit contre la Confédération (art. 135 LAAM), pas contre le militaire.
+- Plusieurs responsables : on peut les attaquer tous, mais on n'est réparé qu'une fois (art. 50–51).
 - Fiche, art. 52 et 60 : vérifier le texte du code (état de nécessité ; 10 ans dès le fait dommageable, 20 ans en cas de lésions corporelles).
 
 ### Questions de synthèse
@@ -93,6 +101,9 @@ Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le ch
 > [!question]- Pourquoi un lésé préfère-t-il l'art. 56 ou l'art. 58 à l'art. 41 ? Comment choisit-il entre plusieurs débiteurs ?
 > Parce qu'il n'a plus à prouver la faute : le détenteur doit prouver sa diligence (56), le propriétaire de l'ouvrage n'a aucune preuve libératoire (58). Entre plusieurs débiteurs, il regarde la base légale (qui prouve quoi) et la solvabilité, comme dans le cas du cheval ombrageux où la commune est la meilleure cible.
 
+> [!question]- Un passant est blessé par une voiture qu'un ami du détenteur conduisait. Qui répond ? Et si le dommage vient d'un camion militaire en exercice ?
+> Le détenteur, selon l'art. 58 al. 1 et 4 LCR : il répond de la faute du conducteur comme de la sienne. Pour le camion militaire, le lésé agit contre la Confédération selon l'art. 135 al. 1 LAAM, sans égard à la faute ; il n'a pas d'action contre le militaire.
+
 ### Articles à lire et annoter
 > [!info] Méthode
 > Retrouve chaque article dans ton édition et annote la note marginale.
@@ -109,7 +120,7 @@ Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le ch
 | 46 | Lésions corporelles | « ≠ 45 » |
 | 47 | Tort moral | « qq dizaines de milliers de fr. » |
 | 48 | Abrogé | « loi spéciale » |
-| 50, 51 | Solidarité | V04 |
+| 50, 51 | Pluralité de responsables | « réparé une seule fois » |
 | 52 | Légitime défense, nécessité | « faits justificatifs » |
 | 54–58 | Responsabilités causales | « 55, 56 : preuve libératoire ; 58 : aucune » |
 | 56 | Détenteur d'animaux | Souligner « détient » |
@@ -117,6 +128,14 @@ Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le ch
 | 60 | Prescription | « 3 / 10 / 20 ans » |
 | 68, 114 | Effets, extinction | « cycle de vie » |
 | 97 | Responsabilité contractuelle | « ≠ art. 41 : faute présumée » |
+
+**Lois spéciales**
+| Art. | Contenu | Annotation conseillée |
+|---|---|---|
+| 58 al. 1 LCR | Détenteur de véhicule automobile | « ≠ 58 CO » |
+| 58 al. 4 LCR | Faute du conducteur imputée au détenteur | « voiture prêtée » |
+| 96 al. 2 LCR | Circuler sans assurance RC | « pénal » |
+| 135 al. 1 LAAM | Responsabilité de la Confédération | « sans égard à la faute ; pas contre le militaire » |
 
 **CC**
 | Art. | Contenu |
@@ -128,5 +147,6 @@ Le [[Cheval ombrageux]] (cas no 4) réunit tout. Contre l'agriculteur dont le ch
 ## Sources
 - Peter, *Les obligations nées des actes illicites* (fiche V03, HS26) ; *Cas no 1*
 - Peter, *Cas no 2, 3 et 4* et feuille *Responsabilité causale : illustrations* (V04, HS26)
-- [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]]
+- Peter, cours du 19.10.2026 (lois spéciales)
+- [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]], [[NB DC V05 - 20261019]]
 - *Le droit en moins de 300 pages* (Schulthess 2024), lecture recommandée

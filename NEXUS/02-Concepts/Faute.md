@@ -36,6 +36,8 @@ La faute suppose la **capacité de discernement** (art. 16 CC). L'incapable de d
 
 *Ajout :* le degré de faute (intention, négligence grave, négligence légère) ne décide pas de la responsabilité, mais il compte pour fixer l'indemnité (art. 43, 44 al. 2).
 
+**En contrat (V07).** La notion est la même à l'art. 97, mais la faute y est **présumée** : c'est le débiteur qui doit prouver qu'il n'en a commis aucune ([[Responsabilité contractuelle]]). Le débiteur répond de toute faute (art. 99 al. 1), moins sévèrement si la nature de l'affaire le commande (al. 2, par exemple le donateur). Le degré compte aussi pour les clauses d'exclusion : on ne peut pas exclure d'avance l'intention ni la négligence grave (art. 100 al. 1), seulement la négligence légère.
+
 ## Exemples
 - **Militaire :** un conducteur qui roule trop vite sur une route enneigée n'a pas voulu l'accident, mais il a manqué à son devoir de prudence : négligence.
 - **Civil :** casser volontairement la vitre du voisin par vengeance : intention.
@@ -46,12 +48,13 @@ La faute suppose la **capacité de discernement** (art. 16 CC). L'incapable de d
 | Intention | Vouloir le **résultat** | ≠ vouloir l'acte (« ils ont voulu le feu ») |
 | [[Illicéité]] | Jugement sur l'acte | La faute juge l'auteur |
 | [[Responsabilité causale]] | Sans faute (art. 55, 56, 58) | Plafond qui tombe : pas besoin de chercher une faute |
+| [[Responsabilité contractuelle]] (97) | Faute présumée | Le créancier ne prouve pas la faute ; le débiteur prouve son absence |
 
 ## Liens
-- **Thème :** [[Responsabilité civile]]
+- **Thème :** [[Responsabilité civile]], [[Inexécution des obligations]]
 - **Proche de :** [[Responsabilité pour faute]], [[Illicéité]], [[Personne physique et personne morale]] (discernement)
 - **Cas :** [[Feu du 1er août]]
-- **U-Fragen :** [[UF DC V03]], [[UF DC V04]]
+- **U-Fragen :** [[UF DC V03]], [[UF DC V04]], [[UF DC V07]]
 
 ## Questions de compréhension
 > [!question]- Quelle différence entre intention et négligence ?
@@ -62,5 +65,5 @@ La faute suppose la **capacité de discernement** (art. 16 CC). L'incapable de d
 
 ## Sources
 - Peter, cours du 05.10.2026 ; fiche *Les obligations nées des actes illicites* (HS26)
-- [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]]
+- [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]], [[NB DC V07 - 20261102]]
 - Degrés de faute et lien avec art. 43–44 : ajoutés par Claude

@@ -24,12 +24,14 @@ tags:
 - Placé dans le **titre préliminaire** : la règle vaut pour tout le droit privé, CO compris (voir [[Systématique du Code civil et du Code des obligations]]).
 - Application vue en V03 (rappelée en V05) : en [[Responsabilité pour faute|responsabilité délictuelle]] (art. 41 CO), le lésé doit prouver les cinq conditions ; l'art. 42 al. 1 CO répète la règle pour le dommage.
 - V04 : dans les [[Responsabilité causale|responsabilités causales]] des art. 55 et 56 CO, la loi met la **preuve libératoire** à la charge du responsable : c'est l'employeur ou le détenteur qui prouve sa diligence. L'art. 58 n'en prévoit aucune.
+- V07 : en [[Responsabilité contractuelle|responsabilité contractuelle]] (art. 97 CO), la faute est **présumée**. Le créancier prouve le contrat, l'inexécution, le dommage et la causalité ; le débiteur doit prouver qu'aucune faute ne lui est imputable. C'est la différence capitale avec l'art. 41.
 
 | Situation | Qui prouve ? | Ce qu'il prouve |
 |---|---|---|
 | Créance de 100 fr. | Le créancier | L'existence de la dette |
 | Dommage causé par autrui (art. 41 CO) | Le lésé | Dommage, illicéité, faute, causalité, autrui |
 | Paternité du mari (art. 255 CC) | Celui qui la **conteste** | Présomption légale : la règle s'inverse |
+| Inexécution d'un contrat (art. 97 CO) | Le créancier, puis le débiteur | Le créancier : contrat, inexécution, dommage, causalité. Le débiteur : l'absence de faute |
 | Dommage causé par un animal (art. 56 CO) | Le lésé, puis le détenteur | Le lésé : dommage, illicéité, causalité. Le détenteur : qu'il a gardé et surveillé l'animal avec l'attention requise |
 
 ## Exemples
@@ -44,9 +46,9 @@ tags:
 | Bonne foi (art. 2 CC) | Comportement loyal, abus de droit | Autre principe du titre préliminaire ; ne pas confondre avec l'art. 3 CC (bonne foi **présumée**) |
 
 ## Liens
-- **Thème :** [[Droit des personnes, de la famille et des successions]], [[Responsabilité civile]]
-- **Proche de :** [[Systématique du Code civil et du Code des obligations]], [[Droit de la famille]], [[Responsabilité pour faute]], [[Responsabilité causale]]
-- **U-Fragen :** [[UF DC V02]], [[UF DC V03]], [[UF DC V04]]
+- **Thème :** [[Droit des personnes, de la famille et des successions]], [[Responsabilité civile]], [[Inexécution des obligations]]
+- **Proche de :** [[Systématique du Code civil et du Code des obligations]], [[Droit de la famille]], [[Responsabilité pour faute]], [[Responsabilité causale]], [[Responsabilité contractuelle]]
+- **U-Fragen :** [[UF DC V02]], [[UF DC V03]], [[UF DC V04]], [[UF DC V07]]
 
 ## Questions de compréhension
 > [!question]- Qui supporte les conséquences de l'absence de preuve ?
@@ -60,5 +62,5 @@ tags:
 
 ## Sources
 - Peter, *Aperçu du droit privé suisse* (fiche V02) ; cours du 28.09.2026
-- [[NB DC V02 - 20260928]], [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]], [[NB DC V05 - 20261019]]
+- [[NB DC V02 - 20260928]], [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]], [[NB DC V05 - 20261019]], [[NB DC V07 - 20261102]]
 - Exemples art. 255 et art. 3 CC : ajoutés par Claude

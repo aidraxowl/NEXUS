@@ -42,6 +42,8 @@ Le tort moral reste modeste en Suisse, quelques dizaines de milliers de francs a
 
 Le défunt lui-même n'est pas créancier. Ce sont ses proches qui agissent, chacun pour son propre dommage.
 
+**En contrat (V07).** L'art. 97 reprend la même notion. Selon la fiche, le dommage comprend la valeur de la prestation, les frais de l'inexécution et tout autre préjudice (*damnum emergens* et *lucrum cessans*). Voir [[Responsabilité contractuelle]].
+
 **Réduction pour faute du lésé (art. 44 al. 1).** Si le lésé a contribué au dommage, le juge réduit les dommages-intérêts, en pourcentage (10, 20, 30 %…). Le prof demande seulement de savoir que la règle existe.
 
 ## Exemples
@@ -59,10 +61,10 @@ Le défunt lui-même n'est pas créancier. Ce sont ses proches qui agissent, cha
 | Perte de soutien (45 al. 3) | Dommage des proches | Seulement si le défunt assumait vraiment leur entretien |
 
 ## Liens
-- **Thème :** [[Responsabilité civile]]
-- **Proche de :** [[Responsabilité pour faute]], [[Responsabilité causale]], [[Fardeau de la preuve]], [[Droit de la famille]]
+- **Thème :** [[Responsabilité civile]], [[Inexécution des obligations]]
+- **Proche de :** [[Responsabilité pour faute]], [[Responsabilité causale]], [[Fardeau de la preuve]], [[Droit de la famille]], [[Responsabilité contractuelle]]
 - **Cas :** [[Feu du 1er août]], [[Cheval ombrageux]]
-- **U-Fragen :** [[UF DC V03]], [[UF DC V04]]
+- **U-Fragen :** [[UF DC V03]], [[UF DC V04]], [[UF DC V07]]
 
 ## Questions de compréhension
 > [!question]- Définissez le dommage.

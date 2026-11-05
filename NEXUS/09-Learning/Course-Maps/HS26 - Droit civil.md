@@ -24,13 +24,17 @@ tags:
 | V02 | 28.09 | [[NB DC V02 - 20260928]] | [[UF DC V02]] | [[Droit des personnes, de la famille et des successions]] |
 | V03 | 05.10 | [[NB DC V03 - 20261005]] | [[UF DC V03]] | [[Responsabilité civile]] |
 | V04 | 12.10 | [[NB DC V04 - 20261012]] | [[UF DC V04]] | [[Responsabilité civile]] |
-| V05 | 19.10 | [[NB DC V05 - 20261019]] |  |  |
-| V07 | 02.11 | [[NB DC V07 - 20261102]] |  |  |
+| V05 | 19.10 | [[NB DC V05 - 20261019]] | [[UF DC V05]] | [[Responsabilité civile]], [[Conclusion du contrat]] |
+| V06 | 26.10 | [[NB DC V06 - 20261026]] | [[UF DC V06]] | [[Exécution du contrat et vente]] |
+| V07 | 02.11 | [[NB DC V07 - 20261102]] | [[UF DC V07]] | [[Inexécution des obligations]] |
 
 ## ⚠️ Infos
-- Traitement repris séance par séance à partir des transcriptions (V01 à V04 faites).
+- Traitement repris séance par séance à partir des transcriptions (V01 à V07 faites).
 
 ## Chapitres
 1. [[Sources du droit et organisation de l'État]]
 2. [[Droit des personnes, de la famille et des successions]]
 3. [[Responsabilité civile]]
+4. [[Conclusion du contrat]]
+5. [[Exécution du contrat et vente]]
+6. [[Inexécution des obligations]]

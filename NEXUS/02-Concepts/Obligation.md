@@ -48,7 +48,7 @@ Pour les créances de droit public, la loi spéciale prime, mais la partie gén�
 | Contrat ≠ acte illicite | Volonté commune ≠ fait dommageable | Ne pas dire qu'on « s'engage » à réparer : on est tenu par la loi (art. 41) |
 
 ## Liens
-- **Thème :** [[Responsabilité civile]]
+- **Thème :** [[Responsabilité civile]], [[Inexécution des obligations]]
 - **Proche de :** [[Responsabilité pour faute]], [[Personne physique et personne morale]], [[Systématique du Code civil et du Code des obligations]], [[Droit privé et droit public]]
 - **U-Fragen :** [[UF DC V03]]
 

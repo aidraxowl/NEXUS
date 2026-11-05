@@ -96,6 +96,17 @@ Cette page sert d'index de révision, pour les termes à mémoriser.
 | letztwillige Verfügung / Erbvertrag | testament / pacte successoral | [[Droit des successions]] |
 | Pflichtteil / verfügbarer Teil | réserve / quotité disponible | [[Droit des successions]] |
 | Erbengemeinschaft / Ausschlagung | communauté héréditaire (hoirie) / répudiation | [[Droit des successions]] |
+| Kausalhaftung | responsabilité causale (objective) | [[Responsabilité causale]] |
+| Halter / Eigentümer | détenteur / propriétaire | [[Responsabilité causale]] |
+| Spezialgesetz | loi spéciale | [[Responsabilité causale]] |
+| Vertrag / Vertragsschluss | contrat / conclusion du contrat | [[Contrat]] |
+| Antrag (Angebot, Offerte) / Annahme | offre / acceptation | [[Contrat]] |
+| wesentliche / Nebenpunkte | points essentiels / secondaires | [[Contrat]] |
+| Simulation | simulation | [[Contrat]] |
+| Formvorschrift, Schriftlichkeit, öffentliche Beurkundung | prescription de forme, forme écrite, acte authentique | [[Forme du contrat]] |
+| Nichtigkeit / Unmöglichkeit | nullité / impossibilité | [[Objet du contrat]] |
+| Irrtum / absichtliche Täuschung / gegründete Furcht | erreur / dol / crainte fondée | [[Vices du consentement]] |
+| Stellvertretung / Vollmacht | représentation / pouvoirs | [[Représentation en droit privé]] |
 | Institution / Occupation (I/O-Modell) | institution / occupation (modèle I/O) | [[Modèle institution-occupation]] |
 | Wehrpflicht / Berufung / Berufstätigkeit | obligation de servir / vocation / activité professionnelle | [[Modèle institution-occupation]] |
 | Sonderstellung der Streitkräfte | position particulière des forces armées | [[Modèle institution-occupation]] |
