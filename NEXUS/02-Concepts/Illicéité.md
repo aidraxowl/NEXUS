@@ -57,4 +57,4 @@ La fiche cite encore la sauvegarde de ses propres droits (art. 52). *Ajout :* l'
 ## Sources
 - Peter, cours du 05.10.2026 ; fiche *Les obligations nées des actes illicites* (HS26)
 - [[NB DC V03 - 20261005]]
-- Détail de l'art. 52 et distinction bien absolu / dommage purement économique : ajoutés par Claude
+

@@ -63,4 +63,4 @@ tags:
 ## Sources
 - Peter, *Aperçu du droit privé suisse* (fiche V02) ; cours du 28.09.2026
 - [[NB DC V02 - 20260928]], [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]], [[NB DC V05 - 20261019]], [[NB DC V07 - 20261102]]
-- Exemples art. 255 et art. 3 CC : ajoutés par Claude
+

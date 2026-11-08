@@ -69,4 +69,3 @@ L'art. 41 al. 1 a la structure typique d'une règle de droit : une série de con
 ## Sources
 - Peter, cours du 05.10.2026 ; fiche *Les obligations nées des actes illicites* (HS26)
 - [[NB DC V03 - 20261005]]
-- Présomption de faute à l'art. 97 : ajouté par Claude d'après le texte légal

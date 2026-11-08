@@ -31,7 +31,7 @@ tags:
 | Sinon | — | Représentant légal (parents, curateur) |
 
 - **Discernement** (art. 16) : faculté d'agir raisonnablement ; il est relatif (selon l'acte) et ne dépend pas d'un âge fixe.
-- Depuis le **1.1.2013** (droit de la protection de l'adulte), l'ancienne « interdiction » a disparu ; l'art. 17 exclut de l'exercice les incapables de discernement, les mineurs et les personnes sous **curatelle de portée générale** (ajouté par Claude, corrige la fiche).
+- Depuis le **1.1.2013** (droit de la protection de l'adulte), l'ancienne « interdiction » a disparu ; l'art. 17 exclut de l'exercice les incapables de discernement, les mineurs et les personnes sous **curatelle de portée générale**
 
 **Les autres éléments de la personne physique**
 | Art. | Notion | Contenu |
@@ -90,4 +90,4 @@ tags:
 ## Sources
 - Peter, *Personnes, famille, successions* (fiche V02, HS26)
 - [[NB DC V02 - 20260928]]
-- Art. 17, 21, 52 al. 2, 53 CC et tableau association/fondation : ajoutés par Claude, à vérifier dans l'édition
+

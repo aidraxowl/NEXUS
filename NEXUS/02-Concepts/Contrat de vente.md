@@ -84,4 +84,4 @@ Moyen mnémotechnique du prof : la mauvaise exécution en général, c'est l'art
 ## Sources
 - Peter, *Le contrat de vente (art. 184 ss CO)* (feuille V06, HS26) ; cours du 26.10.2026
 - [[NB DC V06 - 20261026]]
-- Art. 185 al. 2 (détail), 713 CC et tableau mobilière / immobilière : compléments de Claude, à vérifier dans l'édition
+- Art. 185 al. 2 (détail), 713 CC et tableau mobilière / immobilière : à vérifier dans l'édition

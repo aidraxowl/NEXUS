@@ -57,4 +57,4 @@ Il faut « une certaine intensité » de la causalité. C'est ce critère qui r�
 ## Sources
 - Peter, cours du 05.10.2026 ; fiche *Les obligations nées des actes illicites* (HS26)
 - [[NB DC V03 - 20261005]]
-- Interruption du lien de causalité : ajouté par Claude
+

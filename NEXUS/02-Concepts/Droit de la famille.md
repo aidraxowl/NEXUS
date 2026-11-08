@@ -40,7 +40,7 @@ tags:
 
 **La filiation**
 - Art. 252 ss : la filiation **maternelle** résulte de la naissance ; la filiation **paternelle** résulte du mariage avec la mère (**présomption**, art. 255), de la reconnaissance ou d'un jugement.
-- Art. 264 ss : **adoption** ; l'adoptant doit être plus âgé que l'enfant (différence d'âge d'au moins 16 ans, art. 264d : ajouté par Claude, à vérifier).
+- Art. 264 ss : **adoption** ; l'adoptant doit être plus âgé que l'enfant (différence d'âge d'au moins 16 ans, art. 264d : à vérifier).
 - Art. 276–277 : **entretien**. Jusqu'à la **majorité** (al. 1) ; au-delà, jusqu'à la fin d'une **formation appropriée** achevée dans les **délais normaux**, si on peut l'exiger des parents (al. 2).
 - Art. 296 ss : **autorité parentale**.
 
@@ -48,7 +48,7 @@ tags:
 - Mesures personnelles anticipées : **mandat pour cause d'inaptitude** (360 ss), directives anticipées (370 ss).
 - Mesures de plein droit : représentation par le conjoint (374 ss).
 - Mesures officielles : **curatelles** (390 ss : d'accompagnement, de représentation, de coopération, de portée générale), placement à des fins d'assistance (426 ss).
-- ⚠️ La fiche dit que la révision « a aboli les notions de tuteur et de curateur » : seule la **tutelle des adultes** a disparu, la **curatelle** demeure (ajouté par Claude).
+- ⚠️ La fiche dit que la révision « a aboli les notions de tuteur et de curateur » : seule la **tutelle des adultes** a disparu, la **curatelle** demeure.
 
 **Le nom** (art. 160) : depuis 2013, chacun garde son nom ; les fiancés peuvent choisir le nom de célibataire de l'un d'eux comme nom de famille. Révision « double nom » : adoptée le 20.3.2026, en vigueur le **1.1.2027** selon juriup.ch (à confirmer).
 
@@ -87,4 +87,4 @@ tags:
 - Peter, *Personnes, famille, successions* (fiche V02, HS26)
 - [[NB DC V02 - 20260928]]
 - [juriup.ch, « Le grand retour du double nom de famille en Suisse »](https://juriup.ch/actualite-juridique/le-grand-retour-du-double-nom-de-famille-en-suisse/)
-- Articles de détail (94, 97, 255, 264d, 296, 370 ss, 374, 426) : ajoutés par Claude, à vérifier dans l'édition
+- Articles de détail (94, 97, 255, 264d, 296, 370 ss, 374, 426) : à vérifier dans l'édition

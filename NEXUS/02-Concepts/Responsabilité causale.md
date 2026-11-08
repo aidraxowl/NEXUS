@@ -107,5 +107,5 @@ Pour l'armée, le schéma est celui de la responsabilité de l'État pour ses ag
 - Peter, cours du 12.10.2026 ; *Cas no 3* et *Cas no 4* (HS26) ; feuille *Responsabilité causale : illustrations*
 - Peter, cours du 19.10.2026 (lois spéciales, LCR, LAAM)
 - [[NB DC V04 - 20261012]], [[NB DC V05 - 20261019]]
-- Seconde branche de la preuve libératoire (« diligence qui n'eût pas empêché le dommage »), alinéas 2 sur le recours et art. 54 : ajoutés par Claude d'après le texte légal
-- Notion de détenteur (doctrine), art. 59 LCR et recours selon les art. 138 ss LAAM : ajouts de Claude, à vérifier dans l'édition
+
+

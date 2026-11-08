@@ -64,4 +64,4 @@ tags:
 ## Sources
 - Peter, *La conclusion des contrats* (feuille V05, HS26) ; cours du 19.10.2026
 - [[NB DC V05 - 20261019]]
-- Art. 24 et exemple militaire : ajoutés par Claude
+- Art. 24 et exemple militaire

@@ -72,4 +72,3 @@ Pour le cours, seule la représentation directe compte.
 ## Sources
 - Peter, *La conclusion des contrats* (feuille V05, HS26) ; cours du 19.10.2026
 - [[NB DC V05 - 20261019]]
-- Art. 33 al. 3 et 38, inopposabilité de la limite interne : ajoutés par Claude, à vérifier dans l'édition

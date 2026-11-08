@@ -69,4 +69,4 @@ L'art. 19 pose la **liberté contractuelle** : nous réglons nos contrats comme 
 ## Sources
 - Peter, *La conclusion des contrats* (feuille V05, HS26) ; cours du 19.10.2026
 - [[NB DC V05 - 20261019]]
-- Renvoi aux art. 97 ss et art. 20 al. 2 : ajoutés par Claude, à vérifier dans l'édition
+

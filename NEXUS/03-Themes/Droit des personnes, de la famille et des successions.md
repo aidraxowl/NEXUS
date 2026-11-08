@@ -10,7 +10,7 @@ tags:
 ---
 > [!abstract] L'essentiel
 > L'essentiel du droit privé suisse se trouve dans le Code civil, qui comprend un titre préliminaire (art. 1–10) et quatre livres (personnes, famille, successions, droits réels), et dans le Code des obligations, qui en est formellement le cinquième livre. Le titre préliminaire pose des principes valables partout, dont le fardeau de la preuve (art. 8) : celui qui affirme un droit prouve les faits dont il le déduit. Toute personne, physique ou morale, a la jouissance des droits civils (art. 11), mais seule la personne majeure et capable de discernement peut les exercer seule (art. 13). Le droit de la famille règle le mariage, institution civile, ses effets et régimes matrimoniaux, le divorce, la filiation et la protection de l'adulte. Le droit des successions transmet de plein droit le patrimoine aux héritiers, et la liberté de tester est limitée par les réserves des proches.
-> *(Rédigé par Claude.)*
+
 
 ^essentiel
 

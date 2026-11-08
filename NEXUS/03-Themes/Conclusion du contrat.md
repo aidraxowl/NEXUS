@@ -12,7 +12,7 @@ tags:
 ---
 > [!abstract] L'essentiel
 > Le contrat est la source d'obligations la plus fréquente : il naît quand deux parties manifestent, expressément ou tacitement, des volontés réciproques et concordantes (art. 1 CO). Il suffit qu'elles s'accordent sur les points essentiels, que l'on trouve dans le premier article de chaque contrat de la partie spéciale, comme la chose, la propriété et le prix pour la vente (art. 2 et 184). Pour savoir si un contrat est valablement conclu, on suit toujours la même grille, celle des notes marginales des art. 1 à 40 : conclusion, forme, interprétation, objet, vices du consentement, représentation, à quoi s'ajoute la capacité des parties (art. 11 ss CC). La forme est en principe libre ; la loi exige parfois un écrit signé ou un acte authentique, par exemple pour les immeubles (art. 657 CC). Un contrat dont l'objet est illicite, contraire aux mœurs ou objectivement impossible est nul, alors que la victime d'une erreur, d'un dol ou d'une crainte fondée peut seulement refuser de le maintenir dans l'année (art. 20, 23 ss, 31). Enfin, un représentant peut engager le représenté, y compris par des pouvoirs que celui-ci laisse paraître par son comportement, comme dans le cas du guide de montagne.
-> *(Rédigé par Claude, à remplacer par ta version si tu veux.)*
+
 
 ^essentiel
 
@@ -129,4 +129,4 @@ Le cas du [[Guide de montagne]] passe toute la grille. Un guide commande pour 20
 - Peter, *La conclusion des contrats* (feuille V05, HS26) ; *Cas no 5*
 - [[NB DC V05 - 20261019]]
 - *Le droit en moins de 300 pages* (Schulthess 2024), lecture recommandée
-- Tableaux des contrats spéciaux, art. 33 al. 3, 38 et 40a dans le tableau des articles : compléments de Claude, à vérifier dans l'édition
+- Tableaux des contrats spéciaux, art. 33 al. 3, 38 et 40a dans le tableau des articles

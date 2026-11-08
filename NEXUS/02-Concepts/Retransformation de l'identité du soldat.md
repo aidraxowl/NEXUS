@@ -27,7 +27,7 @@ tags:
   - Pointillé vertical : l'identité du soldat doit suivre vers la vocation.
   - Diagonale : ==idealtypische Identität==.
 - **Forces de cisaillement** (==Scherkräfte==) : « Abweichungen von der Diagonalen stellen Scherkräfte zwischen Streitkraft und Soldat dar, die primär durch Führungskräfte aufgefangen werden müssen. » Un point hors de la diagonale = une armée et un soldat qui ne se correspondent plus.
-- **Lecture du cas typique** (interprétation de Claude, à confirmer en cours) : l'organisation change d'abord ; si l'identité tarde, le point sort de la diagonale (armée « institution », soldat encore « job ») : c'est là que naît le cisaillement.
+- **Lecture du cas typique**: l'organisation change d'abord ; si l'identité tarde, le point sort de la diagonale (armée « institution », soldat encore « job ») : c'est là que naît le cisaillement.
 
 ```mermaid
 flowchart LR

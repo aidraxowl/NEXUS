@@ -66,4 +66,4 @@ Le prof en tire un conseil pratique : une bonne assurance responsabilité civile
 ## Sources
 - Peter, cours du 02.11.2026 ; fiche *L'inexécution des obligations : art. 97 ss CO* (HS26)
 - [[NB DC V07 - 20261102]]
-- « Faute hypothétique » et art. 101 al. 2–3 : ajoutés par Claude
+

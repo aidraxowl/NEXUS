@@ -71,4 +71,4 @@ La liberté de la forme est la règle : le contrat peut être oral, tacite ou r�
 ## Sources
 - Peter, *La conclusion des contrats* (feuille V05, HS26) ; cours du 19.10.2026
 - [[NB DC V05 - 20261019]]
-- Art. 11 al. 2 et 14 CO : ajoutés par Claude, à vérifier dans l'édition
+- Art. 11 al. 2 et 14 CO : à vérifier dans l'édition

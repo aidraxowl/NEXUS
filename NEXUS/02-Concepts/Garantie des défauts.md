@@ -72,4 +72,4 @@ tags:
 ## Sources
 - Peter, cours du 02.11.2026 ; feuille sur la vente (HS26)
 - [[NB DC V07 - 20261102]]
-- Art. 184 al. 2, 208 al. 2–3 et 714 CC : ajoutés par Claude d'après le texte légal
+- Art. 184 al. 2, 208 al. 2–3 et 714 CC : après le texte légal

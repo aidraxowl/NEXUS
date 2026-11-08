@@ -75,4 +75,4 @@ Le prof en tire une conséquence tactique. Celui qui réclame a intérêt à fai
 ## Sources
 - Peter, cours du 02.11.2026 ; fiche *L'inexécution des obligations : art. 97 ss CO* (HS26)
 - [[NB DC V07 - 20261102]]
-- Art. 248 al. 1 et 306 al. 3 : ajoutés par Claude d'après le texte légal, à vérifier dans ton édition
+

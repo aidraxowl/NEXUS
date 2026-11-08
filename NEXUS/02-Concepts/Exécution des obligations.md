@@ -51,7 +51,7 @@ Le lien avec la conclusion du contrat passe par l'art. 2 al. 1 : ce qui n'est pa
 
 **Personnel ou non : l'effet au décès.** Les dettes et les créances qui ne sont pas personnelles passent aux héritiers. Une obligation intimement liée à la personne, comme travailler, opérer ou couper les cheveux, ne passe pas.
 
-**Contrats synallagmatiques (art. 82–83).** La feuille les mentionne, le prof ne les a pas commentés. Dans un contrat où chaque partie doit une prestation à l'autre, celle qui réclame doit avoir exécuté ou offrir d'exécuter, sauf si le contrat lui permet d'attendre (art. 82, exceptio non adimpleti contractus). L'art. 83 règle le cas où l'autre partie devient insolvable. *Ajout :* résumé de Claude à partir du code, à vérifier dans l'édition.
+**Contrats synallagmatiques (art. 82–83).** La feuille les mentionne, le prof ne les a pas commentés. Dans un contrat où chaque partie doit une prestation à l'autre, celle qui réclame doit avoir exécuté ou offrir d'exécuter, sauf si le contrat lui permet d'attendre (art. 82, exceptio non adimpleti contractus). L'art. 83 règle le cas où l'autre partie devient insolvable.
 
 ## Exemples
 - **Militaire :** une commande de matériel avec un délai de livraison flou. « Immédiatement » ne veut rien dire pour un convoi lourd : il faut fixer une date et un lieu de livraison dans le contrat.
@@ -87,4 +87,4 @@ Le lien avec la conclusion du contrat passe par l'art. 2 al. 1 : ce qui n'est pa
 ## Sources
 - Peter, *L'exécution des obligations : art. 68 ss CO* (feuille V06, HS26) ; cours du 26.10.2026
 - [[NB DC V06 - 20261026]]
-- Art. 82–83 et 323 : compléments de Claude, à vérifier dans l'édition
+- Art. 82–83 et 323 : à vérifier dans l'édition

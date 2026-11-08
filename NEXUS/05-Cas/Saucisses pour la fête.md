@@ -81,4 +81,4 @@ tags:
 ## Sources
 - Peter, *Cas no 6* (HS26) ; variante a) discutée en cours le 26.10.2026
 - [[NB DC V06 - 20261026]]
-- Analyse des conditions générales : complément de Claude, à vérifier
+

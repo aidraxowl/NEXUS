@@ -12,7 +12,7 @@ tags:
 ---
 > [!abstract] L'essentiel
 > Quand une obligation contractuelle n'est pas exécutée ou l'est mal, le créancier garde son action en exécution et peut en plus réclamer des dommages-intérêts selon l'art. 97 al. 1 CO. Il faut quatre conditions : inexécution, dommage, causalité et faute, les deux dernières notions étant les mêmes qu'à l'art. 41. La différence avec l'acte illicite tient à la preuve : le créancier prouve le contrat, l'inexécution, le dommage et la causalité, puis c'est au débiteur de prouver qu'il n'a commis aucune faute. Le débiteur répond aussi de ses auxiliaires (art. 101) et ne peut pas se cacher derrière un fournisseur, contrairement à l'employeur de l'art. 55, qui se libère en prouvant qu'il a bien choisi, instruit et surveillé. Le retard a son propre régime, la demeure (art. 102 ss). Dans la vente, la garantie des défauts (art. 197 ss) permet de réduire le prix ou de résoudre le contrat sans aucune faute du vendeur, tandis que les dommages-intérêts restent soumis au principe de l'art. 97.
-> *(Rédigé par Claude, à remplacer par ta version.)*
+
 
 ^essentiel
 
@@ -119,4 +119,4 @@ Le cas termine la séance. X SA livre une marchandise incomplète et tachée d'u
 - Peter, fiche *L'inexécution des obligations : art. 97 ss CO* (HS26) ; feuille sur la vente et *Cas no 6* (HS26)
 - [[NB DC V07 - 20261102]]
 - *Le droit en moins de 300 pages* (Schulthess 2024), lecture recommandée
-- Art. 184 al. 2, 208 al. 2–3, 248 al. 1 CO et 714 CC : ajoutés par Claude d'après le texte légal
+

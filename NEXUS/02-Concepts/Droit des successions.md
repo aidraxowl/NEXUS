@@ -35,7 +35,7 @@ tags:
 | Conjoint / partenaire | **1/2** de sa part légale | 1/2 |
 | Père et mère | **aucune** | 1/2 |
 
-> [!info] Ajouté par Claude
+
 > La fiche ne mentionne pas la révision du droit successoral entrée en vigueur le **1.1.2023**. Exemple du prof (épouse + enfants) : part légale 1/2 chacun (art. 462) -> réserves 1/4 + 1/4 -> **quotité disponible 1/2**. Calcul à refaire soi-même avec l'édition.
 
 **Comment se fait la transmission ?**
@@ -77,4 +77,4 @@ tags:
 ## Sources
 - Peter, *Personnes, famille, successions* (fiche V02, HS26)
 - [[NB DC V02 - 20260928]]
-- Révision du droit successoral (1.1.2023), art. 462, 471, 512, 522, 573, 602 CC : ajoutés par Claude, à vérifier dans l'édition
+- Révision du droit successoral (1.1.2023), art. 462, 471, 512, 522, 573, 602 CC : à vérifier dans l'édition

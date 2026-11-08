@@ -70,4 +70,4 @@ tags:
 ## Sources
 - Peter, *Le droit : introduction* (fiche V01, HS26)
 - [[NB DC V01 - 20260921]]
-- Art. 6 CC : ajouté par Claude
+- Art. 6 CC

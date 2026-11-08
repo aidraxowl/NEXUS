@@ -89,4 +89,4 @@ Les points secondaires (emballage, moment de la livraison) peuvent être réglé
 ## Sources
 - Peter, *La conclusion des contrats* (feuille V05, HS26) ; cours du 19.10.2026
 - [[NB DC V05 - 20261019]], [[NB DC V06 - 20261026]]
-- Titres des contrats de la liste et tableau des qualifications : ajoutés par Claude, à vérifier dans l'édition
+- Titres des contrats de la liste et tableau des qualifications : à vérifier dans l'édition

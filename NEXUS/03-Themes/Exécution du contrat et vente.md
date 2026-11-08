@@ -10,7 +10,6 @@ tags:
 ---
 > [!abstract] L'essentiel
 > L'obligation naît pour être exécutée, et l'exécution est la principale façon de l'éteindre. Les art. 68 ss CO règlent qui exécute, où, quand et quoi, mais ce sont des règles de droit dispositif : elles ne s'appliquent que si les parties n'ont rien prévu (par ex. l'art. 74 al. 2 CO, dette portable pour une somme d'argent, quérable pour une obligation qui ne porte ni sur de l'argent ni sur une chose déterminée). Dans un contrat synallagmatique, une partie peut refuser d'exécuter tant que l'autre n'exécute pas ou n'offre pas de le faire (art. 82 CO). La vente (art. 184 ss CO) oblige le vendeur à livrer la chose et à en transférer la propriété, et l'acheteur à payer le prix ; quand la partie spéciale se tait, on applique la partie générale, d'où la règle du prof : toujours lire les deux ensemble. La conclusion du contrat ne transfère pas la propriété, qui ne passe qu'à l'exécution selon le CC (art. 714 CC pour les meubles, 656 CC pour les immeubles), alors que les profits et les risques passent en principe dès la conclusion (art. 185 CO). En cas de défaut, l'acheteur doit vérifier la chose et aviser le vendeur sans délai (art. 201 CO), sinon la chose est réputée acceptée et il perd la garantie (art. 197 ss CO).
-> *(Rédigé par Claude, à remplacer par ta version si tu veux.)*
 
 ^essentiel
 
@@ -105,4 +104,4 @@ Le cas des [[Saucisses pour la fête]] montre la méthode. La grille de la concl
 - Peter, *L'exécution des obligations : art. 68 ss CO* et *Le contrat de vente (art. 184 ss CO)* (feuilles V06, HS26) ; *Cas no 6*
 - [[NB DC V06 - 20261026]]
 - *Le droit en moins de 300 pages* (Schulthess 2024), lecture recommandée
-- Art. 82–83, 185 al. 2 (détail) et 714 CC dans les tableaux : compléments de Claude, à vérifier dans l'édition
+- Art. 82–83, 185 al. 2 (détail) et 714 CC dans les tableaux : à vérifier dans l'édition

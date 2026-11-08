@@ -23,7 +23,7 @@ tags:
 ## Explication
 **Le Code civil**
 - Œuvre d'**Eugène Huber** ; adopté en **1907**, en vigueur le **1.1.1912**.
-- Base constitutionnelle : le préambule renvoie à l'**art. 64** de l'ancienne Cst. de 1874 ; aujourd'hui, **art. 122 Cst.** (ajouté par Claude, voir [[Sources du droit et organisation de l'État]]).
+- Base constitutionnelle : le préambule renvoie à l'**art. 64** de l'ancienne Cst. de 1874 ; aujourd'hui, **art. 122 Cst.**, voir [[Sources du droit et organisation de l'État]]).
 - Subdivision : **livre -> titre -> chapitre** -> article (art.) -> alinéa (al.). La **note marginale**, en marge, résume l'article.
 
 | Partie | Articles | Contenu |
@@ -85,4 +85,4 @@ tags:
 ## Sources
 - Peter, *Aperçu du droit privé suisse : CC et CO* (fiche V02, HS26)
 - [[NB DC V02 - 20260928]]
-- Bornes d'articles du CO (parties 2 à 5) et art. 122 Cst. : ajoutés par Claude, à vérifier dans l'édition
+

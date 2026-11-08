@@ -76,4 +76,4 @@ tags:
 ## Sources
 - Peter, *Le droit : introduction* (fiche V01, HS26)
 - [[NB DC V01 - 20260921]]
-- Art. Cst. : ajoutés par Claude, à vérifier dans le code
+

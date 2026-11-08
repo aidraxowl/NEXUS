@@ -11,7 +11,6 @@ tags:
 ---
 > [!abstract] L'essentiel
 > Une obligation est un lien entre deux personnes qui donne à l'une une créance et à l'autre une dette ; le CO en connaît cinq sources : contrat, acte illicite, enrichissement illégitime, gestion d'affaires et loi. L'acte illicite (art. 41 ss CO) fait naître l'obligation de réparer sans aucune volonté commune, contrairement au contrat. Selon l'art. 41 al. 1, est tenu de réparer celui qui cause un dommage à autrui, de manière illicite, intentionnellement ou par négligence. Ces cinq conditions sont cumulatives et le lésé doit toutes les prouver (art. 8 CC, 42 CO). La causalité doit être adéquate, ce qui écarte les causes lointaines comme le vendeur d'allumettes. En cas de décès ou de lésions corporelles, le dommage se calcule selon les art. 45 à 47, avec renvoi au droit de la famille pour la perte de soutien. Les responsabilités causales (art. 55, 56, 58) dispensent le lésé de prouver la faute, et l'art. 58 ne laisse même aucune preuve libératoire ; des lois spéciales (LCR, LAAM) étendent ce régime aux dangers modernes. Devant plusieurs débiteurs, on choisit selon la preuve et la solvabilité.
-> *(Rédigé par Claude, à remplacer par ta version.)*
 
 ^essentiel
 

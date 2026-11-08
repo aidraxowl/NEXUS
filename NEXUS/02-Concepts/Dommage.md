@@ -79,4 +79,4 @@ Le défunt lui-même n'est pas créancier. Ce sont ses proches qui agissent, cha
 ## Sources
 - Peter, cours du 05.10.2026 ; fiche *Les obligations nées des actes illicites* (HS26)
 - [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]] ; *Cas no 2* (HS26)
-- Art. 49 (tort moral pour atteinte à la personnalité) : ajouté par Claude
+- Art. 49 (tort moral pour atteinte à la personnalité)

@@ -8,7 +8,7 @@ tags:
   - exam/basis-2027-b1
 ---
 > [!abstract] L'essentiel
-> *À rédiger toi-même (4–6 phrases) : hiérarchie des sources, qui fait quoi aux trois niveaux, critère droit privé / public. Envoie-le à Claude pour une correction de type « prof ».*
+>
 
 ^essentiel
 
@@ -60,7 +60,7 @@ Le droit international public règle les rapports entre États par la coutume et
 
 ### Articles à annoter
 > [!info] Pourquoi cette liste
-> Le prof n'a cité aucun article ce soir-là : la liste est **ajoutée par Claude** à partir de la matière du cours. Vérifie chaque numéro dans ton édition. Annote aussi la Cst. si le règlement l'admet à l'examen (l'examen combine droit civil et droit public).
+> Le prof n'a cité aucun article ce soir-là
 
 **CC**
 | Art. | Contenu | Annotation conseillée |

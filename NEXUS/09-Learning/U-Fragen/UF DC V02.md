@@ -12,7 +12,7 @@ tags:
 > [!tip]- Mode d'emploi
 > Lis la question, réponds de tête ou par écrit, puis déplie la réponse.
 > Ensuite, marque la question dans son titre : 🟢 su · 🟠 hésitant · 🔴 pas su
-> Pas d'U-Fragen du prof pour cette séance : questions rédigées par Claude au format de l'oral. **Retrouve chaque article dans ton code avant de déplier.**
+**Retrouve chaque article dans ton code avant de déplier.**
 
 ## Questions
 

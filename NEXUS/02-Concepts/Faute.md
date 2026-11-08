@@ -66,4 +66,4 @@ La faute suppose la **capacité de discernement** (art. 16 CC). L'incapable de d
 ## Sources
 - Peter, cours du 05.10.2026 ; fiche *Les obligations nées des actes illicites* (HS26)
 - [[NB DC V03 - 20261005]], [[NB DC V04 - 20261012]], [[NB DC V07 - 20261102]]
-- Degrés de faute et lien avec art. 43–44 : ajoutés par Claude
+
