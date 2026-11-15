@@ -11,7 +11,7 @@ tags:
 
 > [!info] Le cours
 > **Intitulé :** Militärpsychologie und -pädagogik
-> **Prof :** Dr. Nadine Eggimann Zanetti ; Dr. Jan Richner (V05)
+> **Prof :** Dr. Nadine Eggimann Zanetti ; Dr. Jan Richner (V05) ; Dr. Philippe Goldammer (V09)
 > **Langue :** allemand
 > **Examen :** examen de session, août 2027 · **Format :** écrit, 120 min, en langue maternelle ; contenu HS26 + semaine bloc + FS27, Intermezzi compris
 
@@ -45,6 +45,11 @@ mindmap
     Influence et désinformation
       Guerre cognitive
       Désinformation
+    Influence interpersonnelle et négociation
+      Modèle de la probabilité d'élaboration
+      Heuristique de la sympathie
+      Écoute active
+      Négociation distributive et intégrative
 ```
 
 ## Objectifs (Lernziele)
@@ -54,6 +59,7 @@ mindmap
 - Relier la flexibilité cognitive au principe d'engagement « flexibilité » (TF 17)
 - Définir la guerre cognitive, la situer par rapport à la guerre hybride et expliquer ses mécanismes (Leitfragen 3 et 4)
 - Expliquer les émotions du point de vue psychologique, analyser leur influence sur perception, pensée et action, et en tirer des implications pour l'instruction et l'engagement (V08)
+- Connaître le modèle cognitif de négociation, les cinq voies de la sympathie et les stratégies distributive et intégrative, et en tirer des conséquences pour la conduite (V09)
 
 ## Séances
 | # | Date | Vorlesung | Note brute | U-Fragen | Thème |
@@ -66,6 +72,7 @@ mindmap
 | V06 | 20.10 | Mémoire, pensée et jugement (Urteilen und Entscheiden) | [[NB MilPsy V06 - 20261020]] | [[UF MilPsy V06]] | [[Jugement et décision]] · [[Perception, attention et mémoire]] |
 | V07 | 27.10 | Intermezzo, phase Crosscheck | [[NB MilPsy V07 INTERMEZZO - 20261027]] |  |  |
 | V08 | 03.11 | Émotions (VL 7 de la prof) + Nachtrag dissonance et biais de correspondance | [[NB MilPsy V08 - 20261103]] | [[UF MilPsy V08]] | Émotions et capacité d'action (à créer) |
+| V09 | 10.11 | Interpersonelle Beeinflussung & Verhandeln (Goldammer) | [[NB MilPsy V09 - 20261110]] | [[UF MilPsy V09]] | [[Influence interpersonnelle et négociation]] |
 
 ## Chapitres (ordre du cours)
 1. [[Écoles de pensée en psychologie]] · V02–V03
@@ -73,10 +80,11 @@ mindmap
 3. [[Jugement et décision]] · V04, V06
 4. [[Pensée et action adaptatives]] · V05–V06
 5. [[Influence et désinformation]] · V03, V05
+6. [[Influence interpersonnelle et négociation]] · V09
 
 ## ⚠️ Infos examen
 - Écrit, 120 min, en **langue maternelle** ; août 2027 (Basisprüfung Block 2).
 - Trois niveaux : **Wissen** (nommer, définir) · **Verstehen** (expliquer, comparer, justifier) · **Anwenden** (appliquer à une situation militaire).
 - Les **Leitfragen** du cours servent de préparation ; celles de l'Allgemeine Psychologie (V06, F10) sont reprises dans [[UF MilPsy V06]].
 - **Intermezzo** : non noté, mais condition d'admission à l'examen (praxisbeispiel 11.10, Crosscheck 27.10, Kurzreflexion 16.11).
-- ?? À demander à la prof : l'effet d'ancrage est-il matière d'examen ? Leitfrage 5d (humaniste).
+- Effet d'ancrage : repris en V09 (négociation), donc matière d'examen. ?? Reste à demander : Leitfrage 5d (humaniste).

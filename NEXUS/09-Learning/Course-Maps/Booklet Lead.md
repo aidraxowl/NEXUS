@@ -56,3 +56,9 @@ tags:
 ## 8. Transformation de l'identité du soldat
 
 ![[Transformation de l'identité du soldat]]
+
+---
+
+## 9. Situation, contingence et complexité
+
+![[Situation, contingence et complexité]]

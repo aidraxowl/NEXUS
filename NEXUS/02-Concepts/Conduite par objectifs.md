@@ -21,6 +21,7 @@ tags:
 - Boyd : le « secret » du C2 allemand réside dans ce qui n'est **pas** dit : initiative du bas + intention du haut -> moins de friction, moins de temps, plus de vitesse **et** de sécurité.
 - Conditions : formation commune (orientation partagée), confiance, intention claire.
 - Lien V03 : préférée en guerre **dynamique** (manœuvre, guérilla) ; la guerre d'usure statique tend vers la conduite détaillée.
+- Comparaison avec la [[Théorie du leadership de la complexité]] (V09) : même rejet de la conduite détaillée rigide et même combinaison intention claire + liberté d'action locale. Mais dans l'Auftragstaktik le système formel (ordre, structure, doctrine) reste intact, alors que la CLT veut que l'expérience du terrain le transforme (recombinaison, nouvel ordre).
 - Suite au semestre de printemps (CA 25.05, LA 01.06).
 
 ## Exemples
@@ -40,13 +41,14 @@ tags:
 |---|---|---|
 | Conduite détaillée | Décisions explicites, contrôle serré | Auftragstaktik ≠ absence d'ordres : l'intention est explicite |
 | [[Management scientifique]] | Sépare planification et exécution | Opposé sur la question de la discrétion du subordonné |
+| [[Théorie du leadership de la complexité]] | Le terrain peut modifier le système formel | La CLT n'est pas une simple nouvelle étiquette pour l'Auftragstaktik |
 
 ## Liens
-- **Thème :** [[Boucle OODA et processus de conduite]] · [[Doctrine et formes de guerre]]
+- **Thème :** [[Boucle OODA et processus de conduite]] · [[Doctrine et formes de guerre]] · [[Situation, contingence et complexité]]
 - **Proche de :** [[Boucle OODA]] · [[Compréhension commune de la situation]] · [[Commandement]] · [[Doctrine]]
 - **Penseur :** [[John Boyd]]
 - **Cas :** [[Guerre du Kippour]] · [[Bataille de Trafalgar]]
-- **U-Fragen :** [[UF Lead V02]] · [[UF Lead V03]]
+- **U-Fragen :** [[UF Lead V02]] · [[UF Lead V03]] · [[UF Lead V09]]
 
 ## Questions de compréhension
 > [!question]- Que signifie « un minimum explicite, un maximum implicite » ?

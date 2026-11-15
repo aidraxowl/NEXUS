@@ -33,7 +33,7 @@ Sur le champ de bataille, un ordre ou une action peut heurter les valeurs person
 ## Juger vite : stéréotypes
 Le [[Stéréotype]] est une heuristique sur les groupes. Il filtre la perception, ce qui le rend résistant. Il peut naître d'une différence visible et ponctuelle : les femmes ne sont pas meilleures en multitâche, mais des observateurs les jugent plus à l'aise parce qu'elles gèrent mieux une tâche de conversation (Szameitat & Szameitat 2026). Selon la théorie de la **congruence des rôles** (Stöckli et al. 2019), un chef est jugé selon l'adéquation entre son rôle et le stéréotype de son genre : dans l'étude de Spacio (2018), la colère renforce la crédibilité d'un sergent-major homme et affaiblit celle d'une femme. Hartenbach (2017) montre aussi des stéréotypes entre armes.
 
-L'**effet d'ancrage** tire une estimation chiffrée vers un nombre entendu juste avant, même chez les experts. Il n'apparaît plus dans les jeux de slides récents (voir [[Heuristiques et biais]]).
+L'**effet d'ancrage** tire une estimation chiffrée vers un nombre entendu juste avant, même chez les experts. Il revient en V09, appliqué à la négociation (voir [[Heuristiques et biais]] et [[Influence interpersonnelle et négociation]]).
 
 ## Quand l'attente devient réalité
 La [[Prophétie autoréalisatrice]] (Merton) boucle la partie sur le jugement d'autrui. Un chef qui juge une recrue « faible » lui confie moins de responsabilités et lui donne moins de feedback ; elle stagne, et il conclut : « je le savais ». Le même mécanisme joue en positif, c'est l'effet Pygmalion (Rosenthal & Jacobson ; Eden en management) : la confiance accordée élève la performance.
@@ -61,7 +61,7 @@ Ces mêmes biais sont exploités par un adversaire : voir [[Influence et désinf
 - Les 3 façons de réduire la dissonance, et laquelle est la plus coûteuse ; les 3 phases de la dissonance au combat.
 - Études militaires suisses : Ryf, Spacio, Hartenbach, Stöckli (congruence des rôles).
 - Transferts : Nachbesprechung après une mauvaise décision (F31) ; agir conformément aux règles sous charge extrême (F52, Shields et Messervey).
-- Effet d'ancrage : ?? à confirmer avec la prof.
+- Effet d'ancrage : repris en V09 (négociation), donc matière d'examen.
 
 ### Questions de synthèse
 > [!question]- Un aspirant rate sa première présentation. Quels biais menacent votre évaluation, et que faites-vous ?
