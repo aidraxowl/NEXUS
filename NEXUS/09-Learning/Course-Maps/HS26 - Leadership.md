@@ -56,11 +56,6 @@ mindmap
       Modèle I/O
       Identité du soldat
       Retransformation
-    LS5 Situation et complexité
-      Théorie de la contingence
-      Modèle des liens multiples
-      Contexte extrême
-      Leadership de la complexité
 ```
 
 ## Objectifs (Lernziele)
@@ -71,7 +66,6 @@ mindmap
 - Décrire les styles de leadership positif et les approches relationnelles, avec leurs limites dans l'armée
 - Expliquer le leadership de groupe par l'identité sociale (SIT, SCT, LGP) et en connaître la face sombre
 - Dessiner et critiquer le modèle I/O de Moskos ; expliquer la retransformation des identités de soldat et le rôle des cadres face aux forces de cisaillement (déduit des slides V08, pas de Lernziele officiels)
-- Diagnostiquer une situation (Stewart, substituts, liens multiples), formuler le paradoxe des contextes extrêmes et le résoudre avec la CLT ; comparer CLT et conduite par objectifs (déduit des slides V09)
 - Objectif à 4 ans : savoir coacher un Cdt U
 
 ## Séances
@@ -85,7 +79,6 @@ mindmap
 | V06 | 20.10 | LS3 – Approches relationnelles, coaching, followership, LMX | [[NB Lead V06 - 20261020]] | [[UF Lead V06]] | [[Approches relationnelles du leadership]] |
 | V07 | 27.10 | LS4 – Team : identité sociale et prototypicalité du leader | [[NB Lead V07 - 20261027]] | [[UF Lead V07]] | [[Leadership et identité sociale]] |
 | V08 | 03.11 | Soldatische Identitäten – I/O-Modell, Identitäten, Rücktransformation | [[NB Lead V08 - 20261103]] | [[UF Lead V08]] | [[Transformation de l'identité du soldat]] |
-| V09 | 10.11 | LS5 – Situation, contingence, complexité (Demont-Biaggi) | [[NB Lead V09 - 20261110]] | [[UF Lead V09]] | [[Situation, contingence et complexité]] |
 
 ## Chapitres (ordre du cours)
 1. [[Modèle de référence de la conduite]] · V01
@@ -96,8 +89,7 @@ mindmap
 6. [[Approches relationnelles du leadership]] · V06
 7. [[Leadership et identité sociale]] · V07
 8. [[Transformation de l'identité du soldat]] · V08
-9. [[Situation, contingence et complexité]] · V09
 
 ## ⚠️ Infos examen
 - Lecture A = préparation du cours ; lecture B = préparation de l'examen.
-- À venir : CR « operational reliability » (01.12) ; LR « Positive Leadership – fatally flawed » (08.12) ; conduite par objectifs au printemps (CA 25.05, LA 01.06).
+- À venir : LS5 (organisation et situation, contingence) ; CR « operational reliability » (01.12) ; LR « Positive Leadership – fatally flawed » (08.12) ; conduite par objectifs au printemps (CA 25.05, LA 01.06).

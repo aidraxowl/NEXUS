@@ -6,8 +6,6 @@ aliases:
 tags:
   - type/concept
   - cours/pw
-  - cours/vwl
-  - exam/basis-2027-b2
 ---
 
 > [!abstract] L'essentiel
@@ -27,10 +25,6 @@ tags:
 - Une société peut décider **politiquement** dans quelle catégorie elle range un bien.
 - Non-exclusion -> chacun peut profiter sans contribuer -> problème de l'[[Action collective]] (free riding).
 
-### Bien public et défaillance du marché (VWL, V09)
-- Une des six raisons de [[Défaillance du marché]] : le marché privé n'offre pas ces biens, ou en quantité insuffisante (exemples du cours : défense nationale, phares, air, médecine préventive).
-- Raison : comme personne ne peut être exclu, personne n'est prêt à payer -> aucune entreprise ne peut se financer en les vendant. Développé en V13.
-
 ### Biens publics et type de régime (Kap. 3)
 - Coût d'un bien public : à peu près fixe, quel que soit le nombre de bénéficiaires.
 - Coût des biens privés : croît avec le nombre de bénéficiaires.
@@ -49,9 +43,9 @@ tags:
 | Bien de club (Klubgut) | Exclusif mais non rival | Forme des incitations sélectives |
 
 ## Liens
-- **Thème :** [[Démocratie et autocratie]], [[Groupes d'intérêt et mouvements sociaux]], [[Interventions sur les marchés]]
-- **Proche de :** [[Défaillance du marché]], [[Action collective]], [[Électeur médian]], [[Théorie du sélectorat]]
-- **U-Fragen :** [[UF PW V03]], [[UF PW V07]], [[UF VWL V09]]
+- **Thème :** [[Démocratie et autocratie]], [[Groupes d'intérêt et mouvements sociaux]]
+- **Proche de :** [[Action collective]], [[Électeur médian]], [[Théorie du sélectorat]]
+- **U-Fragen :** [[UF PW V03]], [[UF PW V07]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi un dirigeant qui dépend d'une majorité préfère-t-il les biens publics ?
@@ -60,4 +54,3 @@ tags:
 ## Sources
 - Bernauer et al. 2025 (Kap. 3.5, 8.1.3)
 - [[NB PW V07 - 20261102]]
-- [[NB VWL V09 - 20261112]] ; Mankiw/Taylor, *Grundzüge der VWL*, 9e éd., chap. 9

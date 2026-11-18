@@ -56,9 +56,3 @@ tags:
 ## 8. Entreprise en concurrence parfaite
 
 ![[Entreprise en concurrence parfaite]]
-
----
-
-## 9. Interventions sur les marchés
-
-![[Interventions sur les marchés]]

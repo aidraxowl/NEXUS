@@ -48,12 +48,6 @@ mindmap
       Bureaucratie
       Formel et informel
       Exit, voice et loyauté
-    Liberté et sécurité
-      Objectif et subjectif
-      Danger, risque, menace
-      Concept élargi de sécurité
-      Liberté négative et positive
-      Opinion suisse depuis 2022
 ```
 
 ## Objectifs (Lernziele)
@@ -63,7 +57,6 @@ mindmap
 - Connaître les principales théories de l'inégalité sociale
 - Distinguer institution et organisation ; décrire l'évolution des grandes institutions en Suisse
 - Expliquer pourquoi les organisations existent, comment on les classe, comment elles sont structurées et quels problèmes elles rencontrent
-- Définir sécurité et liberté, expliquer leur tension et le changement du concept de sécurité ; connaître l'effet de la guerre en Ukraine sur l'opinion suisse
 - Fil rouge : chaque changement de la société → conséquences pour l'organisation militaire
 
 ## Séances
@@ -75,7 +68,6 @@ mindmap
 | V04 | 12.10 | Strukturen der Gesellschaft | [[NB MilSoz V04 - 20261012]] | [[UF MilSoz V04]] | — (hors Prüfungshinweis) |
 | V05 | 19.10 | Institutionen der Gesellschaft | [[NB MilSoz V05 - 20261019]] | [[UF MilSoz V05]] | [[Institutions de la société]] |
 | V06 | 26.10 | Organisationen | [[NB MilSoz V06 - 20261026]] | [[UF MilSoz V06]] | [[Sociologie des organisations]] |
-| V08 | 09.11 | Freiheit vs Sicherheit / Bevölkerungsmeinung zum Krieg in der Ukraine | [[NB MilSoz V08 - 20261109]] | [[UF MilSoz V08]] | à rédiger |
 
 ## Chapitres (ordre du cours)
 1. [[Notions de base de la sociologie]] · V01
@@ -92,4 +84,3 @@ mindmap
 - V04 (Strukturen der Gesellschaft) : pas une question à part entière, mais utile pour argumenter (statut, prestige de l'officier, habitus).
 - V05 : la distinction **institution ≠ organisation** prépare V11 (*Militär : Institution und Organisation*).
 - V06 : séance du responsable du cours ; typologie d'Etzioni, structure, bureaucratie, formel/informel, exit/voice → base de la question « l'armée, une organisation comme les autres ? ».
-- V08 : pas citée par nom dans le Prüfungshinweis, mais examinable (« gesamte Stoff », lectures comprises). Slide 76 du prof = liste de ce qu'il faut savoir.

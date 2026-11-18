@@ -12,7 +12,7 @@ tags:
 
 > [!info] Le cours
 > **Intitulé :** Volkswirtschaftslehre I – Mikroökonomie
-> **Prof :** Dr. Matthias Gysler (V06), Dr. Aurelio Fetz (V07–V09) ; autres séances à compléter
+> **Prof :** Dr. Matthias Gysler (V06), Dr. Aurelio Fetz (V07, V08) ; autres séances à compléter
 > **Langue :** allemand
 > **Examen :** Basisprüfung, août 2027, combiné avec la Makroökonomie (FS27) · **Format :** écrit ; 3 tests pendant le semestre (QCM + exercices rédigés)
 > **Manuel :** Mankiw/Taylor, *Grundzüge der VWL*, 9e éd.
@@ -56,11 +56,6 @@ mindmap
       Maximisation du profit
       Fermeture et sortie du marché
       Condition de profit nul
-    Interventions
-      Contrôle des prix
-      Incidence fiscale
-      Perte sèche
-      Subvention
 ```
 
 ## Objectifs (Lernziele)
@@ -78,7 +73,7 @@ mindmap
 | V06 | 22.10 | Konsumenten, Produzenten und die Effizienz von Märkten (chap. 7) | [[NB VWL V06 - 20261022]] | [[UF VWL V06]] | [[Efficacité des marchés]] |
 | V07 | 29.10 | Produktion und Kosten (chap. 5) | [[NB VWL V07 - 20261029]] | [[UF VWL V07]] | [[Production et coûts]] |
 | V08 | 05.11 | Unternehmungen in Märkten mit Wettbewerb (chap. 6) | [[NB VWL V08 - 20261105]] | [[UF VWL V08]] | [[Entreprise en concurrence parfaite]] |
-| V09 | 12.11 | Markteingriffe (chap. 8) · Test 2 | [[NB VWL V09 - 20261112]] | [[UF VWL V09]] | [[Interventions sur les marchés]] |
+| V09 | 12.11 | Interventions sur les marchés (chap. 8) · Test 2 |  |  |  |
 | V10 | 19.11 | Monopole (chap. 11, 14) |  |  |  |
 | V11 | 26.11 | Concurrence monopolistique, oligopole (chap. 12, 13) |  |  |  |
 | V12 | 03.12 | Théorie des jeux (chap. 13) |  |  |  |
@@ -94,7 +89,6 @@ mindmap
 6. [[Efficacité des marchés]] · V06
 7. [[Production et coûts]] · V07
 8. [[Entreprise en concurrence parfaite]] · V08
-9. [[Interventions sur les marchés]] · V09
 
 ## ⚠️ Infos examen
 - **3 tests écrits** pendant le semestre : V05 (15.10), V09 (12.11), V13 (10.12).

@@ -29,19 +29,6 @@ Cette page sert d'index de révision, pour les termes à mémoriser.
 | Grenzkosten (GK) | coût marginal | [[Courbes de coûts]] |
 | Betriebsoptimum | optimum d'exploitation | [[Courbes de coûts]] |
 | Skalenerträge | rendements d'échelle | [[Rendements d'échelle]] |
-| Marktversagen | défaillance du marché | [[Défaillance du marché]] |
-| Adverse Selection / Moral Hazard | sélection adverse / aléa moral | [[Défaillance du marché]] |
-| meritorische Güter | biens méritoires | [[Défaillance du marché]] |
-| Höchstpreis / Mindestpreis | prix plafond / prix plancher | [[Contrôle des prix]] |
-| bindend / nicht bindend | contraignant / non contraignant | [[Contrôle des prix]] |
-| Mangelwirtschaft, Nachfragelücke | économie de pénurie, pénurie | [[Contrôle des prix]] |
-| Rationierung | rationnement | [[Contrôle des prix]] |
-| Mindestlohn | salaire minimum | [[Contrôle des prix]] |
-| Steuerinzidenz, Steuerlast | incidence fiscale, charge fiscale | [[Incidence fiscale]] |
-| Keil (Steuerkeil) | coin fiscal | [[Incidence fiscale]] |
-| Wohlfahrtsverlust, Nettowohlfahrtsverlust | perte sèche | [[Perte sèche]] |
-| Steuereinnahmen / Steueraufkommen | recettes fiscales | [[Perte sèche]] |
-| Subvention, Überproduktion | subvention, surproduction | [[Subvention]] |
 | Sportbegriff | notion de sport | [[Sport]] |
 | Ursprünge des Sports | origines du sport | [[Origines du sport]] |
 | Gottesurteil | ordalie | [[Origines du sport]] |
@@ -145,11 +132,6 @@ Cette page sert d'index de révision, pour les termes à mémoriser.
 | marginal cost | coût marginal | [[Courbes de coûts]] |
 | efficient scale | optimum d'exploitation | [[Courbes de coûts]] |
 | economies of scale | économies d'échelle | [[Rendements d'échelle]] |
-| market failure | défaillance du marché | [[Défaillance du marché]] |
-| price ceiling / price floor | prix plafond / prix plancher | [[Contrôle des prix]] |
-| tax incidence, tax wedge | incidence fiscale, coin fiscal | [[Incidence fiscale]] |
-| deadweight loss | perte sèche | [[Perte sèche]] |
-| subsidy | subvention | [[Subvention]] |
 | public good / club good / common-pool resource | bien public / de club / commun | [[Bien public]] |
 | collective action, free riding | action collective, free riding | [[Action collective]] |
 | selective incentives | incitations sélectives | [[Action collective]] |

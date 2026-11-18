@@ -38,9 +38,3 @@ tags:
 ## 5. Influence et désinformation
 
 ![[Influence et désinformation]]
-
----
-
-## 6. Influence interpersonnelle et négociation
-
-![[Influence interpersonnelle et négociation]]
