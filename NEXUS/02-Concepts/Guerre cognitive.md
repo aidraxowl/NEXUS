@@ -3,7 +3,6 @@ title: "Guerre cognitive"
 aliases:
   - Kognitive Kriegsführung
   - Cognitive warfare
-  - Beeinflussungsaktivitäten und Desinformation
   - Guerre hybride
   - Hybride Kriegsführung
   - Hybrid warfare

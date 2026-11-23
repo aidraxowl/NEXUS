@@ -28,8 +28,9 @@ tags:
 6. [[Efficacité des marchés]]
 7. [[Production et coûts]]
 8. [[Entreprise en concurrence parfaite]]
+9. [[Interventions sur les marchés]]
 
-**U-Fragen :** [[UF VWL V01|V01]] · [[UF VWL V02|V02]] · [[UF VWL V03|V03]] · [[UF VWL V04|V04]] · [[UF VWL V05|V05]] · [[UF VWL V06|V06]] · [[UF VWL V07|V07]] · [[UF VWL V08|V08]]
+**U-Fragen :** [[UF VWL V01|V01]] · [[UF VWL V02|V02]] · [[UF VWL V03|V03]] · [[UF VWL V04|V04]] · [[UF VWL V05|V05]] · [[UF VWL V06|V06]] · [[UF VWL V07|V07]] · [[UF VWL V08|V08]] · [[UF VWL V09|V09]]
 
 ## Geschichte I & II
 
@@ -39,8 +40,12 @@ tags:
 1. [[Grande-Bretagne dans le monde]]
 2. [[Idéologies dominantes en Grande-Bretagne]]
 3. [[Industrialisation de la Grande-Bretagne]]
+4. [[Pauvreté, prison et police en Grande-Bretagne]]
+5. [[Empire et société britannique]]
+6. [[Genre et sexualité dans la Grande-Bretagne victorienne]]
+7. [[Classes et culture de masse en Grande-Bretagne]]
 
-**U-Fragen :** [[UF Gesch V01|V01]] · [[UF Gesch V02|V02]] · [[UF Gesch V03|V03]]
+**U-Fragen :** [[UF Gesch V01|V01]] · [[UF Gesch V02|V02]] · [[UF Gesch V03|V03]] · [[UF Gesch V06|V06]] · [[UF Gesch V07|V07]] · [[UF Gesch V08|V08]] · [[UF Gesch V09|V09]]
 
 ## Militärpsychologie und -pädagogik I & II
 
@@ -52,8 +57,10 @@ tags:
 3. [[Jugement et décision]]
 4. [[Pensée et action adaptatives]]
 5. [[Influence et désinformation]]
+6. [[Influence interpersonnelle et négociation]]
+7. [[Personnalité et diagnostic]]
 
-**U-Fragen :** [[UF MilPsy V02|V02]] · [[UF MilPsy V03|V03]] · [[UF MilPsy V04|V04]] · [[UF MilPsy V05|V05]] · [[UF MilPsy V06|V06]] · [[UF MilPsy V08|V08]]
+**U-Fragen :** [[UF MilPsy V02|V02]] · [[UF MilPsy V03|V03]] · [[UF MilPsy V04|V04]] · [[UF MilPsy V05|V05]] · [[UF MilPsy V06|V06]] · [[UF MilPsy V08|V08]] · [[UF MilPsy V09|V09]] · [[UF MilPsy V10|V10]]
 
 ## Tout ce qui est tagué pour ce bloc
 

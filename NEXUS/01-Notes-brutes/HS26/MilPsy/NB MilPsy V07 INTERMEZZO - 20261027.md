@@ -5,7 +5,6 @@ tags:
   - sem/hs26
   - cours/milpsy
 date: 2026-10-27
-statut: brouillon
 script: ""
 lecture: ""
 ---

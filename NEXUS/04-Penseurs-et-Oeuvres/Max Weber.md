@@ -40,6 +40,7 @@ dates: "1864–1920"
 - **Traditionnelle :** Fondée sur la croyance au caractère sacré des traditions anciennes (« il en a toujours été ainsi »).
 - **Charismatique :** Repose sur la dévotion à une personne perçue comme exceptionnelle. Ce type de leadership est instable et tend inévitablement à se routiniser.
 - **Légale-rationnelle :** Fondée sur la légalité des règles et le droit de donner des ordres conféré par la fonction (statuts).
+- **Pouvoir et domination (MilSoz V09-V10) :** [[Pouvoir]] = toute chance d'imposer sa volonté dans une relation sociale, même contre une résistance ; [[Domination]] = pouvoir reconnu et obéi. Le cours de sociologie militaire définit le militaire à partir de cette définition du pouvoir ; le [[Monopole de la violence]] fait de l'armée l'instrument de la domination étatique.
 
 #### 3. Modèle bureaucratique
 - **Bureaucratie idéale :** Rôles spécialisés, hiérarchie explicite, recrutement et avancement au mérite, structure de carrière, règles strictes et autorité impersonnelle attachée à la fonction.
@@ -67,7 +68,7 @@ dates: "1864–1920"
 ---
 
 ### Liens & Réseau conceptuel
-- **Thèmes :** [[Politique, État et science politique]] • [[Processus de recherche empirico-analytique]] • [[Histoire des théories du leadership]] • [[Styles de leadership positif]] • [[Sociologie des organisations]]
+- **Thèmes :** [[Politique, État et science politique]] • [[Processus de recherche empirico-analytique]] • [[Histoire des théories du leadership]] • [[Styles de leadership positif]] • [[Sociologie des organisations]] • [[Fondements de la sociologie militaire]] • [[Pouvoir, domination et violence]]
 - **Proche de :** [[Herméneutique]] • Frederick W. Taylor • Henri Fayol
 
 ---

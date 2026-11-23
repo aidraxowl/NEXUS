@@ -13,7 +13,7 @@ lieu: "Suisse"
 > [!abstract] L'essentiel
 > **Quoi :** Le parti catholique-conservateur (KKP, puis CVP) s'ouvre programmatiquement à partir des années 1980 puis fusionne avec le PBD en 2021 pour devenir Die Mitte.
 > **Leçon principale :** Quand le milieu social d'origine s'érode, un parti de clivage devient attrape-tout pour survivre, au prix de son profil.
-> **Illustre :** [[Types de partis|Parti attrape-tout]]
+> **Illustre :** [[Types de partis\|Parti attrape-tout]]
 
 ^essentiel
 
@@ -40,7 +40,7 @@ lieu: "Suisse"
 | Concept | Comment il éclaire le cas |
 |---|---|
 | [[Clivage]] | Parti issu des clivages Église-État et centre-périphérie ; la sécularisation affaiblit l'identité collective |
-| [[Types de partis|Parti attrape-tout]] | Ouverture aux cantons réformés, programme centriste (économie sociale de marché, développement durable, famille) |
+| [[Types de partis\|Parti attrape-tout]] | Ouverture aux cantons réformés, programme centriste (économie sociale de marché, développement durable, famille) |
 | [[Électeur médian]] | Repositionnement au centre pour maximiser les voix |
 | [[Système de partis]] | Composante de la formule magique, stabilise le pluralisme modéré suisse |
 

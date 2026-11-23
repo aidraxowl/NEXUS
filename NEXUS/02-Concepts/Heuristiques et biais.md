@@ -11,7 +11,7 @@ aliases:
   - Effet d'ancrage
   - Ankereffekt
   - Cadrage
-  - Framing
+  - Framing-Effekt
 tags:
   - type/concept
   - cours/milpsy
@@ -35,7 +35,7 @@ tags:
 - Une estimation chiffrée est tirée, sans qu'on le remarque, vers un nombre donné juste avant.
 - **Northcraft & Neale 1987 :** profanes et agents immobiliers estiment plus haut le prix d'une maison quand le prix demandé est plus élevé.
 - **Sondage du cours (îles du Japon) :** ancre 100 -> moyenne 189 ; ancre 1 000 -> 1 366 ; réel 6 852.
-- **Négociation :** le résultat corrèle avec la première offre (celui qui ouvre est avantagé) ; une offre précise (CHF 39.50) ancre plus qu'un chiffre rond.
+- **Négociation :** le résultat corrèle avec la première offre ; une offre précise (CHF 39.50) ancre plus qu'un chiffre rond. Repris en V09 (Goldammer) : acheteur qui ouvre à 5 000, contre-offre à 6 000, accord à 5 500 (Galinsky & Mussweiler 2001) ; ouvrir n'est avantageux que si l'information est égale. Voir [[Négociation distributive et intégrative]].
 
 ### En politique : traitement heuristique (PW, Kap. 6)
 - **Systématique** (traiter toute l'information disponible, exigeant) ≠ heuristique (Popkin 1991) : raccourcis (*shortcuts*), signaux (*cues*) pour compenser une connaissance politique incomplète (Downs : on décide avec une information incomplète).
@@ -49,7 +49,8 @@ tags:
 
 ### Sous stress (Fazit V06)
 - Les heuristiques sont fonctionnelles au quotidien, mais mènent à des erreurs **surtout sous stress** : le stress aigu réduit la mémoire de travail et la flexibilité, et donne plus de poids aux processus automatiques ([[Stress aigu]]).
-- ?? L'effet d'ancrage n'apparaît ni dans le jeu révisé de la V04 ni en V06 : à confirmer comme matière d'examen.
+- L'effet d'ancrage, absent des slides de la V04 révisée et de la V06, revient en V09 (négociation) : à traiter comme matière d'examen.
+- Le [[Modèle de la probabilité d'élaboration]] précise **quand** on recourt aux heuristiques : dès que la motivation ou la capacité manque.
 
 ### Autres formes vues au cours
 - [[Stéréotype]] (heuristique sur les groupes) ; [[Attribution causale|biais de correspondance]] ; [[Automatisation]] (routine de décision).
@@ -73,9 +74,9 @@ tags:
 | Cadrage | Mêmes faits, autres mots | ≠ mensonge (≠ [[Désinformation]]) |
 
 ## Liens
-- **Thème :** [[Jugement et décision]] · [[Influence et désinformation]] · [[Attitudes et comportement politiques]]
+- **Thème :** [[Jugement et décision]] · [[Influence et désinformation]] · [[Influence interpersonnelle et négociation]] · [[Attitudes et comportement politiques]]
 - **Proche de :** [[Stéréotype]], [[Automatisation]], [[Désinformation]], [[Mémoire]], [[Perception]], [[Stress aigu]]
-- **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V05]] · [[UF MilPsy V06]] · [[UF PW V05]]
+- **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V05]] · [[UF MilPsy V06]] · [[UF MilPsy V09]] · [[UF PW V05]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi les heuristiques sont-elles nécessaires, et pourquoi dangereuses ?
@@ -85,4 +86,4 @@ tags:
 > Faire estimer chacun indépendamment avant toute discussion, ou générer volontairement des contre-ancres.
 
 ## Sources
-- [[NB MilPsy V04 - 20261006]] · [[NB MilPsy V05 - 20261013]] · [[NB MilPsy V06 - 20261020]] · [[NB PW V05 - 20261019]] · Bernauer et al. 2025 (Kap. 6.4.2)
+- [[NB MilPsy V04 - 20261006]] · [[NB MilPsy V05 - 20261013]] · [[NB MilPsy V06 - 20261020]] · [[NB MilPsy V09 - 20261110]] · [[NB PW V05 - 20261019]] · Bernauer et al. 2025 (Kap. 6.4.2)

@@ -32,6 +32,12 @@ tags:
 - **Formes militaires** : fondé sur les valeurs ; Mission Command followership (unité d'effort, liberté d'action, confiance, compréhension mutuelle, décisions rapides) ; servant followership.
 - **Responsabilité de contester** : feedback apprécié -> contestation responsable -> désobéissance intelligente (impact et courage croissants).
 - Règles de Meilinger : soutenir en public, contester en privé, prendre l'initiative, dire la vérité, informer le chef…
+- **Co-construction et limite de la « thèse de compensation »** (V09, Uhl-Bien 2021) :
+  - Selon la logique des substituts ([[Théorie de la contingence]]), d'excellents subordonnés peuvent compenser un chef faible, aussi par le leading up.
+  - Uhl-Bien : la conduite naît des revendications du chef (leader claims) et de ce que les suiveurs lui accordent (follower grants) ; dans une vraie crise, il n'y a pas de compensation neutre.
+  - Un chef dépassé impose une order response et bloque l'espace adaptatif ; sous forte incertitude, les suiveurs peuvent entrer dans son jeu destructeur pour gagner identité et fausse sécurité (toxic illusio).
+  - Le « compensateur » qui se tait ou reste en poste pour éviter le pire stabilise et légitime le pouvoir du chef (cas Birx et Newland).
+  - Risque inverse : le non-followership, quand les subordonnés refusent l'adaptation par peur du changement.
 
 ## Exemples
 - **Militaire :** Rapport Brereton (followership complice) ≠ Tom Clonan (contestation au prix de sa carrière).
@@ -50,18 +56,23 @@ tags:
 | Béni-oui-oui | Actifs mais non critiques | Ne pas confondre engagement et followership efficace |
 | Aliénés | Critiques mais passifs | La critique sans engagement n'est pas efficace |
 | [[Triangle toxique]] | Followers complices ou conformistes | Les followers co-produisent la dérive |
+| Substituts du leadership | Excellents subordonnés qui compensent le chef | Ne vaut pas dans une vraie crise du système (Uhl-Bien) |
 
 ## Liens
-- **Thème :** [[Approches relationnelles du leadership]]
-- **Proche de :** [[Triangle toxique]] · [[Leadership relationnel]] · [[Conduite par objectifs]] · [[Leadership positif]]
-- **Penseur :** Robert Kelley · Ira Chaleff · Abraham Zaleznik
+- **Thème :** [[Approches relationnelles du leadership]] · [[Situation, contingence et complexité]]
+- **Proche de :** [[Triangle toxique]] · [[Leadership relationnel]] · [[Conduite par objectifs]] · [[Leadership positif]] · [[Théorie du leadership de la complexité]]
+- **Penseur :** Robert Kelley · Ira Chaleff · Abraham Zaleznik · [[Mary Uhl-Bien]]
 - **Cas :** [[Rapport Brereton]] · [[Affaire Clonan dans l'armée irlandaise]]
-- **U-Fragen :** [[UF Lead V06]]
+- **U-Fragen :** [[UF Lead V06]] · [[UF Lead V09]]
 
 ## Questions de compréhension
 > [!question]- Quelles sont les deux dimensions du modèle de Kelley ?
 > Pensée critique et indépendante vs dépendante et non critique ; comportement actif vs passif.
 
+> [!question]- Pourquoi, selon Uhl-Bien, de bons subordonnés ne compensent-ils pas un chef défaillant en crise ?
+> Parce que la conduite est co-construite : en restant loyaux ou silencieux, ils accordent au chef sa légitimité (follower grants) et stabilisent son order response au lieu de la corriger.
+
 ## Sources
 - Kelley 1988
 - Chaleff 1995
+- Uhl-Bien (2021)

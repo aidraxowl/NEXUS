@@ -34,6 +34,8 @@ Les [[Jeux olympiques de Berlin 1936]], attribués à la république de Weimar, 
 
 En Suisse, la subvention à la délégation est d'abord refusée par le Conseil national, puis accordée sous la pression du Conseil fédéral, de la presse et des intérêts touristiques. Le comité olympique suisse invoque un sport neutre ; Georg Miez, champion au sol, refuse pourtant le salut hitlérien.
 
+La suite de l'histoire olympique, de la guerre froide à la crise actuelle, se trouve dans [[Jeux olympiques contemporains]].
+
 ---
 
 ## Pour réviser

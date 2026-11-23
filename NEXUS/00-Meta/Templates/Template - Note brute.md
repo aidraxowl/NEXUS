@@ -5,7 +5,6 @@ tags:
   - cours/
   - sem/hs26
 date: "{{date:YYYY-MM-DD}}"
-statut: brouillon
 script: ""
 lecture: ""
 ---

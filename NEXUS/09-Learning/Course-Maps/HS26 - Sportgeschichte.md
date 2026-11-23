@@ -33,7 +33,25 @@ mindmap
       Périodisation des Jeux olympiques
       Pierre de Coubertin
       Berlin 1936
-    Turnen et politique du sport
+    Jeux olympiques contemporains
+      Charte olympique
+      Commercialisation
+      Boycott olympique
+      Neutralité politique du sport
+      Femmes aux JO
+      Beijing 2008 et 2022
+      Sotchi 2014
+    Turnen et politique du sport en Suisse
+      Turnen
+      Friedrich Ludwig Jahn
+      Éducation physique des Lumières
+      Adolf Spiess
+      Obligatoire du sport scolaire
+      Instruction préparatoire
+    Sport en RDA
+      Culture physique socialiste
+      Dopage
+      Procès Ewald-Höppner
     Mouvement sportif
 ```
 
@@ -52,10 +70,10 @@ mindmap
 | V03 | 08.10 | Idéaux olympiques, 1896–1912 (Wenlock et Mandeville, Pietri) | [[NB Sport V03 - 20261008]] | [[UF Sport V03]] | [[Jeux olympiques modernes]] |
 | — | 15.10 | annulée : lecture « Berlin 1936 », Script p. 30, 37–44 |  |  |  |
 | V04 | 22.10 | 1920–1936, Berlin 1936 (Owens ; Dream Team 1992) | [[NB Sport V04 - 20261022]] | [[UF Sport V04]] | [[Jeux olympiques modernes]] |
-| V05 | 29.10 | Beijing 2008 et 2022, Peng Shuai |  |  |  |
-| V06 | 05.11 | Sotchi 2014, Paris 2024, femmes aux JO (Switzer) |  |  |  |
-| V07 | 12.11 | Turnen de Jahn, Magglingen, obligatoire scolaire |  |  |  |
-| V08 | 19.11 | Sport en RDA (fête socialiste, Heidi Krüger) |  |  |  |
+| V05 | 29.10 | Phases 4–5, Beijing 2008 et 2022, Peng Shuai (Dream Team) | [[NB Sport V05 - 20261029]] | [[UF Sport V05]] | [[Jeux olympiques contemporains]] |
+| V06 | 05.11 | Sotchi 2014, Paris 2024, femmes aux JO (Switzer) | [[NB Sport V06 - 20261105]] | [[UF Sport V06]] | [[Jeux olympiques contemporains]] |
+| V07 | 12.11 | Turnen de Jahn, Magglingen, obligatoire scolaire (Anker) | [[NB Sport V07 - 20261112]] | [[UF Sport V07]] | [[Turnen et politique du sport en Suisse]] |
+| V08 | 19.11 | Sport en RDA (fête socialiste, Heidi/Andreas Krieger) | [[NB Sport V08 - 20261119]] | [[UF Sport V08]] | [[Sport en RDA]] |
 | V09 | 26.11 | Sports anglais, débuts du football (boxe, basket) |  |  |  |
 | V10 | 03.12 | Football au XXe s., football féminin (Wunder von Bern, Madeleine Boll) |  |  |  |
 | V11 | 10.12 | Sports d'hiver en Suisse (Leif Berg, Snurfer), Repetitorium |  |  |  |
@@ -63,9 +81,11 @@ mindmap
 
 ## Chapitres (ordre du script)
 1. [[Sport dans l'Antiquité]] · V01–V02 (ch. 2)
-2. [[Jeux olympiques modernes]] · V03–V06 (ch. 3)
-3. Turnen et politique du sport · V07–V08 (ch. 4)
-4. Le mouvement sportif · V09–V11 (ch. 5)
+2. [[Jeux olympiques modernes]] · V03–V04 (ch. 3.1–3.3)
+3. [[Jeux olympiques contemporains]] · V05–V06 (ch. 3.4–3.8)
+4. [[Turnen et politique du sport en Suisse]] · V07 (ch. 4.1–4.4)
+5. [[Sport en RDA]] · V08 (ch. 4.5)
+6. Le mouvement sportif · V09–V11 (ch. 5)
 
 ## ⚠️ Infos examen
 - Les 5 dates à connaître : 776 av. J.-C., 394, 1874, 1896, 1972 (apprendre « de droite à gauche » : événement → date)
@@ -73,4 +93,5 @@ mindmap
 - Begriffe : connaître le sens, pas la formulation exacte
 - MC : plusieurs réponses justes ou fausses par question
 - Images : décrire, interpréter, situer dans le contexte (liste complète dans le PDF « Prüfungsfragen »)
-- Pièges repérés : Kalokagathia (la liste inverse *kalos* / *agathos*), 393/394, début de la phase 4 (1948/1952), Thomas/Heinrich Mann
+- Ch. 4.4 (Mädchenturnen) : « kein Prüfungsstoff » dans le script, mais dans la liste de questions 2026 → à clarifier avec le prof
+- Pièges repérés : Kalokagathia (la liste inverse *kalos* / *agathos*), 393/394, début de la phase 4 (1948/1952), Thomas/Heinrich Mann, Krüger/Krieger (image RDA), Anker 1876/1879

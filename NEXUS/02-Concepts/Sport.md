@@ -50,12 +50,12 @@ tags:
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
 |---|---|---|
-| Turnen | Éducation nationale et morale, exercices d'ensemble | Croire que Turnen et sport sont synonymes vers 1900 : ce sont des adversaires |
+| [[Turnen]] | Éducation nationale et morale, exercices d'ensemble | Croire que Turnen et sport sont synonymes vers 1900 : ce sont des adversaires |
 | Gymnastique | <- *gymnos* (nu) : exercices des Grecs | Penser au sens moderne (agrès) |
 | [[Agon]] | La compétition grecque, liée au culte | Y voir le sport moderne : il manque la Weltlichkeit et le record |
 
 ## Liens
-- **Thème :** [[Sport dans l'Antiquité]], [[Jeux olympiques modernes]]
+- **Thème :** [[Sport dans l'Antiquité]], [[Jeux olympiques modernes]], [[Turnen et politique du sport en Suisse]]
 - **Proche de :** [[Origines du sport]], [[Agon]], [[Olympisme]]
 - **U-Fragen :** [[UF Sport V01]], [[UF Sport V03]]
 

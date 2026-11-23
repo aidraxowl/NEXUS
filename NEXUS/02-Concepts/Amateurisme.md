@@ -7,6 +7,7 @@ aliases:
 tags:
   - type/concept
   - cours/sport
+  - cours/gesch
 ---
 
 > [!abstract] L'essentiel
@@ -36,9 +37,10 @@ tags:
 | [[Olympisme]] | Éducation pour tous | Amateurisme = exclusion sociale : contradiction |
 | [[Olympies antiques]] | Professionnels, prix, privilèges | Croire que la règle vient de l'Antiquité |
 | Patronized sport | Le patron envoie ses employés concourir (running footmen) | Origine du professionnalisme anglais, à voir au ch. 5 |
+| Football britannique (Geschichte V09) | La FA accepte le professionnalisme dès 1886 ; le cricket garde son image de gentleman | Croire que tout le sport britannique est resté amateur ; voir [[Loisirs rationnels]] |
 
 ## Liens
-- **Thème :** [[Jeux olympiques modernes]]
+- **Thème :** [[Jeux olympiques modernes]], [[Classes et culture de masse en Grande-Bretagne]]
 - **Proche de :** [[Olympisme]], [[Mythes olympiques]], [[Sport]]
 - **Penseur :** [[Pierre de Coubertin]]
 - **U-Fragen :** [[UF Sport V03]], [[UF Sport V04]]
@@ -49,3 +51,4 @@ tags:
 
 ## Sources
 - [[NB Sport V03 - 20261008]] · [[NB Sport V04 - 20261022]] · Script p. 27, 41
+- [[NB Gesch V09 - 20261125]]

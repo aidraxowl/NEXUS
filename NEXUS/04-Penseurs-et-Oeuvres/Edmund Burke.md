@@ -25,9 +25,11 @@ dates: "1729–1797"
 - Inégalités entre individus, nations et « races » → besoin de hiérarchie.
 - Scepticisme envers le progrès → « wisdom of our forefathers » ; constitution britannique héritée ≠ « aeronauts of France ».
 - Met en garde contre la « mobocracy ».
+- Poverty ≠ pauperism (*Thoughts and Details on Scarcity*, 1795) : travailler pour survivre ≠ dépendre d'aumônes ; distinction reprise par la [[Loi sur les pauvres de 1834]].
 
 ## Œuvres principales
 - *Reflections on the Revolution in France* (1790, 30 000 ex.) → premier manifeste conservateur des îles britanniques
+- *Thoughts and Details on Scarcity* (1795) → [[Loi sur les pauvres de 1834]]
 
 ## Apports / Critiques
 **Apports**
@@ -38,7 +40,7 @@ dates: "1729–1797"
 - Ses adversaires (radicaux, utilitaristes) y voient la défense des privilèges.
 
 ## Liens
-- **Thème :** [[Idéologies dominantes en Grande-Bretagne]]
+- **Thème :** [[Idéologies dominantes en Grande-Bretagne]], [[Pauvreté, prison et police en Grande-Bretagne]]
 - **Proche de :** [[Thomas Carlyle]]
 - **S'oppose à :** [[Jeremy Bentham]]
 
@@ -47,4 +49,4 @@ dates: "1729–1797"
 > Non : il accepte qu'on « ajoute » à l'héritage, donc la réforme graduelle. Il refuse la rupture fondée sur des principes abstraits. Il critique d'ailleurs la politique coloniale britannique.
 
 ## Sources
-- [[NB Gesch V02 - 20261007]]
+- [[NB Gesch V02 - 20261007]] · [[NB Gesch V06 - 20261104]]

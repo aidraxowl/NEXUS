@@ -27,6 +27,7 @@ lieu: "Afrique du Sud"
 |---|---|
 | 1899 | Début de la guerre ; revers britanniques initiaux (complément) |
 | 1899–1902 | Mobilisation massive de troupes australiennes et néo-zélandaises |
+| 1900 | « Khaki elections » : la guerre sert à mobiliser les électeurs (V07) |
 | 1902 | Fin de la guerre, victoire britannique (complément : paix de Vereeniging) |
 
 ## Acteurs
@@ -49,9 +50,10 @@ lieu: "Afrique du Sud"
 
 **À retenir**
 - Une guerre impériale divise la métropole elle-même : l'Empire est un enjeu de politique intérieure.
+- En V07, elle fait partie des crises spectaculaires par lesquelles la nation se définit ; « Imperial war sells… ».
 
 ## Liens
-- **Thème :** [[Grande-Bretagne dans le monde]]
+- **Thème :** [[Grande-Bretagne dans le monde]], [[Empire et société britannique]]
 - **Cas similaires :** [[Désindustrialisation du textile indien]] (autre visage de la domination impériale)
 
 ## Questions de compréhension
@@ -62,4 +64,4 @@ lieu: "Afrique du Sud"
 > Que l'expansion impériale ne fait pas consensus : la guerre polarise l'opinion publique et fait de l'Empire un objet de débat politique en métropole.
 
 ## Sources
-- [[NB Gesch V01 - 20260930]]
+- [[NB Gesch V01 - 20260930]] · [[NB Gesch V07 - 20261111]]

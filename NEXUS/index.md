@@ -8,6 +8,7 @@ Une note = une idée. Les notes se relient entre elles ; les Course Maps et les 
 ## Se focaliser maintenant
 
 - [[Basispruefung 2027 - Block 1|Basisprüfung 2027 – Block 1]]
+- [[Basispruefung 2027 - Block 2|Basisprüfung 2027 – Block 2]]
 - [[09-Learning/Course-Maps/index|Course Maps du semestre]]
 
 ## La base de connaissances

@@ -9,6 +9,7 @@ aliases:
 tags:
   - type/concept
   - cours/milpsy
+  - cours/pw
 ---
 
 > [!abstract] L'essentiel
@@ -73,10 +74,10 @@ tags:
 | [[Stress aigu]] | Charge au moment de l'action | La dissonance surgit souvent **après coup** |
 
 ## Liens
-- **Thème :** [[Jugement et décision]]
+- **Thème :** [[Jugement et décision]] · [[Médias et communication politique]] (PW : explication de l'« impuissance » des médias, Festinger 1957)
 - **Proche de :** [[Attribution causale]], [[Désinformation]], [[Stress aigu]]
 - **Cas :** [[Décision d'un chef de section après la perte d'un camarade]]
-- **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V06]]
+- **U-Fragen :** [[UF MilPsy V04]] · [[UF MilPsy V06]] · [[UF PW V09]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi s'accroche-t-on à ses convictions malgré des informations contraires ?

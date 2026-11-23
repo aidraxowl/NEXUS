@@ -21,7 +21,6 @@ Le cycle d'un cours, de la préparation à l'examen.
 3. **Extraire les concepts** : chaque `[[Concept]]` non créé devient une note Concept. Remplir **L'essentiel** en priorité.
 4. **U-Fragen** : créer `UF PW V03` si le prof en a donné.
 5. **Course Map** : remplir la ligne de la séance.
-6. Passer le `statut` de la note brute à `traitee`.
 
 ## 4. Fin de chapitre — relier
 

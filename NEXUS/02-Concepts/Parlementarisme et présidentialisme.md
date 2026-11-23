@@ -79,11 +79,11 @@ tags:
 | Instabilité présidentielle | Linz l'attribue au régime | Cheibub : héritage militaire |
 
 ## Liens
-- **Thème :** [[Systèmes de gouvernement démocratiques]]
-- **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], [[Démocratie consensuelle]], [[Système électoral]]
+- **Thème :** [[Systèmes de gouvernement démocratiques]], [[Pouvoir législatif]]
+- **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], [[Démocratie consensuelle]], [[Système électoral]], [[Fonctions du parlement]], [[Procédure législative]]
 - **Penseur :** [[Arend Lijphart]], Juan Linz, José Antonio Cheibub
 - **Cas :** Cohabitation en France, [[Formule magique]]
-- **U-Fragen :** [[UF PW V03]]
+- **U-Fragen :** [[UF PW V03]], [[UF PW V10]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi la discipline de parti est-elle plus forte en régime parlementaire ?

@@ -31,7 +31,7 @@ Pour Kelley, à force de chercher de meilleurs chefs, on oublie ceux qu'ils mèn
 
 L'idée centrale pour un militaire est la **responsabilité de contester**, avec une intensité croissante : donner un feedback, contester de façon responsable, aller jusqu'à la désobéissance intelligente. La règle pratique : soutenir en public, contester en privé, dire la vérité, prendre l'initiative. C'est aussi ce qui rend la conduite par objectifs possible ([[Conduite par objectifs]]).
 
-Le cas [[Tom Clonan]] montre le prix de cette contestation dans un système fermé.
+Le cas [[Affaire Clonan dans l'armée irlandaise|Tom Clonan]] montre le prix de cette contestation dans un système fermé.
 
 ## Quand la relation dérive : le triangle toxique
 Un climat toxique ne s'explique pas par le seul chef. Le [[Triangle toxique]] réunit trois éléments : un **leader toxique** (narcissique, manipulateur, intimidant), des **followers vulnérables**, soit complices qui en profitent, soit conformistes qui suivent, et un **environnement favorable** (isolement, menace perçue, absence de contrôle). Chaque côté du triangle est un levier de prévention : gouvernance et contrôle, sélection des chefs, followership critique, culture de valeurs.

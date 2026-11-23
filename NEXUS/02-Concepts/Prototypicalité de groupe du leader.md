@@ -3,7 +3,6 @@ title: "Prototypicalité de groupe du leader"
 aliases:
   - Leader Group Prototypicality
   - LGP
-  - Social identity theory of leadership
 tags:
   - type/concept
   - cours/lead

@@ -48,6 +48,24 @@ mindmap
       Bureaucratie
       Formel et informel
       Exit, voice et loyauté
+    Liberté et sécurité
+      Objectif et subjectif
+      Danger, risque, menace
+      Concept élargi de sécurité
+      Liberté négative et positive
+      Opinion suisse depuis 2022
+    Fondements de la sociologie militaire
+      Niveaux macro, méso, micro
+      Place de l'armée dans la société
+      Paix démocratique
+      Théorème d'incompatibilité
+      Libéralisme et républicanisme
+    Pouvoir, domination et violence
+      Pouvoir (Weber, Popitz)
+      Domination
+      Violence
+      Monopole de la violence
+      Civilisation et violence
 ```
 
 ## Objectifs (Lernziele)
@@ -57,6 +75,9 @@ mindmap
 - Connaître les principales théories de l'inégalité sociale
 - Distinguer institution et organisation ; décrire l'évolution des grandes institutions en Suisse
 - Expliquer pourquoi les organisations existent, comment on les classe, comment elles sont structurées et quels problèmes elles rencontrent
+- Définir sécurité et liberté, expliquer leur tension et le changement du concept de sécurité ; connaître l'effet de la guerre en Ukraine sur l'opinion suisse
+- Définir le militaire et l'objet de la sociologie militaire ; connaître les classiques et leurs conséquences pour la forme de l'armée
+- Définir pouvoir, domination et violence ; connaître Weber, Popitz et les modèles « civilisation et violence »
 - Fil rouge : chaque changement de la société → conséquences pour l'organisation militaire
 
 ## Séances
@@ -68,6 +89,9 @@ mindmap
 | V04 | 12.10 | Strukturen der Gesellschaft | [[NB MilSoz V04 - 20261012]] | [[UF MilSoz V04]] | — (hors Prüfungshinweis) |
 | V05 | 19.10 | Institutionen der Gesellschaft | [[NB MilSoz V05 - 20261019]] | [[UF MilSoz V05]] | [[Institutions de la société]] |
 | V06 | 26.10 | Organisationen | [[NB MilSoz V06 - 20261026]] | [[UF MilSoz V06]] | [[Sociologie des organisations]] |
+| V08 | 09.11 | Freiheit vs Sicherheit / Bevölkerungsmeinung zum Krieg in der Ukraine | [[NB MilSoz V08 - 20261109]] | [[UF MilSoz V08]] | à rédiger |
+| V09 | 16.11 | Definitionen und Geltungsbereich Militärsoziologie | [[NB MilSoz V09 - 20261116]] | [[UF MilSoz V09]] | [[Fondements de la sociologie militaire]] |
+| V10 | 23.11 | Klassiker der Militärsoziologie / Gewalt und Macht | [[NB MilSoz V10 - 20261123]] | [[UF MilSoz V10]] | [[Pouvoir, domination et violence]] |
 
 ## Chapitres (ordre du cours)
 1. [[Notions de base de la sociologie]] · V01
@@ -75,6 +99,8 @@ mindmap
 3. [[Changement démographique]] · V03 ⚠️ Prüfungshinweis
 4. [[Institutions de la société]] · V05
 5. [[Sociologie des organisations]] · V06 ⚠️ Prüfungshinweis
+6. [[Fondements de la sociologie militaire]] · V09 ⚠️ Prüfungshinweis
+7. [[Pouvoir, domination et violence]] · V10
 
 ## ⚠️ Infos examen
 - Prüfungshinweis : tout ce qui a été traité, **y compris les textes du reader**. Thèmes cités : Demografie, Wertewandel ; Organisationen als gesellschaftliches Phänomen, Ziele/Strukturen/Umwelten von Organisationen ; Grundlagen der Militärsoziologie, Militär : Sonderfall oder Organisation wie jede andere ?
@@ -84,3 +110,6 @@ mindmap
 - V04 (Strukturen der Gesellschaft) : pas une question à part entière, mais utile pour argumenter (statut, prestige de l'officier, habitus).
 - V05 : la distinction **institution ≠ organisation** prépare V11 (*Militär : Institution und Organisation*).
 - V06 : séance du responsable du cours ; typologie d'Etzioni, structure, bureaucratie, formel/informel, exit/voice → base de la question « l'armée, une organisation comme les autres ? ».
+- V08 : pas citée par nom dans le Prüfungshinweis, mais examinable (« gesamte Stoff », lectures comprises). Slide 76 du prof = liste de ce qu'il faut savoir.
+- V09 : « Grundlagen der Militärsoziologie » cité dans le Prüfungshinweis. Les classiques (Machiavel à Marx) sont dans le script V09 ; libéralisme ≠ républicanisme → armée de métier ≠ milice.
+- V10 : script titré « Klassiker / Gewalt und Macht » mais ne contient que Macht, Herrschaft, Gewalt. Lecture Imbusch 2006.

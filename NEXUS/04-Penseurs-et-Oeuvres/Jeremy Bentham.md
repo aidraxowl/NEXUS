@@ -24,6 +24,8 @@ dates: "1748–1832"
 - [[Utilitarisme]] : principle of utility, psychologie hédoniste, homme abstrait et « kulturblind ».
 - Vision mécaniste : devenir « le Newton des sciences morales ».
 - État fort réformateur, qui aligne intérêt individuel et intérêt général par la loi.
+- [[Panoptique]] (1798) : prison circulaire où les détenus se savent toujours observés ; la peine devient une question d'architecture et de « science ».
+- Influence sur la [[Loi sur les pauvres de 1834]] par son disciple Edwin Chadwick.
 
 ## Œuvres principales
 - *A Fragment of Government* (1776) → critique du droit établi
@@ -39,7 +41,7 @@ dates: "1748–1832"
 - « Enlightened selfishness » selon [[Thomas Carlyle]].
 
 ## Liens
-- **Thème :** [[Idéologies dominantes en Grande-Bretagne]]
+- **Thème :** [[Idéologies dominantes en Grande-Bretagne]], [[Pauvreté, prison et police en Grande-Bretagne]]
 - **Proche de :** [[Adam Smith]], [[Lumières écossaises]]
 - **S'oppose à :** [[Edmund Burke]], [[Thomas Carlyle]]
 
@@ -50,5 +52,8 @@ dates: "1748–1832"
 > [!question]- Qu'est-ce que l'« auto-icon » ?
 > Son corps, conservé selon ses volontés et exposé à l'University College London : un geste cohérent avec sa vision utilitaire et anticléricale.
 
+> [!question]- Que promet Bentham avec le panoptique ?
+> Une réforme des mœurs, la santé, le travail et des économies publiques, et même la solution du problème des Poor Laws, « all by a simple idea in Architecture » : une surveillance invisible et permanente que le détenu intériorise.
+
 ## Sources
-- [[NB Gesch V02 - 20261007]]
+- [[NB Gesch V02 - 20261007]] · [[NB Gesch V06 - 20261104]]

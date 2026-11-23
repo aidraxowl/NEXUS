@@ -24,10 +24,11 @@ dates: "1820–1895"
 - [[Révolution industrielle]] : rupture technique (vapeur, coton) → transformation de toute la société bourgeoise.
 - Le prolétariat comme résultat principal de cette révolution.
 - Révolution d'autant plus violente qu'elle a été « silencieuse ».
+- [[Classe sociale]] (avec Marx, *Manifeste*, 1848) : aristocratie terrienne, bourgeoisie, prolétariat ; classe « an sich » et « für sich » ; la conscience de classe moteur de l'histoire. Le cas britannique (pas de révolution) pose problème à ce modèle (V09).
 
 ## Œuvres principales
 - *Die Lage der arbeitenden Klasse in England* (1845) → [[Révolution industrielle]]
-- *Manifest der Kommunistischen Partei* (1848, avec Marx) → complément
+- *Manifest der Kommunistischen Partei* (1848, avec Marx) → [[Classe sociale]]
 
 ## Apports / Critiques
 **Apports**
@@ -37,13 +38,13 @@ dates: "1820–1895"
 - Récit de rupture brutale et centré sur la technique, relativisé par la recherche : processus lent, inégal, enraciné au XVIIIe et tiré par la demande.
 
 ## Liens
-- **Thème :** [[Industrialisation de la Grande-Bretagne]]
+- **Thème :** [[Industrialisation de la Grande-Bretagne]], [[Classes et culture de masse en Grande-Bretagne]]
 - **Proche de :** [[Thomas Carlyle]] (même critique des coûts sociaux, conclusions opposées)
-- **S'oppose à :** [[Démocratie carbone]] (classe par la culture ≠ par les flux d'énergie)
+- **S'oppose à :** [[Démocratie carbone]] (classe par la culture ≠ par les flux d'énergie), [[David Cannadine]] (critique de l'orthodoxie marxiste)
 
 ## Questions de compréhension
 > [!question]- Pourquoi le cours appelle-t-il le récit d'Engels une « Meistererzählung » ?
 > Parce qu'il a longtemps structuré toute l'interprétation (rupture technique brutale vers 1800–1840) et a été repris comme évident, avant que la recherche récente le relativise.
 
 ## Sources
-- [[NB Gesch V03 - 20261014]]
+- [[NB Gesch V03 - 20261014]] · [[NB Gesch V09 - 20261125]]

@@ -42,7 +42,7 @@ tags:
 - Montre que libre-échange et domination ne s'excluent pas.
 
 **Limites**
-- L'ampleur de l'impact de l'Empire sur la société britannique est débattue (à voir en V07).
+- L'ampleur de l'impact de l'Empire sur la société britannique est débattue (« did ordinary Brits give a damn about the Empire? ») : voir [[Empire et société britannique]]. Chaque classe y trouve son intérêt ([[Capitalisme gentlemanly]], carrières de la classe moyenne, emplois et émigration ouvrière), et l'Empire imprègne la [[Culture populaire impériale]], mais il reste rarement au centre de la politique.
 
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
@@ -52,11 +52,11 @@ tags:
 | [[Lumières écossaises\|Théorie des stades]] | Justification intellectuelle | Confondre justification et cause |
 
 ## Liens
-- **Thème :** [[Grande-Bretagne dans le monde]], [[Industrialisation de la Grande-Bretagne]]
-- **Proche de :** [[Lumières écossaises]], [[Libéralisme]]
-- **Penseur :** [[Thomas Carlyle]] (politique coloniale agressive)
-- **Cas :** [[Guerre des Boers]], [[Désindustrialisation du textile indien]]
-- **U-Fragen :** [[UF Gesch V01]], [[UF Gesch V03]]
+- **Thème :** [[Grande-Bretagne dans le monde]], [[Industrialisation de la Grande-Bretagne]], [[Empire et société britannique]]
+- **Proche de :** [[Lumières écossaises]], [[Libéralisme]], [[Ornementalisme]], [[Capitalisme gentlemanly]], [[Culture populaire impériale]]
+- **Penseur :** [[Thomas Carlyle]] (politique coloniale agressive), [[David Cannadine]]
+- **Cas :** [[Guerre des Boers]], [[Désindustrialisation du textile indien]], [[Rhodes Must Fall]], [[Déportation en Australie]]
+- **U-Fragen :** [[UF Gesch V01]], [[UF Gesch V03]], [[UF Gesch V07]]
 
 ## Questions de compréhension
 > [!question]- En quoi parler d'« impérialisme de libre-échange » n'est-il pas une contradiction ?
@@ -66,4 +66,4 @@ tags:
 > Le Second Empire désigne toute la deuxième vague d'expansion (1784–1914). Le New Imperialism (dès 1874) en est la phase tardive, marquée par la concurrence d'autres puissances et une course aux territoires et aux armements.
 
 ## Sources
-- [[NB Gesch V01 - 20260930]] · [[NB Gesch V03 - 20261014]]
+- [[NB Gesch V01 - 20260930]] · [[NB Gesch V03 - 20261014]] · [[NB Gesch V07 - 20261111]]

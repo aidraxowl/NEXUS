@@ -47,9 +47,9 @@ tags:
 
 ## Liens
 - **Thème :** [[Systèmes de gouvernement démocratiques]], [[Sources du droit et organisation de l'État]]
-- **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], Bicaméralisme
+- **Proche de :** [[Séparation des pouvoirs]], [[Joueur de veto]], [[Bicaméralisme]]
 - **Penseur :** [[Arend Lijphart]]
-- **U-Fragen :** [[UF PW V03]], [[UF DC V01]]
+- **U-Fragen :** [[UF PW V03]], [[UF PW V10]], [[UF DC V01]]
 
 ## Questions de compréhension
 > [!question]- Comment justifier l'hypothèse que les États fédéraux ont moins de déficits ?

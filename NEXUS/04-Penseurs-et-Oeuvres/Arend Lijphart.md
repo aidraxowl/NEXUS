@@ -22,6 +22,7 @@ dates: "né en 1936"
 - [[Démocratie consensuelle]] : 10 indicateurs.
 - [[Parlementarisme et présidentialisme|Régime parlementaire]] : 2 critères de classification des régimes.
 - [[Fédéralisme]] : 3 traits (bicaméralisme, constitution écrite, justice constitutionnelle).
+- [[Bicaméralisme]] : influence de la seconde chambre selon 2 facteurs, symétrie des pouvoirs et congruence politique (matrice I–IV) ; son indice de bicaméralisme sert de variable indépendante chez [[Ezrow et al. 2023]].
 - [[Système électoral|Représentation proportionnelle]] : sociétés divisées -> PR (1977) ; manufactured majorities (Abb. 5.3).
 - Méthode comparative (1975).
 
@@ -37,7 +38,7 @@ dates: "né en 1936"
 - Structuraliste (mécanismes flous), statique, validité géographique limitée.
 
 ## Liens
-- **Thème :** [[Systèmes de gouvernement démocratiques]], [[Élections et démocratie directe]]
+- **Thème :** [[Systèmes de gouvernement démocratiques]], [[Élections et démocratie directe]], [[Pouvoir législatif]]
 - **Proche de :** [[George Tsebelis]]
 - **Cas :** [[Formule magique]], [[Parlementarisme et présidentialisme]]
 
@@ -46,4 +47,4 @@ dates: "né en 1936"
 > Le mode d'élection du gouvernement et sa dépendance à la confiance du parlement.
 
 ## Sources
-- Bernauer et al. 2025 (Kap. 2.2.6, 4.2, 4.4, 5.1.3)
+- Bernauer et al. 2025 (Kap. 2.2.6, 4.2, 4.4, 5.1.3, 10.2.2)

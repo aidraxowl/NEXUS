@@ -22,6 +22,7 @@ tags:
 - Ce qui compte : **nombre ET distance** (hétérogénéité).
 - Agenda-setter : propose le changement à l'intérieur du winset.
 - Beaucoup de VP : CH, DE, USA ; peu : Westminster ; UE à l'unanimité = 27 VP.
+- **Seconde chambre (Kap. 10) :** une chambre symétrique et éloignée idéologiquement est un VP qui rétrécit le winset -> moins de changements de lois ; avec plusieurs tours de navette, même une chambre faible obtient des concessions ([[Bicaméralisme]]). Conséquence possible : politique moins responsive à l'opinion ([[Ezrow et al. 2023]]).
 
 ## Exemples
 - **Militaire :** une réforme de l'armée qui exige l'accord de deux chambres, des cantons et d'un éventuel référendum a un winset étroit.
@@ -34,15 +35,15 @@ tags:
 | Nombre de VP | Compte | Un VP situé entre les autres ne change presque rien |
 
 ## Liens
-- **Thème :** [[Systèmes de gouvernement démocratiques]]
-- **Proche de :** [[Séparation des pouvoirs]], [[Fédéralisme]]
+- **Thème :** [[Systèmes de gouvernement démocratiques]], [[Pouvoir législatif]]
+- **Proche de :** [[Séparation des pouvoirs]], [[Fédéralisme]], [[Bicaméralisme]]
 - **Penseur :** [[George Tsebelis]]
 - **Cas :** [[Lockdowns Covid-19 et joueurs de veto]]
-- **U-Fragen :** [[UF PW V02]], [[UF PW V03]]
+- **U-Fragen :** [[UF PW V02]], [[UF PW V03]], [[UF PW V10]]
 
 ## Questions de compréhension
 > [!question]- La stabilité des politiques est-elle plus grande avec des joueurs de veto homogènes ou hétérogènes ?
 > Hétérogènes : leurs points idéaux sont plus éloignés, le winset est plus petit.
 
 ## Sources
-- Bernauer et al. 2025 (Kap. 2.2, Kap. 4.4)
+- Bernauer et al. 2025 (Kap. 2.2, Kap. 4.4, Kap. 10.5)

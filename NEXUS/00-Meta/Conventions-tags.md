@@ -36,5 +36,4 @@ Les codes sont les mêmes que dans les noms de fichiers (voir [[Standards-de-not
 
 ## Ce qui n'est PAS un tag
 
-- **Le statut** d'une note brute est une **propriété** (`statut: brouillon` → `traitee`), pas un tag : il ne doit pas encombrer la page des tags du site.
 - **Les dates** sont des propriétés (`date`, `periode`, `dates`, `annee`).

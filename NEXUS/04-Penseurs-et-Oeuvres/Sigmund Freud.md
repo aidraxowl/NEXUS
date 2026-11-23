@@ -5,6 +5,7 @@ aliases:
 tags:
   - type/penseur
   - cours/milpsy
+  - cours/milsoz
 dates: "1856–1939"
 ---
 
@@ -23,6 +24,7 @@ dates: "1856–1939"
 ## Idées clés
 - [[Psychologie des profondeurs]] : l'inconscient domine, tout acte psychique a un sens
 - [[Psychologie des profondeurs|Modèle structural de la psyché]] : Es, Ich, Über-Ich ; mécanismes de défense
+- [[Civilisation et violence]] (MilSoz) : représentant du modèle ambivalent ; la civilisation pacifie la société mais accroît le potentiel de destruction de l'État vers l'extérieur
 
 ## Œuvres principales
 - *L'interprétation du rêve* (1900) -> [[Psychologie des profondeurs]]
@@ -36,9 +38,9 @@ dates: "1856–1939"
 - Théorie non falsifiable (Karl Popper), fondée sur des patients pathologiques
 
 ## Liens
-- **Thème :** [[Écoles de pensée en psychologie]]
+- **Thème :** [[Écoles de pensée en psychologie]] · [[Pouvoir, domination et violence]]
 - **Proche de :** C. G. Jung, Alfred Adler (élèves dissidents)
 - **S'oppose à :** John B. Watson
 
 ## Sources
-- [[NB MilPsy V02 - 20260922]]
+- [[NB MilPsy V02 - 20260922]] · [[NB MilSoz V10 - 20261123]]

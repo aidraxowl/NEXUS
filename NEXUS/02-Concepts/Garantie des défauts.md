@@ -7,7 +7,6 @@ aliases:
   - Avis des défauts
   - Action rédhibitoire
   - Action minutoire
-  - Contrat de vente
 tags:
   - type/concept
   - cours/dc

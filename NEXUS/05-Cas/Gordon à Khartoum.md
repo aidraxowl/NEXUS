@@ -5,6 +5,7 @@ aliases:
 tags:
   - type/cas
   - cours/lead
+  - cours/gesch
 periode: 1855–1885
 lieu: Crimée, Chine, Soudan (Khartoum)
 ---
@@ -31,6 +32,7 @@ lieu: Crimée, Chine, Soudan (Khartoum)
 |---|---|
 | [[Émergence et efficacité du leader]] | Héros national bien avant Khartoum (émergence) ; rôle utile mais pas décisif en Chine, mission ignorée à Khartoum (efficacité discutable) |
 | [[Théories classiques du leadership\|Approche par les traits]] | Drive et confiance en soi abondants : ont-ils fait de lui un chef efficace ? |
+| [[Culture populaire impériale]] | Geschichte V07 : Gordon est la figure type du « Heldenkult » impérial en peinture et en gravure |
 
 ## Leçons / RETEX
 **À retenir**
@@ -38,8 +40,8 @@ lieu: Crimée, Chine, Soudan (Khartoum)
 - Pour juger l'efficacité, il faut des preuves de performance, pas de réputation.
 
 ## Liens
-- **Thème :** [[Histoire des théories du leadership]]
-- **Cas similaires :** [[Essor de la Suède sous Gustave II Adolphe]]
+- **Thème :** [[Histoire des théories du leadership]], [[Empire et société britannique]]
+- **Cas similaires :** [[Essor de la Suède sous Gustave II Adolphe]], [[Rhodes Must Fall]]
 
 ## Questions de compréhension
 > [!question]- Quelles preuves faudrait-il pour juger l'efficacité de Gordon ?
@@ -47,3 +49,4 @@ lieu: Crimée, Chine, Soudan (Khartoum)
 
 ## Sources
 - Strachey 1918
+- [[NB Gesch V07 - 20261111]]

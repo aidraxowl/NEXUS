@@ -12,9 +12,10 @@ tags:
 
 > [!info] Le cours
 > **Intitulé :** Politikwissenschaft Grundlagen
-> **Prof :** (à compléter)
+> **Prof :** Prof. Dr. Thomas Bernauer · Dr. Florian Lichtin
+> **Horaire :** lundi 10:15–13:00, CHN E 46 · 4 ECTS (env. 120 h)
 > **Langue :** allemand
-> **Examen :** [[Basispruefung 2027 - Block 1|Basisprüfung 2027 – Block 1]] · **Format :** (à compléter)
+> **Examen :** [[Basispruefung 2027 - Block 1|Basisprüfung 2027 – Block 1]] · **Format :** écrit (QCM et questions ouvertes)
 > **Manuel :** Bernauer et al. 2025, *Einführung in die Politikwissenschaft*
 
 > [!booklet] Booklet de révision
@@ -66,10 +67,26 @@ mindmap
       Pluralisme et corporatisme
       Mouvement social
       Finnegan 2022
+    Médias et communication politique
+      Plateforme de communication politique
+      Effets des médias
+      Réception de l'information politique
+      Système médiatique
+      Logique médiatique
+      Campagne électorale
+      Ellger et al. 2024
+    Pouvoir législatif
+      Fonctions du parlement
+      Procédure législative
+      Bicaméralisme
+      Ezrow et al. 2023
 ```
 
 ## Objectifs (Lernziele)
-- (à compléter avec les objectifs officiels du cours)
+- Connaître les questions, concepts, théories, méthodes et résultats empiriques de base de la science politique.
+- Comprendre la logique scientifique et le déroulement d'une recherche : design de recherche, méthodes empiriques des sciences sociales (penser et travailler comme un politologue).
+- Point fort du cours : l'analyse des systèmes politiques, avec les principaux acteurs et la nature et les effets des institutions, illustrés surtout par l'Allemagne, l'Autriche et la Suisse.
+- Un bref aperçu des relations internationales, approfondies au FS27 (Internationale Politik, Prof. Schimmelfennig).
 
 ## Séances
 | # | Date | Vorlesung | Note brute | U-Fragen | Thème |
@@ -81,6 +98,9 @@ mindmap
 | V05 | 19.10 | Politische Einstellungen und Verhalten (Kap. 6) | [[NB PW V05 - 20261019]] | [[UF PW V05]] | [[Attitudes et comportement politiques]] |
 | V06 | 26.10 | Parteien und Parteiensysteme (Kap. 7) | [[NB PW V06 - 20261026]] | [[UF PW V06]] | [[Partis et systèmes de partis]] |
 | V07 | 02.11 | Interessengruppen und soziale Bewegungen (Kap. 8) | [[NB PW V07 - 20261102]] | [[UF PW V07]] | [[Groupes d'intérêt et mouvements sociaux]] |
+| V08 | 09.11 | 1. Test & Besprechung (Kap. 1–8) |  |  |  |
+| V09 | 16.11 | Politische Kommunikationsplattformen (Kap. 9) | [[NB PW V09 - 20261116]] | [[UF PW V09]] | [[Médias et communication politique]] |
+| V10 | 23.11 | Legislative (Kap. 10) | [[NB PW V10 - 20261123]] | [[UF PW V10]] | [[Pouvoir législatif]] |
 
 ## Chapitres (ordre du cours)
 1. [[Politique, État et science politique]] · V01
@@ -91,6 +111,8 @@ mindmap
 6. [[Attitudes et comportement politiques]] · V05
 7. [[Partis et systèmes de partis]] · V06
 8. [[Groupes d'intérêt et mouvements sociaux]] · V07
+9. [[Médias et communication politique]] · V09
+10. [[Pouvoir législatif]] · V10
 
 ## ⚠️ Infos examen
 - Test facultatif 1 : lu 09.11.2026, 10:15–11:00, Kap. 1–8 · test 2 : 14.12.2026, Kap. 9–13
