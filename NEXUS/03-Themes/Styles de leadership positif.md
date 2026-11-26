@@ -17,7 +17,7 @@ tags:
 ## Le cadre : le leadership positif
 Le [[Leadership positif]] vise des résultats exceptionnels sur la durée en développant des émotions et des comportements positifs. Son modèle PERMA-Lead en résume les leviers : émotions positives, engagement, relations, sens, accomplissement. Il agit à trois niveaux : l'individu, l'équipe, l'organisation.
 
-Sa formule clé est **haute estime + hautes exigences**. Concrètement, on aborde les conflits directement plutôt que de les éviter, on exige des comptes, on donne un feedback honnête et on montre l'exemple plutôt que de chercher à être aimé. Dans l'armée, il ne remplace ni l'autorité, ni la discipline, ni les standards : il change la **manière** de les exercer. Il a aussi un coût : rôles parfois flous, décisions plus lentes, charge élevée pour le chef. Le cours le critiquera plus tard (« Positive Leadership – fatally flawed »).
+Sa formule clé est **haute estime + hautes exigences**. Concrètement, on aborde les conflits directement plutôt que de les éviter, on exige des comptes, on donne un feedback honnête et on montre l'exemple plutôt que de chercher à être aimé. Dans l'armée, il ne remplace ni l'autorité, ni la discipline, ni les standards : il change la **manière** de les exercer. Il a aussi un coût : rôles parfois flous, décisions plus lentes, charge élevée pour le chef. Sa base empirique est critiquée plus loin dans le cours (voir la dernière section).
 
 ## Élever la motivation : le leadership transformationnel
 Le [[Leadership transformationnel]] vient de Burns (1978), qui l'oppose au leadership **transactionnel**, fondé sur l'échange. Le leader élève la motivation et les valeurs des subordonnés au-delà de leur intérêt immédiat par quatre composantes, les « 4 I » : **influence idéalisée** (être un modèle crédible), **motivation inspirante** (donner une vision et du sens), **stimulation intellectuelle** (pousser à remettre en question) et **considération individualisée** (développer chacun). Le cas [[Transformation de l'US Army (1939–1945)]] montre Marshall appliquant ces quatre composantes à toute une organisation. Le risque : l'idéalisme sans exécution.
@@ -33,6 +33,9 @@ Le [[Leadership transformationnel]] vient de Burns (1978), qui l'oppose au leade
 
 ## Le point commun
 Ces styles relèvent tous du facteur **Leadership** du modèle CLM : ils portent sur l'humain. Aucun ne remplace le Command ni le Management. Et aucun n'est universellement le meilleur : le bon style dépend de la personne, de la tâche et de la situation, sujet du dernier bloc du cours (LS5). Le bloc suivant déplace le regard du leader vers la relation : voir [[Approches relationnelles du leadership]].
+
+## La critique : une illusion causale
+En V10, le cours revient sur ces styles avec Fischer, Dietz et Antonakis (2024). Leur reproche porte sur la recherche, pas sur l'idée d'un chef exigeant et respectueux. Les questionnaires des styles authentique, éthique, transformationnel et serviteur demandent au subordonné de juger son chef ; ils mesurent donc une évaluation, au niveau du répondant, et non un comportement du chef. Corréler ces scores avec des résultats revient à prendre un effet pour une cause ([[Illusion causale des styles de leadership positif]]). Pour le montrer, les auteurs ont construit un questionnaire parodique de cinq items vides de tout comportement (« is a real leader »). Leurs quatre études, la plupart dans un contexte pauvre en information, ont une validité interne élevée mais une validité externe plus faible ([[Validité et fiabilité]]). Ils concluent qu'il faut mesurer des comportements concrets et apprenables, et que le leadership réel est aussi dur et fondé sur le pouvoir, ce que la même séance aborde avec Kelman ([[Changement d'attitude]]).
 
 ---
 
@@ -52,6 +55,7 @@ Ces styles relèvent tous du facteur **Leadership** du modèle CLM : ils portent
 - Côté sombre du charisme et les 4 S ; charismatique ≠ transformationnel.
 - 10 caractéristiques du serviteur ; 4 composantes de l'authentique.
 - Le tableau des questions centrales.
+- Critique de Fischer, Dietz et Antonakis : les échelles de style mesurent l'évaluation du chef, pas son comportement (cause-effect conflation).
 
 ### Questions de synthèse
 > [!question]- Pourquoi ces styles relèvent-ils du facteur Leadership du CLM, et quelle est leur limite commune dans l'armée ?
@@ -63,6 +67,9 @@ Ces styles relèvent tous du facteur **Leadership** du modèle CLM : ils portent
 > [!question]- En quoi le leadership positif n'est-il pas « être gentil » ?
 > Il associe haute estime et hautes exigences : conflits traités, responsabilité exigée, feedback honnête, exemplarité.
 
+> [!question]- Une étude montre que les sections dont le chef obtient un score « transformationnel » élevé réussissent mieux leurs exercices. Que peut-on en conclure ?
+> Peu de chose sur la causalité : le score est une évaluation par les subordonnés, qui peut résulter de la réussite elle-même ou de ce qu'ils savent du chef (cause-effect conflation, Fischer, Dietz et Antonakis 2024). Il faudrait mesurer des comportements observables, idéalement dans un design expérimental.
+
 ## Sources
-- Notes brutes : [[NB Lead V05 - 20261013]]
-- Lectures : Burns 1978
+- Notes brutes : [[NB Lead V05 - 20261013]] · [[NB Lead V10 - 20261208]]
+- Lectures : Burns 1978 ; Fischer, Dietz et Antonakis 2024

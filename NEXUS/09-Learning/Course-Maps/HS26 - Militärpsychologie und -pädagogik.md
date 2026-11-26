@@ -53,6 +53,9 @@ mindmap
     Personnalité et diagnostic
       Personnalité
       Modèle des cinq facteurs
+      Critères de qualité des tests
+      Approche trimodale du diagnostic
+      Assessment Center
 ```
 
 ## Objectifs (Lernziele)
@@ -64,6 +67,7 @@ mindmap
 - Expliquer les émotions du point de vue psychologique, analyser leur influence sur perception, pensée et action, et en tirer des implications pour l'instruction et l'engagement (V08)
 - Connaître le modèle cognitif de négociation, les cinq voies de la sympathie et les stratégies distributive et intégrative, et en tirer des conséquences pour la conduite (V09)
 - Définir la personnalité, présenter le modèle de Roberts & Wood et le Big Five, et expliquer comment on mesure la personnalité (V10, d'après l'agenda)
+- Connaître la pratique de sélection militaire et ses critères de qualité, juger les tests de personnalité, choisir et justifier des instruments pour la sélection Uof/Of, en tirer des pistes pour la sélection et le développement des cadres (V11)
 
 ## Séances
 | # | Date | Vorlesung | Note brute | U-Fragen | Thème |
@@ -78,6 +82,7 @@ mindmap
 | V08 | 03.11 | Émotions (VL 7 de la prof) + Nachtrag dissonance et biais de correspondance | [[NB MilPsy V08 - 20261103]] | [[UF MilPsy V08]] | Émotions et capacité d'action (à créer) |
 | V09 | 10.11 | Interpersonelle Beeinflussung & Verhandeln (Goldammer) | [[NB MilPsy V09 - 20261110]] | [[UF MilPsy V09]] | [[Influence interpersonnelle et négociation]] |
 | V10 | 17.11 | Persönlichkeit (VL 9 de la prof) | [[NB MilPsy V10 - 20261117]] | [[UF MilPsy V10]] | [[Personnalité et diagnostic]] |
+| V11 | 24.11 | Kaderselektion und -entwicklung (VL 10 de la prof) | [[NB MilPsy V11 - 20261124]] | [[UF MilPsy V11]] | [[Personnalité et diagnostic]] |
 
 ## Chapitres (ordre du cours)
 1. [[Écoles de pensée en psychologie]] · V02–V03
@@ -86,7 +91,7 @@ mindmap
 4. [[Pensée et action adaptatives]] · V05–V06
 5. [[Influence et désinformation]] · V03, V05
 6. [[Influence interpersonnelle et négociation]] · V09
-7. [[Personnalité et diagnostic]] · V10
+7. [[Personnalité et diagnostic]] · V10–V11
 
 ## ⚠️ Infos examen
 - Écrit, 120 min, en **langue maternelle** ; août 2027 (Basisprüfung Block 2).

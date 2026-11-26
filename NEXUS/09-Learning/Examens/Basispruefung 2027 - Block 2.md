@@ -60,7 +60,7 @@ tags:
 6. [[Influence interpersonnelle et négociation]]
 7. [[Personnalité et diagnostic]]
 
-**U-Fragen :** [[UF MilPsy V02|V02]] · [[UF MilPsy V03|V03]] · [[UF MilPsy V04|V04]] · [[UF MilPsy V05|V05]] · [[UF MilPsy V06|V06]] · [[UF MilPsy V08|V08]] · [[UF MilPsy V09|V09]] · [[UF MilPsy V10|V10]]
+**U-Fragen :** [[UF MilPsy V02|V02]] · [[UF MilPsy V03|V03]] · [[UF MilPsy V04|V04]] · [[UF MilPsy V05|V05]] · [[UF MilPsy V06|V06]] · [[UF MilPsy V08|V08]] · [[UF MilPsy V09|V09]] · [[UF MilPsy V10|V10]] · [[UF MilPsy V11|V11]]
 
 ## Tout ce qui est tagué pour ce bloc
 

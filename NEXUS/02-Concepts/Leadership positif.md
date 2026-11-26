@@ -66,7 +66,7 @@ tags:
 
 **Limites**
 - Rôles flous, coordination insuffisante, décisions plus lentes, manque de direction pour certains, charge élevée pour le chef ; risque de confusion avec « être sympa ».
-- À critiquer plus tard : Vorlesung LR (08.12) « Positive Leadership – fatally flawed ».
+- Base empirique contestée : les questionnaires mesurent l'évaluation du chef par les subordonnés, pas son comportement ([[Illusion causale des styles de leadership positif]], Fischer, Dietz et Antonakis 2024).
 
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
@@ -80,10 +80,10 @@ tags:
 
 ## Liens
 - **Thème :** [[Styles de leadership positif]]
-- **Proche de :** [[Leadership transformationnel]] · [[Leadership relationnel]] · [[Followership]] · [[Conduite par objectifs]]
+- **Proche de :** [[Illusion causale des styles de leadership positif]] · [[Leadership transformationnel]] · [[Leadership relationnel]] · [[Followership]] · [[Conduite par objectifs]]
 - **Penseur :** [[Max Weber]]
 - **Cas :** [[Le général Guisan et la cohésion nationale]] · [[Campagne de Birmanie]]
-- **U-Fragen :** [[UF Lead V05]]
+- **U-Fragen :** [[UF Lead V05]] · [[UF Lead V10]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi le leadership positif n'est-il pas « être gentil » ?

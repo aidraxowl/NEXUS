@@ -39,6 +39,21 @@ Une partie des items est **inversée** : pour « Ich bin eher zurückhaltend » 
 
 Le NEO-PI-R est une version longue, avec des items comme « Ich halte Sachen ordentlich und sauber » (conscienciosité) ou « Ich habe gerne viele Leute um mich herum » (extraversion). L'IPIP-NEO-120, à faire pour la VL suivante, détaille 30 facettes.
 
+### En sélection (V11)
+Le Big Five est un **test de dimensions** (continuum), à distinguer des tests de types comme le DISG ou le Myers-Briggs, déconseillés (voir [[Critères de qualité des tests]]).
+
+Profils utiles pour l'aptitude à l'engagement, selon la revue du cours :
+
+| Dimension | Effet | Implication militaire |
+|---|---|---|
+| Ouverture | Adaptabilité, créativité, apprentissage | Agir de façon flexible, changer vite de schéma (Hyllengren 2017 ; LePine et al. 2000) |
+| Conscienciosité | Discipline, fiabilité ; trop élevée : surcontrôle, rigidité | « Mesure optimale » : soigneux sans être rigide (Pulakos et al. 2002 ; Salgado 1997) |
+| Extraversion | Confiance, effet de conduite, cohésion | Moral et cohésion de l'unité (Shamir et al. 2000 ; Judge et al. 2002) |
+| Agréabilité | Coopération, gestion des conflits | Camaraderie, important en peacekeeping (Nkewu & Van Dyk 2016) |
+| Stabilité émotionnelle | **Prédicteur le plus fort** : résilience, résistance au stress | Calme en crise (Hyllengren 2017 ; Barrick, Mount & Judge 2001) |
+
+Nuance importante : pour la performance au travail en général, les Big Five mesurés de façon générale prédisent peu (*r* de .05 à .19 chez Sackett et al. 2022) ; formulés pour le contexte de travail, ils font mieux (conscienciosité .25, stabilité émotionnelle .23). ?? Le cours présente la stabilité émotionnelle comme le meilleur prédicteur de l'aptitude à l'engagement alors qu'elle n'atteint que .09 chez Sackett (mesure générale) : critère différent (engagement vs performance au travail), à confirmer avec la prof.
+
 ## Exemples
 - **Militaire :** les *high adaptors* de Sekel et al. (2023), vus en V08, sont émotionnellement stables, plus extravertis et plus consciencieux : trois dimensions du modèle prédisent une meilleure adaptation au stress opérationnel (voir [[NB MilPsy V08 - 20261103]]).
 - **Civil :** un questionnaire de recrutement en ligne qui demande « Je travaille de façon minutieuse » mesure la conscienciosité.
@@ -60,8 +75,8 @@ Le NEO-PI-R est une version longue, avec des items comme « Ich halte Sachen ord
 
 ## Liens
 - **Thème :** [[Personnalité et diagnostic]]
-- **Proche de :** [[Personnalité]], [[Théories classiques du leadership]], [[Stress aigu]]
-- **U-Fragen :** [[UF MilPsy V10]]
+- **Proche de :** [[Personnalité]], [[Critères de qualité des tests]], [[Assessment Center]], [[Théories classiques du leadership]], [[Stress aigu]]
+- **U-Fragen :** [[UF MilPsy V10]] · [[UF MilPsy V11]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi certains items sont-ils formulés à l'envers ?
@@ -71,4 +86,4 @@ Le NEO-PI-R est une version longue, avec des items comme « Ich halte Sachen ord
 > Il est émotionnellement plus labile : plus souvent nerveux, anxieux, peu sûr de lui. Ce n'est pas un diagnostic clinique, mais une position sur une dimension normale de la personnalité.
 
 ## Sources
-- [[NB MilPsy V10 - 20261117]] · Rammstedt et al. 2013
+- [[NB MilPsy V10 - 20261117]] · [[NB MilPsy V11 - 20261124]] · Rammstedt et al. 2013 · Sackett et al. 2022

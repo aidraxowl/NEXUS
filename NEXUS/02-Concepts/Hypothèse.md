@@ -6,6 +6,7 @@ aliases:
 tags:
   - type/concept
   - cours/pw
+  - cours/lead
 ---
 
 > [!abstract] L'essentiel
@@ -35,7 +36,7 @@ tags:
 
 ## Liens
 - **Thème :** [[Processus de recherche empirico-analytique]]
-- **Proche de :** [[Causalité]], [[Inférence]]
+- **Proche de :** [[Causalité]], [[Inférence]], [[Analyse de la variance]] (H0 : moyennes égales ; Lead V10)
 - **Penseur :** Karl Popper, [[George Tsebelis]]
 - **U-Fragen :** [[UF PW V01]], [[UF PW V02]]
 

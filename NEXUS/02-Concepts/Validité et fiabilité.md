@@ -6,6 +6,8 @@ aliases:
 tags:
   - type/concept
   - cours/pw
+  - cours/milpsy
+  - cours/lead
 ---
 
 > [!abstract] L'essentiel
@@ -25,6 +27,7 @@ tags:
 ## Exemples
 - **Militaire :** un test physique chronométré est fiable ; mesure-t-il pour autant la « capacité opérationnelle » ? (validité).
 - **Civil :** OxCGRT mesure la sévérité des lockdowns avec 9 mesures codées.
+- **Leadership (V10) :** dans les études de Fischer, Dietz et Antonakis, les participants ne savent du chef que ce que donne le matériel d'étude (validité interne ↑, externe ↓) ; avec Clinton et Bush, déjà connus, le bruit augmente mais le réalisme aussi (validité externe ↑) ([[Illusion causale des styles de leadership positif]]).
 
 ## Comparaison / Pièges
 | Concept | Différence clé | ⚠️ Piège |
@@ -36,8 +39,8 @@ tags:
 
 ## Liens
 - **Thème :** [[Processus de recherche empirico-analytique]]
-- **Proche de :** [[Randomisation]], [[Démocratie]], [[Échelle d'abstraction]]
-- **U-Fragen :** [[UF PW V02]], [[UF PW V03]]
+- **Proche de :** [[Randomisation]], [[Démocratie]], [[Échelle d'abstraction]], [[Critères de qualité des tests]] (MilPsy : objectivité, fidélité, validité pronostique, incrémentale et de construit des tests de sélection)
+- **U-Fragen :** [[UF PW V02]], [[UF PW V03]], [[UF Lead V10]]
 
 ## Questions de compréhension
 > [!question]- Pourquoi la validité externe est-elle plus faible en laboratoire ?

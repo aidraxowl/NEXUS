@@ -61,8 +61,9 @@ tags:
 7. [[Leadership et identité sociale]]
 8. [[Transformation de l'identité du soldat]]
 9. [[Situation, contingence et complexité]]
+10. [[Changement d'attitude]]
 
-**U-Fragen :** [[UF Lead V01|V01]] · [[UF Lead V02|V02]] · [[UF Lead V03|V03]] · [[UF Lead V04|V04]] · [[UF Lead V05|V05]] · [[UF Lead V06|V06]] · [[UF Lead V07|V07]] · [[UF Lead V08|V08]] · [[UF Lead V09|V09]]
+**U-Fragen :** [[UF Lead V01|V01]] · [[UF Lead V02|V02]] · [[UF Lead V03|V03]] · [[UF Lead V04|V04]] · [[UF Lead V05|V05]] · [[UF Lead V06|V06]] · [[UF Lead V07|V07]] · [[UF Lead V08|V08]] · [[UF Lead V09|V09]] · [[UF Lead V10|V10]]
 
 ## Tout ce qui est tagué pour ce bloc
 

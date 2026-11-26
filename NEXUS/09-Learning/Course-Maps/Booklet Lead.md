@@ -62,3 +62,9 @@ tags:
 ## 9. Situation, contingence et complexité
 
 ![[Situation, contingence et complexité]]
+
+---
+
+## 10. Changement d'attitude
+
+![[Changement d'attitude]]

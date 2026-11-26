@@ -61,6 +61,10 @@ mindmap
       Modèle des liens multiples
       Contexte extrême
       Leadership de la complexité
+    Changement d'attitude
+      Critique des styles positifs
+      Kelman
+      ANOVA
 ```
 
 ## Objectifs (Lernziele)
@@ -72,6 +76,7 @@ mindmap
 - Expliquer le leadership de groupe par l'identité sociale (SIT, SCT, LGP) et en connaître la face sombre
 - Dessiner et critiquer le modèle I/O de Moskos ; expliquer la retransformation des identités de soldat et le rôle des cadres face aux forces de cisaillement (déduit des slides V08, pas de Lernziele officiels)
 - Diagnostiquer une situation (Stewart, substituts, liens multiples), formuler le paradoxe des contextes extrêmes et le résoudre avec la CLT ; comparer CLT et conduite par objectifs (déduit des slides V09)
+- Critiquer la recherche sur les styles positifs (cause-effect conflation, validité interne/externe) ; appliquer les processus d'influence de Kelman à une situation de conduite et lire ses résultats (ANOVA) (déduit des slides V10)
 - Objectif à 4 ans : savoir coacher un Cdt U
 
 ## Séances
@@ -86,6 +91,7 @@ mindmap
 | V07 | 27.10 | LS4 – Team : identité sociale et prototypicalité du leader | [[NB Lead V07 - 20261027]] | [[UF Lead V07]] | [[Leadership et identité sociale]] |
 | V08 | 03.11 | Soldatische Identitäten – I/O-Modell, Identitäten, Rücktransformation | [[NB Lead V08 - 20261103]] | [[UF Lead V08]] | [[Transformation de l'identité du soldat]] |
 | V09 | 10.11 | LS5 – Situation, contingence, complexité (Demont-Biaggi) | [[NB Lead V09 - 20261110]] | [[UF Lead V09]] | [[Situation, contingence et complexité]] |
+| V10 | 08.12 | Positive Leadership – fatally flawed ; Attitude Change (Kelman) | [[NB Lead V10 - 20261208]] | [[UF Lead V10]] | [[Changement d'attitude]] (+ critique dans [[Styles de leadership positif]]) |
 
 ## Chapitres (ordre du cours)
 1. [[Modèle de référence de la conduite]] · V01
@@ -97,7 +103,9 @@ mindmap
 7. [[Leadership et identité sociale]] · V07
 8. [[Transformation de l'identité du soldat]] · V08
 9. [[Situation, contingence et complexité]] · V09
+10. [[Changement d'attitude]] · V10
 
 ## ⚠️ Infos examen
 - Lecture A = préparation du cours ; lecture B = préparation de l'examen.
-- À venir : CR « operational reliability » (01.12) ; LR « Positive Leadership – fatally flawed » (08.12) ; conduite par objectifs au printemps (CA 25.05, LA 01.06).
+- V10 : sujets d'examen possibles = situations d'application de Kelman (« Wie handeln Sie aufgrund der Theorie nach Kelman (1958) ? »), voir [[UF Lead V10]].
+- À venir : CR « operational reliability » (01.12) ; conduite par objectifs au printemps (CA 25.05, LA 01.06).
